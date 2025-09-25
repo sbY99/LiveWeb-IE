@@ -1,6 +1,6 @@
 # LiveWeb-IE: A Benchmark For Online Web Information Extraction
 
-This repository contains the official implementation for the paper: *LiveWeb-IE: A Benchmark For Online Web Information Extraction*.
+This repository contains the official dataset for the paper: *LiveWeb-IE: A Benchmark For Online Web Information Extraction*.
 
 ## Dataset Structure
 
@@ -30,12 +30,13 @@ LiveWeb_IE/
 The benchmark includes websites from the following domains:
 
 - **Academic**: arxiv, huggingface, iclr, icml, neurips, marinespecies
-- **E-commerce**: booktoscrape, quotestoscrape, scrapethissite
-- **Food & Beverages**: thecocktaildb, themealdb
+- **Auto**: fueleconomy
+- **Book**: booktoscrape
+- **E-commerce**: sandboxoxlabio
+- **Food**: thecocktaildb, themealdb
+- **Library**: dp
+- **Other**: quotestoscrape, scrapethissite
 - **Sports**: thesportsdb
-- **Automotive**: fueleconomy
-- **Development**: sandboxoxlabio
-- **Productivity**: dp
 
 ### Data Format
 
@@ -46,9 +47,9 @@ The main dataset file contains structured queries with the following fields:
 - `group_id`: Group identifier for URL collections
 - `group_url`: Path to the group.jsonl file
 - `query_id`: Unique query identifier
-- `query`: Natural language extraction query
+- `query`: Natural language query
 - `attribute`: List of attributes to extract
-- `type`: Task complexity type (type_1 to type_4)
+- `type`: Task complexity (type_1 to type_4)
 - `label`: Paths to ground truth files
 - `sample_id`: Unique sample identifier
 
