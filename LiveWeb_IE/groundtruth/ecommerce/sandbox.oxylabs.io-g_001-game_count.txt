@@ -1,0 +1,27 @@
+ecommerce sandbox.oxylabs.io g_001 game_count
+25 25 25
+"https://sandbox.oxylabs.io/products/category/nintendo" 1 832
+"https://sandbox.oxylabs.io/products/category/nintendo/wii" 1 100
+"https://sandbox.oxylabs.io/products/category/nintendo/wii-u" 1 38
+"https://sandbox.oxylabs.io/products/category/nintendo/nintendo-64" 1 25
+"https://sandbox.oxylabs.io/products/category/nintendo/switch" 1 258
+"https://sandbox.oxylabs.io/products/category/nintendo/gamecube" 1 58
+"https://sandbox.oxylabs.io/products/category/nintendo/game-boy-advance" 1 105
+"https://sandbox.oxylabs.io/products/category/nintendo/3ds" 1 92
+"https://sandbox.oxylabs.io/products/category/nintendo/ds" 1 156
+"https://sandbox.oxylabs.io/products/category/xbox-platform" 1 367
+"https://sandbox.oxylabs.io/products/category/xbox-platform/xbox" 1 76
+"https://sandbox.oxylabs.io/products/category/xbox-platform/xbox-360" 1 189
+"https://sandbox.oxylabs.io/products/category/xbox-platform/xbox-one" 1 98
+"https://sandbox.oxylabs.io/products/category/xbox-platform/xbox-series-x" 1 4
+"https://sandbox.oxylabs.io/products/category/dreamcast" 1 38
+"https://sandbox.oxylabs.io/products/category/playstation-platform" 1 743
+"https://sandbox.oxylabs.io/products/category/playstation-platform/playstation-1" 1 50
+"https://sandbox.oxylabs.io/products/category/playstation-platform/playstation-2" 1 192
+"https://sandbox.oxylabs.io/products/category/playstation-platform/playstation-3" 1 130
+"https://sandbox.oxylabs.io/products/category/playstation-platform/playstation-4" 1 262
+"https://sandbox.oxylabs.io/products/category/playstation-platform/playstation-5" 1 13
+"https://sandbox.oxylabs.io/products/category/playstation-platform/playstation-vita" 1 58
+"https://sandbox.oxylabs.io/products/category/playstation-platform/psp" 1 88
+"https://sandbox.oxylabs.io/products/category/pc" 1 968
+"https://sandbox.oxylabs.io/products/category/stadia" 1 2

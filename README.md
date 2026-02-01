@@ -69,3 +69,35 @@ The benchmark organizes extraction tasks into four complexity levels:
 - **Type IV**: Multiple attributes, multiple values each
 
 This benchmark enables comprehensive evaluation of web information extraction systems under realistic, live web conditions.
+
+
+## License and Terms of Use
+The LiveWeb-IE benchmark is released strictly for **non-commercial research purposes only**. 
+
+By downloading or using this dataset, you agree to the following terms:
+1.  **Non-Commercial Use**: You may not use this dataset for any commercial purposes, including but not limited to training commercial models or enhancing commercial services.
+2.  **Attribution**: Any publication or report using this dataset must cite the original paper (LiveWeb-IE: A Benchmark For Online Web Information Extraction, ICLR 2026).
+3.  **No Redistribution without License**: You may not redistribute this dataset without including this license agreement.
+
+This restriction complies with the ethical agreements made with the website providers included in this benchmark.
+
+## Ethics & Data Usage
+The construction of the LiveWeb-IE benchmark adhered to strict ethical guidelines to ensure the protection of website operators and user privacy. Our data collection process followed a multi-step approval protocol:
+
+1.  **Policy Compliance**: We reviewed the `robots.txt` files and Terms of Use for each of the 15 websites included in the benchmark to ensure our research activities did not violate their stated policies.
+2.  **Explicit Consent**: We proactively contacted the administrators of each website to explain the research purpose and formally requested permission. **We proceeded with data collection only after receiving explicit consent.**
+3.  **Public Information**: The natural language queries in this benchmark are intentionally curated to extract only publicly available information.
+4.  **Privacy Protection**: The data collection and annotation processes were designed to minimize any risk of exposing private data.
+
+For further details, please refer to the "Ethics Statement" section in our paper.
+
+## Citation
+If you use this dataset in your research, please cite our paper:
+
+```bibtex
+@inproceedings{yang2026livewebie,
+  title={LiveWeb-IE: A Benchmark For Online Web Information Extraction},
+  author={Yang, Seungbin and Kim, Jihwan and Choi, Jaemin and Kim, Dongjin and Yang, Soyoung and Park, ChaeHun and Choo, Jaegul},
+  booktitle={International Conference on Learning Representations},
+  year={2026}
+}

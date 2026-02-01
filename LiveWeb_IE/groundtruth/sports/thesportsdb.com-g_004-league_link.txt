@@ -1,0 +1,21 @@
+sports thesportsdb.com g_004 league_link
+19 19 19
+"https://www.thesportsdb.com/league/4830-korean-kbo-league" 1 /league/4830-korean-kbo-league
+"https://www.thesportsdb.com/league/4424-mlb" 1 /league/4424-mlb
+"https://www.thesportsdb.com/league/4591-nippon-baseball-league" 1 /league/4591-nippon-baseball-league
+"https://www.thesportsdb.com/league/5107-australian-baseball-league" 1 /league/5107-australian-baseball-league
+"https://www.thesportsdb.com/league/5111-chinese-professional-baseball-league" 1 /league/5111-chinese-professional-baseball-league
+"https://www.thesportsdb.com/league/5108-cuban-national-series" 1 /league/5108-cuban-national-series
+"https://www.thesportsdb.com/league/5110-honkbal-hoofdklasse" 1 /league/5110-honkbal-hoofdklasse
+"https://www.thesportsdb.com/league/5064-liga-mexicana-de-b%c3%a9isbol" 1 /league/5064-liga-mexicana-de-b%c3%a9isbol
+"https://www.thesportsdb.com/league/5109-mexican-pacific-league" 1 /league/5109-mexican-pacific-league
+"https://www.thesportsdb.com/league/5112-venezuelan-professional-baseball-league" 1 /league/5112-venezuelan-professional-baseball-league
+"https://www.thesportsdb.com/league/4428-frontier-league" 1 /league/4428-frontier-league
+"https://www.thesportsdb.com/league/5085-international-league" 1 /league/5085-international-league
+"https://www.thesportsdb.com/league/5065-pacific-coast-league" 1 /league/5065-pacific-coast-league
+"https://www.thesportsdb.com/league/5437-baseball-all-star-games" 1 /league/5437-baseball-all-star-games
+"https://www.thesportsdb.com/league/5018-olympics-baseball" 1 /league/5018-olympics-baseball
+"https://www.thesportsdb.com/league/5019-olympics-softball" 1 /league/5019-olympics-softball
+"https://www.thesportsdb.com/league/4592-_defunct-baseball-teams" 1 /league/4592-_defunct-baseball-teams
+"https://www.thesportsdb.com/league/4837-_no-league-baseball" 1 /league/4837-_no-league-baseball
+"https://www.thesportsdb.com/league/4427-can-am" 1 /league/4427-can-am

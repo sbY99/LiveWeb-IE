@@ -1,0 +1,48 @@
+academic arxiv.org g_000 paper_author
+46 212 212
+"https://arxiv.org/abs/2401.00588" 8 Ying Sheng	Shiyi Cao	Dacheng Li	Banghua Zhu	Zhuohan Li	Danyang Zhuo	Joseph E. Gonzalez	Ion Stoica
+"https://arxiv.org/abs/2401.01150" 2 Alberto Lerner	Gustavo Alonso
+"https://arxiv.org/abs/2401.01826" 6 Sergio Mazzola	Gabriele Ara	Thomas Benz	Björn Forsberg	Tommaso Cucinotta	Luca Benini
+"https://arxiv.org/abs/2401.01851" 5 Daniel Geißler	Bo Zhou	Mengxi Liu	Sungho Suh	Paul Lukowicz
+"https://arxiv.org/abs/2401.02431" 2 Mohamed Amine Khelassi	Yasmina Abdeddaïm
+"https://arxiv.org/abs/2401.02563" 4 Joana M. F. da Trindade	Julian Shun	Samuel Madden	Nesime Tatbul
+"https://arxiv.org/abs/2401.02680" 3 Wei-Chen Lin	Simon McIntosh-Smith	Tom Deakin
+"https://arxiv.org/abs/2401.03235" 1 Alexander Thomasian
+"https://arxiv.org/abs/2401.03256" 1 Subhajit Sahu
+"https://arxiv.org/abs/2401.03523" 2 Mark Mansi	Michael M. Swift
+"https://arxiv.org/abs/2401.04340" 4 Jianyi Yang	Pengfei Li	Mohammad Jaminur Islam	Shaolei Ren
+"https://arxiv.org/abs/2401.04638" 5 Wenkai Dai	Michael Dinitz	Klaus-Tycho Foerster	Long Luo	Stefan Schmid
+"https://arxiv.org/abs/2401.04751" 3 Daniel Anthony Howard	Bo Nørregaard Jørgensen	Zheng Ma
+"https://arxiv.org/abs/2401.04836" 5 Saurabh Raje	Yufan Xu	Atanas Rountev	Edward F. Valeev	Saday Sadayappan
+"https://arxiv.org/abs/2401.04904" 3 Nail Akar	Sahan Liyanaarachchi	Sennur Ulukus
+"https://arxiv.org/abs/2401.05345" 6 Sankeerth Durvasula	Adrian Zhao	Fan Chen	Ruofan Liang	Pawan Kumar Sanjaya	Nandita Vijaykumar
+"https://arxiv.org/abs/2401.05820" 3 Yannick Emonds	Kai Xi	Holger Fröning
+"https://arxiv.org/abs/2401.06132" 3 Semih Akkurt	Freddie Witherden	Peter Vincent
+"https://arxiv.org/abs/2401.06145" 6 Jiacheng Yang	Christina Giannoula	Jun Wu	Mostafa Elhoushi	James Gleeson	Gennady Pekhimenko
+"https://arxiv.org/abs/2401.06306" 4 Zeinab Sasan	Masoud Shokrnezhad	Siavash Khorsandi	Tarik Taleb
+"https://arxiv.org/abs/2401.06366" 4 Minzhao Lyu	Sharat Chandra Madanapalli	Arun Vishwanath	Vijay Sivaraman
+"https://arxiv.org/abs/2401.06482" 6 Pooja Rani	Jonas Zellweger	Veronika Kousadianos	Luis Cruz	Timo Kehrer	Alberto Bacchelli
+"https://arxiv.org/abs/2401.06665" 11 Gianpietro Consolaro	Zhen Zhang	Harenome Razanajato	Nelson Lossing	Nassim Tchoulak	Adilla Susungi	Artur Cesar Araujo Alves	Renwei Zhang	Denis Barthou	Corinne Ancourt	Cedric Bastoul
+"https://arxiv.org/abs/2401.07539" 3 Hossein Aqasizade	Ehsan Ataie	Mostafa Bastam
+"https://arxiv.org/abs/2401.07713" 2 Nicolas Gast	Benny van Houdt
+"https://arxiv.org/abs/2401.08595" 3 Herve Mbikayi Kabamba	Matthew Khouzam	Michel Dagenais
+"https://arxiv.org/abs/2401.08671" 11 Connor Holmes	Masahiro Tanaka	Michael Wyatt	Ammar Ahmad Awan	Jeff Rasley	Samyam Rajbhandari	Reza Yazdani Aminabadi	Heyang Qin	Arash Bakhtiari	Lev Kurilenko	Yuxiong He
+"https://arxiv.org/abs/2401.08895" 3 Mark Zhao	Emanuel Adamiak	Christos Kozyrakis
+"https://arxiv.org/abs/2401.09292" 1 Alexander Thomasian
+"https://arxiv.org/abs/2401.09356" 4 Daniele De Sensi	Tommaso Bonato	David Saam	Torsten Hoefler
+"https://arxiv.org/abs/2401.09620" 3 Anjali	Rachee Singh	Michael M. Swift
+"https://arxiv.org/abs/2401.09877" 4 Stijn Eyerman	Wim Heirman	Kristof Du Bois	Ibrahim Hur
+"https://arxiv.org/abs/2401.10432" 4 Ian Colbert	Alessandro Pappalardo	Jakoba Petri-Koenig	Yaman Umuroglu
+"https://arxiv.org/abs/2401.10652" 8 Xuanlei Zhao	Shenggan Cheng	Guangyang Lu	Jiarui Fang	Haotian Zhou	Bin Jia	Ziming Liu	Yang You
+"https://arxiv.org/abs/2401.11934" 6 Yu Wang	Chuili Kong	Xian Meng	Hejia Luo	Ke-Xin Li	Jun Wang
+"https://arxiv.org/abs/2401.13150" 6 Onur Cankur	Aditya Tomar	Daniel Nichols	Connor Scully-Allison	Katherine E. Isaacs	Abhinav Bhatele
+"https://arxiv.org/abs/2401.14361" 5 Leyang Xue	Yao Fu	Zhan Lu	Luo Mai	Mahesh Marina
+"https://arxiv.org/abs/2401.14576" 6 Steven W. D. Chien	Kento Sato	Artur Podobas	Niclas Jansson	Stefano Markidis	Michio Honda
+"https://arxiv.org/abs/2401.15503" 5 Jian-Jia Chen	Mario Günzel	Peter Bella	Georg von der Brüggen	Kuan-Hsun Chen
+"https://arxiv.org/abs/2401.15870" 1 Subhajit Sahu
+"https://arxiv.org/abs/2401.15985" 2 Guillaume Raffin	Denis Trystram
+"https://arxiv.org/abs/2401.16492" 6 Aakash Sharma	Vivek M. Bhasi	Sonali Singh	George Kesidis	Mahmut T. Kandemir	Chita R. Das
+"https://arxiv.org/abs/2401.16529" 4 Yidi Wang	Cong Liu	Daniel Wong	Hyoseung Kim
+"https://arxiv.org/abs/2401.17644" 14 Yuxin Wang	Yuhan Chen	Zeyu Li	Xueze Kang	Yuchu Fang	Yeju Zhou	Yang Zheng	Zhenheng Tang	Xin He	Rui Guo	Xin Wang	Qiang Wang	Amelie Chi Zhou	Xiaowen Chu
+"https://arxiv.org/abs/2401.17786" 7 Bingqing Lyu	Xiaoli Zhou	Longbin Lai	Yufan Yang	Yunkai Lou	Wenyuan Yu	Jingren Zhou
+"https://arxiv.org/abs/2401.17984" 7 Elias Perdomo	Alexander Kropotov	Francelly Cano	Syed Zafar	Teresa Cervero	Xavier Martorell	Behzad Salami

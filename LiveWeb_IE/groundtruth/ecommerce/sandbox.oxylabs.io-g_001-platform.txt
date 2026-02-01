@@ -1,0 +1,27 @@
+ecommerce sandbox.oxylabs.io g_001 game_platform
+25 25 25
+"https://sandbox.oxylabs.io/products/category/nintendo" 1 nintendo
+"https://sandbox.oxylabs.io/products/category/nintendo/wii" 1 wii
+"https://sandbox.oxylabs.io/products/category/nintendo/wii-u" 1 wii-u
+"https://sandbox.oxylabs.io/products/category/nintendo/nintendo-64" 1 nintendo-64
+"https://sandbox.oxylabs.io/products/category/nintendo/switch" 1 switch
+"https://sandbox.oxylabs.io/products/category/nintendo/gamecube" 1 gamecube
+"https://sandbox.oxylabs.io/products/category/nintendo/game-boy-advance" 1 game-boy-advance
+"https://sandbox.oxylabs.io/products/category/nintendo/3ds" 1 3ds
+"https://sandbox.oxylabs.io/products/category/nintendo/ds" 1 ds
+"https://sandbox.oxylabs.io/products/category/xbox-platform" 1 xbox-platform
+"https://sandbox.oxylabs.io/products/category/xbox-platform/xbox" 1 xbox
+"https://sandbox.oxylabs.io/products/category/xbox-platform/xbox-360" 1 xbox-360
+"https://sandbox.oxylabs.io/products/category/xbox-platform/xbox-one" 1 xbox-one
+"https://sandbox.oxylabs.io/products/category/xbox-platform/xbox-series-x" 1 xbox-series-x
+"https://sandbox.oxylabs.io/products/category/dreamcast" 1 dreamcast
+"https://sandbox.oxylabs.io/products/category/playstation-platform" 1 playstation-platform
+"https://sandbox.oxylabs.io/products/category/playstation-platform/playstation-1" 1 playstation-1
+"https://sandbox.oxylabs.io/products/category/playstation-platform/playstation-2" 1 playstation-2
+"https://sandbox.oxylabs.io/products/category/playstation-platform/playstation-3" 1 playstation-3
+"https://sandbox.oxylabs.io/products/category/playstation-platform/playstation-4" 1 playstation-4
+"https://sandbox.oxylabs.io/products/category/playstation-platform/playstation-5" 1 playstation-5
+"https://sandbox.oxylabs.io/products/category/playstation-platform/playstation-vita" 1 playstation-vita
+"https://sandbox.oxylabs.io/products/category/playstation-platform/psp" 1 psp
+"https://sandbox.oxylabs.io/products/category/pc" 1 pc
+"https://sandbox.oxylabs.io/products/category/stadia" 1 stadia

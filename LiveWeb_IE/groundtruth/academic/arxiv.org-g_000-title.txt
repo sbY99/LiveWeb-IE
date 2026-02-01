@@ -1,0 +1,48 @@
+academic arxiv.org g_000 paper_title
+46 46 46
+"https://arxiv.org/abs/2401.00588" 1 Fairness in Serving Large Language Models
+"https://arxiv.org/abs/2401.01150" 1 CXL and the Return of Scale-Up Database Engines
+"https://arxiv.org/abs/2401.01826" 1 Data-Driven Power Modeling and Monitoring via Hardware Performance Counters Tracking
+"https://arxiv.org/abs/2401.01851" 1 The Power of Training: How Different Neural Network Setups Influence the Energy Demand
+"https://arxiv.org/abs/2401.02431" 1 Execution time budget assignment for mixed criticality systems
+"https://arxiv.org/abs/2401.02563" 1 Kairos: Efficient Temporal Graph Analytics on a Single Machine
+"https://arxiv.org/abs/2401.02680" 1 Preliminary report: Initial evaluation of StdPar implementations on AMD GPUs for HPC
+"https://arxiv.org/abs/2401.03235" 1 RAID Organizations for Improved Reliability and Performance: A Not Entirely Unbiased Tutorial (1st revision)
+"https://arxiv.org/abs/2401.03256" 1 An Incrementally Expanding Approach for Updating PageRank on Dynamic Graphs
+"https://arxiv.org/abs/2401.03523" 1 Characterizing Physical Memory Fragmentation
+"https://arxiv.org/abs/2401.04340" 1 Online Allocation with Replenishable Budgets: Worst Case and Beyond
+"https://arxiv.org/abs/2401.04638" 1 Approximation Algorithms for Minimizing Congestion in Demand-Aware Networks
+"https://arxiv.org/abs/2401.04751" 1 Identifying Best Practice Melting Patterns in Induction Furnaces: A Data-Driven Approach Using Time Series KMeans Clustering and Multi-Criteria Decision Making
+"https://arxiv.org/abs/2401.04836" 1 CoNST: Code Generator for Sparse Tensor Networks
+"https://arxiv.org/abs/2401.04904" 1 Scalable Cyclic Schedulers for Age of Information Optimization in Large-Scale Status Update Systems
+"https://arxiv.org/abs/2401.05345" 1 DISTWAR: Fast Differentiable Rendering on Raster-based Rendering Pipelines
+"https://arxiv.org/abs/2401.05820" 1 Implications of Noise in Resistive Memory on Deep Neural Networks for Image Classification
+"https://arxiv.org/abs/2401.06132" 1 Cache Blocking for Flux Reconstruction: Extension to Navier-Stokes Equations and Anti-aliasing
+"https://arxiv.org/abs/2401.06145" 1 Minuet: Accelerating 3D Sparse Convolutions on GPUs
+"https://arxiv.org/abs/2401.06306" 1 Joint Network Slicing, Routing, and In-Network Computing for Energy-Efficient 6G
+"https://arxiv.org/abs/2401.06366" 1 Network Anatomy and Real-Time Measurement of Nvidia GeForce NOW Cloud Gaming
+"https://arxiv.org/abs/2401.06482" 1 Energy Patterns for Web: An Exploratory Study
+"https://arxiv.org/abs/2401.06665" 1 PolyTOPS: Reconfigurable and Flexible Polyhedral Scheduler
+"https://arxiv.org/abs/2401.07539" 1 Experimental Assessment of Containers Running on Top of Virtual Machines
+"https://arxiv.org/abs/2401.07713" 1 Approximations to Study the Impact of the Service Discipline in Systems with Redundancy
+"https://arxiv.org/abs/2401.08595" 1 Node Compass: Multilevel Tracing and Debugging of Request Executions in JavaScript-Based Web-Servers
+"https://arxiv.org/abs/2401.08671" 1 DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference
+"https://arxiv.org/abs/2401.08895" 1 cedar: Optimized and Unified Machine Learning Input Data Pipelines
+"https://arxiv.org/abs/2401.09292" 1 Hierarchical Analyses Applied to Computer System Performance: Review and Call for Further Studies
+"https://arxiv.org/abs/2401.09356" 1 Swing: Short-cutting Rings for Higher Bandwidth Allreduce
+"https://arxiv.org/abs/2401.09620" 1 Cost-effective and performant virtual WANs with CORNIFER
+"https://arxiv.org/abs/2401.09877" 1 Accurate and Scalable Many-Node Simulation
+"https://arxiv.org/abs/2401.10432" 1 A2Q+: Improving Accumulator-Aware Weight Quantization
+"https://arxiv.org/abs/2401.10652" 1 AutoChunk: Automated Activation Chunk for Memory-Efficient Long Sequence Inference
+"https://arxiv.org/abs/2401.11934" 1 Systematic Performance Evaluation Framework for LEO Mega-Constellation Satellite Networks
+"https://arxiv.org/abs/2401.13150" 1 Automated Programmatic Performance Analysis of Parallel Programs
+"https://arxiv.org/abs/2401.14361" 1 MoE-Infinity: Efficient MoE Inference on Personal Machines with Sparsity-Aware Expert Cache
+"https://arxiv.org/abs/2401.14576" 1 iFast: Host-Side Logging for Scientific Applications
+"https://arxiv.org/abs/2401.15503" 1 Dawn of the Dead(line Misses): Impact of Job Dismiss on the Deadline Miss Rate
+"https://arxiv.org/abs/2401.15870" 1 DF* PageRank: Improved Incrementally Expanding Approaches for Updating PageRank on Dynamic Graphs
+"https://arxiv.org/abs/2401.15985" 1 Dissecting the software-based measurement of CPU energy consumption: a comparative analysis
+"https://arxiv.org/abs/2401.16492" 1 GPU Cluster Scheduling for Network-Sensitive Deep Learning
+"https://arxiv.org/abs/2401.16529" 1 Unleashing the Power of Preemptive Priority-based Scheduling for Real-Time GPU Tasks
+"https://arxiv.org/abs/2401.17644" 1 BurstGPT: A Real-world Workload Dataset to Optimize LLM Serving Systems
+"https://arxiv.org/abs/2401.17786" 1 A Modular Graph-Native Query Optimization Framework
+"https://arxiv.org/abs/2401.17984" 1 Makinote: An FPGA-Based HW/SW Platform for Pre-Silicon Emulation of RISC-V Designs

@@ -1,0 +1,12 @@
+other quotes.toscrape.com g_002 quote_author
+10 100 100
+"http://quotes.toscrape.com/page/1/" 10 Albert Einstein	J.K. Rowling	Albert Einstein	Jane Austen	Marilyn Monroe	Albert Einstein	André Gide	Thomas A. Edison	Eleanor Roosevelt	Steve Martin
+"http://quotes.toscrape.com/page/2/" 10 Marilyn Monroe	J.K. Rowling	Albert Einstein	Bob Marley	Dr. Seuss	Douglas Adams	Elie Wiesel	Friedrich Nietzsche	Mark Twain	Allen Saunders
+"http://quotes.toscrape.com/page/3/" 10 Pablo Neruda	Ralph Waldo Emerson	Mother Teresa	Garrison Keillor	Jim Henson	Dr. Seuss	Albert Einstein	J.K. Rowling	Albert Einstein	Bob Marley
+"http://quotes.toscrape.com/page/4/" 10 Dr. Seuss	J.K. Rowling	Bob Marley	Mother Teresa	J.K. Rowling	Charles M. Schulz	William Nicholson	Albert Einstein	Jorge Luis Borges	George Eliot
+"http://quotes.toscrape.com/page/5/" 10 George R.R. Martin	C.S. Lewis	Marilyn Monroe	Marilyn Monroe	Albert Einstein	Marilyn Monroe	Marilyn Monroe	Martin Luther King Jr.	J.K. Rowling	James Baldwin
+"http://quotes.toscrape.com/page/6/" 10 Jane Austen	Eleanor Roosevelt	Marilyn Monroe	Albert Einstein	Haruki Murakami	Alexandre Dumas fils	Stephenie Meyer	Ernest Hemingway	Helen Keller	George Bernard Shaw
+"http://quotes.toscrape.com/page/7/" 10 Charles Bukowski	Suzanne Collins	Suzanne Collins	C.S. Lewis	J.R.R. Tolkien	J.K. Rowling	Ernest Hemingway	Ralph Waldo Emerson	Mark Twain	Dr. Seuss
+"http://quotes.toscrape.com/page/8/" 10 Alfred Tennyson	Charles Bukowski	Terry Pratchett	Dr. Seuss	J.D. Salinger	George Carlin	John Lennon	W.C. Fields	Ayn Rand	Mark Twain
+"http://quotes.toscrape.com/page/9/" 10 Albert Einstein	Jane Austen	J.K. Rowling	Jane Austen	Jane Austen	C.S. Lewis	C.S. Lewis	Mark Twain	Mark Twain	C.S. Lewis
+"http://quotes.toscrape.com/page/10/" 10 J.K. Rowling	Jimi Hendrix	J.M. Barrie	E.E. Cummings	Khaled Hosseini	Harper Lee	Madeleine L'Engle	Mark Twain	Dr. Seuss	George R.R. Martin

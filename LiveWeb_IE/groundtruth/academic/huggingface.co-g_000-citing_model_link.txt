@@ -1,0 +1,140 @@
+academic huggingface.co g_000 paper_model_citing_link
+138 95 95
+"https://huggingface.co/papers/2408.10188" 2 /closertodeath/Llama-3-LongVILA-8B-128Frames-awq	/mm-eval/Llama-3-LongVILA-8B-128Frames
+"https://huggingface.co/papers/2408.10198" 0 
+"https://huggingface.co/papers/2408.09085" 4 /weihao1115/ucmt_sam_on_depth	/weihao1115/wmmf_sam_on_depth	/weihao1115/wmmf_sam_on_sar	/weihao1115/ucmt_sam_on_thermal
+"https://huggingface.co/papers/2408.10119" 0 
+"https://huggingface.co/papers/2408.09858" 0 
+"https://huggingface.co/papers/2408.10161" 1 /Study-is-happy/neuflow-v2
+"https://huggingface.co/papers/2408.10195" 0 
+"https://huggingface.co/papers/2408.08946" 0 
+"https://huggingface.co/papers/2408.09702" 0 
+"https://huggingface.co/papers/2408.09739" 0 
+"https://huggingface.co/papers/2408.08926" 0 
+"https://huggingface.co/papers/2408.11039" 1 /lavinal712/transfusion-vae
+"https://huggingface.co/papers/2408.09174" 3 /Satori-reasoning/Satori-7B-Round2	/MichiganNLP/TAMA-QWen2.5	/MichiganNLP/TAMA-QWen3
+"https://huggingface.co/papers/2408.10914" 4 /macadeliccc/magistrate-3.2-3b-base	/macadeliccc/magistrate-3.2-3b-it-GGUF	/macadeliccc/magistrate-3.2-3b-it	/RichardErkhov/macadeliccc_-_magistrate-3.2-3b-it-gguf
+"https://huggingface.co/papers/2408.11054" 1 /FunAILab/NeCo
+"https://huggingface.co/papers/2408.11049" 0 
+"https://huggingface.co/papers/2408.11001" 0 
+"https://huggingface.co/papers/2408.10701" 0 
+"https://huggingface.co/papers/2408.10998" 0 
+"https://huggingface.co/papers/2408.10764" 0 
+"https://huggingface.co/papers/2408.10446" 0 
+"https://huggingface.co/papers/2408.09574" 0 
+"https://huggingface.co/papers/2408.10487" 0 
+"https://huggingface.co/papers/2408.11048" 0 
+"https://huggingface.co/papers/2408.10906" 0 
+"https://huggingface.co/papers/2408.10088" 1 /wsqstar/bert-finetuned-weibo-luobokuaipao
+"https://huggingface.co/papers/2408.11796" 4 /nvidia/Llama-3.1-Minitron-4B-Width-Base	/nvidia/Mistral-NeMo-Minitron-8B-Base	/nvidia/Llama-3.1-Nemotron-Nano-4B-v1.1	/nvidia/Llama-3.1-Minitron-4B-Depth-Base
+"https://huggingface.co/papers/2408.11318" 0 
+"https://huggingface.co/papers/2408.11745" 0 
+"https://huggingface.co/papers/2408.11475" 0 
+"https://huggingface.co/papers/2408.11817" 0 
+"https://huggingface.co/papers/2408.11706" 0 
+"https://huggingface.co/papers/2408.11812" 1 /rail-berkeley/crossformer
+"https://huggingface.co/papers/2408.11721" 0 
+"https://huggingface.co/papers/2408.11237" 0 
+"https://huggingface.co/papers/2408.08793" 0 
+"https://huggingface.co/papers/2408.11247" 0 
+"https://huggingface.co/papers/2408.11457" 0 
+"https://huggingface.co/papers/2408.12569" 4 /facebook/sapiens	/facebook/sapiens-pose-1b-torchscript	/noahcao/sapiens-pose-coco	/facebook/sapiens-pretrain-2b-torchscript
+"https://huggingface.co/papers/2408.12599" 0 
+"https://huggingface.co/papers/2408.11878" 1 /TheFinAI/FinLLaVA
+"https://huggingface.co/papers/2408.11857" 4 /NousResearch/Hermes-3-Llama-3.1-8B	/NousResearch/Hermes-3-Llama-3.1-405B	/NousResearch/Hermes-3-Llama-3.2-3B	/NousResearch/Hermes-3-Llama-3.1-8B-GGUF
+"https://huggingface.co/papers/2408.12528" 2 /showlab/show-o	/showlab/show-o-w-clip-vit
+"https://huggingface.co/papers/2408.12590" 0 
+"https://huggingface.co/papers/2408.12570" 0 
+"https://huggingface.co/papers/2408.12601" 0 
+"https://huggingface.co/papers/2408.12503" 4 /ai-forever/FRIDA	/ai-forever/ru-en-RoSBERTa	/evilfreelancer/FRIDA-GGUF	/ViktorZver/FRIDA
+"https://huggingface.co/papers/2408.12245" 4 /hp-l33/aim	/hp-l33/aim-xlarge	/hp-l33/aim-base	/hp-l33/aim-large
+"https://huggingface.co/papers/2408.12480" 4 /5CD-AI/Vintern-1B-v3_5	/5CD-AI/Vintern-1B-v2	/5CD-AI/Vintern-3B-beta	/5CD-AI/Vintern-3B-R-beta
+"https://huggingface.co/papers/2408.12588" 0 
+"https://huggingface.co/papers/2408.10635" 0 
+"https://huggingface.co/papers/2408.12114" 0 
+"https://huggingface.co/papers/2408.12076" 0 
+"https://huggingface.co/papers/2408.11813" 0 
+"https://huggingface.co/papers/2408.09787" 0 
+"https://huggingface.co/papers/2408.11915" 1 /jnwnlee/video-foley
+"https://huggingface.co/papers/2408.12282" 0 
+"https://huggingface.co/papers/2408.12060" 0 
+"https://huggingface.co/papers/2408.12637" 4 /HuggingFaceM4/Idefics3-8B-Llama3	/nectec/Pathumma-llm-vision-1.0.0	/saujasv/Idefics3-8B-Llama3	/CATIE-AQ/Idefics3_FT_fr
+"https://huggingface.co/papers/2408.13257" 1 /tuandunghcmut/vlmeval
+"https://huggingface.co/papers/2408.13252" 0 
+"https://huggingface.co/papers/2408.13233" 0 
+"https://huggingface.co/papers/2408.12857" 0 
+"https://huggingface.co/papers/2408.12885" 0 
+"https://huggingface.co/papers/2408.13239" 0 
+"https://huggingface.co/papers/2408.10945" 0 
+"https://huggingface.co/papers/2408.13010" 1 /cmarvolo/mistral-7b-fed-auto-lora
+"https://huggingface.co/papers/2408.12894" 0 
+"https://huggingface.co/papers/2408.12369" 0 
+"https://huggingface.co/papers/2408.12418" 0 
+"https://huggingface.co/papers/2408.14176" 0 
+"https://huggingface.co/papers/2408.14340" 0 
+"https://huggingface.co/papers/2408.14354" 0 
+"https://huggingface.co/papers/2408.14468" 0 
+"https://huggingface.co/papers/2408.13467" 0 
+"https://huggingface.co/papers/2408.13359" 4 /ibm-research/PowerLM-3b	/ibm-research/PowerMoE-3b	/TobDeBer/PowerMoe-3b-GGUF	/RichardErkhov/ibm_-_PowerLM-3b-gguf
+"https://huggingface.co/papers/2408.13934" 0 
+"https://huggingface.co/papers/2408.13423" 0 
+"https://huggingface.co/papers/2408.13402" 1 /IntelLabs/LlavaOLMoBitnet1B
+"https://huggingface.co/papers/2408.12757" 0 
+"https://huggingface.co/papers/2408.13933" 0 
+"https://huggingface.co/papers/2408.13413" 0 
+"https://huggingface.co/papers/2408.11727" 0 
+"https://huggingface.co/papers/2408.14211" 0 
+"https://huggingface.co/papers/2408.14906" 0 
+"https://huggingface.co/papers/2408.14837" 0 
+"https://huggingface.co/papers/2408.15237" 4 /JunxiongWang/mamba_0_875_dpo_ep3	/JunxiongWang/Mamba2InLlama_1	/JunxiongWang/mamba_0_75_dpo_ep3	/JunxiongWang/mamba_0_5_dpo_ep3
+"https://huggingface.co/papers/2408.15239" 0 
+"https://huggingface.co/papers/2408.14717" 0 
+"https://huggingface.co/papers/2408.14819" 0 
+"https://huggingface.co/papers/2408.13674" 0 
+"https://huggingface.co/papers/2408.14805" 0 
+"https://huggingface.co/papers/2408.14849" 1 /HannaAbiAkl/shadow
+"https://huggingface.co/papers/2408.14236" 2 /HannaAbiAkl/flan-t5-small-geonames	/HannaAbiAkl/flan-t5-small-wordnet
+"https://huggingface.co/papers/2408.13629" 0 
+"https://huggingface.co/papers/2408.14307" 0 
+"https://huggingface.co/papers/2408.15998" 4 /NVEagle/Eagle-X5-13B-Chat	/NVEagle/Eagle-X5-7B	/NVEagle/Eagle-X5-13B	/NVEagle/Eagle-X4-8B-Plus
+"https://huggingface.co/papers/2408.15079" 0 
+"https://huggingface.co/papers/2408.15518" 1 /NexaAI/Squid
+"https://huggingface.co/papers/2408.15881" 0 
+"https://huggingface.co/papers/2408.15792" 0 
+"https://huggingface.co/papers/2408.15915" 0 
+"https://huggingface.co/papers/2408.15991" 0 
+"https://huggingface.co/papers/2408.15836" 0 
+"https://huggingface.co/papers/2408.15664" 0 
+"https://huggingface.co/papers/2408.15496" 0 
+"https://huggingface.co/papers/2408.15980" 0 
+"https://huggingface.co/papers/2408.15708" 0 
+"https://huggingface.co/papers/2408.15995" 0 
+"https://huggingface.co/papers/2408.16357" 4 /shijiay/llava_dinov2_stage1	/shijiay/llava_sdxl_stage2	/shijiay/llava_clipdino336_stage2	/shijiay/llava_dinov2_stage2
+"https://huggingface.co/papers/2408.16500" 3 /zai-org/cogvlm2-llama3-chat-19B	/zai-org/cogvlm2-llama3-chinese-chat-19B	/asabet/cogcap
+"https://huggingface.co/papers/2408.16532" 4 /ByteDance/MegaTTS3	/novateur/WavTokenizer	/bosonai/higgs-audio-v2-tokenizer	/novateur/WavTokenizer-large-speech-75token
+"https://huggingface.co/papers/2408.16767" 0 
+"https://huggingface.co/papers/2408.16768" 0 
+"https://huggingface.co/papers/2408.16293" 1 /fzmnm/TinyStoriesAdv_v2_92M
+"https://huggingface.co/papers/2408.16766" 1 /InstantX/CSGO
+"https://huggingface.co/papers/2408.16061" 0 
+"https://huggingface.co/papers/2408.15666" 4 /hallisky/lora-sarcasm-more-llama-3-8b	/hallisky/lora-function-more-llama-3-8b	/hallisky/lora-type-persuasive-llama-3-8b	/hallisky/lora-length-long-llama-3-8b
+"https://huggingface.co/papers/2408.16046" 0 
+"https://huggingface.co/papers/2408.14608" 0 
+"https://huggingface.co/papers/2408.15545" 4 /Uni-SMART/SciLitLLM	/Uni-SMART/SciLitLLM1.5-7B	/Uni-SMART/SciLitLLM1.5-14B	/Uni-SMART/SciLitLLM-1.5
+"https://huggingface.co/papers/2408.15914" 0 
+"https://huggingface.co/papers/2408.17267" 0 
+"https://huggingface.co/papers/2408.14765" 0 
+"https://huggingface.co/papers/2408.17024" 2 /lelapa/InkubaLM-0.4B	/QuantFactory/InkubaLM-0.4B-GGUF
+"https://huggingface.co/papers/2408.17131" 0 
+"https://huggingface.co/papers/2408.14886" 0 
+"https://huggingface.co/papers/2408.16672" 0 
+"https://huggingface.co/papers/2408.16444" 0 
+"https://huggingface.co/papers/2408.16176" 0 
+"https://huggingface.co/papers/2408.15993" 0 
+"https://huggingface.co/papers/2408.14572" 0 
+"https://huggingface.co/papers/2408.15827" 0 
+"https://huggingface.co/papers/2408.16245" 1 /WeiHua/OmniBioTE
+"https://huggingface.co/papers/2408.15300" 0 
+"https://huggingface.co/papers/2408.16667" 0 
+"https://huggingface.co/papers/2408.16725" 2 /gpt-omni/mini-omni	/leafspark/mini-omni-safetensors
+"https://huggingface.co/papers/2408.17253" 0 

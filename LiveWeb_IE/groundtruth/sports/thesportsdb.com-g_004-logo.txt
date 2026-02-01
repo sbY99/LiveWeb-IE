@@ -1,0 +1,21 @@
+sports thesportsdb.com g_004 league_logo
+19 19 19
+"https://www.thesportsdb.com/league/4830-korean-kbo-league" 1 https://r2.thesportsdb.com/images/media/league/logo/qxm0ge1589708029.png/medium
+"https://www.thesportsdb.com/league/4424-mlb" 1 https://r2.thesportsdb.com/images/media/league/logo/5g2id01554031836.png/medium
+"https://www.thesportsdb.com/league/4591-nippon-baseball-league" 1 https://r2.thesportsdb.com/images/media/league/logo/fpzo5x1575039328.png/medium
+"https://www.thesportsdb.com/league/5107-australian-baseball-league" 1 https://r2.thesportsdb.com/images/media/league/logo/u5xma31641841370.png/medium
+"https://www.thesportsdb.com/league/5111-chinese-professional-baseball-league" 1 https://r2.thesportsdb.com/images/media/league/logo/3wek161655924197.png/medium
+"https://www.thesportsdb.com/league/5108-cuban-national-series" 1 https://r2.thesportsdb.com/images/media/league/logo/02rwco1641843229.png/medium
+"https://www.thesportsdb.com/league/5110-honkbal-hoofdklasse" 1 https://r2.thesportsdb.com/images/media/league/logo/zuixwa1641844326.png/medium
+"https://www.thesportsdb.com/league/5064-liga-mexicana-de-b%c3%a9isbol" 1 https://r2.thesportsdb.com/images/media/league/logo/f975vs1625460045.png/medium
+"https://www.thesportsdb.com/league/5109-mexican-pacific-league" 1 https://r2.thesportsdb.com/images/media/league/logo/0evviq1641845178.png/medium
+"https://www.thesportsdb.com/league/5112-venezuelan-professional-baseball-league" 1 https://r2.thesportsdb.com/images/media/league/logo/szellq1641809328.png/medium
+"https://www.thesportsdb.com/league/4428-frontier-league" 1 https://r2.thesportsdb.com/images/media/league/logo/4emia31741870102.png/medium
+"https://www.thesportsdb.com/league/5085-international-league" 1 https://r2.thesportsdb.com/images/media/league/logo/95v72z1625460651.png/medium
+"https://www.thesportsdb.com/league/5065-pacific-coast-league" 1 https://r2.thesportsdb.com/images/media/league/logo/95v72z1625460651.png/medium
+"https://www.thesportsdb.com/league/5437-baseball-all-star-games" 1 https://r2.thesportsdb.com/images/media/league/logo/885nbb1713292165.png/medium
+"https://www.thesportsdb.com/league/5018-olympics-baseball" 1 https://r2.thesportsdb.com/images/media/league/logo/3lcal01624458082.png/medium
+"https://www.thesportsdb.com/league/5019-olympics-softball" 1 https://r2.thesportsdb.com/images/media/league/logo/gpqeb71624912996.png/medium
+"https://www.thesportsdb.com/league/4592-_defunct-baseball-teams" 1 /images/no_logo.png
+"https://www.thesportsdb.com/league/4837-_no-league-baseball" 1 /images/no_logo.png
+"https://www.thesportsdb.com/league/4427-can-am" 1 https://r2.thesportsdb.com/images/media/league/logo/qpuqpx1424020457.png/medium

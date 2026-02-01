@@ -1,0 +1,144 @@
+library dp.la g_003 collection_title
+142 142 142
+"https://dp.la/primary-source-sets/aviation" 1 Shrinking the World: Pan American Airways in the Postwar Era
+"https://dp.la/primary-source-sets/cotton-gin-and-the-expansion-of-slavery" 1 Cotton Gin and the Expansion of Slavery
+"https://dp.la/primary-source-sets/world-war-ii-s-eastern-front-operation-barbarossa" 1 World War II’s Eastern Front: Operation Barbarossa
+"https://dp.la/primary-source-sets/pablo-picasso-s-guernica-and-modern-war" 1 Pablo Picasso's Guernica and Modern War
+"https://dp.la/primary-source-sets/california-gold-rush" 1 California Gold Rush
+"https://dp.la/primary-source-sets/space-race" 1 Space Race
+"https://dp.la/primary-source-sets/beginnings-of-the-american-red-cross" 1 Beginnings of the American Red Cross
+"https://dp.la/primary-source-sets/john-brown-s-raid-on-harper-s-ferry" 1 John Brown's Raid on Harper’s Ferry
+"https://dp.la/primary-source-sets/immigration-through-angel-island" 1 Immigration through Angel Island
+"https://dp.la/primary-source-sets/commodore-perry-s-expedition-to-japan" 1 Commodore Perry’s Expedition to Japan
+"https://dp.la/primary-source-sets/women-and-the-temperance-movement" 1 Women and the Temperance Movement
+"https://dp.la/primary-source-sets/second-ku-klux-klan-and-the-birth-of-a-nation" 1 Second Ku Klux Klan and The Birth of a Nation
+"https://dp.la/primary-source-sets/fake-news-in-the-1890s-yellow-journalism" 1 Fake News in the 1890s: Yellow Journalism
+"https://dp.la/primary-source-sets/victorian-era" 1 Victorian Era
+"https://dp.la/primary-source-sets/of-mice-and-men-by-john-steinbeck" 1 Of Mice and Men by John Steinbeck
+"https://dp.la/primary-source-sets/treaty-of-versailles-and-the-end-of-world-war-i" 1 Treaty of Versailles and the End of World War I
+"https://dp.la/primary-source-sets/reservations-resistance-and-the-indian-reorganization-act-1900-1940" 1 Reservations, Resistance, and the Indian Reorganization Act, 1900-1940
+"https://dp.la/primary-source-sets/frank-lloyd-wright-and-modern-american-architecture" 1 Frank Lloyd Wright and Modern American Architecture
+"https://dp.la/primary-source-sets/theodore-dreiser-s-sister-carrie-and-the-urbanization-of-chicago" 1 Theodore Dreiser’s Sister Carrie and the Urbanization of Chicago
+"https://dp.la/primary-source-sets/exodusters-african-american-migration-to-the-great-plains" 1 Exodusters: African American Migration to the Great Plains
+"https://dp.la/primary-source-sets/cuban-immigration-after-the-revolution-1959-1973" 1 Cuban Immigration After the Revolution, 1959-1973
+"https://dp.la/primary-source-sets/eugenics-movement-in-the-united-states" 1 Eugenics Movement in the United States
+"https://dp.la/primary-source-sets/the-columbian-exchange" 1 The Columbian Exchange
+"https://dp.la/primary-source-sets/invisible-man-by-ralph-ellison" 1 Invisible Man by Ralph Ellison
+"https://dp.la/primary-source-sets/mormon-migration" 1 Mormon Migration
+"https://dp.la/primary-source-sets/the-american-whaling-industry" 1 The American Whaling Industry
+"https://dp.la/primary-source-sets/battle-of-gettysburg" 1 Battle of Gettysburg
+"https://dp.la/primary-source-sets/the-rise-of-italian-fascism-and-its-influence-on-europe" 1 The Rise of Italian Fascism and Its Influence on Europe
+"https://dp.la/primary-source-sets/elie-wiesel-s-night-and-the-holocaust" 1 Elie Wiesel's Night and the Holocaust
+"https://dp.la/primary-source-sets/the-panic-of-1837" 1 The Panic of 1837
+"https://dp.la/primary-source-sets/lyndon-johnson-s-great-society" 1 Lyndon Johnson's Great Society
+"https://dp.la/primary-source-sets/pop-art-in-the-us" 1 Pop Art in the US
+"https://dp.la/primary-source-sets/dutch-new-netherland" 1 Dutch New Netherland
+"https://dp.la/primary-source-sets/blackface-minstrelsy-in-modern-america" 1 Blackface Minstrelsy in Modern America
+"https://dp.la/primary-source-sets/stonewall-and-its-impact-on-the-gay-liberation-movement" 1 Stonewall and Its Impact on the Gay Liberation Movement
+"https://dp.la/primary-source-sets/cherokee-removal-and-the-trail-of-tears" 1 Cherokee Removal and the Trail of Tears
+"https://dp.la/primary-source-sets/powhatan-people-and-the-english-at-jamestown" 1 Powhatan People and the English at Jamestown
+"https://dp.la/primary-source-sets/truth-justice-and-the-birth-of-the-superhero-comic-book" 1 Truth, Justice, and the Birth of the Superhero Comic Book
+"https://dp.la/primary-source-sets/revolutionary-war-turning-points-saratoga-and-valley-forge" 1 Revolutionary War Turning Points: Saratoga and Valley Forge
+"https://dp.la/primary-source-sets/voting-rights-act-of-1965" 1 Voting Rights Act of 1965
+"https://dp.la/primary-source-sets/the-awakening-by-kate-chopin" 1 The Awakening by Kate Chopin
+"https://dp.la/primary-source-sets/nineteenth-century-schools-for-the-deaf-and-blind" 1 Nineteenth-Century Schools for the Deaf and Blind
+"https://dp.la/primary-source-sets/women-of-the-antebellum-reform-movement" 1 Women of the Antebellum Reform Movement
+"https://dp.la/primary-source-sets/busing-beyond-school-desegregation-in-boston" 1 Busing & Beyond: School Desegregation in Boston
+"https://dp.la/primary-source-sets/full-steam-ahead-the-steam-engine-and-transportation-in-the-nineteenth-century" 1 Full Steam Ahead: The Steam Engine and Transportation in the Nineteenth Century
+"https://dp.la/primary-source-sets/ida-b-wells-and-anti-lynching-activism" 1 Ida B. Wells and Anti-Lynching Activism
+"https://dp.la/primary-source-sets/latin-american-revolutionaries" 1 Latin American Revolutionaries
+"https://dp.la/primary-source-sets/immigration-and-americanization-1880-1930" 1 Immigration and Americanization, 1880-1930
+"https://dp.la/primary-source-sets/spanish-missions-in-california" 1 Spanish Missions in California
+"https://dp.la/primary-source-sets/the-equal-rights-amendment" 1 The Equal Rights Amendment
+"https://dp.la/primary-source-sets/feeding-the-hungry-with-food-stamp-programs" 1 Feeding the Hungry with Food Stamp Programs
+"https://dp.la/primary-source-sets/the-yellow-fever-epidemic-of-1878" 1 The Yellow Fever Epidemic of 1878
+"https://dp.la/primary-source-sets/act-up-and-the-aids-crisis" 1 ACT UP and the AIDS Crisis
+"https://dp.la/primary-source-sets/when-miners-strike-west-virginia-coal-mining-and-labor-history" 1 When Miners Strike: West Virginia Coal Mining and Labor History
+"https://dp.la/primary-source-sets/environmental-preservation-in-the-progressive-era" 1 Environmental Preservation in the Progressive Era
+"https://dp.la/primary-source-sets/african-american-soldiers-in-world-war-i" 1 African American Soldiers in World War I
+"https://dp.la/primary-source-sets/the-adventures-of-huckleberry-finn-by-mark-twain" 1 The Adventures of Huckleberry Finn by Mark Twain
+"https://dp.la/primary-source-sets/the-underground-railroad-and-the-fugitive-slave-act-of-1850" 1 The Underground Railroad and the Fugitive Slave Act of 1850
+"https://dp.la/primary-source-sets/the-watsons-go-to-birmingham-1963-by-christopher-paul-curtis" 1 The Watsons Go To Birmingham—1963 by Christopher Paul Curtis
+"https://dp.la/primary-source-sets/boomtimes-again-twentieth-century-mining-in-the-mojave-desert" 1 Boomtimes Again: Twentieth-Century Mining in the Mojave Desert
+"https://dp.la/primary-source-sets/the-american-indian-movement-1968-1978" 1 The American Indian Movement, 1968-1978
+"https://dp.la/primary-source-sets/the-poetry-of-maya-angelou" 1 The Poetry of Maya Angelou
+"https://dp.la/primary-source-sets/the-poetry-of-emily-dickinson" 1 The Poetry of Emily Dickinson
+"https://dp.la/primary-source-sets/settlement-houses-in-the-progressive-era" 1 Settlement Houses in the Progressive Era
+"https://dp.la/primary-source-sets/the-fire-next-time-by-james-baldwin" 1 The Fire Next Time by James Baldwin
+"https://dp.la/primary-source-sets/incidents-in-the-life-of-a-slave-girl-by-harriet-jacobs" 1 Incidents in the Life of a Slave Girl by Harriet Jacobs
+"https://dp.la/primary-source-sets/the-invention-of-the-telephone" 1 The Invention of the Telephone
+"https://dp.la/primary-source-sets/there-is-no-cure-for-polio" 1 There is No Cure for Polio
+"https://dp.la/primary-source-sets/the-scarlet-letter-by-nathaniel-hawthorne" 1 The Scarlet Letter by Nathaniel Hawthorne
+"https://dp.la/primary-source-sets/world-war-i-america-heads-to-war" 1 World War I: America Heads to War
+"https://dp.la/primary-source-sets/the-fifteenth-amendment" 1 The Fifteenth Amendment
+"https://dp.la/primary-source-sets/fannie-lou-hamer-and-the-civil-rights-movement-in-rural-mississippi" 1 Fannie Lou Hamer and the Civil Rights Movement in Rural Mississippi
+"https://dp.la/primary-source-sets/declaration-of-the-rights-of-man-and-of-the-citizen" 1 Declaration of the Rights of Man and of the Citizen
+"https://dp.la/primary-source-sets/the-absolutely-true-diary-of-a-part-time-indian-by-sherman-alexie" 1 The Absolutely True Diary of a Part-Time Indian by Sherman Alexie
+"https://dp.la/primary-source-sets/patronage-and-populism-the-politics-of-the-gilded-age" 1 Patronage and Populism: The Politics of the Gilded Age
+"https://dp.la/primary-source-sets/texas-revolution" 1 Texas Revolution
+"https://dp.la/primary-source-sets/japanese-american-internment-during-world-war-ii" 1 Japanese American Internment During World War II
+"https://dp.la/primary-source-sets/puerto-rican-migration-to-the-us" 1 Puerto Rican Migration to the US
+"https://dp.la/primary-source-sets/women-in-the-civil-war" 1 Women in the Civil War
+"https://dp.la/primary-source-sets/the-united-farm-workers-and-the-delano-grape-strike" 1 The United Farm Workers and the Delano Grape Strike
+"https://dp.la/primary-source-sets/the-boston-tea-party" 1 The Boston Tea Party
+"https://dp.la/primary-source-sets/the-homestead-strike" 1 The Homestead Strike
+"https://dp.la/primary-source-sets/the-golden-age-of-broadway" 1 The Golden Age of Broadway
+"https://dp.la/primary-source-sets/the-crucible-by-arthur-miller" 1 The Crucible by Arthur Miller
+"https://dp.la/primary-source-sets/their-eyes-were-watching-god-by-zora-neale-hurston" 1 Their Eyes Were Watching God by Zora Neale Hurston
+"https://dp.la/primary-source-sets/jitterbugs-swing-kids-and-lindy-hoppers" 1 Jitterbugs, Swing Kids, and Lindy Hoppers
+"https://dp.la/primary-source-sets/beloved-by-toni-morrison" 1 Beloved by Toni Morrison
+"https://dp.la/primary-source-sets/electrifying-america" 1 Electrifying America
+"https://dp.la/primary-source-sets/women-and-the-blues" 1 Women and the Blues
+"https://dp.la/primary-source-sets/shays-rebellion" 1 Shays' Rebellion
+"https://dp.la/primary-source-sets/the-woman-warrior-by-maxine-hong-kingston" 1 The Woman Warrior by Maxine Hong Kingston
+"https://dp.la/primary-source-sets/secession-of-the-southern-states" 1 Secession of the Southern States
+"https://dp.la/primary-source-sets/manifest-destiny" 1 Manifest Destiny
+"https://dp.la/primary-source-sets/rise-of-conservatism-in-the-1980s" 1 Rise of Conservatism in the 1980s
+"https://dp.la/primary-source-sets/to-kill-a-mockingbird-by-harper-lee" 1 To Kill a Mockingbird by Harper Lee
+"https://dp.la/primary-source-sets/the-war-of-1812" 1 The War of 1812
+"https://dp.la/primary-source-sets/the-great-migration" 1 The Great Migration
+"https://dp.la/primary-source-sets/cross-cultural-colonial-conflicts" 1 Cross-Cultural Colonial Conflicts
+"https://dp.la/primary-source-sets/the-new-deal" 1 The New Deal
+"https://dp.la/primary-source-sets/the-raven-by-edgar-allan-poe" 1 "The Raven" by Edgar Allan Poe
+"https://dp.la/primary-source-sets/henry-clay-the-great-compromiser" 1 Henry Clay: The Great Compromiser
+"https://dp.la/primary-source-sets/rock-and-roll-beginnings-to-woodstock" 1 Rock 'n' Roll: Beginnings to Woodstock
+"https://dp.la/primary-source-sets/the-populist-movement" 1 The Populist Movement
+"https://dp.la/primary-source-sets/attacks-on-american-soil-pearl-harbor-and-september-11" 1 Attacks on American Soil: Pearl Harbor and September 11
+"https://dp.la/primary-source-sets/the-wounded-knee-massacre" 1 The Wounded Knee Massacre
+"https://dp.la/primary-source-sets/northern-draft-riots-during-the-civil-war" 1 Northern Draft Riots During the Civil War
+"https://dp.la/primary-source-sets/the-new-woman" 1 The New Woman
+"https://dp.la/primary-source-sets/social-realism" 1 Social Realism
+"https://dp.la/primary-source-sets/exploration-of-the-americas" 1 Exploration of the Americas
+"https://dp.la/primary-source-sets/the-hudson-river-school" 1 The Hudson River School
+"https://dp.la/primary-source-sets/creating-the-us-constitution" 1 Creating the US Constitution
+"https://dp.la/primary-source-sets/colonial-religion" 1 Colonial Religion
+"https://dp.la/primary-source-sets/mexican-labor-and-world-war-ii-the-bracero-program" 1 Mexican Labor and World War II: The Bracero Program
+"https://dp.la/primary-source-sets/the-homestead-acts" 1 The Homestead Acts
+"https://dp.la/primary-source-sets/the-transatlantic-slave-trade" 1 The Transatlantic Slave Trade
+"https://dp.la/primary-source-sets/the-things-they-carried-by-tim-o-brien" 1 The Things They Carried by Tim O’Brien
+"https://dp.la/primary-source-sets/little-women-by-louisa-may-alcott" 1 Little Women by Louisa May Alcott
+"https://dp.la/primary-source-sets/the-colonies-motivations-and-realities" 1 The Colonies: Motivations and Realities
+"https://dp.la/primary-source-sets/visual-art-during-the-harlem-renaissance" 1 Visual Art During the Harlem Renaissance
+"https://dp.la/primary-source-sets/uncle-tom-s-cabin-by-harriet-beecher-stowe" 1 Uncle Tom's Cabin by Harriet Beecher Stowe
+"https://dp.la/primary-source-sets/jacksonian-democracy" 1 Jacksonian Democracy?
+"https://dp.la/primary-source-sets/the-scopes-trial" 1 The Scopes Trial
+"https://dp.la/primary-source-sets/american-indian-boarding-schools" 1 American Indian Boarding Schools
+"https://dp.la/primary-source-sets/women-s-suffrage-the-campaign-for-the-nineteenth-amendment" 1 Women’s Suffrage: Campaign for the Nineteenth Amendment
+"https://dp.la/primary-source-sets/the-panama-canal" 1 The Panama Canal
+"https://dp.la/primary-source-sets/road-to-revolution-1763-1776" 1 Road to Revolution: 1763-1776
+"https://dp.la/primary-source-sets/a-raisin-in-the-sun-by-lorraine-hansberry" 1 A Raisin in the Sun by Lorraine Hansberry
+"https://dp.la/primary-source-sets/the-american-abolitionist-movement" 1 The American Abolitionist Movement
+"https://dp.la/primary-source-sets/early-chinese-immigration-to-the-us" 1 Early Chinese Immigration to the US
+"https://dp.la/primary-source-sets/the-freedmen-s-bureau" 1 The Freedmen's Bureau
+"https://dp.la/primary-source-sets/the-lewis-and-clark-expedition" 1 The Lewis and Clark Expedition
+"https://dp.la/primary-source-sets/the-impact-of-television-on-news-media" 1 The Impact of Television on News Media
+"https://dp.la/primary-source-sets/perspectives-on-the-french-and-indian-war" 1 Perspectives on the French and Indian War
+"https://dp.la/primary-source-sets/the-grapes-of-wrath-by-john-steinbeck" 1 The Grapes of Wrath by John Steinbeck
+"https://dp.la/primary-source-sets/frederick-douglass-and-abraham-lincoln" 1 Frederick Douglass and Abraham Lincoln
+"https://dp.la/primary-source-sets/postwar-rise-of-the-suburbs" 1 Postwar Rise of the Suburbs
+"https://dp.la/primary-source-sets/negro-league-baseball" 1 Negro League Baseball
+"https://dp.la/primary-source-sets/world-war-ii-women-on-the-home-front" 1 World War II: Women on the Home Front
+"https://dp.la/primary-source-sets/the-black-power-movement" 1 The Black Power Movement
+"https://dp.la/primary-source-sets/american-imperialism-the-spanish-american-war" 1 American Imperialism: The Spanish-American War
+"https://dp.la/primary-source-sets/the-great-gatsby-by-f-scott-fitzgerald" 1 The Great Gatsby by F. Scott Fitzgerald
+"https://dp.la/primary-source-sets/the-atomic-bomb-and-the-nuclear-age" 1 The Atomic Bomb and the Nuclear Age

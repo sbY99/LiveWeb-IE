@@ -1,0 +1,52 @@
+other quotes.toscrape.com g_000 quote_author
+50 50 50
+"http://quotes.toscrape.com/author/Albert-Einstein" 1 Albert Einstein
+"http://quotes.toscrape.com/author/Alexandre-Dumas-fils" 1 Alexandre Dumas-fils
+"http://quotes.toscrape.com/author/Alfred-Tennyson" 1 Alfred Tennyson
+"http://quotes.toscrape.com/author/Allen-Saunders" 1 Allen Saunders
+"http://quotes.toscrape.com/author/Andre-Gide" 1 André Gide
+"http://quotes.toscrape.com/author/Ayn-Rand" 1 Ayn Rand
+"http://quotes.toscrape.com/author/Bob-Marley" 1 Bob Marley
+"http://quotes.toscrape.com/author/C-S-Lewis" 1 C.S. Lewis
+"http://quotes.toscrape.com/author/Charles-Bukowski" 1 Charles Bukowski
+"http://quotes.toscrape.com/author/Charles-M-Schulz" 1 Charles M. Schulz
+"http://quotes.toscrape.com/author/Douglas-Adams" 1 Douglas Adams
+"http://quotes.toscrape.com/author/Dr-Seuss" 1 Dr. Seuss
+"http://quotes.toscrape.com/author/E-E-Cummings" 1 E.E. Cummings
+"http://quotes.toscrape.com/author/Eleanor-Roosevelt" 1 Eleanor Roosevelt
+"http://quotes.toscrape.com/author/Elie-Wiesel" 1 Elie Wiesel
+"http://quotes.toscrape.com/author/Ernest-Hemingway" 1 Ernest Hemingway
+"http://quotes.toscrape.com/author/Friedrich-Nietzsche" 1 Friedrich Nietzsche
+"http://quotes.toscrape.com/author/Garrison-Keillor" 1 Garrison Keillor
+"http://quotes.toscrape.com/author/George-Bernard-Shaw" 1 George Bernard Shaw
+"http://quotes.toscrape.com/author/George-Carlin" 1 George Carlin
+"http://quotes.toscrape.com/author/George-Eliot" 1 George Eliot
+"http://quotes.toscrape.com/author/George-R-R-Martin" 1 George R.R. Martin
+"http://quotes.toscrape.com/author/Harper-Lee" 1 Harper Lee
+"http://quotes.toscrape.com/author/Haruki-Murakami" 1 Haruki Murakami
+"http://quotes.toscrape.com/author/Helen-Keller" 1 Helen Keller
+"http://quotes.toscrape.com/author/J-D-Salinger" 1 J.D. Salinger
+"http://quotes.toscrape.com/author/J-K-Rowling" 1 J.K. Rowling
+"http://quotes.toscrape.com/author/J-M-Barrie" 1 J.M. Barrie
+"http://quotes.toscrape.com/author/J-R-R-Tolkien" 1 J.R.R. Tolkien
+"http://quotes.toscrape.com/author/James-Baldwin" 1 James Baldwin
+"http://quotes.toscrape.com/author/Jane-Austen" 1 Jane Austen
+"http://quotes.toscrape.com/author/Jim-Henson" 1 Jim Henson
+"http://quotes.toscrape.com/author/Jimi-Hendrix" 1 Jimi Hendrix
+"http://quotes.toscrape.com/author/John-Lennon" 1 John Lennon
+"http://quotes.toscrape.com/author/Jorge-Luis-Borges" 1 Jorge Luis Borges
+"http://quotes.toscrape.com/author/Khaled-Hosseini" 1 Khaled Hosseini
+"http://quotes.toscrape.com/author/Madeleine-LEngle" 1 Madeleine L'Engle
+"http://quotes.toscrape.com/author/Marilyn-Monroe" 1 Marilyn Monroe
+"http://quotes.toscrape.com/author/Mark-Twain" 1 Mark Twain
+"http://quotes.toscrape.com/author/Martin-Luther-King-Jr" 1 Martin Luther King Jr.
+"http://quotes.toscrape.com/author/Mother-Teresa" 1 Mother Teresa
+"http://quotes.toscrape.com/author/Pablo-Neruda" 1 Pablo Neruda
+"http://quotes.toscrape.com/author/Ralph-Waldo-Emerson" 1 Ralph Waldo Emerson
+"http://quotes.toscrape.com/author/Stephenie-Meyer" 1 Stephenie Meyer
+"http://quotes.toscrape.com/author/Steve-Martin" 1 Steve Martin
+"http://quotes.toscrape.com/author/Suzanne-Collins" 1 Suzanne Collins
+"http://quotes.toscrape.com/author/Terry-Pratchett" 1 Terry Pratchett
+"http://quotes.toscrape.com/author/Thomas-A-Edison" 1 Thomas A. Edison
+"http://quotes.toscrape.com/author/W-C-Fields" 1 W.C. Fields
+"http://quotes.toscrape.com/author/William-Nicholson" 1 William Nicholson

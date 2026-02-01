@@ -1,0 +1,32 @@
+auto fueleconomy.gov g_001 car_driver_mpg
+30 346 346
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2024&year2=2024&make=Porsche&baseModel=911&srchtyp=ymm&pageno=1&rowLimit=50" 38 NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2024&year2=2024&make=Porsche&baseModel=718&srchtyp=ymm&pageno=1&rowLimit=50" 14 NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2024&year2=2024&make=Porsche&baseModel=Cayenne&srchtyp=ymm&pageno=1&rowLimit=50" 4 23.8	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2024&year2=2024&make=Porsche&baseModel=Macan&srchtyp=ymm&pageno=1&rowLimit=50" 6 NA	NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2024&year2=2024&make=Porsche&baseModel=Panamera&srchtyp=ymm&pageno=1&rowLimit=50" 2 NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2024&year2=2024&make=Porsche&baseModel=Taycan&srchtyp=ymm&pageno=1&rowLimit=50" 12 NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2023&year2=2023&make=Porsche&baseModel=911&srchtyp=ymm&pageno=1&rowLimit=50" 38 NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2023&year2=2023&make=Porsche&baseModel=718&srchtyp=ymm&pageno=1&rowLimit=50" 21 NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2023&year2=2023&make=Porsche&baseModel=Cayenne&srchtyp=ymm&pageno=1&rowLimit=50" 11 NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2023&year2=2023&make=Porsche&baseModel=Macan&srchtyp=ymm&pageno=1&rowLimit=50" 4 NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2023&year2=2023&make=Porsche&baseModel=Panamera&srchtyp=ymm&pageno=1&rowLimit=50" 15 NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2023&year2=2023&make=Porsche&baseModel=Taycan&srchtyp=ymm&pageno=1&rowLimit=50" 12 NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2022&year2=2022&make=Porsche&baseModel=911&srchtyp=ymm&pageno=1&rowLimit=50" 33 NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2022&year2=2022&make=Porsche&baseModel=718&srchtyp=ymm&pageno=1&rowLimit=50" 20 NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2022&year2=2022&make=Porsche&baseModel=Cayenne&srchtyp=ymm&pageno=1&rowLimit=50" 11 NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2022&year2=2022&make=Porsche&baseModel=Macan&srchtyp=ymm&pageno=1&rowLimit=50" 3 NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2022&year2=2022&make=Porsche&baseModel=Panamera&srchtyp=ymm&pageno=1&rowLimit=50" 13 NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2022&year2=2022&make=Porsche&baseModel=Taycan&srchtyp=ymm&pageno=1&rowLimit=50" 12 NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2024&year2=2024&make=MINI&baseModel=Clubman&srchtyp=ymm&pageno=1&rowLimit=50" 3 NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2024&year2=2024&make=MINI&baseModel=Cooper&srchtyp=ymm&pageno=1&rowLimit=50" 13 134.8	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2024&year2=2024&make=MINI&baseModel=Countryman&srchtyp=ymm&pageno=1&rowLimit=50" 4 NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2024&year2=2024&make=MINI&baseModel=John%20Cooper%20Works&srchtyp=ymm&pageno=1&rowLimit=50" 5 NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2023&year2=2023&make=MINI&baseModel=Clubman&srchtyp=ymm&pageno=1&rowLimit=50" 3 NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2023&year2=2023&make=MINI&baseModel=Cooper&srchtyp=ymm&pageno=1&rowLimit=50" 13 97.7	NA	NA	NA	29.8	NA	NA	NA	NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2023&year2=2023&make=MINI&baseModel=Countryman&srchtyp=ymm&pageno=1&rowLimit=50" 5 NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2023&year2=2023&make=MINI&baseModel=John%20Cooper%20Works&srchtyp=ymm&pageno=1&rowLimit=50" 5 37.6	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2022&year2=2022&make=MINI&baseModel=Clubman&srchtyp=ymm&pageno=1&rowLimit=50" 3 NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2022&year2=2022&make=MINI&baseModel=Cooper&srchtyp=ymm&pageno=1&rowLimit=50" 13 NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2022&year2=2022&make=MINI&baseModel=Countryman&srchtyp=ymm&pageno=1&rowLimit=50" 5 NA	NA	NA	NA	NA
+"https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2022&year2=2022&make=MINI&baseModel=John%20Cooper%20Works&srchtyp=ymm&pageno=1&rowLimit=50" 5 NA	NA	NA	NA	NA

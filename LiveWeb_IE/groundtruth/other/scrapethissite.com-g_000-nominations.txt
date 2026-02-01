@@ -1,0 +1,8 @@
+other scrapethissite.com g_000 film_nomination_count
+6 87 87
+"https://www.scrapethissite.com/pages/ajax-javascript/#2010" 13 12	8	8	7	5	3	5	1	1	1	1	1	1
+"https://www.scrapethissite.com/pages/ajax-javascript/#2011" 15 10	11	2	5	5	4	4	2	1	1	1	1	1	1	1
+"https://www.scrapethissite.com/pages/ajax-javascript/#2012" 15 7	11	8	12	5	5	8	5	5	4	1	1	1	1	1
+"https://www.scrapethissite.com/pages/ajax-javascript/#2013" 12 9	10	6	2	2	5	3	1	1	1	1	1
+"https://www.scrapethissite.com/pages/ajax-javascript/#2014" 16 9	9	5	8	6	6	5	5	2	2	1	1	1	1	1	1
+"https://www.scrapethissite.com/pages/ajax-javascript/#2015" 16 6	10	12	6	5	4	4	2	2	2	1	1	1	1	1	1

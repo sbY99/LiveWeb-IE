@@ -1,0 +1,8 @@
+other scrapethissite.com g_000 film_awards
+6 87 87
+"https://www.scrapethissite.com/pages/ajax-javascript/#2010" 13 4	4	3	2	2	2	1	1	1	1	1	1	1
+"https://www.scrapethissite.com/pages/ajax-javascript/#2011" 15 5	5	2	1	1	1	1	1	1	1	1	1	1	1	1
+"https://www.scrapethissite.com/pages/ajax-javascript/#2012" 15 3	4	3	2	2	2	1	1	1	1	1	1	1	1	1
+"https://www.scrapethissite.com/pages/ajax-javascript/#2013" 12 3	7	3	2	2	1	1	1	1	1	1	1
+"https://www.scrapethissite.com/pages/ajax-javascript/#2014" 16 4	4	3	1	1	1	1	1	1	1	1	1	1	1	1	1
+"https://www.scrapethissite.com/pages/ajax-javascript/#2015" 16 2	6	3	1	1	1	1	1	1	1	1	1	1	1	1	1

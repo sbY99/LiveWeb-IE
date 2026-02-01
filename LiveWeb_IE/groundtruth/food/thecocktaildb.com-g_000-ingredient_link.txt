@@ -1,0 +1,471 @@
+food thecocktaildb.com g_000 drink_ingredient_link
+469 1953 1953
+"https://www.thecocktaildb.com/drink/11001-old-fashioned" 4 /ingredient/71-bourbon	/ingredient/20-angostura-bitters	/ingredient/476-sugar	/ingredient/513-water
+"https://www.thecocktaildb.com/drink/11002-long-island-tea" 6 /ingredient/1-vodka	/ingredient/305-light-rum	/ingredient/2-gin	/ingredient/4-tequila	/ingredient/299-lemon	/ingredient/128-coca-cola
+"https://www.thecocktaildb.com/drink/11003-negroni" 3 /ingredient/2-gin	/ingredient/83-campari	/ingredient/482-sweet-vermouth
+"https://www.thecocktaildb.com/drink/11004-whiskey-sour" 5 /ingredient/66-blended-whiskey	/ingredient/299-lemon	/ingredient/409-powdered-sugar	/ingredient/106-cherry	/ingredient/299-lemon
+"https://www.thecocktaildb.com/drink/11005-dry-martini" 3 /ingredient/2-gin	/ingredient/189-dry-vermouth	/ingredient/347-olive
+"https://www.thecocktaildb.com/drink/11007-margarita" 4 /ingredient/4-tequila	/ingredient/498-triple-sec	/ingredient/308-lime-juice	/ingredient/439-salt
+"https://www.thecocktaildb.com/drink/11008-manhattan" 6 /ingredient/482-sweet-vermouth	/ingredient/71-bourbon	/ingredient/20-angostura-bitters	/ingredient/270-ice	/ingredient/322-maraschino-cherry	/ingredient/354-orange-peel
+"https://www.thecocktaildb.com/drink/11009-moscow-mule" 3 /ingredient/1-vodka	/ingredient/308-lime-juice	/ingredient/228-ginger-ale
+"https://www.thecocktaildb.com/drink/11010-after-dinner-cocktail" 4 /ingredient/32-apricot-brandy	/ingredient/498-triple-sec	/ingredient/312-lime	/ingredient/312-lime
+"https://www.thecocktaildb.com/drink/11011-after-supper-cocktail" 3 /ingredient/498-triple-sec	/ingredient/32-apricot-brandy	/ingredient/293-lemon-juice
+"https://www.thecocktaildb.com/drink/11012-alabama-slammer" 4 /ingredient/458-southern-comfort	/ingredient/18-amaretto	/ingredient/453-sloe-gin	/ingredient/293-lemon-juice
+"https://www.thecocktaildb.com/drink/11013-alaska-cocktail" 4 /ingredient/350-orange-bitters	/ingredient/2-gin	/ingredient/532-yellow-chartreuse	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/11014-alexander" 4 /ingredient/2-gin	/ingredient/164-creme-de-cacao	/ingredient/304-light-cream	/ingredient/344-nutmeg
+"https://www.thecocktaildb.com/drink/11016-brandy-alexander" 4 /ingredient/74-brandy	/ingredient/164-creme-de-cacao	/ingredient/304-light-cream	/ingredient/344-nutmeg
+"https://www.thecocktaildb.com/drink/11020-algonquin" 3 /ingredient/66-blended-whiskey	/ingredient/189-dry-vermouth	/ingredient/393-pineapple-juice
+"https://www.thecocktaildb.com/drink/11021-allegheny" 5 /ingredient/189-dry-vermouth	/ingredient/71-bourbon	/ingredient/61-blackberry-brandy	/ingredient/293-lemon-juice	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/11022-allies-cocktail" 3 /ingredient/189-dry-vermouth	/ingredient/2-gin	/ingredient/288-kummel
+"https://www.thecocktaildb.com/drink/11024-almond-joy" 3 /ingredient/18-amaretto	/ingredient/164-creme-de-cacao	/ingredient/304-light-cream
+"https://www.thecocktaildb.com/drink/11025-amaretto-and-cream" 2 /ingredient/18-amaretto	/ingredient/304-light-cream
+"https://www.thecocktaildb.com/drink/11026-amaretto-mist" 2 /ingredient/18-amaretto	/ingredient/312-lime
+"https://www.thecocktaildb.com/drink/11027-amaretto-rose" 3 /ingredient/18-amaretto	/ingredient/308-lime-juice	/ingredient/127-club-soda
+"https://www.thecocktaildb.com/drink/11028-amaretto-stinger" 2 /ingredient/18-amaretto	/ingredient/520-white-creme-de-menthe
+"https://www.thecocktaildb.com/drink/11029-amaretto-tea" 3 /ingredient/486-tea	/ingredient/18-amaretto	/ingredient/515-whipped-cream
+"https://www.thecocktaildb.com/drink/11034-angel-face" 3 /ingredient/32-apricot-brandy	/ingredient/26-apple-brandy	/ingredient/2-gin
+"https://www.thecocktaildb.com/drink/11046-applecar" 3 /ingredient/31-applejack	/ingredient/498-triple-sec	/ingredient/293-lemon-juice
+"https://www.thecocktaildb.com/drink/11050-apricot-lady" 6 /ingredient/305-light-rum	/ingredient/32-apricot-brandy	/ingredient/498-triple-sec	/ingredient/293-lemon-juice	/ingredient/192-egg-white	/ingredient/359-orange
+"https://www.thecocktaildb.com/drink/11052-archbishop" 4 /ingredient/2-gin	/ingredient/528-wine	/ingredient/53-benedictine	/ingredient/312-lime
+"https://www.thecocktaildb.com/drink/11053-arise-my-love" 2 /ingredient/97-champagne	/ingredient/246-green-creme-de-menthe
+"https://www.thecocktaildb.com/drink/11054-arthur-tompkins" 4 /ingredient/2-gin	/ingredient/238-grand-marnier	/ingredient/293-lemon-juice	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/11055-artillery" 3 /ingredient/482-sweet-vermouth	/ingredient/2-gin	/ingredient/56-bitters
+"https://www.thecocktaildb.com/drink/11060-balmoral" 4 /ingredient/5-scotch	/ingredient/482-sweet-vermouth	/ingredient/189-dry-vermouth	/ingredient/56-bitters
+"https://www.thecocktaildb.com/drink/11064-banana-daiquiri" 6 /ingredient/305-light-rum	/ingredient/498-triple-sec	/ingredient/47-banana	/ingredient/308-lime-juice	/ingredient/476-sugar	/ingredient/106-cherry
+"https://www.thecocktaildb.com/drink/11084-bermuda-highball" 5 /ingredient/74-brandy	/ingredient/2-gin	/ingredient/189-dry-vermouth	/ingredient/89-carbonated-water	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/11102-black-russian" 2 /ingredient/138-coffee-liqueur	/ingredient/1-vodka
+"https://www.thecocktaildb.com/drink/11112-bloody-maria" 6 /ingredient/4-tequila	/ingredient/492-tomato-juice	/ingredient/293-lemon-juice	/ingredient/483-tabasco-sauce	/ingredient/94-celery-salt	/ingredient/299-lemon
+"https://www.thecocktaildb.com/drink/11113-bloody-mary" 6 /ingredient/1-vodka	/ingredient/492-tomato-juice	/ingredient/293-lemon-juice	/ingredient/529-worcestershire-sauce	/ingredient/483-tabasco-sauce	/ingredient/312-lime
+"https://www.thecocktaildb.com/drink/11117-blue-lagoon" 4 /ingredient/1-vodka	/ingredient/67-blue-curacao	/ingredient/300-lemonade	/ingredient/106-cherry
+"https://www.thecocktaildb.com/drink/11118-blue-margarita" 4 /ingredient/4-tequila	/ingredient/67-blue-curacao	/ingredient/308-lime-juice	/ingredient/439-salt
+"https://www.thecocktaildb.com/drink/11119-blue-mountain" 5 /ingredient/37-a�ejo-rum	/ingredient/490-tia-maria	/ingredient/1-vodka	/ingredient/352-orange-juice	/ingredient/293-lemon-juice
+"https://www.thecocktaildb.com/drink/11120-bluebird" 6 /ingredient/2-gin	/ingredient/498-triple-sec	/ingredient/67-blue-curacao	/ingredient/56-bitters	/ingredient/322-maraschino-cherry	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/11121-bobby-burns-cocktail" 4 /ingredient/482-sweet-vermouth	/ingredient/5-scotch	/ingredient/53-benedictine	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/11124-boomerang" 5 /ingredient/2-gin	/ingredient/189-dry-vermouth	/ingredient/56-bitters	/ingredient/323-maraschino-liqueur	/ingredient/322-maraschino-cherry
+"https://www.thecocktaildb.com/drink/11128-boston-sidecar" 4 /ingredient/305-light-rum	/ingredient/74-brandy	/ingredient/498-triple-sec	/ingredient/312-lime
+"https://www.thecocktaildb.com/drink/11129-boston-sour" 6 /ingredient/66-blended-whiskey	/ingredient/299-lemon	/ingredient/409-powdered-sugar	/ingredient/192-egg-white	/ingredient/299-lemon	/ingredient/106-cherry
+"https://www.thecocktaildb.com/drink/11145-classic-old-fashioned" 6 /ingredient/56-bitters	/ingredient/513-water	/ingredient/476-sugar	/ingredient/71-bourbon	/ingredient/359-orange	/ingredient/322-maraschino-cherry
+"https://www.thecocktaildb.com/drink/11146-bourbon-sling" 5 /ingredient/476-sugar	/ingredient/513-water	/ingredient/293-lemon-juice	/ingredient/71-bourbon	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/11147-bourbon-sour" 5 /ingredient/71-bourbon	/ingredient/293-lemon-juice	/ingredient/476-sugar	/ingredient/359-orange	/ingredient/322-maraschino-cherry
+"https://www.thecocktaildb.com/drink/11149-boxcar" 5 /ingredient/2-gin	/ingredient/498-triple-sec	/ingredient/293-lemon-juice	/ingredient/250-grenadine	/ingredient/192-egg-white
+"https://www.thecocktaildb.com/drink/11157-brandy-cobbler" 6 /ingredient/476-sugar	/ingredient/127-club-soda	/ingredient/299-lemon	/ingredient/74-brandy	/ingredient/322-maraschino-cherry	/ingredient/359-orange
+"https://www.thecocktaildb.com/drink/11164-brandy-flip" 5 /ingredient/74-brandy	/ingredient/194-egg	/ingredient/476-sugar	/ingredient/304-light-cream	/ingredient/344-nutmeg
+"https://www.thecocktaildb.com/drink/11170-brandy-sour" 5 /ingredient/74-brandy	/ingredient/299-lemon	/ingredient/409-powdered-sugar	/ingredient/299-lemon	/ingredient/106-cherry
+"https://www.thecocktaildb.com/drink/11202-caipirinha" 3 /ingredient/476-sugar	/ingredient/312-lime	/ingredient/81-cachaca
+"https://www.thecocktaildb.com/drink/11205-california-lemonade" 6 /ingredient/66-blended-whiskey	/ingredient/299-lemon	/ingredient/312-lime	/ingredient/409-powdered-sugar	/ingredient/250-grenadine	/ingredient/89-carbonated-water
+"https://www.thecocktaildb.com/drink/11224-casino-royale" 5 /ingredient/2-gin	/ingredient/293-lemon-juice	/ingredient/323-maraschino-liqueur	/ingredient/350-orange-bitters	/ingredient/193-egg-yolk
+"https://www.thecocktaildb.com/drink/11227-champagne-cocktail" 5 /ingredient/97-champagne	/ingredient/476-sugar	/ingredient/56-bitters	/ingredient/294-lemon-peel	/ingredient/141-cognac
+"https://www.thecocktaildb.com/drink/11239-cherry-rum" 3 /ingredient/305-light-rum	/ingredient/100-cherry-brandy	/ingredient/304-light-cream
+"https://www.thecocktaildb.com/drink/11242-chicago-fizz" 6 /ingredient/305-light-rum	/ingredient/406-port	/ingredient/299-lemon	/ingredient/409-powdered-sugar	/ingredient/192-egg-white	/ingredient/89-carbonated-water
+"https://www.thecocktaildb.com/drink/11243-chocolate-black-russian" 3 /ingredient/282-kahlua	/ingredient/1-vodka	/ingredient/112-chocolate-ice-cream
+"https://www.thecocktaildb.com/drink/11251-city-slicker" 3 /ingredient/74-brandy	/ingredient/498-triple-sec	/ingredient/293-lemon-juice
+"https://www.thecocktaildb.com/drink/11320-dragonfly" 3 /ingredient/2-gin	/ingredient/228-ginger-ale	/ingredient/312-lime
+"https://www.thecocktaildb.com/drink/11324-dry-rob-roy" 3 /ingredient/5-scotch	/ingredient/189-dry-vermouth	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/11326-dubonnet-cocktail" 4 /ingredient/191-dubonnet-rouge	/ingredient/2-gin	/ingredient/56-bitters	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/11338-english-highball" 5 /ingredient/74-brandy	/ingredient/2-gin	/ingredient/482-sweet-vermouth	/ingredient/89-carbonated-water	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/11339-english-rose-cocktail" 6 /ingredient/32-apricot-brandy	/ingredient/2-gin	/ingredient/189-dry-vermouth	/ingredient/250-grenadine	/ingredient/293-lemon-juice	/ingredient/106-cherry
+"https://www.thecocktaildb.com/drink/11368-flying-dutchman" 2 /ingredient/2-gin	/ingredient/498-triple-sec
+"https://www.thecocktaildb.com/drink/11369-flying-scotchman" 4 /ingredient/5-scotch	/ingredient/482-sweet-vermouth	/ingredient/56-bitters	/ingredient/475-sugar-syrup
+"https://www.thecocktaildb.com/drink/11375-foxy-lady" 3 /ingredient/18-amaretto	/ingredient/164-creme-de-cacao	/ingredient/304-light-cream
+"https://www.thecocktaildb.com/drink/11382-frisco-sour" 6 /ingredient/66-blended-whiskey	/ingredient/53-benedictine	/ingredient/299-lemon	/ingredient/312-lime	/ingredient/299-lemon	/ingredient/312-lime
+"https://www.thecocktaildb.com/drink/11396-gentlemans-club" 4 /ingredient/2-gin	/ingredient/74-brandy	/ingredient/482-sweet-vermouth	/ingredient/127-club-soda
+"https://www.thecocktaildb.com/drink/11403-gin-and-tonic" 3 /ingredient/2-gin	/ingredient/497-tonic-water	/ingredient/312-lime
+"https://www.thecocktaildb.com/drink/11407-gin-cooler" 5 /ingredient/2-gin	/ingredient/89-carbonated-water	/ingredient/409-powdered-sugar	/ingredient/357-orange-spiral	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/11408-gin-daisy" 6 /ingredient/2-gin	/ingredient/293-lemon-juice	/ingredient/476-sugar	/ingredient/250-grenadine	/ingredient/322-maraschino-cherry	/ingredient/359-orange
+"https://www.thecocktaildb.com/drink/11410-gin-fizz" 4 /ingredient/2-gin	/ingredient/299-lemon	/ingredient/409-powdered-sugar	/ingredient/89-carbonated-water
+"https://www.thecocktaildb.com/drink/11415-gin-sling" 5 /ingredient/2-gin	/ingredient/299-lemon	/ingredient/409-powdered-sugar	/ingredient/513-water	/ingredient/354-orange-peel
+"https://www.thecocktaildb.com/drink/11416-gin-smash" 6 /ingredient/2-gin	/ingredient/89-carbonated-water	/ingredient/476-sugar	/ingredient/337-mint	/ingredient/359-orange	/ingredient/106-cherry
+"https://www.thecocktaildb.com/drink/11417-gin-sour" 5 /ingredient/2-gin	/ingredient/293-lemon-juice	/ingredient/476-sugar	/ingredient/359-orange	/ingredient/322-maraschino-cherry
+"https://www.thecocktaildb.com/drink/11418-gin-squirt" 6 /ingredient/2-gin	/ingredient/250-grenadine	/ingredient/409-powdered-sugar	/ingredient/397-pineapple	/ingredient/470-strawberries	/ingredient/89-carbonated-water
+"https://www.thecocktaildb.com/drink/11419-gin-swizzle" 5 /ingredient/308-lime-juice	/ingredient/476-sugar	/ingredient/2-gin	/ingredient/56-bitters	/ingredient/127-club-soda
+"https://www.thecocktaildb.com/drink/11420-gin-toddy" 4 /ingredient/2-gin	/ingredient/513-water	/ingredient/409-powdered-sugar	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/11422-godchild" 3 /ingredient/1-vodka	/ingredient/18-amaretto	/ingredient/259-heavy-cream
+"https://www.thecocktaildb.com/drink/11423-godfather" 2 /ingredient/5-scotch	/ingredient/18-amaretto
+"https://www.thecocktaildb.com/drink/11424-godmother" 2 /ingredient/1-vodka	/ingredient/18-amaretto
+"https://www.thecocktaildb.com/drink/11433-grass-skirt" 5 /ingredient/2-gin	/ingredient/498-triple-sec	/ingredient/393-pineapple-juice	/ingredient/250-grenadine	/ingredient/397-pineapple
+"https://www.thecocktaildb.com/drink/11462-harvey-wallbanger" 3 /ingredient/1-vodka	/ingredient/223-galliano	/ingredient/352-orange-juice
+"https://www.thecocktaildb.com/drink/11472-hawaiian-cocktail" 3 /ingredient/2-gin	/ingredient/498-triple-sec	/ingredient/393-pineapple-juice
+"https://www.thecocktaildb.com/drink/11476-highland-fling-cocktail" 4 /ingredient/5-scotch	/ingredient/482-sweet-vermouth	/ingredient/350-orange-bitters	/ingredient/347-olive
+"https://www.thecocktaildb.com/drink/11524-imperial-fizz" 5 /ingredient/305-light-rum	/ingredient/66-blended-whiskey	/ingredient/299-lemon	/ingredient/409-powdered-sugar	/ingredient/89-carbonated-water
+"https://www.thecocktaildb.com/drink/11542-jack-rose-cocktail" 3 /ingredient/26-apple-brandy	/ingredient/250-grenadine	/ingredient/312-lime
+"https://www.thecocktaildb.com/drink/11558-japanese-fizz" 6 /ingredient/66-blended-whiskey	/ingredient/299-lemon	/ingredient/409-powdered-sugar	/ingredient/406-port	/ingredient/192-egg-white	/ingredient/89-carbonated-water
+"https://www.thecocktaildb.com/drink/11566-jewel-of-the-nile" 3 /ingredient/2-gin	/ingredient/245-green-chartreuse	/ingredient/532-yellow-chartreuse
+"https://www.thecocktaildb.com/drink/11580-john-collins" 6 /ingredient/71-bourbon	/ingredient/293-lemon-juice	/ingredient/476-sugar	/ingredient/127-club-soda	/ingredient/322-maraschino-cherry	/ingredient/359-orange
+"https://www.thecocktaildb.com/drink/11600-kamikaze" 3 /ingredient/1-vodka	/ingredient/498-triple-sec	/ingredient/308-lime-juice
+"https://www.thecocktaildb.com/drink/11602-kentucky-b-and-b" 2 /ingredient/71-bourbon	/ingredient/53-benedictine
+"https://www.thecocktaildb.com/drink/11604-kentucky-colonel" 3 /ingredient/71-bourbon	/ingredient/53-benedictine	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/11634-lady-love-fizz" 6 /ingredient/2-gin	/ingredient/304-light-cream	/ingredient/409-powdered-sugar	/ingredient/299-lemon	/ingredient/192-egg-white	/ingredient/89-carbonated-water
+"https://www.thecocktaildb.com/drink/11658-loch-lomond" 4 /ingredient/5-scotch	/ingredient/187-drambuie	/ingredient/189-dry-vermouth	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/11662-london-town" 3 /ingredient/2-gin	/ingredient/323-maraschino-liqueur	/ingredient/350-orange-bitters
+"https://www.thecocktaildb.com/drink/11664-lone-tree-cocktail" 2 /ingredient/482-sweet-vermouth	/ingredient/2-gin
+"https://www.thecocktaildb.com/drink/11666-lone-tree-cooler" 6 /ingredient/89-carbonated-water	/ingredient/2-gin	/ingredient/189-dry-vermouth	/ingredient/409-powdered-sugar	/ingredient/357-orange-spiral	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/11720-martinez-cocktail" 5 /ingredient/2-gin	/ingredient/189-dry-vermouth	/ingredient/498-triple-sec	/ingredient/350-orange-bitters	/ingredient/106-cherry
+"https://www.thecocktaildb.com/drink/11728-martini" 3 /ingredient/2-gin	/ingredient/189-dry-vermouth	/ingredient/347-olive
+"https://www.thecocktaildb.com/drink/11766-midnight-cowboy" 3 /ingredient/71-bourbon	/ingredient/179-dark-rum	/ingredient/259-heavy-cream
+"https://www.thecocktaildb.com/drink/11786-mississippi-planters-punch" 6 /ingredient/74-brandy	/ingredient/305-light-rum	/ingredient/71-bourbon	/ingredient/299-lemon	/ingredient/409-powdered-sugar	/ingredient/89-carbonated-water
+"https://www.thecocktaildb.com/drink/11798-monkey-wrench" 3 /ingredient/305-light-rum	/ingredient/242-grapefruit-juice	/ingredient/56-bitters
+"https://www.thecocktaildb.com/drink/11844-new-york-sour" 6 /ingredient/66-blended-whiskey	/ingredient/299-lemon	/ingredient/476-sugar	/ingredient/425-red-wine	/ingredient/299-lemon	/ingredient/106-cherry
+"https://www.thecocktaildb.com/drink/11870-orange-oasis" 4 /ingredient/100-cherry-brandy	/ingredient/2-gin	/ingredient/352-orange-juice	/ingredient/228-ginger-ale
+"https://www.thecocktaildb.com/drink/11872-orgasm" 5 /ingredient/164-creme-de-cacao	/ingredient/18-amaretto	/ingredient/498-triple-sec	/ingredient/1-vodka	/ingredient/304-light-cream
+"https://www.thecocktaildb.com/drink/11936-pink-gin" 2 /ingredient/56-bitters	/ingredient/2-gin
+"https://www.thecocktaildb.com/drink/11938-pink-lady" 4 /ingredient/2-gin	/ingredient/250-grenadine	/ingredient/304-light-cream	/ingredient/192-egg-white
+"https://www.thecocktaildb.com/drink/11959-poppy-cocktail" 2 /ingredient/2-gin	/ingredient/164-creme-de-cacao
+"https://www.thecocktaildb.com/drink/11963-port-wine-cocktail" 2 /ingredient/406-port	/ingredient/74-brandy
+"https://www.thecocktaildb.com/drink/11983-quakers-cocktail" 4 /ingredient/305-light-rum	/ingredient/74-brandy	/ingredient/299-lemon	/ingredient/418-raspberry-syrup
+"https://www.thecocktaildb.com/drink/11991-queen-elizabeth" 3 /ingredient/189-dry-vermouth	/ingredient/2-gin	/ingredient/53-benedictine
+"https://www.thecocktaildb.com/drink/12055-royal-fizz" 4 /ingredient/2-gin	/ingredient/480-sweet-and-sour	/ingredient/194-egg	/ingredient/128-coca-cola
+"https://www.thecocktaildb.com/drink/12057-royal-gin-fizz" 5 /ingredient/2-gin	/ingredient/299-lemon	/ingredient/409-powdered-sugar	/ingredient/194-egg	/ingredient/89-carbonated-water
+"https://www.thecocktaildb.com/drink/12071-rum-cooler" 3 /ingredient/3-rum	/ingredient/297-lemon-lime-soda	/ingredient/299-lemon
+"https://www.thecocktaildb.com/drink/12089-rum-old-fashioned" 6 /ingredient/305-light-rum	/ingredient/571-151-proof-rum	/ingredient/409-powdered-sugar	/ingredient/56-bitters	/ingredient/513-water	/ingredient/310-lime-peel
+"https://www.thecocktaildb.com/drink/12097-rum-toddy" 4 /ingredient/3-rum	/ingredient/409-powdered-sugar	/ingredient/294-lemon-peel	/ingredient/513-water
+"https://www.thecocktaildb.com/drink/12101-rusty-nail" 3 /ingredient/5-scotch	/ingredient/187-drambuie	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/12107-salty-dog" 3 /ingredient/242-grapefruit-juice	/ingredient/2-gin	/ingredient/439-salt
+"https://www.thecocktaildb.com/drink/12127-sazerac" 6 /ingredient/427-ricard	/ingredient/476-sugar	/ingredient/391-peychaud-bitters	/ingredient/513-water	/ingredient/71-bourbon	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/12130-scooter" 3 /ingredient/74-brandy	/ingredient/18-amaretto	/ingredient/304-light-cream
+"https://www.thecocktaildb.com/drink/12138-scotch-cobbler" 5 /ingredient/5-scotch	/ingredient/74-brandy	/ingredient/174-curacao	/ingredient/359-orange	/ingredient/337-mint
+"https://www.thecocktaildb.com/drink/12158-scotch-sour" 5 /ingredient/5-scotch	/ingredient/312-lime	/ingredient/409-powdered-sugar	/ingredient/299-lemon	/ingredient/106-cherry
+"https://www.thecocktaildb.com/drink/12162-screwdriver" 2 /ingredient/1-vodka	/ingredient/352-orange-juice
+"https://www.thecocktaildb.com/drink/12186-shanghai-cocktail" 4 /ingredient/305-light-rum	/ingredient/23-anisette	/ingredient/250-grenadine	/ingredient/299-lemon
+"https://www.thecocktaildb.com/drink/12198-sidecar-cocktail" 3 /ingredient/74-brandy	/ingredient/498-triple-sec	/ingredient/299-lemon
+"https://www.thecocktaildb.com/drink/12214-singapore-sling" 6 /ingredient/100-cherry-brandy	/ingredient/250-grenadine	/ingredient/2-gin	/ingredient/480-sweet-and-sour	/ingredient/89-carbonated-water	/ingredient/106-cherry
+"https://www.thecocktaildb.com/drink/12256-sol-y-sombra" 2 /ingredient/74-brandy	/ingredient/23-anisette
+"https://www.thecocktaildb.com/drink/12308-stone-sour" 3 /ingredient/32-apricot-brandy	/ingredient/352-orange-juice	/ingredient/480-sweet-and-sour
+"https://www.thecocktaildb.com/drink/12322-strawberry-margarita" 6 /ingredient/473-strawberry-schnapps	/ingredient/4-tequila	/ingredient/498-triple-sec	/ingredient/293-lemon-juice	/ingredient/470-strawberries	/ingredient/439-salt
+"https://www.thecocktaildb.com/drink/12362-tequila-fizz" 5 /ingredient/4-tequila	/ingredient/293-lemon-juice	/ingredient/250-grenadine	/ingredient/192-egg-white	/ingredient/228-ginger-ale
+"https://www.thecocktaildb.com/drink/12370-tequila-sour" 5 /ingredient/4-tequila	/ingredient/299-lemon	/ingredient/409-powdered-sugar	/ingredient/299-lemon	/ingredient/106-cherry
+"https://www.thecocktaildb.com/drink/12388-thriller" 3 /ingredient/5-scotch	/ingredient/528-wine	/ingredient/352-orange-juice
+"https://www.thecocktaildb.com/drink/12402-tom-collins" 6 /ingredient/2-gin	/ingredient/293-lemon-juice	/ingredient/476-sugar	/ingredient/127-club-soda	/ingredient/322-maraschino-cherry	/ingredient/359-orange
+"https://www.thecocktaildb.com/drink/12418-turf-cocktail" 5 /ingredient/189-dry-vermouth	/ingredient/2-gin	/ingredient/21-anis	/ingredient/56-bitters	/ingredient/354-orange-peel
+"https://www.thecocktaildb.com/drink/12420-tuxedo-cocktail" 6 /ingredient/189-dry-vermouth	/ingredient/2-gin	/ingredient/323-maraschino-liqueur	/ingredient/21-anis	/ingredient/350-orange-bitters	/ingredient/106-cherry
+"https://www.thecocktaildb.com/drink/12434-valencia-cocktail" 3 /ingredient/32-apricot-brandy	/ingredient/352-orange-juice	/ingredient/350-orange-bitters
+"https://www.thecocktaildb.com/drink/12442-vermouth-cassis" 3 /ingredient/189-dry-vermouth	/ingredient/165-creme-de-cassis	/ingredient/89-carbonated-water
+"https://www.thecocktaildb.com/drink/12446-veteran" 2 /ingredient/179-dark-rum	/ingredient/100-cherry-brandy
+"https://www.thecocktaildb.com/drink/12450-victor" 3 /ingredient/2-gin	/ingredient/482-sweet-vermouth	/ingredient/74-brandy
+"https://www.thecocktaildb.com/drink/12452-victory-collins" 5 /ingredient/1-vodka	/ingredient/293-lemon-juice	/ingredient/240-grape-juice	/ingredient/409-powdered-sugar	/ingredient/359-orange
+"https://www.thecocktaildb.com/drink/12460-vodka-and-tonic" 2 /ingredient/1-vodka	/ingredient/497-tonic-water
+"https://www.thecocktaildb.com/drink/12474-waikiki-beachcomber" 3 /ingredient/498-triple-sec	/ingredient/2-gin	/ingredient/393-pineapple-juice
+"https://www.thecocktaildb.com/drink/12518-whisky-mac" 2 /ingredient/5-scotch	/ingredient/528-wine
+"https://www.thecocktaildb.com/drink/12528-white-russian" 3 /ingredient/1-vodka	/ingredient/138-coffee-liqueur	/ingredient/304-light-cream
+"https://www.thecocktaildb.com/drink/12564-apple-karate" 2 /ingredient/28-apple-juice	/ingredient/-carrot
+"https://www.thecocktaildb.com/drink/12654-banana-milk-shake" 4 /ingredient/333-milk	/ingredient/352-orange-juice	/ingredient/475-sugar-syrup	/ingredient/47-banana
+"https://www.thecocktaildb.com/drink/12656-banana-strawberry-shake" 5 /ingredient/470-strawberries	/ingredient/47-banana	/ingredient/533-yoghurt	/ingredient/333-milk	/ingredient/260-honey
+"https://www.thecocktaildb.com/drink/12658-banana-strawberry-shake-daiquiri" 3 /ingredient/470-strawberries	/ingredient/47-banana	/ingredient/28-apple-juice
+"https://www.thecocktaildb.com/drink/12670-fruit-cooler" 7 /ingredient/28-apple-juice	/ingredient/470-strawberries	/ingredient/476-sugar	/ingredient/299-lemon	/ingredient/30-apple	/ingredient/455-soda-water	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/12674-fruit-shake" 5 /ingredient/533-yoghurt	/ingredient/47-banana	/ingredient/352-orange-juice	/ingredient/222-fruit	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/12692-lassi-khara" 4 /ingredient/533-yoghurt	/ingredient/513-water	/ingredient/439-salt	/ingredient/36-asafoetida
+"https://www.thecocktaildb.com/drink/12702-lemouroudji" 5 /ingredient/230-ginger	/ingredient/513-water	/ingredient/299-lemon	/ingredient/476-sugar	/ingredient/93-cayenne-pepper
+"https://www.thecocktaildb.com/drink/12706-imperial-cocktail" 3 /ingredient/308-lime-juice	/ingredient/2-gin	/ingredient/24-aperol
+"https://www.thecocktaildb.com/drink/12708-banana-cantaloupe-smoothie" 2 /ingredient/86-cantaloupe	/ingredient/47-banana
+"https://www.thecocktaildb.com/drink/12710-apple-berry-smoothie" 2 /ingredient/54-berries	/ingredient/30-apple
+"https://www.thecocktaildb.com/drink/12724-sweet-bananas" 3 /ingredient/333-milk	/ingredient/47-banana	/ingredient/260-honey
+"https://www.thecocktaildb.com/drink/12726-tomato-tang" 3 /ingredient/492-tomato-juice	/ingredient/293-lemon-juice	/ingredient/94-celery-salt
+"https://www.thecocktaildb.com/drink/12738-hot-chocolate-to-die-for" 5 /ingredient/116-chocolate	/ingredient/79-butter	/ingredient/502-vanilla-extract	/ingredient/256-half-and-half	/ingredient/326-marshmallows
+"https://www.thecocktaildb.com/drink/12754-sex-on-the-beach" 4 /ingredient/1-vodka	/ingredient/379-peach-schnapps	/ingredient/155-cranberry-juice	/ingredient/352-orange-juice
+"https://www.thecocktaildb.com/drink/12756-autodaf�" 3 /ingredient/1-vodka	/ingredient/308-lime-juice	/ingredient/455-soda-water
+"https://www.thecocktaildb.com/drink/12760-surf-city-lifesaver" 4 /ingredient/363-ouzo	/ingredient/43-baileys-irish-cream	/ingredient/2-gin	/ingredient/238-grand-marnier
+"https://www.thecocktaildb.com/drink/12762-grizzly-bear" 4 /ingredient/18-amaretto	/ingredient/278-j�germeister	/ingredient/282-kahlua	/ingredient/333-milk
+"https://www.thecocktaildb.com/drink/12774-masala-chai" 9 /ingredient/513-water	/ingredient/486-tea	/ingredient/230-ginger	/ingredient/90-cardamom	/ingredient/126-cloves	/ingredient/122-cinnamon	/ingredient/57-black-pepper	/ingredient/476-sugar	/ingredient/333-milk
+"https://www.thecocktaildb.com/drink/12782-thai-coffee" 6 /ingredient/139-coffee	/ingredient/147-coriander	/ingredient/90-cardamom	/ingredient/476-sugar	/ingredient/516-whipping-cream	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/12784-thai-iced-coffee" 4 /ingredient/139-coffee	/ingredient/476-sugar	/ingredient/161-cream	/ingredient/90-cardamom
+"https://www.thecocktaildb.com/drink/12790-absinthe-" 5 /ingredient/1-vodka	/ingredient/476-sugar	/ingredient/22-anise	/ingredient/303-licorice-root	/ingredient/530-wormwood
+"https://www.thecocktaildb.com/drink/12792-amaretto-liqueur" 11 /ingredient/476-sugar	/ingredient/513-water	/ingredient/34-apricot	/ingredient/16-almond-flavoring	/ingredient/237-grain-alcohol	/ingredient/513-water	/ingredient/74-brandy	/ingredient/210-food-coloring	/ingredient/210-food-coloring	/ingredient/210-food-coloring	/ingredient/231-glycerine
+"https://www.thecocktaildb.com/drink/12794-angelica-liqueur" 12 /ingredient/19-angelica-root	/ingredient/17-almond	/ingredient/14-allspice	/ingredient/122-cinnamon	/ingredient/22-anise	/ingredient/147-coriander	/ingredient/325-marjoram-leaves	/ingredient/1-vodka	/ingredient/476-sugar	/ingredient/513-water	/ingredient/210-food-coloring	/ingredient/210-food-coloring
+"https://www.thecocktaildb.com/drink/12796-caribbean-orange-liqueur" 3 /ingredient/359-orange	/ingredient/1-vodka	/ingredient/476-sugar
+"https://www.thecocktaildb.com/drink/12798-coffee-liqueur" 5 /ingredient/139-coffee	/ingredient/502-vanilla-extract	/ingredient/476-sugar	/ingredient/1-vodka	/ingredient/513-water
+"https://www.thecocktaildb.com/drink/12800-coffee-vodka" 6 /ingredient/513-water	/ingredient/476-sugar	/ingredient/139-coffee	/ingredient/508-vanilla	/ingredient/1-vodka	/ingredient/87-caramel-coloring
+"https://www.thecocktaildb.com/drink/12820-irish-cream" 5 /ingredient/5-scotch	/ingredient/256-half-and-half	/ingredient/145-condensed-milk	/ingredient/136-coconut-syrup	/ingredient/115-chocolate-syrup
+"https://www.thecocktaildb.com/drink/12854-scottish-highland-liqueur" 5 /ingredient/280-johnnie-walker	/ingredient/260-honey	/ingredient/19-angelica-root	/ingredient/205-fennel-seeds	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/12856-tia-maria" 5 /ingredient/513-water	/ingredient/77-brown-sugar	/ingredient/139-coffee	/ingredient/3-rum	/ingredient/502-vanilla-extract
+"https://www.thecocktaildb.com/drink/12864-apple-cider-punch" 8 /ingredient/27-apple-cider	/ingredient/77-brown-sugar	/ingredient/300-lemonade	/ingredient/352-orange-juice	/ingredient/126-cloves	/ingredient/14-allspice	/ingredient/344-nutmeg	/ingredient/122-cinnamon
+"https://www.thecocktaildb.com/drink/12870-artillery-punch" 8 /ingredient/486-tea	/ingredient/436-rye-whiskey	/ingredient/425-red-wine	/ingredient/3-rum	/ingredient/74-brandy	/ingredient/53-benedictine	/ingredient/352-orange-juice	/ingredient/293-lemon-juice
+"https://www.thecocktaildb.com/drink/12890-cranberry-punch" 5 /ingredient/155-cranberry-juice	/ingredient/476-sugar	/ingredient/393-pineapple-juice	/ingredient/16-almond-flavoring	/ingredient/228-ginger-ale
+"https://www.thecocktaildb.com/drink/12910-egg-nog-" 11 /ingredient/193-egg-yolk	/ingredient/476-sugar	/ingredient/333-milk	/ingredient/305-light-rum	/ingredient/71-bourbon	/ingredient/502-vanilla-extract	/ingredient/439-salt	/ingredient/516-whipping-cream	/ingredient/192-egg-white	/ingredient/476-sugar	/ingredient/344-nutmeg
+"https://www.thecocktaildb.com/drink/12916-egg-nog---healthy" 7 /ingredient/194-egg	/ingredient/476-sugar	/ingredient/145-condensed-milk	/ingredient/333-milk	/ingredient/502-vanilla-extract	/ingredient/3-rum	/ingredient/344-nutmeg
+"https://www.thecocktaildb.com/drink/12954-holloween-punch" 4 /ingredient/240-grape-juice	/ingredient/88-carbonated-soft-drink	/ingredient/448-sherbet	/ingredient/448-sherbet
+"https://www.thecocktaildb.com/drink/12988-mulled-wine" 7 /ingredient/513-water	/ingredient/476-sugar	/ingredient/126-cloves	/ingredient/122-cinnamon	/ingredient/294-lemon-peel	/ingredient/425-red-wine	/ingredient/74-brandy
+"https://www.thecocktaildb.com/drink/13024-sweet-sangria" 8 /ingredient/425-red-wine	/ingredient/476-sugar	/ingredient/513-water	/ingredient/30-apple	/ingredient/359-orange	/ingredient/312-lime	/ingredient/299-lemon	/ingredient/215-fresca
+"https://www.thecocktaildb.com/drink/13026-sangria-the--best" 7 /ingredient/425-red-wine	/ingredient/476-sugar	/ingredient/299-lemon	/ingredient/359-orange	/ingredient/30-apple	/ingredient/74-brandy	/ingredient/455-soda-water
+"https://www.thecocktaildb.com/drink/13032-spiced-peach-punch" 6 /ingredient/378-peach-nectar	/ingredient/352-orange-juice	/ingredient/77-brown-sugar	/ingredient/122-cinnamon	/ingredient/126-cloves	/ingredient/308-lime-juice
+"https://www.thecocktaildb.com/drink/13042-sunny-holiday-punch" 6 /ingredient/393-pineapple-juice	/ingredient/127-club-soda	/ingredient/352-orange-juice	/ingredient/299-lemon	/ingredient/54-berries	/ingredient/97-champagne
+"https://www.thecocktaildb.com/drink/13066-bruces-puce" 3 /ingredient/250-grenadine	/ingredient/282-kahlua	/ingredient/43-baileys-irish-cream
+"https://www.thecocktaildb.com/drink/13068-brave-bull-shooter" 2 /ingredient/4-tequila	/ingredient/483-tabasco-sauce
+"https://www.thecocktaildb.com/drink/13070-fahrenheit-5000" 3 /ingredient/207-firewater	/ingredient/7-absolut-peppar	/ingredient/483-tabasco-sauce
+"https://www.thecocktaildb.com/drink/13072-popped-cherry" 4 /ingredient/1-vodka	/ingredient/105-cherry-liqueur	/ingredient/155-cranberry-juice	/ingredient/352-orange-juice
+"https://www.thecocktaildb.com/drink/13086-atomic-lokade" 6 /ingredient/300-lemonade	/ingredient/1-vodka	/ingredient/67-blue-curacao	/ingredient/498-triple-sec	/ingredient/476-sugar	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/13128-diesel" 3 /ingredient/289-lager	/ingredient/120-cider	/ingredient/63-blackcurrant-cordial
+"https://www.thecocktaildb.com/drink/13162-afternoon" 5 /ingredient/282-kahlua	/ingredient/43-baileys-irish-cream	/ingredient/212-frangelico	/ingredient/139-coffee	/ingredient/161-cream
+"https://www.thecocktaildb.com/drink/13190-kool-aid-shot" 5 /ingredient/1-vodka	/ingredient/18-amaretto	/ingredient/453-sloe-gin	/ingredient/498-triple-sec	/ingredient/155-cranberry-juice
+"https://www.thecocktaildb.com/drink/13192-national-aquarium" 6 /ingredient/3-rum	/ingredient/1-vodka	/ingredient/2-gin	/ingredient/67-blue-curacao	/ingredient/457-sour-mix	/ingredient/297-lemon-lime-soda
+"https://www.thecocktaildb.com/drink/13196-long-vodka" 5 /ingredient/1-vodka	/ingredient/312-lime	/ingredient/20-angostura-bitters	/ingredient/497-tonic-water	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/13198-quick-f**k" 3 /ingredient/282-kahlua	/ingredient/331-midori-melon-liqueur	/ingredient/43-baileys-irish-cream
+"https://www.thecocktaildb.com/drink/13200-owens-grandmothers-revenge" 4 /ingredient/600-whiskey	/ingredient/52-beer	/ingredient/300-lemonade	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/13202-flaming-dr.-pepper" 5 /ingredient/18-amaretto	/ingredient/1-vodka	/ingredient/571-151-proof-rum	/ingredient/186-dr.-pepper	/ingredient/52-beer
+"https://www.thecocktaildb.com/drink/13282-black-&-tan" 2 /ingredient/13-ale	/ingredient/254-guinness-stout
+"https://www.thecocktaildb.com/drink/13328-chocolate-milk" 3 /ingredient/113-chocolate-liqueur	/ingredient/333-milk	/ingredient/18-amaretto
+"https://www.thecocktaildb.com/drink/13377-sea-breeze" 3 /ingredient/1-vodka	/ingredient/155-cranberry-juice	/ingredient/242-grapefruit-juice
+"https://www.thecocktaildb.com/drink/13405-brainteaser" 3 /ingredient/440-sambuca	/ingredient/199-erin-cream	/ingredient/9-advocaat
+"https://www.thecocktaildb.com/drink/13423-atlantic-sun" 5 /ingredient/1-vodka	/ingredient/458-southern-comfort	/ingredient/373-passion-fruit-syrup	/ingredient/480-sweet-and-sour	/ingredient/127-club-soda
+"https://www.thecocktaildb.com/drink/13497-green-goblin" 3 /ingredient/120-cider	/ingredient/289-lager	/ingredient/67-blue-curacao
+"https://www.thecocktaildb.com/drink/13499-oreo-mudslide" 5 /ingredient/1-vodka	/ingredient/282-kahlua	/ingredient/43-baileys-irish-cream	/ingredient/503-vanilla-ice-cream	/ingredient/361-oreo-cookie
+"https://www.thecocktaildb.com/drink/13501-abc" 3 /ingredient/18-amaretto	/ingredient/43-baileys-irish-cream	/ingredient/141-cognac
+"https://www.thecocktaildb.com/drink/13535-pink-panty-pulldowns" 3 /ingredient/466-sprite	/ingredient/398-pink-lemonade	/ingredient/1-vodka
+"https://www.thecocktaildb.com/drink/13539-ice-pick" 3 /ingredient/1-vodka	/ingredient/271-iced-tea	/ingredient/293-lemon-juice
+"https://www.thecocktaildb.com/drink/13621-tequila-sunrise" 3 /ingredient/4-tequila	/ingredient/352-orange-juice	/ingredient/250-grenadine
+"https://www.thecocktaildb.com/drink/13625-screaming-orgasm" 3 /ingredient/1-vodka	/ingredient/43-baileys-irish-cream	/ingredient/282-kahlua
+"https://www.thecocktaildb.com/drink/13683-apple-slammer" 2 /ingredient/572-7-up	/ingredient/29-apple-schnapps
+"https://www.thecocktaildb.com/drink/13731-amaretto-sour" 2 /ingredient/18-amaretto	/ingredient/457-sour-mix
+"https://www.thecocktaildb.com/drink/13775-jelly-bean" 2 /ingredient/61-blackberry-brandy	/ingredient/21-anis
+"https://www.thecocktaildb.com/drink/13807-after-five" 3 /ingredient/388-peppermint-schnapps	/ingredient/282-kahlua	/ingredient/43-baileys-irish-cream
+"https://www.thecocktaildb.com/drink/13825-midnight-manx" 5 /ingredient/282-kahlua	/ingredient/43-baileys-irish-cream	/ingredient/235-goldschlager	/ingredient/259-heavy-cream	/ingredient/139-coffee
+"https://www.thecocktaildb.com/drink/13837-kir-royale" 2 /ingredient/165-creme-de-cassis	/ingredient/97-champagne
+"https://www.thecocktaildb.com/drink/13847-jackhammer" 2 /ingredient/275-jack-daniels	/ingredient/18-amaretto
+"https://www.thecocktaildb.com/drink/13861-nutty-irishman" 3 /ingredient/43-baileys-irish-cream	/ingredient/212-frangelico	/ingredient/333-milk
+"https://www.thecocktaildb.com/drink/13938-at&t" 3 /ingredient/8-absolut-vodka	/ingredient/2-gin	/ingredient/497-tonic-water
+"https://www.thecocktaildb.com/drink/13940-69-special" 3 /ingredient/2-gin	/ingredient/572-7-up	/ingredient/293-lemon-juice
+"https://www.thecocktaildb.com/drink/14029-57-chevy-with-a-white-license-plate" 2 /ingredient/164-creme-de-cacao	/ingredient/1-vodka
+"https://www.thecocktaildb.com/drink/14053-mothers-milk" 3 /ingredient/235-goldschlager	/ingredient/80-butterscotch-schnapps	/ingredient/333-milk
+"https://www.thecocktaildb.com/drink/14065-zippys-revenge" 3 /ingredient/18-amaretto	/ingredient/3-rum	/ingredient/287-kool-aid
+"https://www.thecocktaildb.com/drink/14071-belgian-blue" 4 /ingredient/1-vodka	/ingredient/133-coconut-liqueur	/ingredient/67-blue-curacao	/ingredient/466-sprite
+"https://www.thecocktaildb.com/drink/14087-red-snapper" 3 /ingredient/168-crown-royal	/ingredient/18-amaretto	/ingredient/155-cranberry-juice
+"https://www.thecocktaildb.com/drink/14133-cosmopolitan-martini" 4 /ingredient/142-cointreau	/ingredient/1-vodka	/ingredient/312-lime	/ingredient/155-cranberry-juice
+"https://www.thecocktaildb.com/drink/14157-ziemes-martini-apfelsaft" 2 /ingredient/510-vermouth	/ingredient/28-apple-juice
+"https://www.thecocktaildb.com/drink/14167-vodka-martini" 3 /ingredient/1-vodka	/ingredient/189-dry-vermouth	/ingredient/347-olive
+"https://www.thecocktaildb.com/drink/14181-cafe-savoy" 4 /ingredient/139-coffee	/ingredient/333-milk	/ingredient/498-triple-sec	/ingredient/74-brandy
+"https://www.thecocktaildb.com/drink/14195-snowball" 4 /ingredient/9-advocaat	/ingredient/300-lemonade	/ingredient/299-lemon	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/14209-mocha-berry" 4 /ingredient/139-coffee	/ingredient/96-chambord-raspberry-liqueur	/ingredient/131-cocoa-powder	/ingredient/515-whipped-cream
+"https://www.thecocktaildb.com/drink/14229-747" 3 /ingredient/282-kahlua	/ingredient/43-baileys-irish-cream	/ingredient/212-frangelico
+"https://www.thecocktaildb.com/drink/14272-addison-special" 3 /ingredient/1-vodka	/ingredient/250-grenadine	/ingredient/352-orange-juice
+"https://www.thecocktaildb.com/drink/14306-amaretto-stone-sour" 3 /ingredient/18-amaretto	/ingredient/457-sour-mix	/ingredient/352-orange-juice
+"https://www.thecocktaildb.com/drink/14356-blind-russian" 5 /ingredient/43-baileys-irish-cream	/ingredient/232-godiva-liqueur	/ingredient/282-kahlua	/ingredient/80-butterscotch-schnapps	/ingredient/333-milk
+"https://www.thecocktaildb.com/drink/14360-absolut-sex" 4 /ingredient/6-absolut-kurant	/ingredient/331-midori-melon-liqueur	/ingredient/155-cranberry-juice	/ingredient/466-sprite
+"https://www.thecocktaildb.com/drink/14364-aztec-punch" 4 /ingredient/300-lemonade	/ingredient/1-vodka	/ingredient/3-rum	/ingredient/228-ginger-ale
+"https://www.thecocktaildb.com/drink/14366-lemon-drop" 3 /ingredient/1-vodka	/ingredient/142-cointreau	/ingredient/299-lemon
+"https://www.thecocktaildb.com/drink/14374-absolut-evergreen" 4 /ingredient/574-absolut-citron	/ingredient/399-pisang-ambon	/ingredient/270-ice	/ingredient/55-bitter-lemon
+"https://www.thecocktaildb.com/drink/14378-lunch-box" 3 /ingredient/52-beer	/ingredient/18-amaretto	/ingredient/352-orange-juice
+"https://www.thecocktaildb.com/drink/14446-kool-aid-slammer" 2 /ingredient/287-kool-aid	/ingredient/1-vodka
+"https://www.thecocktaildb.com/drink/14456-kurant-tea" 3 /ingredient/6-absolut-kurant	/ingredient/486-tea	/ingredient/476-sugar
+"https://www.thecocktaildb.com/drink/14466-dirty-nipple" 3 /ingredient/282-kahlua	/ingredient/440-sambuca	/ingredient/43-baileys-irish-cream
+"https://www.thecocktaildb.com/drink/14510-baileys-dream-shake" 3 /ingredient/43-baileys-irish-cream	/ingredient/503-vanilla-ice-cream	/ingredient/161-cream
+"https://www.thecocktaildb.com/drink/14538-bumble-bee" 3 /ingredient/43-baileys-irish-cream	/ingredient/282-kahlua	/ingredient/440-sambuca
+"https://www.thecocktaildb.com/drink/14560-a.d.m.-(after-dinner-mint)" 4 /ingredient/520-white-creme-de-menthe	/ingredient/458-southern-comfort	/ingredient/1-vodka	/ingredient/264-hot-chocolate
+"https://www.thecocktaildb.com/drink/14578-amaretto-sunrise" 3 /ingredient/18-amaretto	/ingredient/352-orange-juice	/ingredient/250-grenadine
+"https://www.thecocktaildb.com/drink/14584-arizona-stingers" 2 /ingredient/8-absolut-vodka	/ingredient/271-iced-tea
+"https://www.thecocktaildb.com/drink/14602-tequila-surprise" 2 /ingredient/4-tequila	/ingredient/483-tabasco-sauce
+"https://www.thecocktaildb.com/drink/14622-arctic-fish" 5 /ingredient/1-vodka	/ingredient/241-grape-soda	/ingredient/352-orange-juice	/ingredient/270-ice	/ingredient/85-candy
+"https://www.thecocktaildb.com/drink/14688-freddy-kruger" 3 /ingredient/278-j�germeister	/ingredient/440-sambuca	/ingredient/1-vodka
+"https://www.thecocktaildb.com/drink/14730-bubble-gum" 4 /ingredient/1-vodka	/ingredient/44-banana-liqueur	/ingredient/352-orange-juice	/ingredient/379-peach-schnapps
+"https://www.thecocktaildb.com/drink/14752-kiwi-lemon" 3 /ingredient/285-kiwi-liqueur	/ingredient/55-bitter-lemon	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/14782-hot-creamy-bush" 3 /ingredient/273-irish-whiskey	/ingredient/43-baileys-irish-cream	/ingredient/139-coffee
+"https://www.thecocktaildb.com/drink/14842-midnight-mint" 3 /ingredient/43-baileys-irish-cream	/ingredient/520-white-creme-de-menthe	/ingredient/161-cream
+"https://www.thecocktaildb.com/drink/14956-jello-shots" 3 /ingredient/1-vodka	/ingredient/276-jello	/ingredient/513-water
+"https://www.thecocktaildb.com/drink/14978-rum-punch" 5 /ingredient/3-rum	/ingredient/228-ginger-ale	/ingredient/221-fruit-punch	/ingredient/352-orange-juice	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/15006-turkeyball" 3 /ingredient/526-wild-turkey	/ingredient/18-amaretto	/ingredient/393-pineapple-juice
+"https://www.thecocktaildb.com/drink/15024-absolutely-cranberry-smash" 4 /ingredient/8-absolut-vodka	/ingredient/155-cranberry-juice	/ingredient/228-ginger-ale	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/15026-kiss-me-quick" 5 /ingredient/157-cranberry-vodka	/ingredient/25-apfelkorn	/ingredient/444-schweppes-russchian	/ingredient/28-apple-juice	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/15082-royal-flush" 4 /ingredient/168-crown-royal	/ingredient/379-peach-schnapps	/ingredient/96-chambord-raspberry-liqueur	/ingredient/155-cranberry-juice
+"https://www.thecocktaildb.com/drink/15086-limona-corona" 2 /ingredient/152-corona	/ingredient/39-bacardi-limon
+"https://www.thecocktaildb.com/drink/15092-pysch-vitamin-light" 4 /ingredient/352-orange-juice	/ingredient/28-apple-juice	/ingredient/393-pineapple-juice	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/15106-apello" 4 /ingredient/352-orange-juice	/ingredient/242-grapefruit-juice	/ingredient/28-apple-juice	/ingredient/322-maraschino-cherry
+"https://www.thecocktaildb.com/drink/15178-texas-rattlesnake" 4 /ingredient/534-yukon-jack	/ingredient/100-cherry-brandy	/ingredient/458-southern-comfort	/ingredient/480-sweet-and-sour
+"https://www.thecocktaildb.com/drink/15182-after-sex" 3 /ingredient/1-vodka	/ingredient/163-creme-de-banane	/ingredient/352-orange-juice
+"https://www.thecocktaildb.com/drink/15184-san-francisco" 4 /ingredient/1-vodka	/ingredient/163-creme-de-banane	/ingredient/250-grenadine	/ingredient/352-orange-juice
+"https://www.thecocktaildb.com/drink/15194-amaretto-shake" 3 /ingredient/112-chocolate-ice-cream	/ingredient/74-brandy	/ingredient/18-amaretto
+"https://www.thecocktaildb.com/drink/15200-a-day-at-the-beach" 4 /ingredient/135-coconut-rum	/ingredient/18-amaretto	/ingredient/352-orange-juice	/ingredient/250-grenadine
+"https://www.thecocktaildb.com/drink/15226-space-odyssey" 6 /ingredient/571-151-proof-rum	/ingredient/315-malibu-rum	/ingredient/393-pineapple-juice	/ingredient/352-orange-juice	/ingredient/250-grenadine	/ingredient/99-cherries
+"https://www.thecocktaildb.com/drink/15266-avalon" 5 /ingredient/1-vodka	/ingredient/399-pisang-ambon	/ingredient/28-apple-juice	/ingredient/293-lemon-juice	/ingredient/300-lemonade
+"https://www.thecocktaildb.com/drink/15300-3-mile-long-island-iced-tea" 9 /ingredient/2-gin	/ingredient/305-light-rum	/ingredient/4-tequila	/ingredient/498-triple-sec	/ingredient/1-vodka	/ingredient/128-coca-cola	/ingredient/480-sweet-and-sour	/ingredient/56-bitters	/ingredient/299-lemon
+"https://www.thecocktaildb.com/drink/15328-zorro" 3 /ingredient/440-sambuca	/ingredient/43-baileys-irish-cream	/ingredient/520-white-creme-de-menthe
+"https://www.thecocktaildb.com/drink/15330-orange-crush" 3 /ingredient/1-vodka	/ingredient/498-triple-sec	/ingredient/352-orange-juice
+"https://www.thecocktaildb.com/drink/15346-155-belmont" 4 /ingredient/179-dark-rum	/ingredient/305-light-rum	/ingredient/1-vodka	/ingredient/352-orange-juice
+"https://www.thecocktaildb.com/drink/15403-vodka-russian" 2 /ingredient/1-vodka	/ingredient/444-schweppes-russchian
+"https://www.thecocktaildb.com/drink/15423-110-in-the-shade" 2 /ingredient/289-lager	/ingredient/4-tequila
+"https://www.thecocktaildb.com/drink/15427-grand-blue" 4 /ingredient/315-malibu-rum	/ingredient/379-peach-schnapps	/ingredient/67-blue-curacao	/ingredient/480-sweet-and-sour
+"https://www.thecocktaildb.com/drink/15515-tennesee-mud" 4 /ingredient/139-coffee	/ingredient/275-jack-daniels	/ingredient/18-amaretto	/ingredient/515-whipped-cream
+"https://www.thecocktaildb.com/drink/15521-swedish-coffee" 3 /ingredient/139-coffee	/ingredient/35-aquavit	/ingredient/476-sugar
+"https://www.thecocktaildb.com/drink/15567-adam-sunrise" 4 /ingredient/1-vodka	/ingredient/300-lemonade	/ingredient/513-water	/ingredient/476-sugar
+"https://www.thecocktaildb.com/drink/15597-absolut-stress-" 5 /ingredient/8-absolut-vodka	/ingredient/379-peach-schnapps	/ingredient/133-coconut-liqueur	/ingredient/155-cranberry-juice	/ingredient/393-pineapple-juice
+"https://www.thecocktaildb.com/drink/15615-chocolate-monkey" 8 /ingredient/44-banana-liqueur	/ingredient/164-creme-de-cacao	/ingredient/112-chocolate-ice-cream	/ingredient/115-chocolate-syrup	/ingredient/114-chocolate-milk	/ingredient/515-whipped-cream	/ingredient/106-cherry	/ingredient/47-banana
+"https://www.thecocktaildb.com/drink/15639-texas-sling" 5 /ingredient/282-kahlua	/ingredient/272-irish-cream	/ingredient/18-amaretto	/ingredient/571-151-proof-rum	/ingredient/161-cream
+"https://www.thecocktaildb.com/drink/15675-a-midsummernight-dream" 5 /ingredient/1-vodka	/ingredient/284-kirschwasser	/ingredient/472-strawberry-liqueur	/ingredient/470-strawberries	/ingredient/444-schweppes-russchian
+"https://www.thecocktaildb.com/drink/15691-zoksel" 7 /ingredient/52-beer	/ingredient/431-root-beer	/ingredient/300-lemonade	/ingredient/128-coca-cola	/ingredient/572-7-up	/ingredient/165-creme-de-cassis	/ingredient/299-lemon
+"https://www.thecocktaildb.com/drink/15761-quick-sand" 2 /ingredient/59-black-sambuca	/ingredient/352-orange-juice
+"https://www.thecocktaildb.com/drink/15789-snakebite-and-black" 3 /ingredient/289-lager	/ingredient/120-cider	/ingredient/65-blackcurrant-squash
+"https://www.thecocktaildb.com/drink/15825-jamaican-coffee" 4 /ingredient/3-rum	/ingredient/139-coffee	/ingredient/513-water	/ingredient/515-whipped-cream
+"https://www.thecocktaildb.com/drink/15841-mojito-extra" 5 /ingredient/337-mint	/ingredient/293-lemon-juice	/ingredient/179-dark-rum	/ingredient/127-club-soda	/ingredient/20-angostura-bitters
+"https://www.thecocktaildb.com/drink/15849-apricot-punch" 5 /ingredient/32-apricot-brandy	/ingredient/97-champagne	/ingredient/1-vodka	/ingredient/572-7-up	/ingredient/352-orange-juice
+"https://www.thecocktaildb.com/drink/15853-b-52" 3 /ingredient/43-baileys-irish-cream	/ingredient/238-grand-marnier	/ingredient/282-kahlua
+"https://www.thecocktaildb.com/drink/15941-americano" 4 /ingredient/83-campari	/ingredient/482-sweet-vermouth	/ingredient/294-lemon-peel	/ingredient/354-orange-peel
+"https://www.thecocktaildb.com/drink/15951-black-forest-shake" 5 /ingredient/270-ice	/ingredient/115-chocolate-syrup	/ingredient/100-cherry-brandy	/ingredient/1-vodka	/ingredient/333-milk
+"https://www.thecocktaildb.com/drink/16031-radler" 2 /ingredient/52-beer	/ingredient/572-7-up
+"https://www.thecocktaildb.com/drink/16047-campari-beer" 2 /ingredient/289-lager	/ingredient/83-campari
+"https://www.thecocktaildb.com/drink/16082-almond-chocolate-coffee" 3 /ingredient/18-amaretto	/ingredient/178-dark-creme-de-cacao	/ingredient/139-coffee
+"https://www.thecocktaildb.com/drink/16100-amaretto-stone-sour-alternative" 4 /ingredient/457-sour-mix	/ingredient/18-amaretto	/ingredient/4-tequila	/ingredient/352-orange-juice
+"https://www.thecocktaildb.com/drink/16158-whitecap-margarita" 4 /ingredient/270-ice	/ingredient/4-tequila	/ingredient/158-cream-of-coconut	/ingredient/308-lime-juice
+"https://www.thecocktaildb.com/drink/16176-bellini-martini" 5 /ingredient/270-ice	/ingredient/1-vodka	/ingredient/378-peach-nectar	/ingredient/379-peach-schnapps	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/16178-jitterbug" 7 /ingredient/2-gin	/ingredient/1-vodka	/ingredient/250-grenadine	/ingredient/308-lime-juice	/ingredient/476-sugar	/ingredient/475-sugar-syrup	/ingredient/455-soda-water
+"https://www.thecocktaildb.com/drink/16196-moranguito" 3 /ingredient/573-absinthe	/ingredient/4-tequila	/ingredient/250-grenadine
+"https://www.thecocktaildb.com/drink/16202-amaretto-sweet-&-sour" 4 /ingredient/18-amaretto	/ingredient/480-sweet-and-sour	/ingredient/331-midori-melon-liqueur	/ingredient/393-pineapple-juice
+"https://www.thecocktaildb.com/drink/16250-rum-runner" 5 /ingredient/315-malibu-rum	/ingredient/61-blackberry-brandy	/ingredient/352-orange-juice	/ingredient/393-pineapple-juice	/ingredient/155-cranberry-juice
+"https://www.thecocktaildb.com/drink/16262-h.d." 3 /ingredient/601-whisky	/ingredient/43-baileys-irish-cream	/ingredient/139-coffee
+"https://www.thecocktaildb.com/drink/16271-the-evil-blue-thing" 3 /ingredient/164-creme-de-cacao	/ingredient/67-blue-curacao	/ingredient/305-light-rum
+"https://www.thecocktaildb.com/drink/16273-shark-attack" 3 /ingredient/300-lemonade	/ingredient/513-water	/ingredient/1-vodka
+"https://www.thecocktaildb.com/drink/16289-apple-grande" 2 /ingredient/4-tequila	/ingredient/27-apple-cider
+"https://www.thecocktaildb.com/drink/16333-adam-bomb" 8 /ingredient/3-rum	/ingredient/1-vodka	/ingredient/4-tequila	/ingredient/498-triple-sec	/ingredient/222-fruit	/ingredient/270-ice	/ingredient/439-salt	/ingredient/220-fruit-juice
+"https://www.thecocktaildb.com/drink/16354-arizona-antifreeze" 3 /ingredient/1-vodka	/ingredient/331-midori-melon-liqueur	/ingredient/480-sweet-and-sour
+"https://www.thecocktaildb.com/drink/16405-a-piece-of-ass" 4 /ingredient/18-amaretto	/ingredient/458-southern-comfort	/ingredient/270-ice	/ingredient/457-sour-mix
+"https://www.thecocktaildb.com/drink/16447-brandon-and-wills-coke-float" 3 /ingredient/503-vanilla-ice-cream	/ingredient/128-coca-cola	/ingredient/71-bourbon
+"https://www.thecocktaildb.com/drink/16485-flaming-lamborghini" 4 /ingredient/282-kahlua	/ingredient/440-sambuca	/ingredient/67-blue-curacao	/ingredient/43-baileys-irish-cream
+"https://www.thecocktaildb.com/drink/16942-zipperhead" 3 /ingredient/96-chambord-raspberry-liqueur	/ingredient/1-vodka	/ingredient/455-soda-water
+"https://www.thecocktaildb.com/drink/16943-a-gilligans-island" 4 /ingredient/1-vodka	/ingredient/379-peach-schnapps	/ingredient/352-orange-juice	/ingredient/155-cranberry-juice
+"https://www.thecocktaildb.com/drink/16951-kioki-coffee" 3 /ingredient/282-kahlua	/ingredient/74-brandy	/ingredient/139-coffee
+"https://www.thecocktaildb.com/drink/16958-apple-pie-with-a-crust" 3 /ingredient/28-apple-juice	/ingredient/315-malibu-rum	/ingredient/122-cinnamon
+"https://www.thecocktaildb.com/drink/16963-zorbatini" 2 /ingredient/1-vodka	/ingredient/363-ouzo
+"https://www.thecocktaildb.com/drink/16967-vodka-fizz" 5 /ingredient/1-vodka	/ingredient/256-half-and-half	/ingredient/313-limeade	/ingredient/270-ice	/ingredient/344-nutmeg
+"https://www.thecocktaildb.com/drink/16984-radioactive-long-island-iced-tea" 8 /ingredient/3-rum	/ingredient/1-vodka	/ingredient/4-tequila	/ingredient/2-gin	/ingredient/498-triple-sec	/ingredient/96-chambord-raspberry-liqueur	/ingredient/331-midori-melon-liqueur	/ingredient/315-malibu-rum
+"https://www.thecocktaildb.com/drink/16987-irish-curdling-cow" 4 /ingredient/43-baileys-irish-cream	/ingredient/71-bourbon	/ingredient/1-vodka	/ingredient/352-orange-juice
+"https://www.thecocktaildb.com/drink/16991-downshift" 4 /ingredient/221-fruit-punch	/ingredient/466-sprite	/ingredient/4-tequila	/ingredient/571-151-proof-rum
+"https://www.thecocktaildb.com/drink/16992-pink-penocha" 5 /ingredient/201-everclear	/ingredient/1-vodka	/ingredient/379-peach-schnapps	/ingredient/352-orange-juice	/ingredient/155-cranberry-juice
+"https://www.thecocktaildb.com/drink/16995-orange-whip" 5 /ingredient/352-orange-juice	/ingredient/3-rum	/ingredient/1-vodka	/ingredient/161-cream	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/16998-bruised-heart" 4 /ingredient/1-vodka	/ingredient/96-chambord-raspberry-liqueur	/ingredient/382-peachtree-schnapps	/ingredient/155-cranberry-juice
+"https://www.thecocktaildb.com/drink/17002-gideons-green-dinosaur" 6 /ingredient/179-dark-rum	/ingredient/1-vodka	/ingredient/498-triple-sec	/ingredient/4-tequila	/ingredient/328-melon-liqueur	/ingredient/338-mountain-dew
+"https://www.thecocktaildb.com/drink/17005-a-true-amaretto-sour" 4 /ingredient/18-amaretto	/ingredient/299-lemon	/ingredient/270-ice	/ingredient/322-maraschino-cherry
+"https://www.thecocktaildb.com/drink/17015-irish-russian" 4 /ingredient/1-vodka	/ingredient/282-kahlua	/ingredient/128-coca-cola	/ingredient/254-guinness-stout
+"https://www.thecocktaildb.com/drink/17027-zima-blaster" 2 /ingredient/535-zima	/ingredient/96-chambord-raspberry-liqueur
+"https://www.thecocktaildb.com/drink/17035-buccaneer" 2 /ingredient/152-corona	/ingredient/39-bacardi-limon
+"https://www.thecocktaildb.com/drink/17044-homemade-kahlua" 6 /ingredient/476-sugar	/ingredient/149-corn-syrup	/ingredient/139-coffee	/ingredient/502-vanilla-extract	/ingredient/513-water	/ingredient/1-vodka
+"https://www.thecocktaildb.com/drink/17066-army-special" 4 /ingredient/1-vodka	/ingredient/2-gin	/ingredient/307-lime-juice-cordial	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/17074-arizona-twister" 9 /ingredient/1-vodka	/ingredient/315-malibu-rum	/ingredient/234-gold-tequila	/ingredient/352-orange-juice	/ingredient/393-pineapple-juice	/ingredient/158-cream-of-coconut	/ingredient/250-grenadine	/ingredient/270-ice	/ingredient/397-pineapple
+"https://www.thecocktaildb.com/drink/17079-baby-guinness" 2 /ingredient/282-kahlua	/ingredient/43-baileys-irish-cream
+"https://www.thecocktaildb.com/drink/17094-alice-in-wonderland" 3 /ingredient/18-amaretto	/ingredient/238-grand-marnier	/ingredient/458-southern-comfort
+"https://www.thecocktaildb.com/drink/17105-501-blue" 5 /ingredient/67-blue-curacao	/ingredient/70-blueberry-schnapps	/ingredient/1-vodka	/ingredient/457-sour-mix	/ingredient/572-7-up
+"https://www.thecocktaildb.com/drink/17114-ruby-tuesday" 3 /ingredient/2-gin	/ingredient/155-cranberry-juice	/ingredient/250-grenadine
+"https://www.thecocktaildb.com/drink/17120-brain-fart" 6 /ingredient/201-everclear	/ingredient/1-vodka	/ingredient/338-mountain-dew	/ingredient/478-surge	/ingredient/293-lemon-juice	/ingredient/3-rum
+"https://www.thecocktaildb.com/drink/17135-citrus-coke" 2 /ingredient/39-bacardi-limon	/ingredient/128-coca-cola
+"https://www.thecocktaildb.com/drink/17168-amaretto-sunset" 4 /ingredient/498-triple-sec	/ingredient/18-amaretto	/ingredient/120-cider	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/17174-cherry-electric-lemonade" 8 /ingredient/2-gin	/ingredient/4-tequila	/ingredient/1-vodka	/ingredient/523-white-rum	/ingredient/498-triple-sec	/ingredient/102-cherry-grenadine	/ingredient/480-sweet-and-sour	/ingredient/127-club-soda
+"https://www.thecocktaildb.com/drink/17175-girl-from-ipanema" 4 /ingredient/81-cachaca	/ingredient/293-lemon-juice	/ingredient/12-agave-syrup	/ingredient/97-champagne
+"https://www.thecocktaildb.com/drink/17176-ipamena" 5 /ingredient/312-lime	/ingredient/77-brown-sugar	/ingredient/372-passion-fruit-juice	/ingredient/228-ginger-ale	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/17177-dark-caipirinha" 3 /ingredient/181-demerara-sugar	/ingredient/312-lime	/ingredient/81-cachaca
+"https://www.thecocktaildb.com/drink/17178-jam-donut" 4 /ingredient/43-baileys-irish-cream	/ingredient/96-chambord-raspberry-liqueur	/ingredient/475-sugar-syrup	/ingredient/476-sugar
+"https://www.thecocktaildb.com/drink/17180-aviation" 3 /ingredient/2-gin	/ingredient/293-lemon-juice	/ingredient/323-maraschino-liqueur
+"https://www.thecocktaildb.com/drink/17181-dirty-martini" 5 /ingredient/1-vodka	/ingredient/189-dry-vermouth	/ingredient/576-olive-brine	/ingredient/299-lemon	/ingredient/347-olive
+"https://www.thecocktaildb.com/drink/17182-duchamps-punch" 7 /ingredient/400-pisco	/ingredient/308-lime-juice	/ingredient/577-pineapple-syrup	/ingredient/578-st.-germain	/ingredient/20-angostura-bitters	/ingredient/386-pepper	/ingredient/579-lavender
+"https://www.thecocktaildb.com/drink/17184-between-the-sheets" 4 /ingredient/74-brandy	/ingredient/305-light-rum	/ingredient/498-triple-sec	/ingredient/293-lemon-juice
+"https://www.thecocktaildb.com/drink/17185-casino" 5 /ingredient/2-gin	/ingredient/323-maraschino-liqueur	/ingredient/293-lemon-juice	/ingredient/350-orange-bitters	/ingredient/106-cherry
+"https://www.thecocktaildb.com/drink/17186-clover-club" 4 /ingredient/2-gin	/ingredient/250-grenadine	/ingredient/299-lemon	/ingredient/192-egg-white
+"https://www.thecocktaildb.com/drink/17187-derby" 3 /ingredient/2-gin	/ingredient/540-peach-bitters	/ingredient/337-mint
+"https://www.thecocktaildb.com/drink/17189-monkey-gland" 4 /ingredient/2-gin	/ingredient/53-benedictine	/ingredient/352-orange-juice	/ingredient/250-grenadine
+"https://www.thecocktaildb.com/drink/17190-paradise" 3 /ingredient/2-gin	/ingredient/32-apricot-brandy	/ingredient/352-orange-juice
+"https://www.thecocktaildb.com/drink/17192-porto-flip" 3 /ingredient/74-brandy	/ingredient/406-port	/ingredient/193-egg-yolk
+"https://www.thecocktaildb.com/drink/17193-stinger" 2 /ingredient/74-brandy	/ingredient/520-white-creme-de-menthe
+"https://www.thecocktaildb.com/drink/17194-white-lady" 3 /ingredient/2-gin	/ingredient/498-triple-sec	/ingredient/293-lemon-juice
+"https://www.thecocktaildb.com/drink/17195-bellini" 2 /ingredient/97-champagne	/ingredient/379-peach-schnapps
+"https://www.thecocktaildb.com/drink/17196-cosmopolitan" 4 /ingredient/1-vodka	/ingredient/308-lime-juice	/ingredient/142-cointreau	/ingredient/155-cranberry-juice
+"https://www.thecocktaildb.com/drink/17197-french-75" 6 /ingredient/2-gin	/ingredient/476-sugar	/ingredient/293-lemon-juice	/ingredient/97-champagne	/ingredient/359-orange	/ingredient/322-maraschino-cherry
+"https://www.thecocktaildb.com/drink/17198-french-connection" 2 /ingredient/141-cognac	/ingredient/18-amaretto
+"https://www.thecocktaildb.com/drink/17201-hemingway-special" 4 /ingredient/3-rum	/ingredient/242-grapefruit-juice	/ingredient/323-maraschino-liqueur	/ingredient/308-lime-juice
+"https://www.thecocktaildb.com/drink/17202-horses-neck" 4 /ingredient/294-lemon-peel	/ingredient/74-brandy	/ingredient/228-ginger-ale	/ingredient/56-bitters
+"https://www.thecocktaildb.com/drink/17203-kir" 2 /ingredient/165-creme-de-cassis	/ingredient/97-champagne
+"https://www.thecocktaildb.com/drink/17204-long-island-iced-tea" 6 /ingredient/1-vodka	/ingredient/4-tequila	/ingredient/305-light-rum	/ingredient/2-gin	/ingredient/128-coca-cola	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/17205-mimosa" 2 /ingredient/97-champagne	/ingredient/352-orange-juice
+"https://www.thecocktaildb.com/drink/17206-mint-julep" 4 /ingredient/337-mint	/ingredient/71-bourbon	/ingredient/409-powdered-sugar	/ingredient/513-water
+"https://www.thecocktaildb.com/drink/17208-rose" 6 /ingredient/189-dry-vermouth	/ingredient/2-gin	/ingredient/32-apricot-brandy	/ingredient/293-lemon-juice	/ingredient/250-grenadine	/ingredient/409-powdered-sugar
+"https://www.thecocktaildb.com/drink/17209-barracuda" 5 /ingredient/3-rum	/ingredient/223-galliano	/ingredient/393-pineapple-juice	/ingredient/308-lime-juice	/ingredient/542-prosecco
+"https://www.thecocktaildb.com/drink/17210-bramble" 4 /ingredient/2-gin	/ingredient/293-lemon-juice	/ingredient/475-sugar-syrup	/ingredient/575-creme-de-mure
+"https://www.thecocktaildb.com/drink/17212-espresso-martini" 3 /ingredient/1-vodka	/ingredient/282-kahlua	/ingredient/475-sugar-syrup
+"https://www.thecocktaildb.com/drink/17213-french-martini" 3 /ingredient/1-vodka	/ingredient/416-raspberry-liqueur	/ingredient/393-pineapple-juice
+"https://www.thecocktaildb.com/drink/17214-russian-spring-punch" 4 /ingredient/1-vodka	/ingredient/165-creme-de-cassis	/ingredient/475-sugar-syrup	/ingredient/293-lemon-juice
+"https://www.thecocktaildb.com/drink/17215-spritz" 3 /ingredient/542-prosecco	/ingredient/83-campari	/ingredient/455-soda-water
+"https://www.thecocktaildb.com/drink/17216-tommys-margarita" 3 /ingredient/4-tequila	/ingredient/308-lime-juice	/ingredient/12-agave-syrup
+"https://www.thecocktaildb.com/drink/17217-vampiro" 6 /ingredient/4-tequila	/ingredient/492-tomato-juice	/ingredient/352-orange-juice	/ingredient/308-lime-juice	/ingredient/475-sugar-syrup	/ingredient/439-salt
+"https://www.thecocktaildb.com/drink/17218-vesper" 3 /ingredient/2-gin	/ingredient/1-vodka	/ingredient/539-lillet-blanc
+"https://www.thecocktaildb.com/drink/17220-butter-baby" 4 /ingredient/503-vanilla-ice-cream	/ingredient/80-butterscotch-schnapps	/ingredient/333-milk	/ingredient/1-vodka
+"https://www.thecocktaildb.com/drink/17222-a1" 4 /ingredient/2-gin	/ingredient/238-grand-marnier	/ingredient/293-lemon-juice	/ingredient/250-grenadine
+"https://www.thecocktaildb.com/drink/17223-abbey-martini" 4 /ingredient/2-gin	/ingredient/482-sweet-vermouth	/ingredient/352-orange-juice	/ingredient/20-angostura-bitters
+"https://www.thecocktaildb.com/drink/17224-absolutely-fabulous" 3 /ingredient/1-vodka	/ingredient/155-cranberry-juice	/ingredient/97-champagne
+"https://www.thecocktaildb.com/drink/17225-ace" 5 /ingredient/2-gin	/ingredient/250-grenadine	/ingredient/259-heavy-cream	/ingredient/333-milk	/ingredient/192-egg-white
+"https://www.thecocktaildb.com/drink/17226-adam-&-eve" 4 /ingredient/2-gin	/ingredient/141-cognac	/ingredient/165-creme-de-cassis	/ingredient/217-fresh-lemon-juice
+"https://www.thecocktaildb.com/drink/17228-addison" 2 /ingredient/2-gin	/ingredient/510-vermouth
+"https://www.thecocktaildb.com/drink/17229-adios-amigos-cocktail" 7 /ingredient/3-rum	/ingredient/189-dry-vermouth	/ingredient/141-cognac	/ingredient/2-gin	/ingredient/547-fresh-lime-juice	/ingredient/475-sugar-syrup	/ingredient/513-water
+"https://www.thecocktaildb.com/drink/17230-gin-rickey" 5 /ingredient/2-gin	/ingredient/250-grenadine	/ingredient/299-lemon	/ingredient/455-soda-water	/ingredient/312-lime
+"https://www.thecocktaildb.com/drink/17233-salted-toffee-martini" 5 /ingredient/2-gin	/ingredient/113-chocolate-liqueur	/ingredient/18-amaretto	/ingredient/538-chocolate-sauce	/ingredient/543-salted-chocolate
+"https://www.thecocktaildb.com/drink/17239-hunters-moon" 5 /ingredient/510-vermouth	/ingredient/322-maraschino-cherry	/ingredient/475-sugar-syrup	/ingredient/300-lemonade	/ingredient/60-blackberries
+"https://www.thecocktaildb.com/drink/17241-zombie" 7 /ingredient/3-rum	/ingredient/233-gold-rum	/ingredient/571-151-proof-rum	/ingredient/390-pernod	/ingredient/250-grenadine	/ingredient/308-lime-juice	/ingredient/20-angostura-bitters
+"https://www.thecocktaildb.com/drink/17242-bombay-cassis" 6 /ingredient/2-gin	/ingredient/165-creme-de-cassis	/ingredient/547-fresh-lime-juice	/ingredient/229-ginger-beer	/ingredient/312-lime	/ingredient/230-ginger
+"https://www.thecocktaildb.com/drink/17245-rosemary-blue" 4 /ingredient/2-gin	/ingredient/67-blue-curacao	/ingredient/497-tonic-water	/ingredient/549-rosemary
+"https://www.thecocktaildb.com/drink/17247-the-last-word" 4 /ingredient/245-green-chartreuse	/ingredient/323-maraschino-liqueur	/ingredient/308-lime-juice	/ingredient/2-gin
+"https://www.thecocktaildb.com/drink/17248-french-negroni" 4 /ingredient/2-gin	/ingredient/306-lillet	/ingredient/482-sweet-vermouth	/ingredient/354-orange-peel
+"https://www.thecocktaildb.com/drink/17249-pegu-club" 5 /ingredient/2-gin	/ingredient/351-orange-curacao	/ingredient/308-lime-juice	/ingredient/20-angostura-bitters	/ingredient/350-orange-bitters
+"https://www.thecocktaildb.com/drink/17250-corpse-reviver" 5 /ingredient/2-gin	/ingredient/498-triple-sec	/ingredient/539-lillet-blanc	/ingredient/293-lemon-juice	/ingredient/573-absinthe
+"https://www.thecocktaildb.com/drink/17251-boulevardier" 4 /ingredient/83-campari	/ingredient/482-sweet-vermouth	/ingredient/436-rye-whiskey	/ingredient/354-orange-peel
+"https://www.thecocktaildb.com/drink/17252-greyhound" 2 /ingredient/1-vodka	/ingredient/242-grapefruit-juice
+"https://www.thecocktaildb.com/drink/17253-paloma" 2 /ingredient/241-grape-soda	/ingredient/4-tequila
+"https://www.thecocktaildb.com/drink/17254-bijou" 4 /ingredient/350-orange-bitters	/ingredient/245-green-chartreuse	/ingredient/2-gin	/ingredient/482-sweet-vermouth
+"https://www.thecocktaildb.com/drink/17255-gimlet" 4 /ingredient/2-gin	/ingredient/308-lime-juice	/ingredient/475-sugar-syrup	/ingredient/312-lime
+"https://www.thecocktaildb.com/drink/17256-martinez-2" 4 /ingredient/2-gin	/ingredient/482-sweet-vermouth	/ingredient/323-maraschino-liqueur	/ingredient/20-angostura-bitters
+"https://www.thecocktaildb.com/drink/17266-oatmeal-cookie" 5 /ingredient/282-kahlua	/ingredient/43-baileys-irish-cream	/ingredient/80-butterscotch-schnapps	/ingredient/278-jagermeister	/ingredient/235-goldschlager
+"https://www.thecocktaildb.com/drink/17267-bahama-mama" 7 /ingredient/3-rum	/ingredient/179-dark-rum	/ingredient/44-banana-liqueur	/ingredient/250-grenadine	/ingredient/393-pineapple-juice	/ingredient/352-orange-juice	/ingredient/480-sweet-and-sour
+"https://www.thecocktaildb.com/drink/17268-blue-hurricane" 6 /ingredient/3-rum	/ingredient/179-dark-rum	/ingredient/374-passoa	/ingredient/67-blue-curacao	/ingredient/480-sweet-and-sour	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/17824-the-laverstoke" 7 /ingredient/2-gin	/ingredient/552-elderflower-cordial	/ingredient/553-rosso-vermouth	/ingredient/497-tonic-water	/ingredient/312-lime	/ingredient/230-ginger	/ingredient/337-mint
+"https://www.thecocktaildb.com/drink/17826-the-jimmy-conway" 3 /ingredient/273-irish-whiskey	/ingredient/18-amaretto	/ingredient/155-cranberry-juice
+"https://www.thecocktaildb.com/drink/17827-old-pal" 3 /ingredient/436-rye-whiskey	/ingredient/83-campari	/ingredient/189-dry-vermouth
+"https://www.thecocktaildb.com/drink/17830-corn-n-oil" 5 /ingredient/312-lime	/ingredient/563-falernum	/ingredient/20-angostura-bitters	/ingredient/37-a�ejo-rum	/ingredient/566-blackstrap-rum
+"https://www.thecocktaildb.com/drink/178307-tequila-slammer" 2 /ingredient/4-tequila	/ingredient/572-7-up
+"https://www.thecocktaildb.com/drink/178308-spritz-veneziano" 3 /ingredient/542-prosecco	/ingredient/24-aperol	/ingredient/455-soda-water
+"https://www.thecocktaildb.com/drink/178309-espresso-rumtini" 4 /ingredient/3-rum	/ingredient/506-vanilla-syrup	/ingredient/200-espresso	/ingredient/139-coffee
+"https://www.thecocktaildb.com/drink/178310-brooklyn" 5 /ingredient/436-rye-whiskey	/ingredient/189-dry-vermouth	/ingredient/323-maraschino-liqueur	/ingredient/20-angostura-bitters	/ingredient/322-maraschino-cherry
+"https://www.thecocktaildb.com/drink/178311-broadside" 5 /ingredient/571-151-proof-rum	/ingredient/5-scotch	/ingredient/56-bitters	/ingredient/530-wormwood	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/178312-bloody-punch" 7 /ingredient/1-vodka	/ingredient/470-strawberries	/ingredient/308-lime-juice	/ingredient/297-lemon-lime-soda	/ingredient/297-lemon-lime-soda	/ingredient/412-raisins	/ingredient/69-blueberries
+"https://www.thecocktaildb.com/drink/178313-halloween-punch" 6 /ingredient/104-cherry-juice	/ingredient/354-orange-peel	/ingredient/422-red-chili-flakes	/ingredient/126-cloves	/ingredient/230-ginger	/ingredient/1-vodka
+"https://www.thecocktaildb.com/drink/178314-gin-basil-smash" 4 /ingredient/2-gin	/ingredient/293-lemon-juice	/ingredient/475-sugar-syrup	/ingredient/49-basil
+"https://www.thecocktaildb.com/drink/178315-munich-mule" 5 /ingredient/2-gin	/ingredient/308-lime-juice	/ingredient/229-ginger-beer	/ingredient/171-cucumber	/ingredient/299-lemon
+"https://www.thecocktaildb.com/drink/178318-747-drink" 4 /ingredient/1-vodka	/ingredient/432-roses-sweetened-lime-juice	/ingredient/155-cranberry-juice	/ingredient/466-sprite
+"https://www.thecocktaildb.com/drink/178319-aquamarine" 3 /ingredient/268-hpnotiq	/ingredient/393-pineapple-juice	/ingredient/44-banana-liqueur
+"https://www.thecocktaildb.com/drink/17832-a-night-in-old-mandalay" 6 /ingredient/305-light-rum	/ingredient/37-a�ejo-rum	/ingredient/352-orange-juice	/ingredient/293-lemon-juice	/ingredient/228-ginger-ale	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/178320-banana-cream-pi" 3 /ingredient/315-malibu-rum	/ingredient/44-banana-liqueur	/ingredient/393-pineapple-juice
+"https://www.thecocktaildb.com/drink/178321-amaretto-fizz" 4 /ingredient/18-amaretto	/ingredient/352-orange-juice	/ingredient/525-white-wine	/ingredient/354-orange-peel
+"https://www.thecocktaildb.com/drink/178322-spice-75" 6 /ingredient/476-sugar	/ingredient/14-allspice	/ingredient/3-rum	/ingredient/308-lime-juice	/ingredient/97-champagne	/ingredient/357-orange-spiral
+"https://www.thecocktaildb.com/drink/178323-passion-fruit-martini" 3 /ingredient/1-vodka	/ingredient/475-sugar-syrup	/ingredient/372-passion-fruit-juice
+"https://www.thecocktaildb.com/drink/178325-aperol-spritz" 3 /ingredient/24-aperol	/ingredient/542-prosecco	/ingredient/455-soda-water
+"https://www.thecocktaildb.com/drink/178326-white-wine-sangria" 7 /ingredient/312-lime	/ingredient/299-lemon	/ingredient/525-white-wine	/ingredient/470-strawberries	/ingredient/30-apple	/ingredient/26-apple-brandy	/ingredient/455-soda-water
+"https://www.thecocktaildb.com/drink/178327-pineapple-paloma" 6 /ingredient/4-tequila	/ingredient/242-grapefruit-juice	/ingredient/547-fresh-lime-juice	/ingredient/393-pineapple-juice	/ingredient/312-lime	/ingredient/386-pepper
+"https://www.thecocktaildb.com/drink/178328-funk-and-soul" 5 /ingredient/3-rum	/ingredient/33-apricot-nectar	/ingredient/602-pomegranate-juice	/ingredient/299-lemon	/ingredient/455-soda-water
+"https://www.thecocktaildb.com/drink/178329-captain-kidds-punch" 6 /ingredient/3-rum	/ingredient/308-lime-juice	/ingredient/192-egg-white	/ingredient/56-bitters	/ingredient/476-sugar	/ingredient/344-nutmeg
+"https://www.thecocktaildb.com/drink/17833-a.-j." 2 /ingredient/31-applejack	/ingredient/242-grapefruit-juice
+"https://www.thecocktaildb.com/drink/178330-the-philosopher" 5 /ingredient/2-gin	/ingredient/328-melon-liqueur	/ingredient/350-orange-bitters	/ingredient/293-lemon-juice	/ingredient/542-prosecco
+"https://www.thecocktaildb.com/drink/178331-bounty-hunter" 5 /ingredient/3-rum	/ingredient/133-coconut-liqueur	/ingredient/69-blueberries	/ingredient/393-pineapple-juice	/ingredient/542-prosecco
+"https://www.thecocktaildb.com/drink/178332-smashed-watermelon-margarita" 7 /ingredient/603-watermelon	/ingredient/337-mint	/ingredient/242-grapefruit-juice	/ingredient/312-lime	/ingredient/4-tequila	/ingredient/603-watermelon	/ingredient/337-mint
+"https://www.thecocktaildb.com/drink/178333-raspberry-julep" 3 /ingredient/71-bourbon	/ingredient/418-raspberry-syrup	/ingredient/337-mint
+"https://www.thecocktaildb.com/drink/178334-death-in-the-afternoon" 2 /ingredient/573-absinthe	/ingredient/97-champagne
+"https://www.thecocktaildb.com/drink/178336-blueberry-mojito" 5 /ingredient/179-dark-rum	/ingredient/308-lime-juice	/ingredient/476-sugar	/ingredient/69-blueberries	/ingredient/297-lemon-lime-soda
+"https://www.thecocktaildb.com/drink/178337-autumn-garibaldi" 4 /ingredient/83-campari	/ingredient/352-orange-juice	/ingredient/229-ginger-beer	/ingredient/354-orange-peel
+"https://www.thecocktaildb.com/drink/178338-pure-passion" 6 /ingredient/3-rum	/ingredient/374-passoa	/ingredient/308-lime-juice	/ingredient/373-passion-fruit-syrup	/ingredient/540-peach-bitters	/ingredient/337-mint
+"https://www.thecocktaildb.com/drink/178339-the-strange-weaver" 7 /ingredient/305-light-rum	/ingredient/2-gin	/ingredient/482-sweet-vermouth	/ingredient/83-campari	/ingredient/293-lemon-juice	/ingredient/362-orgeat-syrup	/ingredient/354-orange-peel
+"https://www.thecocktaildb.com/drink/17834-abbey-cocktail" 4 /ingredient/2-gin	/ingredient/350-orange-bitters	/ingredient/359-orange	/ingredient/106-cherry
+"https://www.thecocktaildb.com/drink/178340-garibaldi-negroni" 4 /ingredient/2-gin	/ingredient/83-campari	/ingredient/352-orange-juice	/ingredient/354-orange-peel
+"https://www.thecocktaildb.com/drink/178341-orange-rosemary-collins" 7 /ingredient/2-gin	/ingredient/352-orange-juice	/ingredient/293-lemon-juice	/ingredient/608-rosemary-syrup	/ingredient/455-soda-water	/ingredient/549-rosemary	/ingredient/354-orange-peel
+"https://www.thecocktaildb.com/drink/178342-gin-and-soda" 3 /ingredient/2-gin	/ingredient/455-soda-water	/ingredient/312-lime
+"https://www.thecocktaildb.com/drink/178343-michelada" 6 /ingredient/52-beer	/ingredient/492-tomato-juice	/ingredient/308-lime-juice	/ingredient/266-hot-sauce	/ingredient/529-worcestershire-sauce	/ingredient/460-soy-sauce
+"https://www.thecocktaildb.com/drink/178344-figgy-thyme" 6 /ingredient/1-vodka	/ingredient/260-honey	/ingredient/609-figs	/ingredient/610-thyme	/ingredient/20-angostura-bitters	/ingredient/497-tonic-water
+"https://www.thecocktaildb.com/drink/178346-elderflower-caipirinha" 3 /ingredient/81-cachaca	/ingredient/312-lime	/ingredient/552-elderflower-cordial
+"https://www.thecocktaildb.com/drink/178347-winter-rita" 6 /ingredient/4-tequila	/ingredient/83-campari	/ingredient/308-lime-juice	/ingredient/352-orange-juice	/ingredient/608-rosemary-syrup	/ingredient/439-salt
+"https://www.thecocktaildb.com/drink/178348-winter-paloma" 5 /ingredient/4-tequila	/ingredient/242-grapefruit-juice	/ingredient/308-lime-juice	/ingredient/12-agave-syrup	/ingredient/386-pepper
+"https://www.thecocktaildb.com/drink/178349-snowday" 6 /ingredient/1-vodka	/ingredient/613-amaro-montenegro	/ingredient/614-ruby-port	/ingredient/612-blood-orange	/ingredient/20-angostura-bitters	/ingredient/354-orange-peel
+"https://www.thecocktaildb.com/drink/178350-the-galah" 5 /ingredient/179-dark-rum	/ingredient/83-campari	/ingredient/163-creme-de-banane	/ingredient/393-pineapple-juice	/ingredient/308-lime-juice
+"https://www.thecocktaildb.com/drink/178353-apple-highball" 4 /ingredient/312-lime	/ingredient/29-apple-schnapps	/ingredient/141-cognac	/ingredient/230-ginger
+"https://www.thecocktaildb.com/drink/178354-pink-moon" 5 /ingredient/2-gin	/ingredient/133-coconut-liqueur	/ingredient/552-elderflower-cordial	/ingredient/308-lime-juice	/ingredient/60-blackberries
+"https://www.thecocktaildb.com/drink/178355-mountain-bramble" 6 /ingredient/2-gin	/ingredient/293-lemon-juice	/ingredient/475-sugar-syrup	/ingredient/60-blackberries	/ingredient/455-soda-water	/ingredient/337-mint
+"https://www.thecocktaildb.com/drink/178356-butterfly-effect" 7 /ingredient/419-raspberry-vodka	/ingredient/155-cranberry-juice	/ingredient/300-lemonade	/ingredient/67-blue-curacao	/ingredient/475-sugar-syrup	/ingredient/308-lime-juice	/ingredient/337-mint
+"https://www.thecocktaildb.com/drink/178357-pornstar-martini" 5 /ingredient/1-vodka	/ingredient/374-passoa	/ingredient/372-passion-fruit-juice	/ingredient/312-lime	/ingredient/542-prosecco
+"https://www.thecocktaildb.com/drink/178359-kiwi-martini" 4 /ingredient/286-kiwi	/ingredient/475-sugar-syrup	/ingredient/1-vodka	/ingredient/286-kiwi
+"https://www.thecocktaildb.com/drink/178360-lemon-elderflower-spritzer" 4 /ingredient/552-elderflower-cordial	/ingredient/1-vodka	/ingredient/455-soda-water	/ingredient/217-fresh-lemon-juice
+"https://www.thecocktaildb.com/drink/178362-vodka-slime" 3 /ingredient/466-sprite	/ingredient/308-lime-juice	/ingredient/1-vodka
+"https://www.thecocktaildb.com/drink/178363-vodka-lemon" 4 /ingredient/1-vodka	/ingredient/293-lemon-juice	/ingredient/294-lemon-peel	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/178364-vodka-tonic" 3 /ingredient/1-vodka	/ingredient/497-tonic-water	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/178365-gin-tonic" 4 /ingredient/2-gin	/ingredient/497-tonic-water	/ingredient/294-lemon-peel	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/178366-gin-lemon" 4 /ingredient/2-gin	/ingredient/293-lemon-juice	/ingredient/294-lemon-peel	/ingredient/270-ice
+"https://www.thecocktaildb.com/drink/178367-ramos-gin-fizz" 7 /ingredient/2-gin	/ingredient/293-lemon-juice	/ingredient/475-sugar-syrup	/ingredient/161-cream	/ingredient/192-egg-white	/ingredient/502-vanilla-extract	/ingredient/455-soda-water
+"https://www.thecocktaildb.com/drink/178368-planter’s-punch" 6 /ingredient/179-dark-rum	/ingredient/352-orange-juice	/ingredient/393-pineapple-juice	/ingredient/250-grenadine	/ingredient/475-sugar-syrup	/ingredient/20-angostura-bitters
+"https://www.thecocktaildb.com/drink/178369-cocktail-horse’s-neck" 4 /ingredient/141-cognac	/ingredient/229-ginger-beer	/ingredient/20-angostura-bitters	/ingredient/294-lemon-peel
+"https://www.thecocktaildb.com/drink/178371-old-cuban" 5 /ingredient/523-white-rum	/ingredient/475-sugar-syrup	/ingredient/308-lime-juice	/ingredient/20-angostura-bitters	/ingredient/542-prosecco
+"https://www.thecocktaildb.com/drink/17840-affinity" 4 /ingredient/5-scotch	/ingredient/482-sweet-vermouth	/ingredient/189-dry-vermouth	/ingredient/350-orange-bitters

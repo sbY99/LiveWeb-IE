@@ -1,0 +1,140 @@
+academic huggingface.co g_000 paper_author
+138 1065 1065
+"https://huggingface.co/papers/2408.10188" 18 Fuzhao Xue	Yukang Chen	Dacheng Li	Qinghao Hu	Ligeng Zhu	Xiuyu Li	Yunhao Fang	Haotian Tang	Shang Yang	Zhijian Liu	Ethan He	Hongxu Yin	Pavlo Molchanov	Jan Kautz	Linxi Fan	Yuke Zhu	Yao Lu	Song Han
+"https://huggingface.co/papers/2408.10198" 12 Minghua Liu	Chong Zeng	Xinyue Wei	Ruoxi Shi	Linghao Chen	Chao Xu	Mengqi Zhang	Zhaoning Wang	Xiaoshuai Zhang	Isabella Liu	Hongzhi Wu	Hao Su
+"https://huggingface.co/papers/2408.09085" 6 Aoran Xiao	Weihao Xuan	Heli Qi	Yun Xing	Naoto Yokoya	Shijian Lu
+"https://huggingface.co/papers/2408.10119" 6 Tao Yang	Yangming Shi	Yunwen Huang	Feng Chen	Yin Zheng	Lei Zhang
+"https://huggingface.co/papers/2408.09858" 6 Dimitrios Tsaras	Antoine Grosnit	Lei Chen	Zhiyao Xie	Haitham Bou-Ammar	Mingxuan Yuan
+"https://huggingface.co/papers/2408.10161" 4 Zhiyong Zhang	Aniket Gupta	Huaizu Jiang	Hanumant Singh
+"https://huggingface.co/papers/2408.10195" 7 Chao Xu	Ang Li	Linghao Chen	Yulin Liu	Ruoxi Shi	Hao Su	Minghua Liu
+"https://huggingface.co/papers/2408.08946" 3 Baixiang Huang	Canyu Chen	Kai Shu
+"https://huggingface.co/papers/2408.09702" 7 Ruofan Liang	Zan Gojcic	Merlin Nimier-David	David Acuna	Nandita Vijaykumar	Sanja Fidler	Zian Wang
+"https://huggingface.co/papers/2408.09739" 9 Mingrui Wu	Oucheng Huang	Jiayi Ji	Jiale Li	Xinyue Cai	Huafeng Kuang	Jianzhuang Liu	Xiaoshuai Sun	Rongrong Ji
+"https://huggingface.co/papers/2408.08926" 22 Andy K. Zhang	Neil Perry	Riya Dulepet	Eliot Jones	Justin W. Lin	Joey Ji	Celeste Menders	Gashon Hussein	Samantha Liu	Donovan Jasper	Pura Peetathawatchai	Ari Glenn	Vikram Sivashankar	Daniel Zamoshchin	Leo Glikbarg	Derek Askaryar	Mike Yang	Teddy Zhang	Rishi Alluri	Nathan Tran	Rinnara Sangpisit	Polycarpos Yiorkadjis
+"https://huggingface.co/papers/2408.11039" 10 Chunting Zhou	Lili Yu	Arun Babu	Kushal Tirumala	Michihiro Yasunaga	Leonid Shamis	Jacob Kahn	Xuezhe Ma	Luke Zettlemoyer	Omer Levy
+"https://huggingface.co/papers/2408.09174" 13 Xianjie Wu	Jian Yang	Linzheng Chai	Ge Zhang	Jiaheng Liu	Xinrun Du	Di Liang	Daixin Shu	Xianfu Cheng	Tianzhen Sun	Guanglin Niu	Tongliang Li	Zhoujun Li
+"https://huggingface.co/papers/2408.10914" 9 Viraat Aryabumi	Yixuan Su	Raymond Ma	Adrien Morisot	Ivan Zhang	Acyr Locatelli	Marzieh Fadaee	Ahmet Üstün	Sara Hooker
+"https://huggingface.co/papers/2408.11054" 5 Valentinos Pariza	Mohammadreza Salehi	Gertjan Burghouts	Francesco Locatello	Yuki M. Asano
+"https://huggingface.co/papers/2408.11049" 7 Jian Chen	Vashisth Tiwari	Ranajoy Sadhukhan	Zhuoming Chen	Jinyuan Shi	Ian En-Hsu Yen	Beidi Chen
+"https://huggingface.co/papers/2408.11001" 6 Haoning Wu	Shaocheng Shen	Qiang Hu	Xiaoyun Zhang	Ya Zhang	Yanfeng Wang
+"https://huggingface.co/papers/2408.10701" 4 Tej Deep Pala	Vernon Y. H. Toh	Rishabh Bhardwaj	Soujanya Poria
+"https://huggingface.co/papers/2408.10998" 4 Dennis Fedorishin	Lie Lu	Srirangaraj Setlur	Venu Govindaraju
+"https://huggingface.co/papers/2408.10764" 7 Chenhan Yuan	Fei Huang	Ru Peng	Keming Lu	Bowen Yu	Chang Zhou	Jingren Zhou
+"https://huggingface.co/papers/2408.10446" 10 Niyar R Barman	Krish Sharma	Ashhar Aziz	Shashwat Bajpai	Shwetangshu Biswas	Vasu Sharma	Vinija Jain	Aman Chadha	Amit Sheth	Amitava Das
+"https://huggingface.co/papers/2408.09574" 3 Thorsten Hellert	João Montenegro	Andrea Pollastro
+"https://huggingface.co/papers/2408.10487" 7 Xiao Wang	Chao wang	Shiao Wang	Xixi Wang	Zhicheng Zhao	Lin Zhu	Bo Jiang
+"https://huggingface.co/papers/2408.11048" 8 Yi Zhao	Le Chen	Jan Schneider	Quankai Gao	Juho Kannala	Bernhard Schölkopf	Joni Pajarinen	Dieter Büchler
+"https://huggingface.co/papers/2408.10906" 8 Qi Ma	Yue Li	Bin Ren	Nicu Sebe	Ender Konukoglu	Theo Gevers	Luc Van Gool	Danda Pani Paudel
+"https://huggingface.co/papers/2408.10088" 9 Shiqi Wang	Zhouye Zhao	Yuhang Xie	Mingchuan Ma	Zirui Chen	Zeyu Wang	Bohao Su	Wenrui Xu	Tianyi Li
+"https://huggingface.co/papers/2408.11796" 9 Sharath Turuvekere Sreenivas	Saurav Muralidharan	Raviraj Joshi	Marcin Chochowski	Mostofa Patwary	Mohammad Shoeybi	Bryan Catanzaro	Jan Kautz	Pavlo Molchanov
+"https://huggingface.co/papers/2408.11318" 21 Hyeongmin Lee	Jin-Young Kim	Kyungjune Baek	Jihwan Kim	Hyojun Go	Seongsu Ha	Seokjin Han	Jiho Jang	Raehyuk Jung	Daewoo Kim	GeunOh Kim	JongMok Kim	Jongseok Kim	Junwan Kim	Soonwoo Kwon	Jangwon Lee	Seungjoon Park	Minjoon Seo	Jay Suh	Jaehyuk Yi	Aiden Lee
+"https://huggingface.co/papers/2408.11745" 9 Zhenyu Li	Yike Zhang	Tengyu Pan	Yutao Sun	Zhichao Duan	Junjie Fang	Rong Han	Zixuan Wang	Jianyong Wang
+"https://huggingface.co/papers/2408.11475" 7 Haitao Zhou	Chuang Wang	Rui Nie	Jinxiao Lin	Dongdong Yu	Qian Yu	Changhu Wang
+"https://huggingface.co/papers/2408.11817" 3 Jonathan Roberts	Kai Han	Samuel Albanie
+"https://huggingface.co/papers/2408.11706" 7 Liyao Jiang	Negar Hassanpour	Mohammad Salameh	Mohan Sai Singamsetti	Fengyu Sun	Wei Lu	Di Niu
+"https://huggingface.co/papers/2408.11812" 5 Ria Doshi	Homer Walke	Oier Mees	Sudeep Dasari	Sergey Levine
+"https://huggingface.co/papers/2408.11721" 3 Oz Zafar	Lior Wolf	Idan Schwartz
+"https://huggingface.co/papers/2408.11237" 5 Christos Constantinou	Georgios Ioannides	Aman Chadha	Aaron Elkins	Edwin Simpson
+"https://huggingface.co/papers/2408.08793" 4 Simone Ricci	Niccolò Biondi	Federico Pernici	Alberto Del Bimbo
+"https://huggingface.co/papers/2408.11247" 3 Atmika Gorti	Manas Gaur	Aman Chadha
+"https://huggingface.co/papers/2408.11457" 3 Felermino D. M. Antonio Ali	Henrique Lopes Cardoso	Rui Sousa-Silva
+"https://huggingface.co/papers/2408.12569" 8 Rawal Khirodkar	Timur Bagautdinov	Julieta Martinez	Su Zhaoen	Austin James	Peter Selednik	Stuart Anderson	Shunsuke Saito
+"https://huggingface.co/papers/2408.12599" 11 Xun Liang	Hanyu Wang	Yezhaohui Wang	Shichao Song	Jiawei Yang	Simin Niu	Jie Hu	Dan Liu	Shunyu Yao	Feiyu Xiong	Zhiyu Li
+"https://huggingface.co/papers/2408.11878" 22 Qianqian Xie	Dong Li	Mengxi Xiao	Zihao Jiang	Ruoyu Xiang	Xiao Zhang	Zhengyu Chen	Yueru He	Weiguang Han	Yuzhe Yang	Shunian Chen	Yifei Zhang	Lihang Shen	Daniel Kim	Zhiwei Liu	Zheheng Luo	Yangyang Yu	Yupeng Cao	Zhiyang Deng	Zhiyuan Yao	Haohang Li	Duanyu Feng
+"https://huggingface.co/papers/2408.11857" 3 Ryan Teknium	Jeffrey Quesnelle	Chen Guang
+"https://huggingface.co/papers/2408.12528" 10 Jinheng Xie	Weijia Mao	Zechen Bai	David Junhao Zhang	Weihao Wang	Kevin Qinghong Lin	Yuchao Gu	Zhijie Chen	Zhenheng Yang	Mike Zheng Shou
+"https://huggingface.co/papers/2408.12590" 19 Can Qin	Congying Xia	Krithika Ramakrishnan	Michael Ryoo	Lifu Tu	Yihao Feng	Manli Shu	Honglu Zhou	Anas Awadalla	Jun Wang	Senthil Purushwalkam	Le Xue	Yingbo Zhou	Huan Wang	Silvio Savarese	Juan Carlos Niebles	Zeyuan Chen	Ran Xu	Caiming Xiong
+"https://huggingface.co/papers/2408.12570" 22 Jamba Team	Barak Lenz	Alan Arazi	Amir Bergman	Avshalom Manevich	Barak Peleg	Ben Aviram	Chen Almagor	Clara Fridman	Dan Padnos	Daniel Gissin	Daniel Jannai	Dor Muhlgay	Dor Zimberg	Edden M Gerber	Elad Dolev	Eran Krakovsky	Erez Safahi	Erez Schwartz	Gal Cohen	Gal Shachaf	Haim Rozenblum
+"https://huggingface.co/papers/2408.12601" 6 Weiliang Chen	Fangfu Liu	Diankun Wu	Haowen Sun	Haixu Song	Yueqi Duan
+"https://huggingface.co/papers/2408.12503" 5 Artem Snegirev	Maria Tikhonova	Anna Maksimova	Alena Fenogenova	Alexander Abramov
+"https://huggingface.co/papers/2408.12245" 7 Haopeng Li	Jinyue Yang	Kexin Wang	Xuerui Qiu	Yuhong Chou	Xin Li	Guoqi Li
+"https://huggingface.co/papers/2408.12480" 8 Khang T. Doan	Bao G. Huynh	Dung T. Hoang	Thuc D. Pham	Nhat H. Pham	Quan T. M. Nguyen	Bang Q. Vo	Suong N. Hoang
+"https://huggingface.co/papers/2408.12588" 4 Xuanlei Zhao	Xiaolong Jin	Kai Wang	Yang You
+"https://huggingface.co/papers/2408.10635" 8 Jonathan Light	Min Cai	Weiqin Chen	Guanzhi Wang	Xiusi Chen	Wei Cheng	Yisong Yue	Ziniu Hu
+"https://huggingface.co/papers/2408.12114" 4 Youngjoon Yu	Sangyun Chung	Byung-Kwan Lee	Yong Man Ro
+"https://huggingface.co/papers/2408.12076" 9 Zhaochen Su	Jun Zhang	Xiaoye Qu	Tong Zhu	Yanshu Li	Jiashuo Sun	Juntao Li	Min Zhang	Yu Cheng
+"https://huggingface.co/papers/2408.11813" 10 Yuanyang Yin	Yaqi Zhao	Yajie Zhang	Ke Lin	Jiahao Wang	Xin Tao	Pengfei Wan	Di Zhang	Baoqun Yin	Wentao Zhang
+"https://huggingface.co/papers/2408.09787" 8 Yunxin Li	Haoyuan Shi	Baotian Hu	Longyue Wang	Jiashun Zhu	Jinyi Xu	Zhen Zhao	Min Zhang
+"https://huggingface.co/papers/2408.11915" 4 Junwon Lee	Jaekwon Im	Dabin Kim	Juhan Nam
+"https://huggingface.co/papers/2408.12282" 5 Jan-Niklas Dihlmann	Arjun Majumdar	Andreas Engelhardt	Raphael Braun	Hendrik P. A. Lensch
+"https://huggingface.co/papers/2408.12060" 5 Ronit Singhal	Pransh Patwa	Parth Patwa	Aman Chadha	Amitava Das
+"https://huggingface.co/papers/2408.12637" 4 Hugo Laurençon	Andrés Marafioti	Victor Sanh	Léo Tronchon
+"https://huggingface.co/papers/2408.13257" 13 Yi-Fan Zhang	Huanyu Zhang	Haochen Tian	Chaoyou Fu	Shuangqing Zhang	Junfei Wu	Feng Li	Kun Wang	Qingsong Wen	Zhang Zhang	Liang Wang	Rong Jin	Tieniu Tan
+"https://huggingface.co/papers/2408.13252" 8 Shuai Yang	Jing Tan	Mengchen Zhang	Tong Wu	Yixuan Li	Gordon Wetzstein	Ziwei Liu	Dahua Lin
+"https://huggingface.co/papers/2408.13233" 5 Yingyu Liang	Zhizhou Sha	Zhenmei Shi	Zhao Song	Yufa Zhou
+"https://huggingface.co/papers/2408.12857" 4 Kaizhao Liang	Bo Liu	Lizhang Chen	Qiang Liu
+"https://huggingface.co/papers/2408.12885" 3 Wenshuo Peng	Kaipeng Zhang	Sai Qian Zhang
+"https://huggingface.co/papers/2408.13239" 8 Tao Wu	Yong Zhang	Xintao Wang	Xianpan Zhou	Guangcong Zheng	Zhongang Qi	Ying Shan	Xi Li
+"https://huggingface.co/papers/2408.10945" 6 Kazi Hasan Ibn Arif	JinYi Yoon	Dimitrios S. Nikolopoulos	Hans Vandierendonck	Deepu John	Bo Ji
+"https://huggingface.co/papers/2408.13010" 3 Chamith Mawela	Chaouki Ben Issaid	Mehdi Bennis
+"https://huggingface.co/papers/2408.12894" 4 Yunji Seo	Young Sun Choi	Hyun Seung Son	Youngjung Uh
+"https://huggingface.co/papers/2408.12369" 4 Pratyush Kumar	Kuber Vijaykumar Bellad	Bharat Vadlamudi	Aman Chadha
+"https://huggingface.co/papers/2408.12418" 3 Bastien van Delft	Tommaso Martorella	Alexandre Alahi
+"https://huggingface.co/papers/2408.14176" 7 Trung Dao	Thuan Hoang Nguyen	Thanh Le	Duc Vu	Khoi Nguyen	Cuong Pham	Anh Tran
+"https://huggingface.co/papers/2408.14340" 22 Yinghao Ma	Anders Øland	Anton Ragni	Bleiz MacSen Del Sette	Charalampos Saitis	Chris Donahue	Chenghua Lin	Christos Plachouras	Emmanouil Benetos	Elio Quinton	Elona Shatri	Fabio Morreale	Ge Zhang	György Fazekas	Gus Xia	Huan Zhang	Ilaria Manco	Jiawen Huang	Julien Guinot	Liwei Lin	Luca Marinelli	Max W. Y. Lam
+"https://huggingface.co/papers/2408.14354" 20 Daoguang Zan	Zhirong Huang	Ailun Yu	Shaoxin Lin	Yifan Shi	Wei Liu	Dong Chen	Zongshuai Qi	Hao Yu	Lei Yu	Dezhi Ran	Muhan Zeng	Bo Shen	Pan Bian	Guangtai Liang	Bei Guan	Pengjie Huang	Tao Xie	Yongji Wang	Qianxiang Wang
+"https://huggingface.co/papers/2408.14468" 7 Zhikai Li	Xuewen Liu	Dongrong Fu	Jianquan Li	Qingyi Gu	Kurt Keutzer	Zhen Dong
+"https://huggingface.co/papers/2408.13467" 6 Chansung Park	Juyong Jiang	Fan Wang	Sayak Paul	Jing Tang	Sunghun Kim
+"https://huggingface.co/papers/2408.13359" 9 Yikang Shen	Matthew Stallone	Mayank Mishra	Gaoyuan Zhang	Shawn Tan	Aditya Prasad	Adriana Meza Soria	David D. Cox	Rameswar Panda
+"https://huggingface.co/papers/2408.13934" 12 David Durst	Feng Xie	Vishnu Sarukkai	Brennan Shacklett	Iuri Frosio	Chen Tessler	Joohwan Kim	Carly Taylor	Gilbert Bernstein	Sanjiban Choudhury	Pat Hanrahan	Kayvon Fatahalian
+"https://huggingface.co/papers/2408.13423" 8 Wenhao Li	Yichao Cao	Xie Su	Xi Lin	Shan You	Mingkai Zheng	Yi Chen	Chang Xu
+"https://huggingface.co/papers/2408.13402" 2 Jainaveen Sundaram	Ravishankar Iyer
+"https://huggingface.co/papers/2408.12757" 15 Kan Zhu	Yilong Zhao	Liangyu Zhao	Gefei Zuo	Yile Gu	Dedong Xie	Yufei Gao	Qinyu Xu	Tian Tang	Zihao Ye	Keisuke Kamahori	Chien-Yu Lin	Stephanie Wang	Arvind Krishnamurthy	Baris Kasikci
+"https://huggingface.co/papers/2408.13933" 8 Fuwen Tan	Royson Lee	Łukasz Dudziak	Shell Xu Hu	Sourav Bhattacharya	Timothy Hospedales	Georgios Tzimiropoulos	Brais Martinez
+"https://huggingface.co/papers/2408.13413" 6 Rui Zhang	Yaosen Chen	Yuegen Liu	Wei Wang	Xuming Wen	Hongxia Wang
+"https://huggingface.co/papers/2408.11727" 7 Yi Liu	Junzhe Yu	Huijia Sun	Ling Shi	Gelei Deng	Yuqi Chen	Yang Liu
+"https://huggingface.co/papers/2408.14211" 10 Xu He	Xiaoyu Li	Di Kang	Jiangnan Ye	Chaopeng Zhang	Liyang Chen	Xiangjun Gao	Han Zhang	Zhiyong Wu	Haolin Zhuang
+"https://huggingface.co/papers/2408.14906" 7 Melisa Russak	Umar Jamil	Christopher Bryant	Kiran Kamble	Axel Magnuson	Mateusz Russak	Waseem AlShikh
+"https://huggingface.co/papers/2408.14837" 4 Dani Valevski	Yaniv Leviathan	Moab Arar	Shlomi Fruchter
+"https://huggingface.co/papers/2408.15237" 5 Junxiong Wang	Daniele Paliotta	Avner May	Alexander M. Rush	Tri Dao
+"https://huggingface.co/papers/2408.15239" 6 Xiaojuan Wang	Boyang Zhou	Brian Curless	Ira Kemelmacher-Shlizerman	Aleksander Holynski	Steven M. Seitz
+"https://huggingface.co/papers/2408.14717" 8 Asim Biswal	Liana Patel	Siddarth Jha	Amog Kamsetty	Shu Liu	Joseph E. Gonzalez	Carlos Guestrin	Matei Zaharia
+"https://huggingface.co/papers/2408.14819" 2 Abdelrahman Eldesokey	Peter Wonka
+"https://huggingface.co/papers/2408.13674" 12 Keqiang Sun	Amin Jourabloo	Riddhish Bhalodia	Moustafa Meshry	Yu Rong	Zhengyu Yang	Thu Nguyen-Phuoc	Christian Haene	Jiu Xu	Sam Johnson	Hongsheng Li	Sofien Bouaziz
+"https://huggingface.co/papers/2408.14805" 7 Peng Wang	Zhaohai Li	Jun Tang	Humen Zhong	Fei Huang	Zhibo Yang	Cong Yao
+"https://huggingface.co/papers/2408.14849" 1 Hanna Abi Akl
+"https://huggingface.co/papers/2408.14236" 1 Hanna Abi Akl
+"https://huggingface.co/papers/2408.13629" 3 Johannes Hägerlind	Jonas Hentati-Sundberg	Bastian Wandt
+"https://huggingface.co/papers/2408.14307" 3 Yayati Jadhav	Peter Pak	Amir Barati Farimani
+"https://huggingface.co/papers/2408.15998" 15 Min Shi	Fuxiao Liu	Shihao Wang	Shijia Liao	Subhashree Radhakrishnan	De-An Huang	Hongxu Yin	Karan Sapra	Yaser Yacoob	Humphrey Shi	Bryan Catanzaro	Andrew Tao	Jan Kautz	Zhiding Yu	Guilin Liu
+"https://huggingface.co/papers/2408.15079" 20 Guosheng Dong	Da Pan	Yiding Sun	Shusen Zhang	Zheng Liang	Xin Wu	Yanjun Shen	Fan Yang	Haoze Sun	Tianpeng Li	Mingan Lin	Jianhua Xu	Yufan Zhang	Xiaonan Nie	Lei Su	Bingning Wang	Wentao Zhang	Jiaxin Mao	Zenan Zhou	Weipeng Chen
+"https://huggingface.co/papers/2408.15518" 4 Wei Chen	Zhiyuan Li	Shuo Xin	Yihao Wang
+"https://huggingface.co/papers/2408.15881" 16 Fangxun Shu	Yue Liao	Le Zhuo	Chenning Xu	Guanghao Zhang	Haonan Shi	Long Chen	Tao Zhong	Wanggui He	Siming Fu	Haoyuan Li	Bolin Li	Zhelun Yu	Si Liu	Hongsheng Li	Hao Jiang
+"https://huggingface.co/papers/2408.15792" 6 Yichao Fu	Siqi Zhu	Runlong Su	Aurick Qiao	Ion Stoica	Hao Zhang
+"https://huggingface.co/papers/2408.15915" 12 Yuncheng Yang	Yulei Qin	Tong Wu	Zihan Xu	Gang Li	Pengcheng Guo	Hang Shao	Yucheng Shi	Ke Li	Xing Sun	Jie Yang	Yun Gu
+"https://huggingface.co/papers/2408.15991" 9 Shengyuan Zhang	Ling Yang	Zejian Li	An Zhao	Chenye Meng	Changyuan Yang	Guang Yang	Zhiyuan Yang	Lingyun Sun
+"https://huggingface.co/papers/2408.15836" 3 Uri Katz	Mosh Levy	Yoav Goldberg
+"https://huggingface.co/papers/2408.15664" 5 Lean Wang	Huazuo Gao	Chenggang Zhao	Xu Sun	Damai Dai
+"https://huggingface.co/papers/2408.15496" 7 Danlong Yuan	Jiahao Liu	Bei Li	Huishuai Zhang	Jingang Wang	Xunliang Cai	Dongyan Zhao
+"https://huggingface.co/papers/2408.15980" 8 Letian Fu	Huang Huang	Gaurav Datta	Lawrence Yunliang Chen	William Chung-Ho Panitch	Fangchen Liu	Hui Li	Ken Goldberg
+"https://huggingface.co/papers/2408.15708" 6 Xinyu Gao	Ziyi Yang	Bingchen Gong	Xiaoguang Han	Sipeng Yang	Xiaogang Jin
+"https://huggingface.co/papers/2408.15995" 6 Basavaraj Sunagad	Heming Zhu	Mohit Mendiratta	Adam Kortylewski	Christian Theobalt	Marc Habermann
+"https://huggingface.co/papers/2408.16357" 6 Shijia Yang	Bohan Zhai	Quanzeng You	Jianbo Yuan	Hongxia Yang	Chenfeng Xu
+"https://huggingface.co/papers/2408.16500" 22 Wenyi Hong	Weihan Wang	Ming Ding	Wenmeng Yu	Qingsong Lv	Yan Wang	Yean Cheng	Shiyu Huang	Junhui Ji	Zhao Xue	Lei Zhao	Zhuoyi Yang	Xiaotao Gu	Xiaohan Zhang	Guanyu Feng	Da Yin	Zihan Wang	Ji Qi	Xixuan Song	Peng Zhang	Debing Liu	Bin Xu
+"https://huggingface.co/papers/2408.16532" 16 Shengpeng Ji	Ziyue Jiang	Xize Cheng	Yifu Chen	Minghui Fang	Jialong Zuo	Qian Yang	Ruiqi Li	Ziang Zhang	Xiaoda Yang	Rongjie Huang	Yidi Jiang	Qian Chen	Siqi Zheng	Wen Wang	Zhou Zhao
+"https://huggingface.co/papers/2408.16767" 8 Fangfu Liu	Wenqiang Sun	Hanyang Wang	Yikai Wang	Haowen Sun	Junliang Ye	Jun Zhang	Yueqi Duan
+"https://huggingface.co/papers/2408.16768" 7 Ziyu Guo	Renrui Zhang	Xiangyang Zhu	Chengzhuo Tong	Peng Gao	Chunyuan Li	Pheng-Ann Heng
+"https://huggingface.co/papers/2408.16293" 4 Tian Ye	Zicheng Xu	Yuanzhi Li	Zeyuan Allen-Zhu
+"https://huggingface.co/papers/2408.16766" 8 Peng Xing	Haofan Wang	Yanpeng Sun	Qixun Wang	Xu Bai	Hao Ai	Renyuan Huang	Zechao Li
+"https://huggingface.co/papers/2408.16061" 2 Hengyi Wang	Lourdes Agapito
+"https://huggingface.co/papers/2408.15666" 6 Jillian Fisher	Skyler Hallinan	Ximing Lu	Mitchell Gordon	Zaid Harchaoui	Yejin Choi
+"https://huggingface.co/papers/2408.16046" 2 Jesse C. Cresswell	Taewoo Kim
+"https://huggingface.co/papers/2408.14608" 8 Lazar Atanackovic	Xi Zhang	Brandon Amos	Mathieu Blanchette	Leo J. Lee	Yoshua Bengio	Alexander Tong	Kirill Neklyudov
+"https://huggingface.co/papers/2408.15545" 10 Sihang Li	Jin Huang	Jiaxi Zhuang	Yaorui Shi	Xiaochen Cai	Mingjun Xu	Xiang Wang	Linfeng Zhang	Guolin Ke	Hengxing Cai
+"https://huggingface.co/papers/2408.15914" 8 Feize Wu	Yun Pang	Junyi Zhang	Lianyu Pang	Jian Yin	Baoquan Zhao	Qing Li	Xudong Mao
+"https://huggingface.co/papers/2408.17267" 10 Baichuan Zhou	Haote Yang	Dairong Chen	Junyan Ye	Tianyi Bai	Jinhua Yu	Songyang Zhang	Dahua Lin	Conghui He	Weijia Li
+"https://huggingface.co/papers/2408.14765" 8 Weijia Li	Jun He	Junyan Ye	Huaping Zhong	Zhimeng Zheng	Zilong Huang	Dahua Lin	Conghui He
+"https://huggingface.co/papers/2408.17024" 11 Atnafu Lambebo Tonja	Bonaventure F. P. Dossou	Jessica Ojo	Jenalea Rajab	Fadel Thior	Eric Peter Wairagala	Aremu Anuoluwapo	Pelonomi Moiloa	Jade Abbott	Vukosi Marivate	Benjamin Rosman
+"https://huggingface.co/papers/2408.17131" 6 Juncan Deng	Shuaiting Li	Zeyu Wang	Hong Gu	Kedong Xu	Kejie Huang
+"https://huggingface.co/papers/2408.14886" 7 Jaesung Huh	Joon Son Chung	Arsha Nagrani	Andrew Brown	Jee-weon Jung	Daniel Garcia-Romero	Andrew Zisserman
+"https://huggingface.co/papers/2408.16672" 6 Rohan Jha	Bo Wang	Michael Günther	Saba Sturua	Mohammad Kalim Akram	Han Xiao
+"https://huggingface.co/papers/2408.16444" 7 Leandro Carísio Fernandes	Gustavo Bartz Guedes	Thiago Soares Laitz	Thales Sales Almeida	Rodrigo Nogueira	Roberto Lotufo	Jayr Pereira
+"https://huggingface.co/papers/2408.16176" 22 M. Maruf	Arka Daw	Kazi Sajeed Mehrab	Harish Babu Manogaran	Abhilash Neog	Medha Sawhney	Mridul Khurana	James P. Balhoff	Yasin Bakis	Bahadir Altintas	Matthew J. Thompson	Elizabeth G. Campolongo	Josef C. Uyeda	Hilmar Lapp	Henry L. Bart	Paula M. Mabee	Yu Su	Wei-Lun Chao	Charles Stewart	Tanya Berger-Wolf	Wasila Dahdul	Anuj Karpatne
+"https://huggingface.co/papers/2408.15993" 7 Sungduk Yu	Brian L. White	Anahita Bhiwandiwalla	Musashi Hinck	Matthew Lyle Olson	Tung Nguyen	Vasudev Lal
+"https://huggingface.co/papers/2408.14572" 1 Muhammad Fawi
+"https://huggingface.co/papers/2408.15827" 3 Abu Adnan Sadi	Mohammad Ashrafuzzaman Khan	Lubaba Binte Saber
+"https://huggingface.co/papers/2408.16245" 5 Sully F. Chen	Robert J. Steele	Beakal Lemeneh	Shivanand P. Lad	Eric Oermann
+"https://huggingface.co/papers/2408.15300" 7 Maxim Zhelnin	Viktor Moskvoretskii	Egor Shvetsov	Egor Venediktov	Mariya Krylova	Aleksandr Zuev	Evgeny Burnaev
+"https://huggingface.co/papers/2408.16667" 3 Fangyuan Yu	Hardeep Singh Arora	Matt Johnson
+"https://huggingface.co/papers/2408.16725" 2 Zhifei Xie	Changqiao Wu
+"https://huggingface.co/papers/2408.17253" 6 Mouxiang Chen	Lefei Shen	Zhuo Li	Xiaoyun Joy Wang	Jianling Sun	Chenghao Liu

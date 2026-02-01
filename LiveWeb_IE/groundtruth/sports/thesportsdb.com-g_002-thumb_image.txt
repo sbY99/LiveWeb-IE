@@ -1,0 +1,37 @@
+sports thesportsdb.com g_002 player_thumb_image
+35 15 15
+"https://www.thesportsdb.com/player/34146370-lionel-messi" 1 https://r2.thesportsdb.com/images/media/player/thumb/kpfsvp1725295651.jpg/medium
+"https://www.thesportsdb.com/player/34146304-cristiano-ronaldo" 1 https://r2.thesportsdb.com/images/media/player/thumb/bkre241600892282.jpg/medium
+"https://www.thesportsdb.com/player/34146363-andres-iniesta" 1 https://r2.thesportsdb.com/images/media/player/thumb/qcw4eh1688646504.jpg/medium
+"https://www.thesportsdb.com/player/34146360-dani-alves" 1 https://r2.thesportsdb.com/images/media/player/thumb/31hn0f1725301114.jpg/medium
+"https://www.thesportsdb.com/player/34164048-pep-guardiola" 0 
+"https://www.thesportsdb.com/player/34146705-robert-lewandowski" 0 
+"https://www.thesportsdb.com/player/34146362-xavi" 0 
+"https://www.thesportsdb.com/player/34195995-wendie-renard" 0 
+"https://www.thesportsdb.com/player/34146294-sergio-ramos" 1 https://r2.thesportsdb.com/images/media/player/thumb/4qhc7x1712489854.jpg/medium
+"https://www.thesportsdb.com/player/34170654-alex-ferguson" 1 https://r2.thesportsdb.com/images/media/player/thumb/tm4oig1700666780.jpg/medium
+"https://www.thesportsdb.com/player/34146296-marcelo" 1 https://r2.thesportsdb.com/images/media/player/thumb/6dzgl71654937275.jpg/medium
+"https://www.thesportsdb.com/player/34146306-luka-modric" 1 https://r2.thesportsdb.com/images/media/player/thumb/6j40781707595475.jpg/medium
+"https://www.thesportsdb.com/player/34146309-karim-benzema" 0 
+"https://www.thesportsdb.com/player/34146348-luis-suarez" 0 
+"https://www.thesportsdb.com/player/34152577-zlatan-ibrahimovic" 0 
+"https://www.thesportsdb.com/player/34146355-gerard-pique" 0 
+"https://www.thesportsdb.com/player/34152560-thiago-silva" 0 
+"https://www.thesportsdb.com/player/34146681-manuel-neuer" 1 https://r2.thesportsdb.com/images/media/player/thumb/uozw8z1654937382.jpg/medium
+"https://www.thesportsdb.com/player/34146689-david-alaba" 1 https://r2.thesportsdb.com/images/media/player/thumb/sdcmqe1702815753.jpg/medium
+"https://www.thesportsdb.com/player/34146290-toni-kroos" 0 
+"https://www.thesportsdb.com/player/34173780-lucy-bronze" 0 
+"https://www.thesportsdb.com/player/34161137-thierry-henry" 1 https://r2.thesportsdb.com/images/media/player/thumb/vflsaf1698248867.jpg/medium
+"https://www.thesportsdb.com/player/34171863-kenny-dalglish" 0 
+"https://www.thesportsdb.com/player/34168981-carlo-ancelotti" 0 
+"https://www.thesportsdb.com/player/34159849-gianluigi-buffon" 0 
+"https://www.thesportsdb.com/player/34152561-marquinhos" 0 
+"https://www.thesportsdb.com/player/34145648-ryan-giggs" 1 https://r2.thesportsdb.com/images/media/player/thumb/i5c8fo1612098367.jpg/medium
+"https://www.thesportsdb.com/player/34162098-kylian-mbapp%c3%a9" 0 
+"https://www.thesportsdb.com/player/34198738-eug%c3%a9nie-le-sommer" 1 https://r2.thesportsdb.com/images/media/player/thumb/1lcftk1653647438.jpg/medium
+"https://www.thesportsdb.com/player/34146291-iker-casillas" 0 
+"https://www.thesportsdb.com/player/34161049-zinedine-zidane" 0 
+"https://www.thesportsdb.com/player/34146699-thomas-muller" 1 https://r2.thesportsdb.com/images/media/player/thumb/rhbgrp1702750958.jpg/medium
+"https://www.thesportsdb.com/player/34199300-amandine-henry" 1 https://r2.thesportsdb.com/images/media/player/thumb/prtylw1654898160.jpg/medium
+"https://www.thesportsdb.com/player/34146365-sergi-busquets" 0 
+"https://www.thesportsdb.com/player/34145674-angel-di-maria" 0 

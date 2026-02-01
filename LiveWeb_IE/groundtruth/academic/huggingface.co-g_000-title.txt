@@ -1,0 +1,219 @@
+academic huggingface.co g_000 paper_title
+138 138 138
+"https://huggingface.co/papers/2408.10188" 1 LongVILA: Scaling Long-Context Visual Language Models for Long Videos
+"https://huggingface.co/papers/2408.10198" 1 MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction
+  Model
+"https://huggingface.co/papers/2408.09085" 1 Segment Anything with Multiple Modalities
+"https://huggingface.co/papers/2408.10119" 1 Factorized-Dreamer: Training A High-Quality Video Generator with Limited
+  and Low-Quality Data
+"https://huggingface.co/papers/2408.09858" 1 ShortCircuit: AlphaZero-Driven Circuit Design
+"https://huggingface.co/papers/2408.10161" 1 NeuFlow v2: High-Efficiency Optical Flow Estimation on Edge Devices
+"https://huggingface.co/papers/2408.10195" 1 SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse
+  Views
+"https://huggingface.co/papers/2408.08946" 1 Authorship Attribution in the Era of LLMs: Problems, Methodologies, and
+  Challenges
+"https://huggingface.co/papers/2408.09702" 1 Photorealistic Object Insertion with Diffusion-Guided Inverse Rendering
+"https://huggingface.co/papers/2408.09739" 1 TraDiffusion: Trajectory-Based Training-Free Image Generation
+"https://huggingface.co/papers/2408.08926" 1 Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risk
+  of Language Models
+"https://huggingface.co/papers/2408.11039" 1 Transfusion: Predict the Next Token and Diffuse Images with One
+  Multi-Modal Model
+"https://huggingface.co/papers/2408.09174" 1 TableBench: A Comprehensive and Complex Benchmark for Table Question
+  Answering
+"https://huggingface.co/papers/2408.10914" 1 To Code, or Not To Code? Exploring Impact of Code in Pre-training
+"https://huggingface.co/papers/2408.11054" 1 NeCo: Improving DINOv2's spatial representations in 19 GPU hours with
+  Patch Neighbor Consistency
+"https://huggingface.co/papers/2408.11049" 1 MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context
+  Generation with Speculative Decoding
+"https://huggingface.co/papers/2408.11001" 1 MegaFusion: Extend Diffusion Models towards Higher-resolution Image
+  Generation without Further Tuning
+"https://huggingface.co/papers/2408.10701" 1 Ferret: Faster and Effective Automated Red Teaming with Reward-Based
+  Scoring Technique
+"https://huggingface.co/papers/2408.10998" 1 Audio Match Cutting: Finding and Creating Matching Audio Transitions in
+  Movies and Videos
+"https://huggingface.co/papers/2408.10764" 1 Predicting Rewards Alongside Tokens: Non-disruptive Parameter Insertion
+  for Efficient Inference Intervention in Large Language Model
+"https://huggingface.co/papers/2408.10446" 1 The Brittleness of AI-Generated Image Watermarking Techniques: Examining
+  Their Robustness Against Visual Paraphrasing Attacks
+"https://huggingface.co/papers/2408.09574" 1 PhysBERT: A Text Embedding Model for Physics Scientific Literature
+"https://huggingface.co/papers/2408.10487" 1 MambaEVT: Event Stream based Visual Object Tracking using State Space
+  Model
+"https://huggingface.co/papers/2408.11048" 1 RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual
+  Dexterous Robot Hands
+"https://huggingface.co/papers/2408.10906" 1 ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their
+  Self-Supervised Pretraining
+"https://huggingface.co/papers/2408.10088" 1 Recent Surge in Public Interest in Transportation: Sentiment Analysis of
+  Baidu Apollo Go Using Weibo Data
+"https://huggingface.co/papers/2408.11796" 1 LLM Pruning and Distillation in Practice: The Minitron Approach
+"https://huggingface.co/papers/2408.11318" 1 TWLV-I: Analysis and Insights from Holistic Evaluation on Video
+  Foundation Models
+"https://huggingface.co/papers/2408.11745" 1 FocusLLM: Scaling LLM's Context by Parallel Decoding
+"https://huggingface.co/papers/2408.11475" 1 TrackGo: A Flexible and Efficient Method for Controllable Video
+  Generation
+"https://huggingface.co/papers/2408.11817" 1 GRAB: A Challenging GRaph Analysis Benchmark for Large Multimodal Models
+"https://huggingface.co/papers/2408.11706" 1 FRAP: Faithful and Realistic Text-to-Image Generation with Adaptive
+  Prompt Weighting
+"https://huggingface.co/papers/2408.11812" 1 Scaling Cross-Embodied Learning: One Policy for Manipulation,
+  Navigation, Locomotion and Aviation
+"https://huggingface.co/papers/2408.11721" 1 Iterative Object Count Optimization for Text-to-image Diffusion Models
+"https://huggingface.co/papers/2408.11237" 1 Out-of-Distribution Detection with Attention Head Masking for Multimodal
+  Document Classification
+"https://huggingface.co/papers/2408.08793" 1 Backward-Compatible Aligned Representations via an Orthogonal
+  Transformation Layer
+"https://huggingface.co/papers/2408.11247" 1 Unboxing Occupational Bias: Grounded Debiasing LLMs with U.S. Labor Data
+"https://huggingface.co/papers/2408.11457" 1 Expanding FLORES+ Benchmark for more Low-Resource Settings:
+  Portuguese-Emakhuwa Machine Translation Evaluation
+"https://huggingface.co/papers/2408.12569" 1 Sapiens: Foundation for Human Vision Models
+"https://huggingface.co/papers/2408.12599" 1 Controllable Text Generation for Large Language Models: A Survey
+"https://huggingface.co/papers/2408.11878" 1 Open-FinLLMs: Open Multimodal Large Language Models for Financial
+  Applications
+"https://huggingface.co/papers/2408.11857" 1 Hermes 3 Technical Report
+"https://huggingface.co/papers/2408.12528" 1 Show-o: One Single Transformer to Unify Multimodal Understanding and
+  Generation
+"https://huggingface.co/papers/2408.12590" 1 xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed
+  Representations
+"https://huggingface.co/papers/2408.12570" 1 Jamba-1.5: Hybrid Transformer-Mamba Models at Scale
+"https://huggingface.co/papers/2408.12601" 1 DreamCinema: Cinematic Transfer with Free Camera and 3D Character
+"https://huggingface.co/papers/2408.12503" 1 The Russian-focused embedders' exploration: ruMTEB benchmark and Russian
+  embedding model design
+"https://huggingface.co/papers/2408.12245" 1 Scalable Autoregressive Image Generation with Mamba
+"https://huggingface.co/papers/2408.12480" 1 Vintern-1B: An Efficient Multimodal Large Language Model for Vietnamese
+"https://huggingface.co/papers/2408.12588" 1 Real-Time Video Generation with Pyramid Attention Broadcast
+"https://huggingface.co/papers/2408.10635" 1 Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search
+"https://huggingface.co/papers/2408.12114" 1 SPARK: Multi-Vision Sensor Perception and Reasoning Benchmark for
+  Large-scale Vision-Language Models
+"https://huggingface.co/papers/2408.12076" 1 ConflictBank: A Benchmark for Evaluating the Influence of Knowledge
+  Conflicts in LLM
+"https://huggingface.co/papers/2408.11813" 1 SEA: Supervised Embedding Alignment for Token-Level Visual-Textual
+  Integration in MLLMs
+"https://huggingface.co/papers/2408.09787" 1 Anim-Director: A Large Multimodal Model Powered Agent for Controllable
+  Animation Video Generation
+"https://huggingface.co/papers/2408.11915" 1 Video-Foley: Two-Stage Video-To-Sound Generation via Temporal Event
+  Condition For Foley Sound
+"https://huggingface.co/papers/2408.12282" 1 Subsurface Scattering for 3D Gaussian Splatting
+"https://huggingface.co/papers/2408.12060" 1 Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning
+  with LLMs
+"https://huggingface.co/papers/2408.12637" 1 Building and better understanding vision-language models: insights and
+  future directions
+"https://huggingface.co/papers/2408.13257" 1 MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution
+  Real-World Scenarios that are Difficult for Humans?
+"https://huggingface.co/papers/2408.13252" 1 LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation
+"https://huggingface.co/papers/2408.13233" 1 Multi-Layer Transformers Gradient Can be Approximated in Almost Linear
+  Time
+"https://huggingface.co/papers/2408.12857" 1 Memory-Efficient LLM Training with Online Subspace Descent
+"https://huggingface.co/papers/2408.12885" 1 T3M: Text Guided 3D Human Motion Synthesis from Speech
+"https://huggingface.co/papers/2408.13239" 1 CustomCrafter: Customized Video Generation with Preserving Motion and
+  Concept Composition Abilities
+"https://huggingface.co/papers/2408.10945" 1 HiRED: Attention-Guided Token Dropping for Efficient Inference of
+  High-Resolution Vision-Language Models in Resource-Constrained Environments
+"https://huggingface.co/papers/2408.13010" 1 A Web-Based Solution for Federated Learning with LLM-Based Automation
+"https://huggingface.co/papers/2408.12894" 1 FLoD: Integrating Flexible Level of Detail into 3D Gaussian Splatting
+  for Customizable Rendering
+"https://huggingface.co/papers/2408.12369" 1 RoundTable: Leveraging Dynamic Schema and Contextual Autocomplete for
+  Enhanced Query Precision in Tabular Question Answering
+"https://huggingface.co/papers/2408.12418" 1 CODE: Confident Ordinary Differential Editing
+"https://huggingface.co/papers/2408.14176" 1 SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its
+  Teacher
+"https://huggingface.co/papers/2408.14340" 1 Foundation Models for Music: A Survey
+"https://huggingface.co/papers/2408.14354" 1 SWE-bench-java: A GitHub Issue Resolving Benchmark for Java
+"https://huggingface.co/papers/2408.14468" 1 K-Sort Arena: Efficient and Reliable Benchmarking for Generative Models
+  via K-wise Human Preferences
+"https://huggingface.co/papers/2408.13467" 1 LlamaDuo: LLMOps Pipeline for Seamless Migration from Service LLMs to
+  Small-Scale Local LLMs
+"https://huggingface.co/papers/2408.13359" 1 Power Scheduler: A Batch Size and Token Number Agnostic Learning Rate
+  Scheduler
+"https://huggingface.co/papers/2408.13934" 1 Learning to Move Like Professional Counter-Strike Players
+"https://huggingface.co/papers/2408.13423" 1 Training-free Long Video Generation with Chain of Diffusion Model
+  Experts
+"https://huggingface.co/papers/2408.13402" 1 LLaVaOLMoBitnet1B: Ternary LLM goes Multimodal!
+"https://huggingface.co/papers/2408.12757" 1 NanoFlow: Towards Optimal Large Language Model Serving Throughput
+"https://huggingface.co/papers/2408.13933" 1 MobileQuant: Mobile-friendly Quantization for On-device Language Models
+"https://huggingface.co/papers/2408.13413" 1 TVG: A Training-free Transition Video Generation Method with Diffusion
+  Models
+"https://huggingface.co/papers/2408.11727" 1 Efficient Detection of Toxic Prompts in Large Language Models
+"https://huggingface.co/papers/2408.14211" 1 MagicMan: Generative Novel View Synthesis of Humans with 3D-Aware
+  Diffusion and Iterative Refinement
+"https://huggingface.co/papers/2408.14906" 1 Writing in the Margins: Better Inference Pattern for Long Context
+  Retrieval
+"https://huggingface.co/papers/2408.14837" 1 Diffusion Models Are Real-Time Game Engines
+"https://huggingface.co/papers/2408.15237" 1 The Mamba in the Llama: Distilling and Accelerating Hybrid Models
+"https://huggingface.co/papers/2408.15239" 1 Generative Inbetweening: Adapting Image-to-Video Models for Keyframe
+  Interpolation
+"https://huggingface.co/papers/2408.14717" 1 Text2SQL is Not Enough: Unifying AI and Databases with TAG
+"https://huggingface.co/papers/2408.14819" 1 Build-A-Scene: Interactive 3D Layout Control for Diffusion-Based Image
+  Generation
+"https://huggingface.co/papers/2408.13674" 1 GenCA: A Text-conditioned Generative Model for Realistic and Drivable
+  Codec Avatars
+"https://huggingface.co/papers/2408.14805" 1 Platypus: A Generalized Specialist Model for Reading Text in Various
+  Forms
+"https://huggingface.co/papers/2408.14849" 1 Project SHADOW: Symbolic Higher-order Associative Deductive reasoning On
+  Wikidata using LM probing
+"https://huggingface.co/papers/2408.14236" 1 DSTI at LLMs4OL 2024 Task A: Intrinsic versus extrinsic knowledge for
+  type classification
+"https://huggingface.co/papers/2408.13629" 1 Temporally-consistent 3D Reconstruction of Birds
+"https://huggingface.co/papers/2408.14307" 1 LLM-3D Print: Large Language Models To Monitor and Control 3D Printing
+"https://huggingface.co/papers/2408.15998" 1 Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of
+  Encoders
+"https://huggingface.co/papers/2408.15079" 1 BaichuanSEED: Sharing the Potential of ExtensivE Data Collection and
+  Deduplication by Introducing a Competitive Large Language Model Baseline
+"https://huggingface.co/papers/2408.15518" 1 Dolphin: Long Context as a New Modality for Energy-Efficient On-Device
+  Language Models
+"https://huggingface.co/papers/2408.15881" 1 LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation
+"https://huggingface.co/papers/2408.15792" 1 Efficient LLM Scheduling by Learning to Rank
+"https://huggingface.co/papers/2408.15915" 1 Leveraging Open Knowledge for Advancing Task Expertise in Large Language
+  Models
+"https://huggingface.co/papers/2408.15991" 1 Distribution Backtracking Builds A Faster Convergence Trajectory for
+  One-step Diffusion Distillation
+"https://huggingface.co/papers/2408.15836" 1 Knowledge Navigator: LLM-guided Browsing Framework for Exploratory
+  Search in Scientific Literature
+"https://huggingface.co/papers/2408.15664" 1 Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts
+"https://huggingface.co/papers/2408.15496" 1 ReMamba: Equip Mamba with Effective Long-Sequence Modeling
+"https://huggingface.co/papers/2408.15980" 1 In-Context Imitation Learning via Next-Token Prediction
+"https://huggingface.co/papers/2408.15708" 1 Towards Realistic Example-based Modeling via 3D Gaussian Stitching
+"https://huggingface.co/papers/2408.15995" 1 TEDRA: Text-based Editing of Dynamic and Photoreal Actors
+"https://huggingface.co/papers/2408.16357" 1 Law of Vision Representation in MLLMs
+"https://huggingface.co/papers/2408.16500" 1 CogVLM2: Visual Language Models for Image and Video Understanding
+"https://huggingface.co/papers/2408.16532" 1 WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio
+  Language Modeling
+"https://huggingface.co/papers/2408.16767" 1 ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion
+  Model
+"https://huggingface.co/papers/2408.16768" 1 SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners
+"https://huggingface.co/papers/2408.16293" 1 Physics of Language Models: Part 2.2, How to Learn From Mistakes on
+  Grade-School Math Problems
+"https://huggingface.co/papers/2408.16766" 1 CSGO: Content-Style Composition in Text-to-Image Generation
+"https://huggingface.co/papers/2408.16061" 1 3D Reconstruction with Spatial Memory
+"https://huggingface.co/papers/2408.15666" 1 StyleRemix: Interpretable Authorship Obfuscation via Distillation and
+  Perturbation of Style Elements
+"https://huggingface.co/papers/2408.16046" 1 Scaling Up Diffusion and Flow-based XGBoost Models
+"https://huggingface.co/papers/2408.14608" 1 Meta Flow Matching: Integrating Vector Fields on the Wasserstein
+  Manifold
+"https://huggingface.co/papers/2408.15545" 1 SciLitLLM: How to Adapt LLMs for Scientific Literature Understanding
+"https://huggingface.co/papers/2408.15914" 1 CoRe: Context-Regularized Text Embedding Learning for Text-to-Image
+  Personalization
+"https://huggingface.co/papers/2408.17267" 1 UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal
+  Models in Multi-View Urban Scenarios
+"https://huggingface.co/papers/2408.14765" 1 CrossViewDiff: A Cross-View Diffusion Model for Satellite-to-Street View
+  Synthesis
+"https://huggingface.co/papers/2408.17024" 1 InkubaLM: A small language model for low-resource African languages
+"https://huggingface.co/papers/2408.17131" 1 VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion
+  Transformers
+"https://huggingface.co/papers/2408.14886" 1 The VoxCeleb Speaker Recognition Challenge: A Retrospective
+"https://huggingface.co/papers/2408.16672" 1 Jina-ColBERT-v2: A General-Purpose Multilingual Late Interaction
+  Retriever
+"https://huggingface.co/papers/2408.16444" 1 SurveySum: A Dataset for Summarizing Multiple Scientific Articles into a
+  Survey Section
+"https://huggingface.co/papers/2408.16176" 1 VLM4Bio: A Benchmark Dataset to Evaluate Pretrained Vision-Language
+  Models for Trait Discovery from Biological Images
+"https://huggingface.co/papers/2408.15993" 1 ClimDetect: A Benchmark Dataset for Climate Change Detection and
+  Attribution
+"https://huggingface.co/papers/2408.14572" 1 CURLoRA: Stable LLM Continual Fine-Tuning and Catastrophic Forgetting
+  Mitigation
+"https://huggingface.co/papers/2408.15827" 1 Automatic Differential Diagnosis using Transformer-Based Multi-Label
+  Sequence Classification
+"https://huggingface.co/papers/2408.16245" 1 Large-Scale Multi-omic Biosequence Transformers for Modeling
+  Peptide-Nucleotide Interactions
+"https://huggingface.co/papers/2408.15300" 1 GIFT-SW: Gaussian noise Injected Fine-Tuning of Salient Weights for LLMs
+"https://huggingface.co/papers/2408.16667" 1 Iterative Graph Alignment
+"https://huggingface.co/papers/2408.16725" 1 Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming
+"https://huggingface.co/papers/2408.17253" 1 VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time
+  Series Forecasters

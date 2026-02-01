@@ -1,0 +1,274 @@
+food themealdb.com g_000 food_name
+272 272 272
+"https://www.themealdb.com/meal/52764-garides-saganaki-recipe" 1 Garides Saganaki
+"https://www.themealdb.com/meal/52765-chicken-enchilada-casserole-recipe" 1 Chicken Enchilada Casserole
+"https://www.themealdb.com/meal/52767-bakewell-tart-recipe" 1 Bakewell tart
+"https://www.themealdb.com/meal/52768-apple-frangipan-tart-recipe" 1 Apple Frangipan Tart
+"https://www.themealdb.com/meal/52771-spicy-arrabiata-penne-recipe" 1 Spicy Arrabiata Penne
+"https://www.themealdb.com/meal/52772-teriyaki-chicken-casserole-recipe" 1 Teriyaki Chicken Casserole
+"https://www.themealdb.com/meal/52773-honey-teriyaki-salmon-recipe" 1 Honey Teriyaki Salmon
+"https://www.themealdb.com/meal/52774-pad-see-ew-recipe" 1 Pad See Ew
+"https://www.themealdb.com/meal/52775-vegan-lasagna-recipe" 1 Vegan Lasagna
+"https://www.themealdb.com/meal/52776-chocolate-gateau-recipe" 1 Chocolate Gateau
+"https://www.themealdb.com/meal/52777-mediterranean-pasta-salad-recipe" 1 Mediterranean Pasta Salad
+"https://www.themealdb.com/meal/52779-cream-cheese-tart-recipe" 1 Cream Cheese Tart
+"https://www.themealdb.com/meal/52780-potato-gratin-with-chicken-recipe" 1 Potato Gratin with Chicken
+"https://www.themealdb.com/meal/52781-irish-stew-recipe" 1 Irish stew
+"https://www.themealdb.com/meal/52782-lamb-tomato-and-sweet-spices-recipe" 1 Lamb tomato and sweet spices
+"https://www.themealdb.com/meal/52783-rigatoni-with-fennel-sausage-sauce-recipe" 1 Rigatoni with fennel sausage sauce
+"https://www.themealdb.com/meal/52784-smoky-lentil-chili-with-squash-recipe" 1 Smoky Lentil Chili with Squash
+"https://www.themealdb.com/meal/52785-dal-fry-recipe" 1 Dal fry
+"https://www.themealdb.com/meal/52786-rocky-road-fudge-recipe" 1 Rocky Road Fudge
+"https://www.themealdb.com/meal/52787-hot-chocolate-fudge-recipe" 1 Hot Chocolate Fudge
+"https://www.themealdb.com/meal/52788-christmas-pudding-flapjack-recipe" 1 Christmas Pudding Flapjack
+"https://www.themealdb.com/meal/52792-bread-and-butter-pudding-recipe" 1 Bread and Butter Pudding
+"https://www.themealdb.com/meal/52793-sticky-toffee-pudding-ultimate-recipe" 1 Sticky Toffee Pudding Ultimate
+"https://www.themealdb.com/meal/52794-vegan-chocolate-cake-recipe" 1 Vegan Chocolate Cake
+"https://www.themealdb.com/meal/52795-chicken-handi-recipe" 1 Chicken Handi
+"https://www.themealdb.com/meal/52796-chicken-alfredo-primavera-recipe" 1 Chicken Alfredo Primavera
+"https://www.themealdb.com/meal/52803-beef-wellington-recipe" 1 Beef Wellington
+"https://www.themealdb.com/meal/52804-poutine-recipe" 1 Poutine
+"https://www.themealdb.com/meal/52805-lamb-biryani-recipe" 1 Lamb Biryani
+"https://www.themealdb.com/meal/52806-tandoori-chicken-recipe" 1 Tandoori chicken
+"https://www.themealdb.com/meal/52807-baingan-bharta-recipe" 1 Baingan Bharta
+"https://www.themealdb.com/meal/52808-lamb-rogan-josh-recipe" 1 Lamb Rogan josh
+"https://www.themealdb.com/meal/52809-recheado-masala-fish-recipe" 1 Recheado Masala Fish
+"https://www.themealdb.com/meal/52810-osso-buco-alla-milanese-recipe" 1 Osso Buco alla Milanese
+"https://www.themealdb.com/meal/52811-ribollita-recipe" 1 Ribollita
+"https://www.themealdb.com/meal/52812-beef-brisket-pot-roast-recipe" 1 Beef Brisket Pot Roast
+"https://www.themealdb.com/meal/52813-kentucky-fried-chicken-recipe" 1 Kentucky Fried Chicken
+"https://www.themealdb.com/meal/52814-thai-green-curry-recipe" 1 Thai Green Curry
+"https://www.themealdb.com/meal/52815-french-lentils-with-garlic-and-thyme-recipe" 1 French Lentils With Garlic and Thyme
+"https://www.themealdb.com/meal/52816-roasted-eggplant-with-tahini,-pine-nuts,-and-lentils-recipe" 1 Roasted Eggplant With Tahini, Pine Nuts, and Lentils
+"https://www.themealdb.com/meal/52817-stovetop-eggplant-with-harissa,-chickpeas,-and-cumin-yogurt-recipe" 1 Stovetop Eggplant With Harissa, Chickpeas, and Cumin Yogurt
+"https://www.themealdb.com/meal/52818-chicken-fajita-mac-and-cheese-recipe" 1 Chicken Fajita Mac and Cheese
+"https://www.themealdb.com/meal/52819-cajun-spiced-fish-tacos-recipe" 1 Cajun spiced fish tacos
+"https://www.themealdb.com/meal/52820-katsu-chicken-curry-recipe" 1 Katsu Chicken curry
+"https://www.themealdb.com/meal/52821-laksa-king-prawn-noodles-recipe" 1 Laksa King Prawn Noodles
+"https://www.themealdb.com/meal/52822-toad-in-the-hole-recipe" 1 Toad In The Hole
+"https://www.themealdb.com/meal/52823-salmon-prawn-risotto-recipe" 1 Salmon Prawn Risotto
+"https://www.themealdb.com/meal/52824-beef-sunday-roast-recipe" 1 Beef Sunday Roast
+"https://www.themealdb.com/meal/52826-braised-beef-chilli-recipe" 1 Braised Beef Chilli
+"https://www.themealdb.com/meal/52827-massaman-beef-curry-recipe" 1 Massaman Beef curry
+"https://www.themealdb.com/meal/52828-vietnamese-grilled-pork-(bun-thit-nuong)-recipe" 1 Vietnamese Grilled Pork (bun-thit-nuong)
+"https://www.themealdb.com/meal/52829-grilled-mac-and-cheese-sandwich-recipe" 1 Grilled Mac and Cheese Sandwich
+"https://www.themealdb.com/meal/52830-crock-pot-chicken-baked-tacos-recipe" 1 Crock Pot Chicken Baked Tacos
+"https://www.themealdb.com/meal/52831-chicken-karaage-recipe" 1 Chicken Karaage
+"https://www.themealdb.com/meal/52832-coq-au-vin-recipe" 1 Coq au vin
+"https://www.themealdb.com/meal/52833-salted-caramel-cheescake-recipe" 1 Salted Caramel Cheescake
+"https://www.themealdb.com/meal/52834-beef-stroganoff-recipe" 1 Beef stroganoff
+"https://www.themealdb.com/meal/52835-fettucine-alfredo-recipe" 1 Fettucine alfredo
+"https://www.themealdb.com/meal/52838-venetian-duck-ragu-recipe" 1 Venetian Duck Ragu
+"https://www.themealdb.com/meal/52839-chilli-prawn-linguine-recipe" 1 Chilli prawn linguine
+"https://www.themealdb.com/meal/52840-clam-chowder-recipe" 1 Clam chowder
+"https://www.themealdb.com/meal/52841-creamy-tomato-soup-recipe" 1 Creamy Tomato Soup
+"https://www.themealdb.com/meal/52842-broccoli-&-stilton-soup-recipe" 1 Broccoli & Stilton soup
+"https://www.themealdb.com/meal/52843-lamb-tagine-recipe" 1 Lamb Tagine
+"https://www.themealdb.com/meal/52844-lasagne-recipe" 1 Lasagne
+"https://www.themealdb.com/meal/52845-turkey-meatloaf-recipe" 1 Turkey Meatloaf
+"https://www.themealdb.com/meal/52846-chicken-&-mushroom-hotpot-recipe" 1 Chicken & mushroom Hotpot
+"https://www.themealdb.com/meal/52847-pork-cassoulet-recipe" 1 Pork Cassoulet
+"https://www.themealdb.com/meal/52848-bean-&-sausage-hotpot-recipe" 1 Bean & Sausage Hotpot
+"https://www.themealdb.com/meal/52849-spinach-&-ricotta-cannelloni-recipe" 1 Spinach & Ricotta Cannelloni
+"https://www.themealdb.com/meal/52850-chicken-couscous-recipe" 1 Chicken Couscous
+"https://www.themealdb.com/meal/52851-nutty-chicken-curry-recipe" 1 Nutty Chicken Curry
+"https://www.themealdb.com/meal/52853-chocolate-avocado-mousse-recipe" 1 Chocolate Avocado Mousse
+"https://www.themealdb.com/meal/52855-banana-pancakes-recipe" 1 Banana Pancakes
+"https://www.themealdb.com/meal/52856-choc-chip-pecan-pie-recipe" 1 Choc Chip Pecan Pie
+"https://www.themealdb.com/meal/52857-pumpkin-pie-recipe" 1 Pumpkin Pie
+"https://www.themealdb.com/meal/52858-new-york-cheesecake-recipe" 1 New York cheesecake
+"https://www.themealdb.com/meal/52859-key-lime-pie-recipe" 1 Key Lime Pie
+"https://www.themealdb.com/meal/52860-chocolate-raspberry-brownies-recipe" 1 Chocolate Raspberry Brownies
+"https://www.themealdb.com/meal/52861-peanut-butter-cheesecake-recipe" 1 Peanut Butter Cheesecake
+"https://www.themealdb.com/meal/52862-peach-&-blueberry-grunt-recipe" 1 Peach & Blueberry Grunt
+"https://www.themealdb.com/meal/52863-vegetarian-casserole-recipe" 1 Vegetarian Casserole
+"https://www.themealdb.com/meal/52864-mushroom-&-chestnut-rotolo-recipe" 1 Mushroom & Chestnut Rotolo
+"https://www.themealdb.com/meal/52865-matar-paneer-recipe" 1 Matar Paneer
+"https://www.themealdb.com/meal/52867-vegetarian-chilli-recipe" 1 Vegetarian Chilli
+"https://www.themealdb.com/meal/52868-kidney-bean-curry-recipe" 1 Kidney Bean Curry
+"https://www.themealdb.com/meal/52870-chickpea-fajitas-recipe" 1 Chickpea Fajitas
+"https://www.themealdb.com/meal/52871-yaki-udon-recipe" 1 Yaki Udon
+"https://www.themealdb.com/meal/52872-spanish-tortilla-recipe" 1 Spanish Tortilla
+"https://www.themealdb.com/meal/52873-beef-dumpling-stew-recipe" 1 Beef Dumpling Stew
+"https://www.themealdb.com/meal/52874-beef-and-mustard-pie-recipe" 1 Beef and Mustard Pie
+"https://www.themealdb.com/meal/52875-chicken-ham-and-leek-pie-recipe" 1 Chicken Ham and Leek Pie
+"https://www.themealdb.com/meal/52876-minced-beef-pie-recipe" 1 Minced Beef Pie
+"https://www.themealdb.com/meal/52877-lamb-and-potato-pie-recipe" 1 Lamb and Potato pie
+"https://www.themealdb.com/meal/52878-beef-and-oyster-pie-recipe" 1 Beef and Oyster pie
+"https://www.themealdb.com/meal/52879-chicken-parmentier-recipe" 1 Chicken Parmentier
+"https://www.themealdb.com/meal/52880-mcsinghs-scotch-pie-recipe" 1 McSinghs Scotch pie
+"https://www.themealdb.com/meal/52881-steak-and-kidney-pie-recipe" 1 Steak and Kidney Pie
+"https://www.themealdb.com/meal/52882-three-fish-pie-recipe" 1 Three Fish Pie
+"https://www.themealdb.com/meal/52883-sticky-toffee-pudding-recipe" 1 Sticky Toffee Pudding
+"https://www.themealdb.com/meal/52884-lancashire-hotpot-recipe" 1 Lancashire hotpot
+"https://www.themealdb.com/meal/52885--bubble-&-squeak-recipe" 1 Bubble & Squeak
+"https://www.themealdb.com/meal/52886-spotted-dick-recipe" 1 Spotted Dick
+"https://www.themealdb.com/meal/52887-kedgeree-recipe" 1 Kedgeree
+"https://www.themealdb.com/meal/52888-eccles-cakes-recipe" 1 Eccles Cakes
+"https://www.themealdb.com/meal/52889-summer-pudding-recipe" 1 Summer Pudding
+"https://www.themealdb.com/meal/52890-jam-roly-poly-recipe" 1 Jam Roly-Poly
+"https://www.themealdb.com/meal/52891-blackberry-fool-recipe" 1 Blackberry Fool
+"https://www.themealdb.com/meal/52892-treacle-tart-recipe" 1 Treacle Tart
+"https://www.themealdb.com/meal/52893-apple-&-blackberry-crumble-recipe" 1 Apple & Blackberry Crumble
+"https://www.themealdb.com/meal/52894-battenberg-cake-recipe" 1 Battenberg Cake
+"https://www.themealdb.com/meal/52895-english-breakfast-recipe" 1 English Breakfast
+"https://www.themealdb.com/meal/52896-full-english-breakfast-recipe" 1 Full English Breakfast
+"https://www.themealdb.com/meal/52897-carrot-cake-recipe" 1 Carrot Cake
+"https://www.themealdb.com/meal/52898-chelsea-buns-recipe" 1 Chelsea Buns
+"https://www.themealdb.com/meal/52899-dundee-cake-recipe" 1 Dundee cake
+"https://www.themealdb.com/meal/52900-madeira-cake-recipe" 1 Madeira Cake
+"https://www.themealdb.com/meal/52901-rock-cakes-recipe" 1 Rock Cakes
+"https://www.themealdb.com/meal/52902-parkin-cake-recipe" 1 Parkin Cake
+"https://www.themealdb.com/meal/52903-french-onion-soup-recipe" 1 French Onion Soup
+"https://www.themealdb.com/meal/52904-beef-bourguignon-recipe" 1 Beef Bourguignon
+"https://www.themealdb.com/meal/52905-chocolate-souffle-recipe" 1 Chocolate Souffle
+"https://www.themealdb.com/meal/52906-flamiche-recipe" 1 Flamiche
+"https://www.themealdb.com/meal/52907-duck-confit-recipe" 1 Duck Confit
+"https://www.themealdb.com/meal/52908-ratatouille-recipe" 1 Ratatouille
+"https://www.themealdb.com/meal/52909-tarte-tatin-recipe" 1 Tarte Tatin
+"https://www.themealdb.com/meal/52910-chinon-apple-tarts-recipe" 1 Chinon Apple Tarts
+"https://www.themealdb.com/meal/52911-summer-pistou-recipe" 1 Summer Pistou
+"https://www.themealdb.com/meal/52912-three-cheese-souffles-recipe" 1 Three-cheese souffles
+"https://www.themealdb.com/meal/52913-brie-wrapped-in-prosciutto-&-brioche-recipe" 1 Brie wrapped in prosciutto & brioche
+"https://www.themealdb.com/meal/52915-french-omelette-recipe" 1 French Omelette
+"https://www.themealdb.com/meal/52916-pear-tarte-tatin-recipe" 1 Pear Tarte Tatin
+"https://www.themealdb.com/meal/52917-white-chocolate-creme-brulee-recipe" 1 White chocolate creme brulee
+"https://www.themealdb.com/meal/52919-fennel-dauphinoise-recipe" 1 Fennel Dauphinoise
+"https://www.themealdb.com/meal/52920-chicken-marengo-recipe" 1 Chicken Marengo
+"https://www.themealdb.com/meal/52922-prawn-&-fennel-bisque-recipe" 1 Prawn & Fennel Bisque
+"https://www.themealdb.com/meal/52923-canadian-butter-tarts-recipe" 1 Canadian Butter Tarts
+"https://www.themealdb.com/meal/52924-nanaimo-bars-recipe" 1 Nanaimo Bars
+"https://www.themealdb.com/meal/52925-split-pea-soup-recipe" 1 Split Pea Soup
+"https://www.themealdb.com/meal/52926-tourtiere-recipe" 1 Tourtiere
+"https://www.themealdb.com/meal/52927-montreal-smoked-meat-recipe" 1 Montreal Smoked Meat
+"https://www.themealdb.com/meal/52928-beavertails-recipe" 1 BeaverTails
+"https://www.themealdb.com/meal/52929-timbits-recipe" 1 Timbits
+"https://www.themealdb.com/meal/52930-pate-chinois-recipe" 1 Pate Chinois
+"https://www.themealdb.com/meal/52931-sugar-pie-recipe" 1 Sugar Pie
+"https://www.themealdb.com/meal/52932-pouding-chomeur-recipe" 1 Pouding chomeur
+"https://www.themealdb.com/meal/52933-rappie-pie-recipe" 1 Rappie Pie
+"https://www.themealdb.com/meal/52934-chicken-basquaise-recipe" 1 Chicken Basquaise
+"https://www.themealdb.com/meal/52935-steak-diane-recipe" 1 Steak Diane
+"https://www.themealdb.com/meal/52937-jerk-chicken-with-rice-&-peas-recipe" 1 Jerk chicken with rice & peas
+"https://www.themealdb.com/meal/52938-jamaican-beef-patties-recipe" 1 Jamaican Beef Patties
+"https://www.themealdb.com/meal/52939-callaloo-jamaican-style-recipe" 1 Callaloo Jamaican Style
+"https://www.themealdb.com/meal/52940-brown-stew-chicken-recipe" 1 Brown Stew Chicken
+"https://www.themealdb.com/meal/52941-red-peas-soup-recipe" 1 Red Peas Soup
+"https://www.themealdb.com/meal/52944-escovitch-fish-recipe" 1 Escovitch Fish
+"https://www.themealdb.com/meal/52945-kung-pao-chicken-recipe" 1 Kung Pao Chicken
+"https://www.themealdb.com/meal/52946-kung-po-prawns-recipe" 1 Kung Po Prawns
+"https://www.themealdb.com/meal/52948-wontons-recipe" 1 Wontons
+"https://www.themealdb.com/meal/52949-sweet-and-sour-pork-recipe" 1 Sweet and Sour Pork
+"https://www.themealdb.com/meal/52950-szechuan-beef-recipe" 1 Szechuan Beef
+"https://www.themealdb.com/meal/52951-general-tsos-chicken-recipe" 1 General Tsos Chicken
+"https://www.themealdb.com/meal/52952-beef-lo-mein-recipe" 1 Beef Lo Mein
+"https://www.themealdb.com/meal/52953-shrimp-chow-fun-recipe" 1 Shrimp Chow Fun
+"https://www.themealdb.com/meal/52954-hot-and-sour-soup-recipe" 1 Hot and Sour Soup
+"https://www.themealdb.com/meal/52955-egg-drop-soup-recipe" 1 Egg Drop Soup
+"https://www.themealdb.com/meal/52956-chicken-congee-recipe" 1 Chicken Congee
+"https://www.themealdb.com/meal/52959-baked-salmon-with-fennel-&-tomatoes-recipe" 1 Baked salmon with fennel & tomatoes
+"https://www.themealdb.com/meal/52960-salmon-avocado-salad-recipe" 1 Salmon Avocado Salad
+"https://www.themealdb.com/meal/52961-budino-di-ricotta-recipe" 1 Budino Di Ricotta
+"https://www.themealdb.com/meal/52962-salmon-eggs-eggs-benedict-recipe" 1 Salmon Eggs Eggs Benedict
+"https://www.themealdb.com/meal/52963-shakshuka-recipe" 1 Shakshuka
+"https://www.themealdb.com/meal/52964-smoked-haddock-kedgeree-recipe" 1 Smoked Haddock Kedgeree
+"https://www.themealdb.com/meal/52965-breakfast-potatoes-recipe" 1 Breakfast Potatoes
+"https://www.themealdb.com/meal/52966-chocolate-caramel-crispy-recipe" 1 Chocolate Caramel Crispy
+"https://www.themealdb.com/meal/52968-mbuzi-choma-(roasted-goat)-recipe" 1 Mbuzi Choma (Roasted Goat)
+"https://www.themealdb.com/meal/52969-chakchouka--recipe" 1 Chakchouka
+"https://www.themealdb.com/meal/52970-tunisian-orange-cake-recipe" 1 Tunisian Orange Cake
+"https://www.themealdb.com/meal/52972-tunisian-lamb-soup-recipe" 1 Tunisian Lamb Soup
+"https://www.themealdb.com/meal/52973-leblebi-soup-recipe" 1 Leblebi Soup
+"https://www.themealdb.com/meal/52974-keleya-zaara-recipe" 1 Keleya Zaara
+"https://www.themealdb.com/meal/52976-cashew-ghoriba-biscuits-recipe" 1 Cashew Ghoriba Biscuits
+"https://www.themealdb.com/meal/52977-corba-recipe" 1 Corba
+"https://www.themealdb.com/meal/52978-kumpir-recipe" 1 Kumpir
+"https://www.themealdb.com/meal/52979-bitterballen-(dutch-meatballs)-recipe" 1 Bitterballen (Dutch meatballs)
+"https://www.themealdb.com/meal/52980-stamppot-recipe" 1 Stamppot
+"https://www.themealdb.com/meal/52981-snert-(dutch-split-pea-soup)-recipe" 1 Snert (Dutch Split Pea Soup)
+"https://www.themealdb.com/meal/52982-spaghetti-alla-carbonara-recipe" 1 Spaghetti alla Carbonara
+"https://www.themealdb.com/meal/52987-lasagna-sandwiches-recipe" 1 Lasagna Sandwiches
+"https://www.themealdb.com/meal/52988-classic-christmas-pudding-recipe" 1 Classic Christmas pudding
+"https://www.themealdb.com/meal/52989-christmas-pudding-trifle-recipe" 1 Christmas Pudding Trifle
+"https://www.themealdb.com/meal/52990-christmas-cake-recipe" 1 Christmas cake
+"https://www.themealdb.com/meal/52991-mince-pies-recipe" 1 Mince Pies
+"https://www.themealdb.com/meal/52992-soy-glazed-meatloaves-with-wasabi-mashed-potatoes-&-roasted-carrots-recipe" 1 Soy-Glazed Meatloaves with Wasabi Mashed Potatoes & Roasted Carrots
+"https://www.themealdb.com/meal/52993-honey-balsamic-chicken-with-crispy-broccoli-&-potatoes-recipe" 1 Honey Balsamic Chicken with Crispy Broccoli & Potatoes
+"https://www.themealdb.com/meal/52994-skillet-apple-pork-chops-with-roasted-sweet-potatoes-&-zucchini-recipe" 1 Skillet Apple Pork Chops with Roasted Sweet Potatoes & Zucchini
+"https://www.themealdb.com/meal/52995-bbq-pork-sloppy-joes-recipe" 1 BBQ Pork Sloppy Joes
+"https://www.themealdb.com/meal/52996-french-onion-chicken-with-roasted-carrots-&-mashed-potatoes-recipe" 1 French Onion Chicken with Roasted Carrots & Mashed Potatoes
+"https://www.themealdb.com/meal/52997-beef-banh-mi-bowls-with-sriracha-mayo,-carrot-&-pickled-cucumber-recipe" 1 Beef Banh Mi Bowls with Sriracha Mayo, Carrot & Pickled Cucumber
+"https://www.themealdb.com/meal/52998-corned-beef-and-cabbage-recipe" 1 Corned Beef and Cabbage
+"https://www.themealdb.com/meal/52999-crispy-sausages-and-greens-recipe" 1 Crispy Sausages and Greens
+"https://www.themealdb.com/meal/53000-vegetable-shepherds-pie-recipe" 1 Vegetable Shepherds Pie
+"https://www.themealdb.com/meal/53005-strawberry-rhubarb-pie-recipe" 1 Strawberry Rhubarb Pie
+"https://www.themealdb.com/meal/53006-moussaka-recipe" 1 Moussaka
+"https://www.themealdb.com/meal/53007-honey-yogurt-cheesecake-recipe" 1 Honey Yogurt Cheesecake
+"https://www.themealdb.com/meal/53008-stuffed-lamb-tomatoes-recipe" 1 Stuffed Lamb Tomatoes
+"https://www.themealdb.com/meal/53010-lamb-tzatziki-burgers-recipe" 1 Lamb Tzatziki Burgers
+"https://www.themealdb.com/meal/53011-chicken-quinoa-greek-salad-recipe" 1 Chicken Quinoa Greek Salad
+"https://www.themealdb.com/meal/53012-gigantes-plaki-recipe" 1 Gigantes Plaki
+"https://www.themealdb.com/meal/53013-big-mac-recipe" 1 Big Mac
+"https://www.themealdb.com/meal/53014-pizza-express-margherita-recipe" 1 Pizza Express Margherita
+"https://www.themealdb.com/meal/53016-chick-fil-a-sandwich-recipe" 1 Chick-Fil-A Sandwich
+"https://www.themealdb.com/meal/53017-paszteciki-(polish-pasties)-recipe" 1 Paszteciki (Polish Pasties)
+"https://www.themealdb.com/meal/53018-bigos-(hunters-stew)-recipe" 1 Bigos (Hunters Stew)
+"https://www.themealdb.com/meal/53019-pierogi-(polish-dumplings)-recipe" 1 Pierogi (Polish Dumplings)
+"https://www.themealdb.com/meal/53020-rosol-(polish-chicken-soup)-recipe" 1 Rosol (Polish Chicken Soup)
+"https://www.themealdb.com/meal/53021-golabki-(cabbage-roll)-recipe" 1 Golabki (cabbage roll)
+"https://www.themealdb.com/meal/53022-polskie-nalesniki-(polish-pancakes)-recipe" 1 Polskie Nalesniki (Polish Pancakes)
+"https://www.themealdb.com/meal/53023-sledz-w-oleju-(polish-herrings)-recipe" 1 Sledz w Oleju (Polish Herrings)
+"https://www.themealdb.com/meal/53024-rogaliki-(polish-croissant-cookies)-recipe" 1 Rogaliki (Polish Croissant Cookies)
+"https://www.themealdb.com/meal/53026-tamiya-recipe" 1 Tamiya
+"https://www.themealdb.com/meal/53027-koshari-recipe" 1 Koshari
+"https://www.themealdb.com/meal/53028-shawarma-recipe" 1 Shawarma
+"https://www.themealdb.com/meal/53029-mulukhiyah-recipe" 1 Mulukhiyah
+"https://www.themealdb.com/meal/53031-egyptian-fatteh-recipe" 1 Egyptian Fatteh
+"https://www.themealdb.com/meal/53032-tonkatsu-pork-recipe" 1 Tonkatsu pork
+"https://www.themealdb.com/meal/53034-japanese-katsudon-recipe" 1 Japanese Katsudon
+"https://www.themealdb.com/meal/53035-ham-hock-colcannon-recipe" 1 Ham hock colcannon
+"https://www.themealdb.com/meal/53036-boxty-breakfast-recipe" 1 Boxty Breakfast
+"https://www.themealdb.com/meal/53037-coddled-pork-with-cider-recipe" 1 Coddled pork with cider
+"https://www.themealdb.com/meal/53038-mustard-champ-recipe" 1 Mustard champ
+"https://www.themealdb.com/meal/53039-piri-piri-chicken-and-slaw-recipe" 1 Piri-piri chicken and slaw
+"https://www.themealdb.com/meal/53040-spring-onion-and-prawn-empanadas-recipe" 1 Spring onion and prawn empanadas
+"https://www.themealdb.com/meal/53042-portuguese-prego-with-green-piri-piri-recipe" 1 Portuguese prego with green piri-piri
+"https://www.themealdb.com/meal/53043-fish-fofos-recipe" 1 Fish fofos
+"https://www.themealdb.com/meal/53044-portuguese-barbecued-pork-(febras-assadas)-recipe" 1 Portuguese barbecued pork (Febras assadas)
+"https://www.themealdb.com/meal/53045-portuguese-fish-stew-(caldeirada-de-peixe)-recipe" 1 Portuguese fish stew (Caldeirada de peixe)
+"https://www.themealdb.com/meal/53046-portuguese-custard-tarts-recipe" 1 Portuguese custard tarts
+"https://www.themealdb.com/meal/53047-moroccan-carrot-soup-recipe" 1 Moroccan Carrot Soup
+"https://www.themealdb.com/meal/53048-mee-goreng-mamak-recipe" 1 Mee goreng mamak
+"https://www.themealdb.com/meal/53049-apam-balik-recipe" 1 Apam balik
+"https://www.themealdb.com/meal/53050-ayam-percik-recipe" 1 Ayam Percik
+"https://www.themealdb.com/meal/53051-nasi-lemak-recipe" 1 Nasi lemak
+"https://www.themealdb.com/meal/53052-roti-john-recipe" 1 Roti john
+"https://www.themealdb.com/meal/53053-beef-rendang-recipe" 1 Beef Rendang
+"https://www.themealdb.com/meal/53054-seri-muka-kuih-recipe" 1 Seri muka kuih
+"https://www.themealdb.com/meal/53055-cevapi-sausages-recipe" 1 Cevapi Sausages
+"https://www.themealdb.com/meal/53056-croatian-lamb-peka-recipe" 1 Croatian lamb peka
+"https://www.themealdb.com/meal/53057-traditional-croatian-goulash-recipe" 1 Traditional Croatian Goulash
+"https://www.themealdb.com/meal/53058-croatian-bean-stew-recipe" 1 Croatian Bean Stew
+"https://www.themealdb.com/meal/53059-mushroom-soup-with-buckwheat-recipe" 1 Mushroom soup with buckwheat
+"https://www.themealdb.com/meal/53062-walnut-roll-gu�vara-recipe" 1 Walnut Roll Gužvara
+"https://www.themealdb.com/meal/53063-chivito-uruguayo-recipe" 1 Chivito uruguayo
+"https://www.themealdb.com/meal/53064-fettuccine-alfredo-recipe" 1 Fettuccine Alfredo
+"https://www.themealdb.com/meal/53065-sushi-recipe" 1 Sushi
+"https://www.themealdb.com/meal/53067-stuffed-bell-peppers-with-quinoa-and-black-beans-recipe" 1 Stuffed Bell Peppers with Quinoa and Black Beans
+"https://www.themealdb.com/meal/53068-beef-mechado-recipe" 1 Beef Mechado
+"https://www.themealdb.com/meal/53069-bistek-recipe" 1 Bistek
+"https://www.themealdb.com/meal/53070-beef-caldereta-recipe" 1 Beef Caldereta
+"https://www.themealdb.com/meal/53071-beef-asado-recipe" 1 Beef Asado
+"https://www.themealdb.com/meal/53072-crispy-eggplant-recipe" 1 Crispy Eggplant
+"https://www.themealdb.com/meal/53073-eggplant-adobo-recipe" 1 Eggplant Adobo
+"https://www.themealdb.com/meal/53074-grilled-eggplant-with-coconut-milk-recipe" 1 Grilled eggplant with coconut milk
+"https://www.themealdb.com/meal/53076-bread-omelette-recipe" 1 Bread omelette
+"https://www.themealdb.com/meal/53077-cabbage-soup-(shchi)-recipe" 1 Cabbage Soup (Shchi)
+"https://www.themealdb.com/meal/53078-beetroot-soup-(borscht)-recipe" 1 Beetroot Soup (Borscht)
+"https://www.themealdb.com/meal/53079-fish-soup-(ukha)-recipe" 1 Fish Soup (Ukha)
+"https://www.themealdb.com/meal/53080-blini-pancakes-recipe" 1 Blini Pancakes
+"https://www.themealdb.com/meal/53081-potato-salad-(olivier-salad)-recipe" 1 Potato Salad (Olivier Salad)
+"https://www.themealdb.com/meal/53082-strawberries-romanoff-recipe" 1 Strawberries Romanoff
+"https://www.themealdb.com/meal/53083-lamb-pilaf-(plov)-recipe" 1 Lamb Pilaf (Plov)
+"https://www.themealdb.com/meal/53085-15-minute-chicken-&-halloumi-burgers-recipe" 1 15-minute chicken & halloumi burgers
+"https://www.themealdb.com/meal/53086-migas-recipe" 1 Migas

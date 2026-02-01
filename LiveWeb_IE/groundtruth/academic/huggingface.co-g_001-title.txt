@@ -1,0 +1,791 @@
+academic huggingface.co g_001 paper_title
+92 1315 1315
+"https://huggingface.co/papers/date/2024-05-30" 12 MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model
+  Series	Self-Exploring Language Models: Active Preference Elicitation for Online
+  Alignment	T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model
+  with Mixed Reward Feedback	LLMs achieve adult human performance on higher-order theory of mind
+  tasks	Offline Regularised Reinforcement Learning for Large Language Models
+  Alignment	Nearest Neighbor Speculative Decoding for LLM Generation and Attribution	EasyAnimate: A High-Performance Long Video Generation Method based on
+  Transformer Architecture	Zipper: A Multi-Tower Decoder Architecture for Fusing Modalities	NPGA: Neural Parametric Gaussian Avatars	Value-Incentivized Preference Optimization: A Unified Approach to Online
+  and Offline RLHF	SoundCTM: Uniting Score-based and Consistency Models for Text-to-Sound
+  Generation	Atlas3D: Physically Constrained Self-Supporting Text-to-3D for
+  Simulation and Fabrication
+"https://huggingface.co/papers/date/2024-05-31" 11 Jina CLIP: Your CLIP Model Is Also Your Text Retriever	Similarity is Not All You Need: Endowing Retrieval Augmented Generation
+  with Multi Layered Thoughts	MotionLLM: Understanding Human Behaviors from Human Motions and Videos	Xwin-LM: Strong and Scalable Alignment Practice for LLMs	GECO: Generative Image-to-3D within a SECOnd	DITTO-2: Distilled Diffusion Inference-Time T-Optimization for Music
+  Generation	MOFA-Video: Controllable Image Animation via Generative Motion Field
+  Adaptions in Frozen Image-to-Video Diffusion Model	PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting	DevEval: A Manually-Annotated Code Generation Benchmark Aligned with
+  Real-World Code Repositories	DeMamba: AI-Generated Video Detection on Million-Scale GenVideo
+  Benchmark	Parrot: Efficient Serving of LLM-based Applications with Semantic
+  Variable
+"https://huggingface.co/papers/date/2024-06-03" 6 Transformers are SSMs: Generalized Models and Efficient Algorithms
+  Through Structured State Space Duality	Video-MME: The First-Ever Comprehensive Evaluation Benchmark of
+  Multi-modal LLMs in Video Analysis	Perplexed by Perplexity: Perplexity-Based Data Pruning With Small
+  Reference Models	Kaleido Diffusion: Improving Conditional Diffusion Models with
+  Autoregressive Latent Modeling	4Diffusion: Multi-view Video Diffusion Model for 4D Generation	4-bit Shampoo for Memory-Efficient Network Training
+"https://huggingface.co/papers/date/2024-06-04" 6 MMLU-Pro: A More Robust and Challenging Multi-Task Language
+  Understanding Benchmark	Show, Don't Tell: Aligning Language Models with Demonstrated Feedback	Learning Temporally Consistent Video Depth from Video Diffusion Priors	Artificial Generational Intelligence: Cultural Accumulation in
+  Reinforcement Learning	μLO: Compute-Efficient Meta-Generalization of Learned Optimizers	ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video
+  Generation
+"https://huggingface.co/papers/date/2024-06-05" 8 Seed-TTS: A Family of High-Quality Versatile Speech Generation Models	To Believe or Not to Believe Your LLM	Self-Improving Robust Preference Optimization	I4VGen: Image as Stepping Stone for Text-to-Video Generation	Guiding a Diffusion Model with a Bad Version of Itself	RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots	V-Express: Conditional Dropout for Progressive Training of Portrait
+  Video Generation	CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation
+"https://huggingface.co/papers/date/2024-06-06" 12 Block Transformer: Global-to-Local Language Modeling for Fast Inference	Parrot: Multilingual Visual Instruction Tuning	Mobile-Agent-v2: Mobile Device Operation Assistant with Effective
+  Navigation via Multi-Agent Collaboration	Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion	Audio Mamba: Bidirectional State Space Model for Audio Representation
+  Learning	PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with
+  LLM	LiveSpeech: Low-Latency Zero-shot Text-to-Speech via Autoregressive
+  Modeling of Audio Discrete Codes	Searching Priors Makes Text-to-Video Synthesis Better	Scaling Laws for Reward Model Overoptimization in Direct Alignment
+  Algorithms	Item-Language Model for Conversational Recommendation	PLaD: Preference-based Large Language Model Distillation with
+  Pseudo-Preference Pairs	Xmodel-LM Technical Report
+"https://huggingface.co/papers/date/2024-06-07" 9 ShareGPT4Video: Improving Video Understanding and Generation with Better
+  Captions	BitsFusion: 1.99 bits Weight Quantization of Diffusion Model	Step-aware Preference Optimization: Aligning Preference with Denoising
+  Performance at Each Step	Buffer of Thoughts: Thought-Augmented Reasoning with Large Language
+  Models	SF-V: Single Forward Video Generation Model	VideoTetris: Towards Compositional Text-to-Video Generation	AgentGym: Evolving Large Language Model-based Agents across Diverse
+  Environments	pOps: Photo-Inspired Diffusion Operators	Open-Endedness is Essential for Artificial Superhuman Intelligence
+"https://huggingface.co/papers/date/2024-06-10" 9 Mixture-of-Agents Enhances Large Language Model Capabilities	CRAG -- Comprehensive RAG Benchmark	WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in
+  the Wild	GenAI Arena: An Open Evaluation Platform for Generative Models	Large Language Model Confidence Estimation via Black-Box Access	Proofread: Fixes All Errors with One Tap	NATURAL PLAN: Benchmarking LLMs on Natural Language Planning	Why Has Predicting Downstream Capabilities of Frontier AI Models with
+  Scale Remained Elusive?	Boosting Large-scale Parallel Training Efficiency with C4: A
+  Communication-Driven Approach
+"https://huggingface.co/papers/date/2024-06-11" 14 Autoregressive Model Beats Diffusion: Llama for Scalable Image
+  Generation	Husky: A Unified, Open-Source Language Agent for Multi-Step Reasoning	Vript: A Video Is Worth Thousands of Words	Towards a Personal Health Large Language Model	Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering
+  for HDR View Synthesis	Tx-LLM: A Large Language Model for Therapeutics	VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text
+  to Speech Synthesizers	Margin-aware Preference Optimization for Aligning Diffusion Models
+  without Reference	ShiftAddLLM: Accelerating Pretrained LLMs via Post-Training
+  Multiplication-Less Reparameterization	Unified Text-to-Image Generation and Retrieval	IllumiNeRF: 3D Relighting without Inverse Rendering	MLCM: Multistep Consistency Distillation of Latent Diffusion Model	ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields
+  with Diffusion Models	GTR: Improving Large 3D Reconstruction Models through Geometry and
+  Texture Refinement
+"https://huggingface.co/papers/date/2024-06-12" 16 The Prompt Report: A Systematic Survey of Prompting Techniques	An Image is Worth 32 Tokens for Reconstruction and Generation	McEval: Massively Multilingual Code Evaluation	Zero-shot Image Editing with Reference Imitation	TextGrad: Automatic "Differentiation" via Text	Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo
+  Tree Self-refine with LLaMa-3 8B	Improve Mathematical Reasoning in Language Models by Automated Process
+  Supervision	Skywork-MoE: A Deep Dive into Training Techniques for Mixture-of-Experts
+  Language Models	SEE-2-SOUND: Zero-Shot Spatial Environment-to-Spatial Sound	4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion
+  Models	Simple and Effective Masked Diffusion Language Models	AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising	MedFuzz: Exploring the Robustness of Large Language Models in Medical
+  Question Answering	Separating the "Chirp" from the "Chat": Self-supervised Visual Grounding
+  of Sound and Language	Neural Gaffer: Relighting Any Object via Diffusion	Merging Improves Self-Critique Against Jailbreak Attacks
+"https://huggingface.co/papers/date/2024-06-13" 21 Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs
+  with Nothing	NaRCan: Natural Refined Canonical Image with Integration of Diffusion
+  Prior for Video Editing	What If We Recaption Billions of Web Images with LLaMA-3?	MotionClone: Training-Free Motion Cloning for Controllable Video
+  Generation	Physics3D: Learning Physical Properties of 3D Gaussians via Video
+  Diffusion	PowerInfer-2: Fast Large Language Model Inference on a Smartphone	Are We Done with MMLU?	VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio
+  Understanding in Video-LLMs	3D-GRAND: A Million-Scale Dataset for 3D-LLMs with Better Grounding and
+  Less Hallucination	MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation
+  in Videos	Turbo Sparse: Achieving LLM SOTA Performance with Minimal Activated
+  Parameters	FontStudio: Shape-Adaptive Diffusion Model for Coherent and Consistent
+  Font Effect Generation	AV-DiT: Efficient Audio-Visual Diffusion Transformer for Joint Audio and
+  Video Generation	Discovering Preference Optimization Algorithms with and for Large
+  Language Models	Hierarchical Patch Diffusion Models for High-Resolution Video Generation	Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models	VCR: Visual Caption Restoration	Chimera: Effectively Modeling Multivariate Time Series with
+  2-Dimensional State Space Models	Large Language Model Unlearning via Embedding-Corrupted Prompts	Hibou: A Family of Foundational Vision Transformers for Pathology	Simplified and Generalized Masked Diffusion for Discrete Data
+"https://huggingface.co/papers/date/2024-06-14" 30 Depth Anything V2	An Image is Worth More Than 16x16 Patches: Exploring Transformers on
+  Individual Pixels	Transformers meet Neural Algorithmic Reasoners	OpenVLA: An Open-Source Vision-Language-Action Model	Samba: Simple Hybrid State Space Models for Efficient Unlimited Context
+  Language Modeling	Alleviating Distortion in Image Generation via Multi-Resolution
+  Diffusion Models	Test of Time: A Benchmark for Evaluating LLMs on Temporal Reasoning	DiTFastAttn: Attention Compression for Diffusion Transformer Models	Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal
+  Language Models	Interpreting the Weight Space of Customized Diffusion Models	MuirBench: A Comprehensive Benchmark for Robust Multi-image
+  Understanding	HelpSteer2: Open-source dataset for training top-performing reward
+  models	mOSCAR: A Large-scale Multilingual and Multimodal Document-level Corpus	CS-Bench: A Comprehensive Benchmark for Large Language Models towards
+  Computer Science Mastery	4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities	EMMA: Your Text-to-Image Diffusion Model Can Secretly Accept Multi-Modal
+  Prompts	Explore the Limits of Omni-modal Pretraining at Scale	Cognitively Inspired Energy-Based World Models	Mistral-C2F: Coarse to Fine Actor for Analytical and Reasoning
+  Enhancement in RLHF and Effective-Merged LLMs	Commonsense-T2I Challenge: Can Text-to-Image Generation Models
+  Understand Commonsense?	TC-Bench: Benchmarking Temporal Compositionality in Text-to-Video and
+  Image-to-Video Generation	Real3D: Scaling Up Large Reconstruction Models with Real-World Images	Estimating the Hallucination Rate of Generative AI	MLKV: Multi-Layer Key-Value Heads for Memory Efficient Transformer
+  Decoding	Language Model Council: Benchmarking Foundation Models on Highly
+  Subjective Tasks by Consensus	CVQA: Culturally-diverse Multilingual Visual Question Answering
+  Benchmark	LRM-Zero: Training Large Reconstruction Models with Synthesized Data	Understanding Hallucinations in Diffusion Models through Mode
+  Interpolation	CMC-Bench: Towards a New Paradigm of Visual Signal Compression	Toffee: Efficient Million-Scale Dataset Construction for Subject-Driven
+  Text-to-Image Generation
+"https://huggingface.co/papers/date/2024-06-17" 21 XLand-100B: A Large-Scale Multi-Task Dataset for In-Context
+  Reinforcement Learning	Make It Count: Text-to-Image Generation with an Accurate Number of
+  Objects	ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via
+  Chart-to-Code Generation	Needle In A Multimodal Haystack	BABILong: Testing the Limits of LLMs with Long Context
+  Reasoning-in-a-Haystack	SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for
+  Southeast Asian Languages	OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images
+  Interleaved with Text	GUI Odyssey: A Comprehensive Dataset for Cross-App GUI Navigation on
+  Mobile Devices	Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual
+  Visual Text Rendering	GEB-1.3B: Open Lightweight Large Language Model	Training-free Camera Control for Video Generation	Designing a Dashboard for Transparency and Control of Conversational AI	VideoGUI: A Benchmark for GUI Automation from Instructional Videos	Rethinking Human Evaluation Protocol for Text-to-Video Models: Enhancing
+  Reliability,Reproducibility, and Practicality	Be like a Goldfish, Don't Memorize! Mitigating Memorization in
+  Generative LLMs	Vivid-ZOO: Multi-View Video Generation with Diffusion Model	AV-GS: Learning Material and Geometry Aware Priors for Novel View
+  Acoustic Synthesis	RVT-2: Learning Precise Manipulation from Few Demonstrations	GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors	Decoding the Diversity: A Review of the Indic AI Research Landscape	MaskLID: Code-Switching Language Identification through Iterative
+  Masking
+"https://huggingface.co/papers/date/2024-06-18" 29 MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and
+  Instruction-Tuning Dataset for LVLMs	DataComp-LM: In search of the next generation of training sets for
+  language models	mDPO: Conditional Preference Optimization for Multimodal Large Language
+  Models	THEANINE: Revisiting Memory Management in Long-term Conversations with
+  Timeline-augmented Response Generation	MeshAnything: Artist-Created Mesh Generation with Autoregressive
+  Transformers	How Do Large Language Models Acquire Factual Knowledge During
+  Pretraining?	VideoLLM-online: Online Video Large Language Model for Streaming Video	A Simple and Effective L_2 Norm-Based Strategy for KV Cache
+  Compression	GAMA: A Large Audio-Language Model with Advanced Audio Understanding and
+  Complex Reasoning Abilities	Exploring the Role of Large Language Models in Prompt Encoding for
+  Diffusion Models	MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal
+  Dataset with One Trillion Tokens	LLaNA: Large Language and NeRF Assistant	From Pixels to Prose: A Large Dataset of Dense Image Captions	Pandora: Towards General World Model with Natural Language Actions and
+  Video States	WPO: Enhancing RLHF with Weighted Preference Optimization	In-Context Editing: Learning Knowledge from Self-Induced Distributions	WildVision: Evaluating Vision-Language Models in the Wild with Human
+  Preferences	L4GM: Large 4D Gaussian Reconstruction Model	Unifying Multimodal Retrieval via Document Screenshot Embedding	Task Me Anything	Vid3D: Synthesis of Dynamic 3D Scenes using 2D Video Diffusion	Just How Flexible are Neural Networks in Practice?	Humor in AI: Massive Scale Crowd-Sourced Preferences and Benchmarks for
+  Cartoon Captioning	Evaluating Open Language Models Across Task Types, Application Domains,
+  and Reasoning Types: An In-Depth Experimental Analysis	Breaking the Attention Bottleneck	HiddenTables & PyQTax: A Cooperative Game and Dataset For TableQA to
+  Ensure Scale and Data Privacy Across a Myriad of Taxonomies	CoLoR-Filter: Conditional Loss Reduction Filtering for Targeted Language
+  Model Pre-training	Consistency^2: Consistent and Fast 3D Painting with Latent Consistency
+  Models	Deep Bayesian Active Learning for Preference Modeling in Large Language
+  Models
+"https://huggingface.co/papers/date/2024-06-19" 30 DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code
+  Intelligence	Depth Anywhere: Enhancing 360 Monocular Depth Estimation via Perspective
+  Distillation and Unlabeled Data Augmentation	Bootstrapping Language Models with DPO Implicit Rewards	TroL: Traversal of Layers for Large Language and Vision Models	ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All
+  Tools	VoCo-LLaMA: Towards Vision Compression with Large Language Models	AgileCoder: Dynamic Collaborative Agents for Software Development based
+  on Agile Methodology	From RAGs to rich parameters: Probing how language models utilize
+  external knowledge over parametric information for factual queries	Learn Beyond The Answer: Training Language Models with Reflection for
+  Mathematical Reasoning	SafeInfer: Context Adaptive Decoding Time Safety Alignment for Large
+  Language Models	RepLiQA: A Question-Answering Dataset for Benchmarking LLMs on Unseen
+  Reference Content	Safety Arithmetic: A Framework for Test-time Safety Alignment of
+  Language Models by Steering Parameters and Activations	Tokenization Falling Short: The Curse of Tokenization	OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for
+  Superintelligent AI	Benchmarking Multi-Image Understanding in Vision and Language Models:
+  Perception, Knowledge, Reasoning, and Multi-Hop Reasoning	HumanSplat: Generalizable Single-Image Human Gaussian Splatting with
+  Structure Priors	Large Scale Transfer Learning for Tabular Data via Language Modeling	Estimating Knowledge in Large Language Models Without Generating a
+  Single Token	Mixture of Scales: Memory-Efficient Token-Adaptive Binarization for
+  Large Language Models	Language Models are Surprisingly Fragile to Drug Names in Biomedical
+  Benchmarks	Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image
+  Diffusion Models	From Crowdsourced Data to High-Quality Benchmarks: Arena-Hard and
+  BenchBuilder Pipeline	BPO: Supercharging Online Preference Learning by Adhering to the
+  Proximity of Behavior LLM	VIA: A Spatiotemporal Video Adaptation Framework for Global and Local
+  Video Editing	Hierarchical Prompting Taxonomy: A Universal Evaluation Framework for
+  Large Language Models	Adversarial Attacks on Multimodal Agents	Immiscible Diffusion: Accelerating Diffusion Training with Noise
+  Assignment	JEN-1 DreamStyler: Customized Musical Concept Learning via Pivotal
+  Parameters Tuning	Super(ficial)-alignment: Strong Models May Deceive Weak Models in
+  Weak-to-Strong Generalization	Mixture-of-Subspaces in Low-Rank Adaptation
+"https://huggingface.co/papers/date/2024-06-20" 8 Multimodal Needle in a Haystack: Benchmarking Long-Context Capability of
+  Multimodal Large Language Models	Long Code Arena: a Set of Benchmarks for Long-Context Code Models	Probabilistic Conceptual Explainers: Trustworthy Conceptual Explanations
+  for Vision Foundation Models	Self-MoE: Towards Compositional Large Language Models with
+  Self-Specialized Experts	Breaking Boundaries: Investigating the Effects of Model Editing on
+  Cross-linguistic Performance	Interface Design for Self-Supervised Speech Models	Measuring memorization in RLHF for code completion	Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces
+"https://huggingface.co/papers/date/2024-06-21" 24 nabla^2DFT: A Universal Quantum Chemistry Dataset of Drug-Like
+  Molecules and a Benchmark for Neural Network Potentials	Instruction Pre-Training: Language Models are Supervised Multitask
+  Learners	The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN
+  Inversion and High Quality Image Editing	HARE: HumAn pRiors, a key to small language model Efficiency	Prism: A Framework for Decoupling and Assessing the Capabilities of VLMs	MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video
+  Understanding	Model Merging and Safety Alignment: One Bad Model Spoils the Bunch	Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities	Invertible Consistency Distillation for Text-Guided Image Editing in
+  Around 7 Steps	GLiNER multi-task: Generalist Lightweight Model for Various Information
+  Extraction Tasks	PIN: A Knowledge-Intensive Dataset for Paired and Interleaved Multimodal
+  Documents	DigiRL: Training In-The-Wild Device-Control Agents with Autonomous
+  Reinforcement Learning	Self-play with Execution Feedback: Improving Instruction-following
+  Capabilities of Large Language Models	LiveMind: Low-latency Large Language Models with Simultaneous Inference	Improving Visual Commonsense in Language Models via Multiple Image
+  Generation	Iterative Length-Regularized Direct Preference Optimization: A Case
+  Study on Improving 7B Language Models to GPT-4 Level	REPOEXEC: Evaluate Code Generation with a Repository-Level Executable
+  Benchmark	ExVideo: Extending Video Diffusion Models via Parameter-Efficient
+  Post-Tuning	τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World
+  Domains	Model Internals-based Answer Attribution for Trustworthy
+  Retrieval-Augmented Generation	StableSemantics: A Synthetic Language-Vision Dataset of Semantic
+  Representations in Naturalistic Images	From Insights to Actions: The Impact of Interpretability and Analysis
+  Research on NLP	A Systematic Survey of Text Summarization: From Statistical Methods to
+  Large Language Models	Sampling 3D Gaussian Scenes in Seconds with Latent Diffusion Models
+"https://huggingface.co/papers/date/2024-06-24" 26 LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs	Judging the Judges: Evaluating Alignment and Vulnerabilities in
+  LLMs-as-Judges	Towards Retrieval Augmented Generation over Large Video Libraries	Complexity of Symbolic Representation in Working Memory of Transformer
+  Correlates with the Complexity of a Task	MantisScore: Building Automatic Metrics to Simulate Fine-grained Human
+  Feedback for Video Generation	Evaluating RAG-Fusion with RAGElo: an Automated Elo-based Framework	Stylebreeder: Exploring and Democratizing Artistic Styles through
+  Text-to-Image Models	EvTexture: Event-driven Texture Enhancement for Video Super-Resolution	Reward Steering with Evolutionary Heuristics for Decoding-time Alignment	Jailbreaking as a Reward Misspecification Problem	Two Giraffes in a Dirt Field: Using Game Play to Investigate Situation
+  Modelling in Large Multimodal Models	Cognitive Map for Language Models: Optimal Planning via Verbally
+  Representing the World Model	4K4DGen: Panoramic 4D Generation at 4K Resolution	Data Contamination Can Cross Language Barriers	DELLA-Merging: Reducing Interference in Model Merging through
+  Magnitude-Based Sampling	A Tale of Trust and Accuracy: Base vs. Instruct LLMs in RAG Systems	Learning Molecular Representation in a Cell	Ruby Teaming: Improving Quality Diversity Search with Memory for
+  Automated Red Teaming	NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and
+  Benchmarking	ICAL: Continual Learning of Multimodal Agents by Transforming
+  Trajectories into Actionable Insights	Style-NeRF2NeRF: 3D Style Transfer From Style-Aligned Multi-View Images	RE-AdaptIR: Improving Information Retrieval through Reverse Engineered
+  Adaptation	Multimodal Structured Generation: CVPR's 2nd MMFM Challenge Technical
+  Report	ToVo: Toxicity Taxonomy via Voting	How Well Do LLMs Represent Values Across Cultures? Empirical Analysis of
+  LLM Responses Based on Hofstede Cultural Dimensions	Low-Resource Machine Translation through the Lens of Personalized
+  Federated Learning
+"https://huggingface.co/papers/date/2024-06-25" 25 Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs	DreamBench++: A Human-Aligned Benchmark for Personalized Image
+  Generation	BigCodeBench: Benchmarking Code Generation with Diverse Function Calls
+  and Complex Instructions	Evaluating D-MERIT of Partial-annotation on Information Retrieval	Long Context Transfer from Language to Vision	Video-Infinity: Distributed Long Video Generation	VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in
+  Large Video-Language Models	WARP: On the Benefits of Weight Averaged Rewarded Policies	Scaling Laws for Linear Complexity Language Models	Towards Fast Multilingual LLM Inference: Speculative Decoding and
+  Specialized Drafters	Efficient Continual Pre-training by Mitigating the Stability Gap	Sparser is Faster and Less is More: Efficient Sparse Attention for
+  Long-Range Transformers	Semantic Entropy Probes: Robust and Cheap Hallucination Detection in
+  LLMs	Beyond the Turn-Based Game: Enabling Real-Time Conversations with Duplex
+  Models	Preference Tuning For Toxicity Mitigation Generalizes Across Languages	AutoDetect: Towards a Unified Framework for Automated Weakness Detection
+  in Large Language Models	Confidence Regulation Neurons in Language Models	How Many Parameters Does it Take to Change a Light Bulb? Evaluating
+  Performance in Self-Play of Conversational Games as a Function of Model
+  Characteristics	ClotheDreamer: Text-Guided Garment Generation with 3D Gaussians	Found in the Middle: Calibrating Positional Attention Bias Improves Long
+  Context Utilization	IRASim: Learning Interactive Real-Robot Action Simulators	video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models	Can Few-shot Work in Long-Context? Recycling the Context to Generate
+  Demonstrations	Repulsive Score Distillation for Diverse Sampling of Diffusion Models	OlympicArena Medal Ranks: Who Is the Most Intelligent AI So Far?
+"https://huggingface.co/papers/date/2024-06-26" 19 The FineWeb Datasets: Decanting the Web for the Finest Text Data at
+  Scale	YouDream: Generating Anatomically Controllable Consistent Text-to-3D
+  Animals	Unlocking Continual Learning Abilities in Language Models	Aligning Diffusion Models with Noise-Conditioned Perception	APIGen: Automated Pipeline for Generating Verifiable and Diverse
+  Function-Calling Datasets	DiffusionPDE: Generative PDE-Solving Under Partial Observation	LongIns: A Challenging Long-context Instruction-based Exam for LLMs	MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning	MotionBooth: Motion-Aware Customized Text-to-Video Generation	Leave No Document Behind: Benchmarking Long-Context LLMs with Extended
+  Multi-Doc QA	Segment Any Text: A Universal Approach for Robust, Efficient and
+  Adaptable Sentence Segmentation	On the Transformations across Reward Model, Parameter Update, and
+  In-Context Prompt	FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models	DialSim: A Real-Time Simulator for Evaluating Long-Term Dialogue
+  Understanding of Conversational Agents	Image Conductor: Precision Control for Interactive Video Synthesis	Grass: Compute Efficient Low-Memory LLM Training with Structured Sparse
+  Gradients	Multi-property Steering of Large Language Models with Dynamic Activation
+  Composition	Large Language Models Assume People are More Rational than We Really are	Cross-Modality Safety Alignment
+"https://huggingface.co/papers/date/2024-06-27" 14 Adam-mini: Use Fewer Learning Rates To Gain More	Octo-planner: On-device Language Model for Planner-Action Agents	CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal
+  LLMs	ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of
+  Text-to-Time-lapse Video Generation	A Closer Look into Mixture-of-Experts in Large Language Models	WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks,
+  and Refusals of LLMs	EHRCon: Dataset for Checking Consistency between Unstructured Notes and
+  Structured Tables in Electronic Health Records	Symbolic Learning Enables Self-Evolving Agents	MatchTime: Towards Automatic Soccer Game Commentary Generation	Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large
+  Language Models	WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially)
+  Safer Language Models	Understanding and Diagnosing Deep Reinforcement Learning	Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning	MemServe: Context Caching for Disaggregated LLM Serving with Elastic
+  Memory Pool
+"https://huggingface.co/papers/date/2024-06-28" 18 OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and
+  Understanding	Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of
+  LLMs	MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data	Simulating Classroom Education with LLM-Empowered Agents	SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented
+  Generation	Aligning Teacher with Student Preferences for Tailored Training Data
+  Generation	LiveBench: A Challenging, Contamination-Free LLM Benchmark	Can LLMs Learn by Teaching? A Preliminary Study	Dataset Size Recovery from LoRA Weights	MoA: Mixture of Sparse Attention for Automatic Large Language Model
+  Compression	Is Programming by Example solved by LLMs?	T-FREE: Tokenizer-Free Generative LLMs via Sparse Representations for
+  Memory-Efficient Embeddings	AUTOHALLUSION: Automatic Generation of Hallucination Benchmarks for
+  Vision-Language Models	Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens
+  Grounding	Understand What LLM Needs: Dual Preference Alignment for
+  Retrieval-Augmented Generation	ArzEn-LLM: Code-Switched Egyptian Arabic-English Translation and Speech
+  Recognition Using LLMs	ResumeAtlas: Revisiting Resume Classification with Large-Scale Datasets
+  and Large Language Models	Benchmarking Mental State Representations in Language Models
+"https://huggingface.co/papers/date/2024-07-01" 11 Scaling Synthetic Data Creation with 1,000,000,000 Personas	HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into
+  Multimodal LLMs at Scale	Direct Preference Knowledge Distillation for Large Language Models	LLaRA: Supercharging Robot Learning Data for Vision-Language Policy	GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly
+  Enhanced Quality	EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything
+  Model	AutoRAG-HP: Automatic Online Hyper-Parameter Tuning for
+  Retrieval-Augmented Generation	Efficient World Models with Context-Aware Tokenization	Arboretum: A Large Multimodal Dataset Enabling AI for Biodiversity	Iterative Nash Policy Optimization: Aligning LLMs with General
+  Preferences via No-Regret Learning	RaTEScore: A Metric for Radiology Report Generation
+"https://huggingface.co/papers/date/2024-07-02" 27 We-Math: Does Your Large Multimodal Model Achieve Human-like
+  Mathematical Reasoning?	ROS-LLM: A ROS framework for embodied AI with task feedback and
+  structured reasoning	ColPali: Efficient Document Retrieval with Vision Language Models	RegMix: Data Mixture as Regression for Language Model Pre-training	LiteSearch: Efficacious Tree Search for LLM	MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and
+  Efficient Evaluation	Wavelets Are All You Need for Autoregressive Image Generation	Step-Controlled DPO: Leveraging Stepwise Error for Enhanced Mathematical
+  Reasoning	DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image
+  Restoration Models	InstantStyle-Plus: Style Transfer with Content-Preserving in
+  Text-to-Image Generation	Is It Really Long Context if All You Need Is Retrieval? Towards
+  Genuinely Difficult Long Context NLP	E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS	RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D
+  Facial Prior-guided Identity Alignment Network	MIRAI: Evaluating LLM Agents for Event Forecasting	Auto Cherry-Picker: Learning from High-quality Generative Data Driven by
+  Language	OmniJARVIS: Unified Vision-Language-Action Tokenization Enables
+  Open-World Instruction Following Agents	Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language
+  Models by Learning from Knowledge Graphs	T-MAC: CPU Renaissance via Table Lookup for Low-Bit LLM Deployment on
+  Edge	Towards Robust Speech Representation Learning for Thousands of Languages	SVG: 3D Stereoscopic Video Generation via Denoising Frame Matrix	Show Less, Instruct More: Enriching Prompts with Definitions and
+  Guidelines for Zero-Shot NER	DogeRM: Equipping Reward Models with Domain Knowledge through Model
+  Merging	Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs	The SIFo Benchmark: Investigating the Sequential Instruction Following
+  Ability of Large Language Models	Accurate Prediction of Ligand-Protein Interaction Affinities with
+  Fine-Tuned Small Language Models	UnUnlearning: Unlearning is not sufficient for content regulation in
+  advanced generative AI	ProgressGym: Alignment with a Millennium of Moral Progress
+"https://huggingface.co/papers/date/2024-07-03" 12 Summary of a Haystack: A Challenge to Long-Context LLMs and RAG Systems	Agentless: Demystifying LLM-based Software Engineering Agents	OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video
+  Generation	MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via
+  Dynamic Sparse Attention	Understanding Alignment in Multimodal LLMs: A Comprehensive Study	Magic Insert: Style-Aware Drag-and-Drop	Consistency Flow Matching: Defining Straight Flows with Velocity
+  Consistency	To Forget or Not? Towards Practical Knowledge Unlearning for Large
+  Language Models	Revealing Fine-Grained Values and Opinions in Large Language Models	What Matters in Detecting AI-Generated Videos like Sora?	FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized
+  Sounds	μ-Bench: A Vision-Language Benchmark for Microscopy Understanding
+"https://huggingface.co/papers/date/2024-07-04" 9 InternLM-XComposer-2.5: A Versatile Large Vision Language Model
+  Supporting Long-Contextual Input and Output	TabReD: A Benchmark of Tabular Machine Learning in-the-Wild	No Training, No Problem: Rethinking Classifier-Free Guidance for
+  Diffusion Models	TokenPacker: Efficient Visual Projector for Multimodal LLM	PicoAudio: Enabling Precise Timestamp and Frequency Controllability of
+  Audio Events in Text-to-audio Generation	DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents	Investigating Decoder-only Large Language Models for Speech-to-text
+  Translation	A False Sense of Safety: Unsafe Information Leakage in 'Safe' AI
+  Responses	Eliminating Position Bias of Language Models: A Mechanistic Approach
+"https://huggingface.co/papers/date/2024-07-05" 3 Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion	Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for
+  Sparse Architectural Large Language Models	Planetarium: A Rigorous Benchmark for Translating Text to Structured
+  Planning Languages
+"https://huggingface.co/papers/date/2024-07-08" 15 Unveiling Encoder-Free Vision-Language Models	FunAudioLLM: Voice Understanding and Generation Foundation Models for
+  Natural Interaction Between Humans and LLMs	Learning to (Learn at Test Time): RNNs with Expressive Hidden States	AriGraph: Learning Knowledge Graph World Models with Episodic Memory for
+  LLM Agents	RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language
+  Models	ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild	Stark: Social Long-Term Multi-Modal Conversation with Persona
+  Commonsense Knowledge	DotaMath: Decomposition of Thought with Code Assistance and
+  Self-correction for Mathematical Reasoning	LLM-jp: A Cross-organizational Project for the Research and Development
+  of Fully Open Japanese LLMs	Flash-VStream: Memory-Based Real-Time Understanding for Long Video
+  Streams	On scalable oversight with weak LLMs judging strong LLMs	Safe Unlearning: A Surprisingly Effective and Generalizable Solution to
+  Defend Against Jailbreak Attacks	HEMM: Holistic Evaluation of Multimodal Foundation Models	CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion
+  Blur Images	Granular Privacy Control for Geolocation with Vision Language Models
+"https://huggingface.co/papers/date/2024-07-09" 17 MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge for
+  Text-to-Image Generation?	LLaMAX: Scaling Linguistic Horizons of LLM by Enhancing Translation
+  Capabilities Beyond 100 Languages	Associative Recurrent Memory Transformer	Learning Action and Reasoning-Centric Image Editing from Videos and
+  Simulations	ANOLE: An Open, Autoregressive, Native Large Multimodal Models for
+  Interleaved Image-Text Generation	Evaluating Language Model Context Windows: A "Working Memory" Test and
+  Inference-time Correction	UltraEdit: Instruction-based Fine-Grained Image Editing at Scale	Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side
+  Images	InverseCoder: Unleashing the Power of Instruction-Tuned Code LLMs with
+  Inverse-Instruct	Compositional Video Generation as Flow Equalization	Multi-Object Hallucination in Vision-Language Models	PAS: Data-Efficient Plug-and-Play Prompt Augmentation System	Training Task Experts through Retrieval Based Distillation	Understanding Visual Feature Reliance through the Lens of Complexity	PartCraft: Crafting Creative Objects by Parts	LLMAEL: Large Language Models are Good Context Augmenters for Entity
+  Linking	ANAH-v2: Scaling Analytical Hallucination Annotation of Large Language
+  Models
+"https://huggingface.co/papers/date/2024-07-10" 16 Vision language models are blind	AgentInstruct: Toward Generative Teaching with Agentic Flows	Internet of Agents: Weaving a Web of Heterogeneous Agents for
+  Collaborative Intelligence	Video-STaR: Self-Training Enables Video Instruction Tuning with Any
+  Supervision	RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models	Adapting LLMs to Hebrew: Unveiling DictaLM 2.0 with Enhanced Vocabulary
+  and Instruction Capabilities	MiraData: A Large-Scale Video Dataset with Long Durations and Structured
+  Captions	BM25S: Orders of magnitude faster lexical search via eager sparse
+  scoring	Lookback Lens: Detecting and Mitigating Contextual Hallucinations in
+  Large Language Models Using Only Attention Maps	TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts	Knowledge Composition using Task Vectors with Learned Anisotropic
+  Scaling	Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting
+  Region Captions	VIMI: Grounding Video Generation through Multi-modal Instruction	From Loops to Oops: Fallback Behaviors of Language Models Under
+  Uncertainty	How do you know that? Teaching Generative Language Models to Reference
+  Answers to Biomedical Questions	LETS-C: Leveraging Language Embedding for Time Series Classification
+"https://huggingface.co/papers/date/2024-07-11" 14 PaliGemma: A versatile 3B VLM for transfer	Inference Performance Optimization for Large Language Models on CPUs	LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large
+  Multimodal Models	Controlling Space and Time with Diffusion Models	Video-to-Audio Generation with Hidden Alignment	VEnhancer: Generative Space-Time Enhancement for Video Generation	Still-Moving: Customized Video Generation without Customized Video Data	Do Vision and Language Models Share Concepts? A Vector Space Alignment
+  Study	CosmoCLIP: Generalizing Large Vision-Language Models for Astronomical
+  Imaging	On Leakage of Code Generation Evaluation Datasets	This&That: Language-Gesture Controlled Video Generation for Robot
+  Planning	An accurate detection is not all you need to combat label noise in
+  web-noisy datasets	BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark	CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation
+"https://huggingface.co/papers/date/2024-07-12" 21 Skywork-Math: Data Scaling Laws for Mathematical Reasoning in Large
+  Language Models -- The Story Goes On	Video Diffusion Alignment via Reward Gradients	Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning
+  Instruction Using Language Model	MAVIS: Mathematical Visual Instruction Tuning	Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive
+  Low-Rank Gradients	MambaVision: A Hybrid Mamba-Transformer Vision Backbone	Self-Recognition in Language Models	SEED-Story: Multimodal Long Story Generation with Large Language Model	Is Your Model Really A Good Math Reasoner? Evaluating Mathematical
+  Reasoning with Checklist	DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal
+  Perception	GTA: A Benchmark for General Tool Agents	Autoregressive Speech Synthesis without Vector Quantization	The Synergy between Data and Multi-Modal Large Language Models: A Survey
+  from Co-Development Perspective	Gradient Boosting Reinforcement Learning	Live2Diff: Live Stream Translation via Uni-directional Attention in
+  Video Diffusion Models	Generalizable Implicit Motion Modeling for Video Frame Interpolation	Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using
+  Large-scale Public Data	Towards Building Specialized Generalist AI with System 1 and System 2
+  Fusion	WildGaussians: 3D Gaussian Splatting in the Wild	OmniNOCS: A unified NOCS dataset and model for 3D lifting of 2D objects	Scaling Up Personalized Aesthetic Assessment via Task Vector
+  Customization
+"https://huggingface.co/papers/date/2024-07-15" 17 SpreadsheetLLM: Encoding Spreadsheets for Large Language Models	Human-like Episodic Memory for Infinite Context LLMs	Toto: Time Series Optimized Transformer for Observability	MUSCLE: A Model Update Strategy for Compatible LLM Evolution	Model Surgery: Modulating LLM's Behavior Via Simple Parameter Editing	H2O-Danube3 Technical Report	GAVEL: Generating Games Via Evolution and Language Models	Transformer Layers as Painters	StyleSplat: 3D Object Style Transfer with Gaussian Splatting	SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers	New Desiderata for Direct Preference Optimization	Characterizing Prompt Compression Methods for Long Context Inference	Speech Slytherin: Examining the Performance and Efficiency of Mamba for
+  Speech Separation, Recognition, and Synthesis	TCAN: Animating Human Images with Temporally Consistent Pose Guidance
+  using Diffusion Models	Understanding Retrieval Robustness for Retrieval-Augmented Image
+  Captioning	Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled
+  Refusal Training	RRM: Relightable assets using Radiance guided Material extraction
+"https://huggingface.co/papers/date/2024-07-16" 16 Qwen2 Technical Report	Learning to Refuse: Towards Mitigating Privacy Risks in LLMs	GRUtopia: Dream General Robots in a City at Scale	The Good, The Bad, and The Greedy: Evaluation of LLMs Should Not Ignore
+  Non-Determinism	Q-Sparse: All Large Language Models can be Fully Sparsely-Activated	Foundational Autoraters: Taming Large Language Models for Better
+  Automatic Evaluation	Make-An-Agent: A Generalizable Policy Network Generator with
+  Behavior-Prompted Diffusion	DataDream: Few-shot Guided Dataset Generation	Masked Generative Video-to-Audio Transformers with Enhanced
+  Synchronicity	Video Occupancy Models	Spider2-V: How Far Are Multimodal Agents From Automating Data Science
+  and Engineering Workflows?	LAB-Bench: Measuring Capabilities of Language Models for Biology
+  Research	SHERL: Synthesizing High Accuracy and Efficient Memory for
+  Resource-Limited Transfer Learning	MMM: Multilingual Mutual Reinforcement Effect Mix Datasets & Test with
+  Open-domain Information Extraction Large Language Models	LLM Circuit Analyses Are Consistent Across Training and Scale	Noise Calibration: Plug-and-play Content-Preserving Video Enhancement
+  using Pre-trained Video Diffusion Models
+"https://huggingface.co/papers/date/2024-07-17" 19 Qwen2-Audio Technical Report	NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context
+  Window?	Scaling Diffusion Transformers to 16 Billion Parameters	Ref-AVS: Refer and Segment Objects in Audio-Visual Scenes	Sibyl: Simple yet Effective Agent Framework for Complex Real-world
+  Reasoning	VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality
+  Models	DreamCatalyst: Fast and High-Quality 3D Editing via Controlling
+  Editability and Identity Preservation	Animate3D: Animating Any 3D Model with Multi-view Video Diffusion	YouTube-SL-25: A Large-Scale, Open-Domain Multilingual Sign Language
+  Parallel Corpus	EfficientQAT: Efficient Quantization-Aware Training for Large Language
+  Models	Efficient Training with Denoised Neural Weights	FIRE: A Dataset for Feedback Integration and Refinement Evaluation of
+  Multimodal Models	From GaLore to WeLore: How Low-Rank Weights Non-uniformly Emerge from
+  Low-Rank Gradients	OmniBind: Large-scale Omni Multimodal Representation via Binding Spaces	Grasping Diverse Objects with Simulated Humanoids	Vibravox: A Dataset of French Speech Captured with Body-conduction Audio
+  Sensors	Data-Juicer Sandbox: A Comprehensive Suite for Multimodal Data-Model
+  Co-development	Click-Gaussian: Interactive Segmentation to Any 3D Gaussians	Uncertainty is Fragile: Manipulating Uncertainty in Large Language
+  Models
+"https://huggingface.co/papers/date/2024-07-18" 19 Spectra: A Comprehensive Study of Ternary, Quantized, and FP16 Language
+  Models	GoldFinch: High Performance RWKV/Transformer Hybrid with Linear Pre-Fill
+  and Extreme KV-Cache Compression	AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge
+  Bases	E5-V: Universal Embeddings with Multimodal Large Language Models	LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models	Patch-Level Training for Large Language Models	VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control	IMAGDressing-v1: Customizable Virtual Dressing	Goldfish: Vision-Language Understanding of Arbitrarily Long Videos	Case2Code: Learning Inductive Reasoning with Synthetic Data	Audio Conditioning for Music Generation via Discrete Bottleneck Features	Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for
+  Unconstrained Photo Collections	ThinkGrasp: A Vision-Language System for Strategic Part Grasping in
+  Clutter	AUITestAgent: Automatic Requirements Oriented GUI Function Testing	NavGPT-2: Unleashing Navigational Reasoning Capability for Large
+  Vision-Language Models	Practical Unlearning for Large Language Models	The Art of Saying No: Contextual Noncompliance in Language Models	Zero-shot Cross-Lingual Transfer for Synthetic Data Generation in
+  Grammatical Error Detection	Towards Understanding Unsafe Video Generation
+"https://huggingface.co/papers/date/2024-07-19" 15 Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies	Scaling Retrieval-Based Language Models with a Trillion-Token Datastore	Shape of Motion: 4D Reconstruction from a Single Video	Scaling Granite Code Models to 128K Context	Streetscapes: Large-scale Consistent Street View Generation Using
+  Autoregressive Video Diffusion	Understanding Reference Policies in Direct Preference Optimization	Benchmarking Trustworthiness of Multimodal Large Language Models: A
+  Comprehensive Study	CLAY: A Controllable Large-scale Generative Model for Creating
+  High-quality 3D Assets	BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive
+  Retrieval	Attention Overflow: Language Model Input Blur during Long-Context
+  Missing Items Recommendation	CodeV: Empowering LLMs for Verilog Generation through Multi-Level
+  Summarization	Retrieval-Enhanced Machine Learning: Synthesis and Opportunities	Benchmark Agreement Testing Done Right: A Guide for LLM Benchmark
+  Evaluation	A Comparative Study on Automatic Coding of Medical Letters with
+  Explainability	PM-LLM-Benchmark: Evaluating Large Language Models on Process Mining
+  Tasks
+"https://huggingface.co/papers/date/2024-07-22" 16 Internal Consistency and Self-Feedback in Large Language Models: A
+  Survey	LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference	EVLM: An Efficient Vision-Language Model for Visual Understanding	ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG
+  Capabilities	Stable Audio Open	VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document
+  Understanding	Qalam : A Multimodal LLM for Arabic Optical Character and Handwriting
+  Recognition	The Vision of Autonomic Computing: Can LLMs Make It a Reality?	SciCode: A Research Coding Benchmark Curated by Scientists	Fast Matrix Multiplications for Lookup Table-Quantized LLMs	Phi-3 Safety Post-Training: Aligning Language Models with a "Break-Fix"
+  Cycle	Visual Text Generation in the Wild	Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse
+  Autoencoders	Efficient Audio Captioning with Encoder-Level Knowledge Distillation	SparseCraft: Few-Shot Neural Reconstruction through Stereopsis Guided
+  Geometric Linearization	PlacidDreamer: Advancing Harmony in Text-to-3D Generation
+"https://huggingface.co/papers/date/2024-07-23" 24 SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language
+  Models	Compact Language Models via Pruning and Knowledge Distillation	NNsight and NDIF: Democratizing Access to Foundation Model Internals	Knowledge Mechanisms in Large Language Models: A Survey and Perspective	VideoGameBunny: Towards vision assistants for video games	POGEMA: A Benchmark Platform for Cooperative Multi-Agent Navigation	LongVideoBench: A Benchmark for Long-context Interleaved Video-Language
+  Understanding	BOND: Aligning LLMs with Best-of-N Distillation	BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis
+  in Large-scale Scenes	Artist: Aesthetically Controllable Text-Driven Stylization without
+  Training	Discrete Flow Matching	HoloDreamer: Holistic 3D Panoramic World Generation from Text
+  Descriptions	Consent in Crisis: The Rapid Decline of the AI Data Commons	Cinemo: Consistent and Controllable Image Animation with Motion
+  Diffusion Models	Conditioned Language Policy: A General Framework for Steerable
+  Multi-Objective Finetuning	MIBench: Evaluating Multimodal Large Language Models over Multiple
+  Images	AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?	MusiConGen: Rhythm and Chord Control for Transformer-Based Text-to-Music
+  Generation	Local All-Pair Correspondence for Point Tracking	CGB-DM: Content and Graphic Balance Layout Generation with
+  Transformer-based Diffusion Model	ThermalNeRF: Thermal Radiance Fields	Temporal Residual Jacobians For Rig-free Motion Transfer	GET-Zero: Graph Embodiment Transformer for Zero-shot Embodiment
+  Generalization	Visual Haystacks: Answering Harder Questions About Sets of Images
+"https://huggingface.co/papers/date/2024-07-24" 11 CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis	KAN or MLP: A Fairer Comparison	MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence	OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any
+  Person	T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video
+  Generation	F-HOI: Toward Fine-grained Semantic-Aligned 3D Human-Object Interactions	INF-LLaVA: Dual-perspective Perception for High-Resolution Multimodal
+  Large Language Model	A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data	SIGMA: Sinkhorn-Guided Masked Video Modeling	PrimeGuard: Safe and Helpful LLMs through Tuning-Free Routing	Cross Anything: General Quadruped Robot Navigation through Complex
+  Terrains
+"https://huggingface.co/papers/date/2024-07-25" 13 OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents	VILA^2: VILA Augmented VILA	HumanVid: Demystifying Training Data for Camera-controllable Human Image
+  Animation	DDK: Distilling Domain Knowledge for Efficient Large Language Models	PERSONA: A Reproducible Testbed for Pluralistic Alignment	Longhorn: State Space Models are Amortized Online Learners	SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View
+  Consistency	Learning to Manipulate Anywhere: A Visual Generalizable Framework For
+  Reinforcement Learning	ViPer: Visual Personalization of Generative Models via Individual
+  Preference Learning	Scalify: scale propagation for efficient low-precision LLM training	MOMAland: A Set of Benchmarks for Multi-Objective Multi-Agent
+  Reinforcement Learning	DistilDIRE: A Small, Fast, Cheap and Lightweight Diffusion Synthesized
+  Deepfake Detection	DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car
+  Reconstruction
+"https://huggingface.co/papers/date/2024-07-26" 12 Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model	LAMBDA: A Large Model Based Data Agent	Very Large-Scale Multi-Agent Simulation in AgentScope	BetterDepth: Plug-and-Play Diffusion Refiner for Zero-Shot Monocular
+  Depth Estimation	AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents	Course-Correction: Safety Alignment Using Synthetic Preferences	Data Mixture Inference: What do BPE Tokenizers Reveal about their
+  Training Data?	Efficient Inference of Vision Instruction-Following Models with Elastic
+  Cache	Dallah: A Dialect-Aware Multimodal Large Language Model for Arabic	LKCell: Efficient Cell Nuclei Instance Segmentation with Large
+  Convolution Kernels	The FIGNEWS Shared Task on News Media Narratives	Text-Driven Neural Collaborative Filtering Model for Paper Source
+  Tracing
+"https://huggingface.co/papers/date/2024-07-29" 7 SHIC: Shape-Image Correspondences with no Keypoint Supervision	AppWorld: A Controllable World of Apps and People for Benchmarking
+  Interactive Coding Agents	Wolf: Captioning Everything with a World Summarization Framework	mGTE: Generalized Long-Context Text Representation and Reranking Models
+  for Multilingual Text Retrieval	Lessons from Learning to Spin "Pens"	Floating No More: Object-Ground Reconstruction from a Single Image	VSSD: Vision Mamba with Non-Casual State Space Duality
+"https://huggingface.co/papers/date/2024-07-30" 21 SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal
+  Domain	SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models
+  for Southeast Asian Languages	Integrating Large Language Models into a Tri-Modal Architecture for
+  Automated Depression Classification	FreeLong: Training-Free Long Video Generation with SpectralBlend
+  Temporal Attention	Theia: Distilling Diverse Vision Foundation Models for Robot Learning	MindSearch: Mimicking Human Minds Elicits Deep AI Searcher	MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains	Diffusion Feedback Helps CLIP See Better	Mixture of Nested Experts: Adaptive Processing of Visual Tokens	Self-Training with Direct Preference Optimization Improves
+  Chain-of-Thought Reasoning	Cycle3D: High-quality and Consistent Image-to-3D Generation via
+  Generation-Reconstruction Cycle	Visual Riddles: a Commonsense and World Knowledge Challenge for Large
+  Vision and Language Models	3D Question Answering for City Scene Understanding	ATHAR: A High-Quality and Diverse Dataset for Classical Arabic to
+  English Translation	Meta-Rewarding Language Models: Self-Improving Alignment with
+  LLM-as-a-Meta-Judge	ImagiNet: A Multi-Content Dataset for Generalizable Synthetic Image
+  Detection via Contrastive Learning	Sentiment Analysis of Lithuanian Online Reviews Using Large Language
+  Models	Bridging the Gap: Studio-like Avatar Creation from a Monocular Phone
+  Capture	WalkTheDog: Cross-Morphology Motion Alignment via Phase Manifolds	VolDoGer: LLM-assisted Datasets for Domain Generalization in
+  Vision-Language Tasks	TAPTRv2: Attention-based Position Update Improves Tracking Any Point
+"https://huggingface.co/papers/date/2024-07-31" 10 Meltemi: The first open Large Language Model for Greek	ThinK: Thinner Key Cache by Query-Driven Pruning	A Large Encoder-Decoder Family of Foundation Models For Chemical
+  Language	Adapting Safe-for-Work Classifier for Malaysian Language Text: Enhancing
+  Alignment in LLM-Ops Framework	Diffusion Augmented Agents: A Framework for Efficient Exploration and
+  Transfer Learning	Knesset-DictaBERT: A Hebrew Language Model for Parliamentary Proceedings	Matting by Generation	Futga: Towards Fine-grained Music Understanding through
+  Temporally-enhanced Generative Augmentation	JaColBERTv2.5: Optimising Multi-Vector Retrievers to Create
+  State-of-the-Art Japanese Retrievers with Constrained Resources	Harvesting Textual and Structured Data from the HAL Publication
+  Repository
+"https://huggingface.co/papers/date/2024-08-01" 13 The Llama 3 Herd of Models	Tora: Trajectory-oriented Diffusion Transformer for Video Generation	MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware
+  Experts	Towards Achieving Human Parity on End-to-end Simultaneous Speech
+  Translation via LLM Agent	ShieldGemma: Generative AI Content Moderation Based on Gemma	Data Contamination Report from the 2024 CONDA Shared Task	Open-Vocabulary Audio-Visual Semantic Segmentation	Berkeley Humanoid: A Research Platform for Learning-based Control	Expressive Whole-Body 3D Gaussian Avatar	TAROT: Task-Oriented Authorship Obfuscation Using Policy Optimization
+  Methods	Improving 2D Feature Representations by 3D-Aware Fine-Tuning	Fine-gained Zero-shot Video Sampling	NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation
+  Learning for Neural Radiance Fields
+"https://huggingface.co/papers/date/2024-08-02" 17 SAM 2: Segment Anything in Images and Videos	Gemma 2: Improving Open Language Models at a Practical Size	SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and
+  Illumination Disentanglement	Improving Text Embeddings for Smaller Language Models Using Contrastive
+  Fine-tuning	OmniParser for Pure Vision Based GUI Agent	Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal
+  Language Model	Finch: Prompt-guided Key-Value Cache Compression	TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models	MM-Vet v2: A Challenging Benchmark to Evaluate Large Multimodal Models
+  for Integrated Capabilities	Reenact Anything: Semantic Video Motion Transfer Using Motion-Textual
+  Inversion	UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified
+  Model	Tails Tell Tales: Chapter-Wide Manga Transcriptions with Character Names	Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy
+  Curvature of Attention	Non Verbis, Sed Rebus: Large Language Models are Weak Solvers of Italian
+  Rebuses	Generalized Out-of-Distribution Detection and Beyond in Vision Language
+  Model Era: A Survey	Sentence-wise Speech Summarization: Task, Datasets, and End-to-End
+  Modeling with LM Knowledge Distillation	Enhancing Semantic Similarity Understanding in Arabic NLP with Nested
+  Embedding Learning
+"https://huggingface.co/papers/date/2024-08-05" 8 Medical SAM 2: Segment medical images as video via Segment Anything
+  Model 2	POA: Pre-training Once for Models of All Sizes	ReLiK: Retrieve and LinK, Fast and Accurate Entity Linking and Relation
+  Extraction on an Academic Budget	TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and
+  Resampling	MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language
+  Models	In-Context Example Selection via Similarity Search Improves Low-Resource
+  Machine Translation	RelBench: A Benchmark for Deep Learning on Relational Databases	Measuring Progress in Dictionary Learning for Language Model
+  Interpretability with Board Game Models
+"https://huggingface.co/papers/date/2024-08-06" 14 MiniCPM-V: A GPT-4V Level MLLM on Your Phone	Language Model Can Listen While Speaking	RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented
+  Generation	Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation
+  with Multimodal Generative Pretraining	MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh
+  Tokenization	Self-Taught Evaluators	Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data
+  Assessment and Selection for Instruction Tuning of Language Models	VidGen-1M: A Large-Scale Dataset for Text-to-video Generation	ProCreate, Dont Reproduce! Propulsive Energy Diffusion for Creative
+  Generation	BioMamba: A Pre-trained Biomedical Language Representation Model
+  Leveraging Mamba	GPUDrive: Data-driven, multi-agent driving simulation at 1 million FPS	ExoViP: Step-by-step Verification and Exploration with Exoskeleton
+  Modules for Compositional Visual Reasoning	The Impact of Hyperparameters on Large Language Model Inference
+  Performance: An Evaluation of vLLM and HuggingFace Pipelines	Operationalizing Contextual Integrity in Privacy-Conscious Assistants
+"https://huggingface.co/papers/date/2024-08-07" 12 Scaling LLM Test-Time Compute Optimally can be More Effective than
+  Scaling Model Parameters	MMIU: Multimodal Multi-image Understanding for Evaluating Large
+  Vision-Language Models	LLaVA-OneVision: Easy Visual Task Transfer	An Object is Worth 64x64 Pixels: Generating 3D Object via Image
+  Diffusion	MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular
+  Annotations for Medicine	IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning
+  using Instruct Prompts	CoverBench: A Challenging Benchmark for Complex Claim Verification	Diffusion Models as Data Mining Tools	ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually
+  Synced Facial Performer	StructEval: Deepen and Broaden Large Language Model Assessment via
+  Structured Evaluation	Synthesizing Text-to-SQL Data from Weak and Strong LLMs	AVESFormer: Efficient Transformer Design for Real-Time Audio-Visual
+  Segmentation
+"https://huggingface.co/papers/date/2024-08-08" 11 EXAONE 3.0 7.8B Instruction Tuned Language Model	Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in
+  Long-Horizon Tasks	Achieving Human Level Competitive Robot Table Tennis	CodexGraph: Bridging Large Language Models and Code Repositories via
+  Code Graph Databases	WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language
+  Models	Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields	Openstory++: A Large-scale Dataset and Benchmark for Instance-aware
+  Open-domain Visual Storytelling	Speech-MASSIVE: A Multilingual Speech Dataset for SLU and Beyond	RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel
+  View Synthesis	Fast Sprite Decomposition from Animated Graphics	Facing the Music: Tackling Singing Voice Separation in Cinematic Audio
+  Source Separation
+"https://huggingface.co/papers/date/2024-08-09" 13 Transformer Explainer: Interactive Learning of Text-Generative Models	GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards
+  General Medical AI	Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from
+  User's Casual Sketches	LLM-DetectAIve: a Tool for Fine-Grained Machine-Generated Text Detection	Trans-Tokenization and Cross-lingual Vocabulary Transfers: Language
+  Adaptation of LLMs for Low-Resource NLP	Better Alignment with Instruction Back-and-Forth Translation	Img-Diff: Contrastive Data Synthesis for Multimodal Large Language
+  Models	VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads	Puppet-Master: Scaling Interactive Video Generation as a Motion Prior
+  for Part-Level Dynamics	Task-oriented Sequential Grounding in 3D Scenes	Advancing Molecular Machine (Learned) Representations with
+  Stereoelectronics-Infused Molecular Graphs	Learning to Predict Program Execution by Modeling Dynamic Dependency on
+  Code Graphs	Learning Task Decomposition to Assist Humans in Competitive Programming
+"https://huggingface.co/papers/date/2024-08-12" 10 VITA: Towards Open-Source Interactive Omni Multimodal LLM	Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2	mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal
+  Large Language Models	UniBench: Visual Reasoning Requires Rethinking Vision-Language Beyond
+  Scaling	ToolSandbox: A Stateful, Conversational, Interactive Evaluation
+  Benchmark for LLM Tool Use Capabilities	Kalman-Inspired Feature Propagation for Video Face Super-Resolution	BRAT: Bonus oRthogonAl Token for Architecture Agnostic Textual Inversion	MooER: LLM-based Speech Recognition and Translation Models from Moore
+  Threads	MulliVC: Multi-lingual Voice Conversion With Cycle Consistency	Generating novel experimental hypotheses from language models: A case
+  study on cross-dative generalization
+"https://huggingface.co/papers/date/2024-08-13" 11 The AI Scientist: Towards Fully Automated Open-Ended Scientific
+  Discovery	Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers	ControlNeXt: Powerful and Efficient Control for Image and Video
+  Generation	Med42-v2: A Suite of Clinical LLMs	CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer	FruitNeRF: A Unified Neural Radiance Field based Fruit Counting
+  Framework	VisualAgentBench: Towards Large Multimodal Models as Visual Foundation
+  Agents	HeadGAP: Few-shot 3D Head Avatar via Generalizable Gaussian Priors	UniPortrait: A Unified Framework for Identity-Preserving Single- and
+  Multi-Human Image Personalization	Body Transformer: Leveraging Robot Embodiment for Policy Learning	Your Context Is Not an Array: Unveiling Random Access Limitations in
+  Transformers
+"https://huggingface.co/papers/date/2024-08-14" 15 LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs	Imagen 3	Diversity Empowers Intelligence: Integrating Expertise of Software
+  Engineering Agents	OpenResearcher: Unleashing AI for Accelerated Scientific Research	Layerwise Recurrent Router for Mixture-of-Experts	Amuro & Char: Analyzing the Relationship between Pre-Training and
+  Fine-Tuning of Large Language Models	SlotLifter: Slot-guided Feature Lifting for Learning Object-centric
+  Radiance Fields	DC3DO: Diffusion Classifier for 3D Objects	UniT: Unified Tactile Representation for Robot Learning	FuxiTranyu: A Multilingual Large Language Model Trained with Balanced
+  Data	MovieSum: An Abstractive Summarization Dataset for Movie Screenplays	Design Proteins Using Large Language Models: Enhancements and
+  Comparative Analyses	TacSL: A Library for Visuotactile Sensor Simulation and Learning	ZePo: Zero-Shot Portrait Stylization with Faster Sampling	Adapting General Disentanglement-Based Speaker Anonymization for
+  Enhanced Emotion Preservation
+"https://huggingface.co/papers/date/2024-08-15" 8 Seeing and Understanding: Bridging Vision with Chemical Knowledge Via
+  ChemVLM	Generative Photomontage	Aquila2 Technical Report	DeepSpeak Dataset v1.0	InfinityMATH: A Scalable Instruction Tuning Dataset in Programmatic
+  Mathematical Reasoning	3D Gaussian Editing with A Single Image	PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform
+  Generation	Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space
+"https://huggingface.co/papers/date/2024-08-16" 12 DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for
+  Reinforcement Learning and Monte-Carlo Tree Search	I-SHEEP: Self-Alignment of LLM from Scratch through an Iterative
+  Self-Enhancement Paradigm	Towards flexible perception with visual memory	Heavy Labels Out! Dataset Distillation with Label Space Lightening	FancyVideo: Towards Dynamic and Consistent Video Generation via
+  Cross-frame Textual Guidance	Training Language Models on the Knowledge Graph: Insights on
+  Hallucinations and Their Detectability	FuseChat: Knowledge Fusion of Chat Models	BAM! Just Like That: Simple and Efficient Parameter Upcycling for
+  Mixture of Experts	The ShareLM Collection and Plugin: Contributing Human-Model Chats for
+  the Benefit of the Community	Accelerating High-Fidelity Waveform Generation via Adversarial Flow
+  Matching Optimization	MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and
+  3D Editing	Can Large Language Models Understand Symbolic Graphics Programs?
+"https://huggingface.co/papers/date/2024-08-19" 7 xGen-MM (BLIP-3): A Family of Open Large Multimodal Models	JPEG-LM: LLMs as Image Generators with Canonical Codec Representations	Automated Design of Agentic Systems	Surgical SAM 2: Real-time Segment Anything in Surgical Video by
+  Efficient Frame Pruning	TurboEdit: Instant text-based image editing	Fine-tuning Large Language Models with Human-inspired Learning
+  Strategies in Medical Question Answering	D5RL: Diverse Datasets for Data-Driven Deep Reinforcement Learning
+"https://huggingface.co/papers/date/2024-08-20" 11 LongVILA: Scaling Long-Context Visual Language Models for Long Videos	MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction
+  Model	Segment Anything with Multiple Modalities	Factorized-Dreamer: Training A High-Quality Video Generator with Limited
+  and Low-Quality Data	ShortCircuit: AlphaZero-Driven Circuit Design	NeuFlow v2: High-Efficiency Optical Flow Estimation on Edge Devices	SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse
+  Views	Authorship Attribution in the Era of LLMs: Problems, Methodologies, and
+  Challenges	Photorealistic Object Insertion with Diffusion-Guided Inverse Rendering	TraDiffusion: Trajectory-Based Training-Free Image Generation	Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risk
+  of Language Models
+"https://huggingface.co/papers/date/2024-08-21" 15 Transfusion: Predict the Next Token and Diffuse Images with One
+  Multi-Modal Model	TableBench: A Comprehensive and Complex Benchmark for Table Question
+  Answering	To Code, or Not To Code? Exploring Impact of Code in Pre-training	NeCo: Improving DINOv2's spatial representations in 19 GPU hours with
+  Patch Neighbor Consistency	MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context
+  Generation with Speculative Decoding	MegaFusion: Extend Diffusion Models towards Higher-resolution Image
+  Generation without Further Tuning	Ferret: Faster and Effective Automated Red Teaming with Reward-Based
+  Scoring Technique	Audio Match Cutting: Finding and Creating Matching Audio Transitions in
+  Movies and Videos	Predicting Rewards Alongside Tokens: Non-disruptive Parameter Insertion
+  for Efficient Inference Intervention in Large Language Model	The Brittleness of AI-Generated Image Watermarking Techniques: Examining
+  Their Robustness Against Visual Paraphrasing Attacks	PhysBERT: A Text Embedding Model for Physics Scientific Literature	MambaEVT: Event Stream based Visual Object Tracking using State Space
+  Model	RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual
+  Dexterous Robot Hands	ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their
+  Self-Supervised Pretraining	Recent Surge in Public Interest in Transportation: Sentiment Analysis of
+  Baidu Apollo Go Using Weibo Data
+"https://huggingface.co/papers/date/2024-08-22" 12 LLM Pruning and Distillation in Practice: The Minitron Approach	TWLV-I: Analysis and Insights from Holistic Evaluation on Video
+  Foundation Models	FocusLLM: Scaling LLM's Context by Parallel Decoding	TrackGo: A Flexible and Efficient Method for Controllable Video
+  Generation	GRAB: A Challenging GRaph Analysis Benchmark for Large Multimodal Models	FRAP: Faithful and Realistic Text-to-Image Generation with Adaptive
+  Prompt Weighting	Scaling Cross-Embodied Learning: One Policy for Manipulation,
+  Navigation, Locomotion and Aviation	Iterative Object Count Optimization for Text-to-image Diffusion Models	Out-of-Distribution Detection with Attention Head Masking for Multimodal
+  Document Classification	Backward-Compatible Aligned Representations via an Orthogonal
+  Transformation Layer	Unboxing Occupational Bias: Grounded Debiasing LLMs with U.S. Labor Data	Expanding FLORES+ Benchmark for more Low-Resource Settings:
+  Portuguese-Emakhuwa Machine Translation Evaluation
+"https://huggingface.co/papers/date/2024-08-23" 20 Sapiens: Foundation for Human Vision Models	Controllable Text Generation for Large Language Models: A Survey	Open-FinLLMs: Open Multimodal Large Language Models for Financial
+  Applications	Hermes 3 Technical Report	Show-o: One Single Transformer to Unify Multimodal Understanding and
+  Generation	xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed
+  Representations	Jamba-1.5: Hybrid Transformer-Mamba Models at Scale	DreamCinema: Cinematic Transfer with Free Camera and 3D Character	The Russian-focused embedders' exploration: ruMTEB benchmark and Russian
+  embedding model design	Scalable Autoregressive Image Generation with Mamba	Vintern-1B: An Efficient Multimodal Large Language Model for Vietnamese	Real-Time Video Generation with Pyramid Attention Broadcast	Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search	SPARK: Multi-Vision Sensor Perception and Reasoning Benchmark for
+  Large-scale Vision-Language Models	ConflictBank: A Benchmark for Evaluating the Influence of Knowledge
+  Conflicts in LLM	SEA: Supervised Embedding Alignment for Token-Level Visual-Textual
+  Integration in MLLMs	Anim-Director: A Large Multimodal Model Powered Agent for Controllable
+  Animation Video Generation	Video-Foley: Two-Stage Video-To-Sound Generation via Temporal Event
+  Condition For Foley Sound	Subsurface Scattering for 3D Gaussian Splatting	Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning
+  with LLMs
+"https://huggingface.co/papers/date/2024-08-26" 12 Building and better understanding vision-language models: insights and
+  future directions	MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution
+  Real-World Scenarios that are Difficult for Humans?	LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation	Multi-Layer Transformers Gradient Can be Approximated in Almost Linear
+  Time	Memory-Efficient LLM Training with Online Subspace Descent	T3M: Text Guided 3D Human Motion Synthesis from Speech	CustomCrafter: Customized Video Generation with Preserving Motion and
+  Concept Composition Abilities	HiRED: Attention-Guided Token Dropping for Efficient Inference of
+  High-Resolution Vision-Language Models in Resource-Constrained Environments	A Web-Based Solution for Federated Learning with LLM-Based Automation	FLoD: Integrating Flexible Level of Detail into 3D Gaussian Splatting
+  for Customizable Rendering	RoundTable: Leveraging Dynamic Schema and Contextual Autocomplete for
+  Enhanced Query Precision in Tabular Question Answering	CODE: Confident Ordinary Differential Editing
+"https://huggingface.co/papers/date/2024-08-27" 14 SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its
+  Teacher	Foundation Models for Music: A Survey	SWE-bench-java: A GitHub Issue Resolving Benchmark for Java	K-Sort Arena: Efficient and Reliable Benchmarking for Generative Models
+  via K-wise Human Preferences	LlamaDuo: LLMOps Pipeline for Seamless Migration from Service LLMs to
+  Small-Scale Local LLMs	Power Scheduler: A Batch Size and Token Number Agnostic Learning Rate
+  Scheduler	Learning to Move Like Professional Counter-Strike Players	Training-free Long Video Generation with Chain of Diffusion Model
+  Experts	LLaVaOLMoBitnet1B: Ternary LLM goes Multimodal!	NanoFlow: Towards Optimal Large Language Model Serving Throughput	MobileQuant: Mobile-friendly Quantization for On-device Language Models	TVG: A Training-free Transition Video Generation Method with Diffusion
+  Models	Efficient Detection of Toxic Prompts in Large Language Models	MagicMan: Generative Novel View Synthesis of Humans with 3D-Aware
+  Diffusion and Iterative Refinement
+"https://huggingface.co/papers/date/2024-08-28" 12 Writing in the Margins: Better Inference Pattern for Long Context
+  Retrieval	Diffusion Models Are Real-Time Game Engines	The Mamba in the Llama: Distilling and Accelerating Hybrid Models	Generative Inbetweening: Adapting Image-to-Video Models for Keyframe
+  Interpolation	Text2SQL is Not Enough: Unifying AI and Databases with TAG	Build-A-Scene: Interactive 3D Layout Control for Diffusion-Based Image
+  Generation	GenCA: A Text-conditioned Generative Model for Realistic and Drivable
+  Codec Avatars	Platypus: A Generalized Specialist Model for Reading Text in Various
+  Forms	Project SHADOW: Symbolic Higher-order Associative Deductive reasoning On
+  Wikidata using LM probing	DSTI at LLMs4OL 2024 Task A: Intrinsic versus extrinsic knowledge for
+  type classification	Temporally-consistent 3D Reconstruction of Birds	LLM-3D Print: Large Language Models To Monitor and Control 3D Printing
+"https://huggingface.co/papers/date/2024-08-29" 13 Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of
+  Encoders	BaichuanSEED: Sharing the Potential of ExtensivE Data Collection and
+  Deduplication by Introducing a Competitive Large Language Model Baseline	Dolphin: Long Context as a New Modality for Energy-Efficient On-Device
+  Language Models	LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation	Efficient LLM Scheduling by Learning to Rank	Leveraging Open Knowledge for Advancing Task Expertise in Large Language
+  Models	Distribution Backtracking Builds A Faster Convergence Trajectory for
+  One-step Diffusion Distillation	Knowledge Navigator: LLM-guided Browsing Framework for Exploratory
+  Search in Scientific Literature	Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts	ReMamba: Equip Mamba with Effective Long-Sequence Modeling	In-Context Imitation Learning via Next-Token Prediction	Towards Realistic Example-based Modeling via 3D Gaussian Stitching	TEDRA: Text-based Editing of Dynamic and Photoreal Actors
+"https://huggingface.co/papers/date/2024-08-30" 11 Law of Vision Representation in MLLMs	CogVLM2: Visual Language Models for Image and Video Understanding	WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio
+  Language Modeling	ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion
+  Model	SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners	Physics of Language Models: Part 2.2, How to Learn From Mistakes on
+  Grade-School Math Problems	CSGO: Content-Style Composition in Text-to-Image Generation	3D Reconstruction with Spatial Memory	StyleRemix: Interpretable Authorship Obfuscation via Distillation and
+  Perturbation of Style Elements	Scaling Up Diffusion and Flow-based XGBoost Models	Meta Flow Matching: Integrating Vector Fields on the Wasserstein
+  Manifold
+"https://huggingface.co/papers/date/2024-09-02" 16 SciLitLLM: How to Adapt LLMs for Scientific Literature Understanding	CoRe: Context-Regularized Text Embedding Learning for Text-to-Image
+  Personalization	UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal
+  Models in Multi-View Urban Scenarios	CrossViewDiff: A Cross-View Diffusion Model for Satellite-to-Street View
+  Synthesis	InkubaLM: A small language model for low-resource African languages	VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion
+  Transformers	The VoxCeleb Speaker Recognition Challenge: A Retrospective	Jina-ColBERT-v2: A General-Purpose Multilingual Late Interaction
+  Retriever	SurveySum: A Dataset for Summarizing Multiple Scientific Articles into a
+  Survey Section	VLM4Bio: A Benchmark Dataset to Evaluate Pretrained Vision-Language
+  Models for Trait Discovery from Biological Images	ClimDetect: A Benchmark Dataset for Climate Change Detection and
+  Attribution	CURLoRA: Stable LLM Continual Fine-Tuning and Catastrophic Forgetting
+  Mitigation	Automatic Differential Diagnosis using Transformer-Based Multi-Label
+  Sequence Classification	Large-Scale Multi-omic Biosequence Transformers for Modeling
+  Peptide-Nucleotide Interactions	GIFT-SW: Gaussian noise Injected Fine-Tuning of Salient Weights for LLMs	Iterative Graph Alignment
+"https://huggingface.co/papers/date/2024-09-03" 2 Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming	VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time
+  Series Forecasters
+"https://huggingface.co/papers/date/2024-09-04" 19 General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model	OLMoE: Open Mixture-of-Experts Language Models	Kvasir-VQA: A Text-Image Pair GI Tract Dataset	LongRecipe: Recipe for Efficient Long Context Generalization in Large
+  Languge Models	DepthCrafter: Generating Consistent Long Depth Sequences for Open-world
+  Videos	LinFusion: 1 GPU, 1 Minute, 16K Image	FLUX that Plays Music	VideoLLaMB: Long-context Video Understanding with Recurrent Memory
+  Bridges	Diffusion Policy Policy Optimization	Compositional 3D-aware Video Generation with LLM Director	OD-VAE: An Omni-dimensional Video Compressor for Improving Latent Video
+  Diffusion Model	ContextCite: Attributing Model Generation to Context	Accurate Compression of Text-to-Image Diffusion Models via Vector
+  Quantization	GenAgent: Build Collaborative AI Systems with Automated Workflow
+  Generation -- Case Studies on ComfyUI	Follow-Your-Canvas: Higher-Resolution Video Outpainting with Extensive
+  Content Generation	Density Adaptive Attention-based Speech Network: Enhancing Feature
+  Understanding for Mental Health Disorders	Know When to Fuse: Investigating Non-English Hybrid Retrieval in the
+  Legal Domain	The MERIT Dataset: Modelling and Efficiently Rendering Interpretable
+  Transcripts	PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in
+  Action
+"https://huggingface.co/papers/date/2024-09-05" 8 Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion
+  Dependency	LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via
+  Hybrid Architecture	LongCite: Enabling LLMs to Generate Fine-grained Citations in
+  Long-context QA	MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding
+  Benchmark	Affordance-based Robot Manipulation with Flow Matching	Arctic-SnowCoder: Demystifying High-Quality Data in Code Pretraining	Political DEBATE: Efficient Zero-shot and Few-shot Classifiers for
+  Political Text	FastVoiceGrad: One-step Diffusion-Based Voice Conversion with
+  Adversarial Conditional Diffusion Distillation
+"https://huggingface.co/papers/date/2024-09-06" 12 Guide-and-Rescale: Self-Guidance Mechanism for Effective Tuning-Free
+  Real Image Editing	Attention Heads of Large Language Models: A Survey	FuzzCoder: Byte-level Fuzzing Test via Large Language Model	From MOOC to MAIC: Reshaping Online Teaching and Learning through
+  LLM-driven Agents	Geometry Image Diffusion: Fast and Data-Efficient Text-to-3D with
+  Image-Based Surface Representation	mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page
+  Document Understanding	WildVis: Open Source Visualizer for Million-Scale Chat Logs in the Wild	CDM: A Reliable Metric for Fair and Accurate Formula Recognition
+  Evaluation	Building Math Agents with Multi-Turn Iterative Preference Learning	FrozenSeg: Harmonizing Frozen Foundation Models for Open-Vocabulary
+  Segmentation	Report Cards: Qualitative Evaluation of Language Models Using Natural
+  Language Summaries	Statically Contextualizing Large Language Models with Typed Holes
+"https://huggingface.co/papers/date/2024-09-09" 6 How Do Your Code LLMs Perform? Empowering Code Instruction Tuning with
+  High-Quality Data	Configurable Foundation Models: Building LLMs from a Modular Perspective	Open-MAGVIT2: An Open-Source Project Toward Democratizing
+  Auto-regressive Visual Generation	Qihoo-T2X: An Efficiency-Focused Diffusion Transformer via Proxy Tokens
+  for Text-to-Any-Task	GST: Precise 3D Human Body from a Single Image with Gaussian Splatting
+  Transformers	Spinning the Golden Thread: Benchmarking Long-Form Generation in
+  Language Models
+"https://huggingface.co/papers/date/2024-09-10" 12 Towards a Unified View of Preference Learning for Large Language Models:
+  A Survey	MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct	OneGen: Efficient One-Pass Unified Generation and Retrieval for LLMs	MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge
+  Discovery	Paper Copilot: A Self-Evolving and Efficient LLM System for Personalized
+  Academic Assistance	POINTS: Improving Your Vision-language Model with Affordable Strategies	Robot Utility Models: General Policies for Zero-Shot Deployment in New
+  Environments	Benchmarking Chinese Knowledge Rectification in Large Language Models	Evaluating Multiview Object Consistency in Humans and Image Models	Open Language Data Initiative: Advancing Low-Resource Machine
+  Translation for Karakalpak	UniDet3D: Multi-dataset Indoor 3D Object Detection	Insights from Benchmarking Frontier Language Models on Web App Code
+  Generation
+"https://huggingface.co/papers/date/2024-09-11" 7 LLaMA-Omni: Seamless Speech Interaction with Large Language Models	GroUSE: A Benchmark to Evaluate Evaluators in Grounded Question
+  Answering	INTRA: Interaction Relationship-aware Weakly Supervised Affordance
+  Grounding	SongCreator: Lyrics-based Universal Song Generation	Draw an Audio: Leveraging Multi-Instruction for Video-to-Audio Synthesis	SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse
+  Low-Rank Adaptation	LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation
+"https://huggingface.co/papers/date/2024-09-12" 14 PingPong: A Benchmark for Role-Playing Language Models with User
+  Emulation and Multi-Model Evaluation	MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical
+  Applications	Agent Workflow Memory	Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video
+  Diffusion Models	Gated Slot Attention for Efficient Linear-Time Sequence Modeling	Self-Harmonized Chain of Thought	gsplat: An Open-Source Library for Gaussian Splatting	Can Large Language Models Unlock Novel Scientific Research Ideas?	VMAS: Video-to-Music Generation via Semantic Alignment in Web Music
+  Videos	Instant Facial Gaussians Translator for Relightable and Interactable
+  Facial Rendering	SUPER: Evaluating Agents on Setting Up and Executing Tasks from Research
+  Repositories	MVLLaVA: An Intelligent Agent for Unified and Flexible Novel View
+  Synthesis	ProteinBench: A Holistic Evaluation of Protein Foundation Models	Generative Hierarchical Materials Search
+"https://huggingface.co/papers/date/2024-09-13" 10 DSBench: How Far Are Data Science Agents to Becoming Data Science
+  Experts?	Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale	Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with
+  100+ NLP Researchers	IFAdapter: Instance Feature Control for Grounded Text-to-Image
+  Generation	Source2Synth: Synthetic Data Generation and Curation Grounded in Real
+  Data Sources	TextBoost: Towards One-Shot Personalization of Text-to-Image Models via
+  Fine-tuning Text Encoder	DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with
+  Diffusion Priors	PiTe: Pixel-Temporal Alignment for Large Video-Language Model	FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally	Can OOD Object Detectors Learn from Foundation Models?
+"https://huggingface.co/papers/date/2024-09-16" 7 InstantDrag: Improving Interactivity in Drag-based Image Editing	DrawingSpinUp: 3D Animation from Single Character Drawings	Mamba-YOLO-World: Marrying YOLO-World with Mamba for Open-Vocabulary
+  Detection	A Diffusion Approach to Radiance Field Relighting using
+  Multi-Illumination Synthesis	Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric
+  Videos	Apollo: Band-sequence Modeling for High-Quality Audio Restoration	Click2Mask: Local Editing with Dynamic Mask Generation
+"https://huggingface.co/papers/date/2024-09-17" 15 Seed-Music: A Unified Framework for High Quality and Controlled Music
+  Generation	Kolmogorov-Arnold Transformer	RetrievalAttention: Accelerating Long-Context LLM Inference via Vector
+  Retrieval	jina-embeddings-v3: Multilingual Embeddings With Task LoRA	One missing piece in Vision and Language: A Survey on Comics
+  Understanding	Ferret: Federated Full-Parameter Tuning at Scale for Large Language
+  Models	On the Diagram of Thought	ReCLAP: Improving Zero Shot Audio Classification by Describing Sounds	Guiding Vision-Language Model Selection for Visual Question-Answering
+  Across Tasks, Domains, and Knowledge Types	Policy Filtration in RLHF to Fine-Tune LLM for Code Generation	Breaking reCAPTCHAv2	AudioBERT: Audio Knowledge Augmented Language Model	Towards Predicting Temporal Changes in a Patient's Chest X-ray Images
+  based on Electronic Health Records	beeFormer: Bridging the Gap Between Semantic and Interaction Similarity
+  in Recommender Systems	LLM-Powered Grapheme-to-Phoneme Conversion: Benchmark and Case Study
+"https://huggingface.co/papers/date/2024-09-18" 16 OmniGen: Unified Image Generation	NVLM: Open Frontier-Class Multimodal LLMs	Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think	Phidias: A Generative Model for Creating 3D Content from Text, Image,
+  and 3D Conditions with Reference-Augmented Diffusion	Promptriever: Instruction-Trained Retrievers Can Be Prompted Like
+  Language Models	EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion
+  Transformer	A Comprehensive Evaluation of Quantized Instruction-Tuned Large Language
+  Models: An Experimental Analysis up to 405B	OSV: One Step is Enough for High-Quality Image to Video Generation	On the limits of agency in agent-based models	Agile Continuous Jumping in Discontinuous Terrains	SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction	Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded
+  Attributions and Learning to Refuse	Human-like Affective Cognition in Foundation Models	Single-Layer Learnable Activation for Implicit Neural Representation
+  (SL^{2}A-INR)	PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music
+  Processing	Implicit Neural Representations with Fourier Kolmogorov-Arnold Networks
+"https://huggingface.co/papers/date/2024-09-19" 17 Qwen2.5-Coder Technical Report	Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at
+  Any Resolution	A Controlled Study on Long Context Extension and Generalization in LLMs	To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic
+  reasoning	LLMs + Persona-Plug = Personalized LLMs	Preference Tuning with Human Feedback on Language, Speech, and Vision
+  Tasks: A Survey	GRIN: GRadient-INformed MoE	Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models	Vista3D: Unravel the 3D Darkside of a Single Image	SoloAudio: Target Sound Extraction with Language-oriented Audio
+  Diffusion Transformer	Towards Diverse and Efficient Audio Captioning via Diffusion Models	Putting Data at the Centre of Offline Multi-Agent Reinforcement Learning	fMRI-3D: A Comprehensive Dataset for Enhancing fMRI-based 3D
+  Reconstruction	RoMath: A Mathematical Reasoning Benchmark in Romanian	CORE-Bench: Fostering the Credibility of Published Research Through a
+  Computational Reproducibility Agent Benchmark	BERT-VBD: Vietnamese Multi-Document Summarization Framework	Measuring Human and AI Values based on Generative Psychometrics with
+  Large Language Models
+"https://huggingface.co/papers/date/2024-09-20" 15 Training Language Models to Self-Correct via Reinforcement Learning	InfiMM-WebMath-40B: Advancing Multimodal Pre-Training for Enhanced
+  Mathematical Reasoning	MMSearch: Benchmarking the Potential of Large Models as Multi-modal
+  Search Engines	B4: Towards Optimal Assessment of Plausible Code Solutions with
+  Plausible Tests	Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary
+  Resolution	LVCD: Reference-based Lineart Video Colorization with Diffusion Models	Scaling Smart: Accelerating Large Language Model Pre-training with Small
+  Model Initialization	3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive
+  Diffusion	StoryMaker: Towards Holistic Consistent Characters in Text-to-image
+  Generation	FlexiTex: Enhancing Texture Generation with Visual Guidance	Language Models Learn to Mislead Humans via RLHF	MURI: High-Quality Instruction Tuning Datasets for Low-Resource
+  Languages via Reverse Instructions	3DGS-LM: Faster Gaussian-Splatting Optimization with Levenberg-Marquardt	Denoising Reuse: Exploiting Inter-frame Motion Consistency for Efficient
+  Video Latent Generation	CLAIR-A: Leveraging Large Language Models to Judge Audio Captions
+"https://huggingface.co/papers/date/2024-09-23" 12 Imagine yourself: Tuning-Free Personalized Image Generation	YesBut: A High-Quality Annotated Multimodal Dataset for evaluating
+  Satire Comprehension capability of Vision-Language Models	Prithvi WxC: Foundation Model for Weather and Climate	Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented
+  Generation	MuCodec: Ultra Low-Bitrate Music Codec	Portrait Video Editing Empowered by Multimodal Generative Priors	Colorful Diffuse Intrinsic Image Decomposition in the Wild	V^3: Viewing Volumetric Videos on Mobiles via Streamable 2D Dynamic
+  Gaussians	Minstrel: Structural Prompt Generation with Multi-Agents Coordination
+  for Non-AI Experts	Hackphyr: A Local Fine-Tuned LLM Agent for Network Security Environments	Temporally Aligned Audio for Video with Autoregression	LLM-Agent-UMF: LLM-based Agent Unified Modeling Framework for Seamless
+  Integration of Multi Active/Passive Core-Agents
+"https://huggingface.co/papers/date/2024-09-24" 14 RACER: Rich Language-Guided Failure Recovery Policies for Imitation
+  Learning	A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?	Phantom of Latent for Large Language and Vision Models	PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language
+  Instructions	Beyond Fine-tuning: Unleashing the Potential of Continuous Pretraining
+  for Clinical LLMs	Reflecting Reality: Enabling Diffusion Models to Produce Faithful Mirror
+  Reflections	MaterialFusion: Enhancing Inverse Rendering with Material Diffusion
+  Priors	Style over Substance: Failure Modes of LLM Judges in Alignment
+  Benchmarking	Zero-shot Cross-lingual Voice Transfer for TTS	MaskedMimic: Unified Physics-Based Character Control Through Masked
+  Motion Inpainting	An adapted large language model facilitates multiple medical tasks in
+  diabetes care	SpaceBlender: Creating Context-Rich Collaborative Spaces Through
+  Generative 3D Scene Blending	A Case Study of Web App Coding with OpenAI Reasoning Models	Self-Supervised Audio-Visual Soundscape Stylization
+"https://huggingface.co/papers/date/2024-09-25" 18 HelloBench: Evaluating Long Text Generation Capabilities of Large
+  Language Models	MIMO: Controllable Character Video Synthesis with Spatial Decomposed
+  Modeling	Making Text Embedders Few-Shot Learners	OmniBench: Towards The Future of Universal Omni-Language Models	EuroLLM: Multilingual Language Models for Europe	Present and Future Generalization of Synthetic Image Detectors	MonoFormer: One Transformer for Both Diffusion and Autoregression	MaskBit: Embedding-free Image Generation via Bit Tokens	Seeing Faces in Things: A Model and Dataset for Pareidolia	Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of
+  Experts	Improvements to SDXL in NovelAI Diffusion V3	Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable
+  Robot Manipulation	Attention Prompting on Image for Large Vision-Language Models	Reward-Robust RLHF in LLMs	SLIMER-IT: Zero-Shot NER on Italian Language	RRM: Robust Reward Model Training Mitigates Reward Hacking	DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control	Tabular Data Generation using Binary Diffusion
+"https://huggingface.co/papers/date/2024-09-26" 12 Molmo and PixMo: Open Weights and Open Data for State-of-the-Art
+  Multimodal Models	Programming Every Example: Lifting Pre-training Data Quality like
+  Experts at Scale	Boosting Healthcare LLMs Through Retrieved Context	DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D
+  Diffusion	AIM 2024 Sparse Neural Rendering Challenge: Dataset and Benchmark	Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors	Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing	HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks
+  at Scale	NoTeeline: Supporting Real-Time Notetaking from Keypoints with Large
+  Language Models	Game4Loc: A UAV Geo-Localization Benchmark from Game Data	TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans	Self-Supervised Any-Point Tracking by Contrastive Random Walks
+"https://huggingface.co/papers/date/2024-09-27" 12 MaskLLM: Learnable Semi-Structured Sparsity for Large Language Models	EMOVA: Empowering Language Models to See, Hear and Speak with Vivid
+  Emotions	LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with
+  3D-awareness	Lotus: Diffusion-based Visual Foundation Model for High-quality Dense
+  Prediction	Instruction Following without Instruction Tuning	Discovering the Gems in Early Layers: Accelerating Long-Context LLMs
+  with 1000x Input Token Reduction	Pixel-Space Post-Training of Latent Diffusion Models	The Imperative of Conversation Analysis in the Era of LLMs: A Survey of
+  Tasks, Techniques, and Trends	Reducing the Footprint of Multi-Vector Retrieval with Minimal
+  Performance Impact via Token Pooling	Disco4D: Disentangled 4D Human Generation and Animation from a Single
+  Image	Robot See Robot Do: Imitating Articulated Object Manipulation with
+  Monocular 4D Reconstruction	Enhancing Structured-Data Retrieval with GraphRAG: Soccer Data Case
+  Study
+"https://huggingface.co/papers/date/2024-09-30" 10 Emu3: Next-Token Prediction is All You Need	MIO: A Foundation Model on Multimodal Tokens	A Survey on the Honesty of Large Language Models	MinerU: An Open-Source Solution for Precise Document Content Extraction	VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large
+  Language Models	PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation	Modulated Intervention Preference Optimization (MIPO): Keep the Easy,
+  Refine the Difficult	LML: Language Model Learning a Dataset for Data-Augmented Prediction	MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for
+  Superior Planning and Decision-Making	HDFlow: Enhancing LLM Complex Problem-Solving with Hybrid Thinking and
+  Dynamic Workflows
+"https://huggingface.co/papers/date/2024-10-01" 12 MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning	Ruler: A Model-Agnostic Method to Control Generated Length for Large
+  Language Models	Hyper-Connections	DiaSynth -- Synthetic Dialogue Generation Framework	Cottention: Linear Transformers With Cosine Attention	UniAff: A Unified Representation of Affordances for Tool Usage and
+  Articulation with Vision-Language Models	Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained
+  Transformers	Image Copy Detection for Diffusion Models	Coffee-Gym: An Environment for Evaluating and Improving Natural Language
+  Feedback on Erroneous Code	Can Models Learn Skill Composition from Examples?	Visual Question Decomposition on Multimodal Large Language Models	IDEAW: Robust Neural Audio Watermarking with Invertible Dual-Embedding
+"https://huggingface.co/papers/date/2024-10-02" 14 Law of the Weakest Link: Cross Capabilities of Large Language Models	TPI-LLM: Serving 70B-scale LLMs Efficiently on Low-resource Edge Devices	Atlas-Chat: Adapting Large Language Models for Low-Resource Moroccan
+  Arabic Dialect	Flex3D: Feed-Forward 3D Generation With Flexible Reconstruction Model
+  And Input View Curation	One Token to Seg Them All: Language Instructed Reasoning Segmentation in
+  Videos	Illustrious: an Open Advanced Illustration Model	ACE: All-round Creator and Editor Following Instructions via Diffusion
+  Transformer	SyntheOcc: Synthesize Geometric-Controlled Street View Images through 3D
+  Semantic MPIs	Visual Context Window Extension: A New Perspective for Long Video
+  Understanding	Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image
+  Restoration	DressRecon: Freeform 4D Human Reconstruction from Monocular Video	Helpful DoggyBot: Open-World Object Fetching using Legged Robots and
+  Vision-Language Models	What the Harm? Quantifying the Tangible Impact of Gender Bias in Machine
+  Translation with a Human-centered Study	Embodied-RAG: General non-parametric Embodied Memory for Retrieval and
+  Generation
+"https://huggingface.co/papers/date/2024-10-03" 24 RATIONALYST: Pre-training Process-Supervision for Improving Reasoning	PHI-S: Distribution Balancing for Label-Free Multi-Teacher Distillation	From Code to Correctness: Closing the Last Mile of Code Generation with
+  Hierarchical Debugging	3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and
+  Box-Focused Sampling for 3D Object Detection	Not All LLM Reasoners Are Created Equal	LEOPARD : A Vision Language Model For Text-Rich Multi-Image Tasks	HelpSteer2-Preference: Complementing Ratings with Preferences	Selective Aggregation for Low-Rank Adaptation in Federated Learning	ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation	Is Preference Alignment Always the Best Option to Enhance LLM-Based
+  Translation? An Empirical Analysis	MOSEL: 950,000 Hours of Speech Data for Open-Source Speech Foundation
+  Model Training on EU Languages	Quantifying Generalization Complexity for Large Language Models	General Preference Modeling with Preference Representations for Aligning
+  Language Models	FactAlign: Long-form Factuality Alignment of Large Language Models	EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis	EmoKnob: Enhance Voice Cloning with Fine-Grained Emotion Control	E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding	BordIRlines: A Dataset for Evaluating Cross-lingual Retrieval-Augmented
+  Generation	VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data	HarmoniCa: Harmonizing Training and Inference for Better Feature Cache
+  in Diffusion Transformer Acceleration	InfiniPot: Infinite Context Processing on Memory-Constrained LLMs	Closed-loop Long-horizon Robotic Planning via Equilibrium Sequence
+  Modeling	Old Optimizer, New Norm: An Anthology	SonicSim: A customizable simulation platform for speech processing in
+  moving sound source scenarios
+"https://huggingface.co/papers/date/2024-10-04" 27 Revisit Large-Scale Image-Caption Data in Pre-training Multimodal
+  Foundation Models	SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference
+  Acceleration	Depth Pro: Sharp Monocular Metric Depth in Less Than a Second	Video Instruction Tuning With Synthetic Data	Contrastive Localized Language-Image Pre-Training	LLaVA-Critic: Learning to Evaluate Multimodal Models	Loong: Generating Minute-level Long Videos with Autoregressive Language
+  Models	Large Language Models as Markov Chains	Eliminating Oversaturation and Artifacts of High Guidance Scales in
+  Diffusion Models	VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit
+  Assignment	Distilling an End-to-End Voice Assistant Without Instruction Training
+  Data	Contextual Document Embeddings	CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified
+  Multiplet Upcycling	Training Language Models on Synthetic Edit Sequences Improves Code
+  Synthesis	Open-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large
+  Language Models	L-CiteEval: Do Long-Context Models Truly Leverage Context for
+  Responding?	Interpreting and Editing Vision-Language Representations to Mitigate
+  Hallucinations	MedVisionLlama: Leveraging Pre-Trained Large Language Model Layers to
+  Enhance Medical Image Segmentation	Improving Autonomous AI Agents with Reflective Tree Search and
+  Self-Learning	MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis	Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short
+  Videos	Intelligence at the Edge of Chaos	Synthio: Augmenting Small-Scale Audio Classification Datasets with
+  Synthetic Data	Learning the Latent Rules of a Game from Data: A Chess Story	Layer Swapping for Zero-Shot Cross-Lingual Transfer in Large Language
+  Models	Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning	SciPrompt: Knowledge-augmented Prompting for Fine-grained Categorization
+  of Scientific Topics

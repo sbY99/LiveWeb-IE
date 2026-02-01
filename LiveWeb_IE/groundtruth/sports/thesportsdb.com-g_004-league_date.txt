@@ -1,0 +1,21 @@
+sports thesportsdb.com g_004 league_first_recorded_date
+19 17 17
+"https://www.thesportsdb.com/league/4830-korean-kbo-league" 1 2012-03-17
+"https://www.thesportsdb.com/league/4424-mlb" 1 1967-09-30
+"https://www.thesportsdb.com/league/4591-nippon-baseball-league" 1 2008-03-20
+"https://www.thesportsdb.com/league/5107-australian-baseball-league" 1 2012-11-01
+"https://www.thesportsdb.com/league/5111-chinese-professional-baseball-league" 1 2015-03-21
+"https://www.thesportsdb.com/league/5108-cuban-national-series" 1 2012-11-25
+"https://www.thesportsdb.com/league/5110-honkbal-hoofdklasse" 1 2012-04-05
+"https://www.thesportsdb.com/league/5064-liga-mexicana-de-b%c3%a9isbol" 1 2008-03-20
+"https://www.thesportsdb.com/league/5109-mexican-pacific-league" 1 2013-10-12
+"https://www.thesportsdb.com/league/5112-venezuelan-professional-baseball-league" 1 2012-10-12
+"https://www.thesportsdb.com/league/4428-frontier-league" 1 1999-11-30
+"https://www.thesportsdb.com/league/5085-international-league" 1 2019-03-10
+"https://www.thesportsdb.com/league/5065-pacific-coast-league" 1 2021-05-07
+"https://www.thesportsdb.com/league/5437-baseball-all-star-games" 1 1960-07-11
+"https://www.thesportsdb.com/league/5018-olympics-baseball" 1 2004-08-15
+"https://www.thesportsdb.com/league/5019-olympics-softball" 1 2021-07-21
+"https://www.thesportsdb.com/league/4592-_defunct-baseball-teams" 0 
+"https://www.thesportsdb.com/league/4837-_no-league-baseball" 0 
+"https://www.thesportsdb.com/league/4427-can-am" 1 2015-05-21

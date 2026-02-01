@@ -1,0 +1,317 @@
+academic neurips.cc g_000 paper_title
+315 315 315
+"https://neurips.cc/virtual/2024/poster/95244" 1 Upping the Game: How 2D U-Net Skip Connections Flip 3D Segmentation
+"https://neurips.cc/virtual/2024/poster/94079" 1 Fast Last-Iterate Convergence of Learning in Games Requires Forgetful Algorithms
+"https://neurips.cc/virtual/2024/poster/93162" 1 Bandits with Preference Feedback: A Stackelberg Game Perspective
+"https://neurips.cc/virtual/2024/poster/95488" 1 Learning in Markov Games with Adaptive Adversaries: Policy Regret, Fundamental Barriers, and Efficient Algorithms
+"https://neurips.cc/virtual/2024/poster/95251" 1 Learning Optimal Tax Design in Nonatomic Congestion Games
+"https://neurips.cc/virtual/2024/poster/93638" 1 Self-playing Adversarial Language Game Enhances LLM Reasoning
+"https://neurips.cc/virtual/2024/poster/97717" 1 AuctionNet: A Novel Benchmark for Decision-Making in Large-Scale Games
+"https://neurips.cc/virtual/2024/poster/94042" 1 Convergence of log(1/ϵ) for Gradient-Based Algorithms in Zero-Sum Games without the Condition Number: A Smoothed Analysis
+"https://neurips.cc/virtual/2024/poster/97479" 1 GameTraversalBenchmark: Evaluating Planning Abilities Of Large Language Models Through Traversing 2D Game Maps
+"https://neurips.cc/virtual/2024/poster/96364" 1 EAI: Emotional Decision-Making of LLMs in Strategic Games and Ethical Dilemmas
+"https://neurips.cc/virtual/2024/poster/97492" 1 WhodunitBench: Evaluating Large Multimodal Agents via Murder Mystery Games
+"https://neurips.cc/virtual/2024/poster/93826" 1 Accelerated Regularized Learning in Finite N-Person Games
+"https://neurips.cc/virtual/2024/poster/95220" 1 On the Role of Information Structure in Reinforcement Learning for Partially-Observable Sequential Teams and Games
+"https://neurips.cc/virtual/2024/poster/93409" 1 Learning to Balance Altruism and Self-interest Based on Empathy in Mixed-Motive Games
+"https://neurips.cc/virtual/2024/poster/93114" 1 Solving Zero-Sum Markov Games with Continuous State via Spectral Dynamic Embedding
+"https://neurips.cc/virtual/2024/poster/93439" 1 Regret Minimization in Stackelberg Games with Side Information
+"https://neurips.cc/virtual/2024/poster/95828" 1 No-regret Learning in Harmonic Games: Extrapolation in the Face of Conflicting Interests
+"https://neurips.cc/virtual/2024/poster/94446" 1 Efficient Φ-Regret Minimization with Low-Degree Swap Deviations in Extensive-Form Games
+"https://neurips.cc/virtual/2024/poster/95641" 1 Decentralized Noncooperative Games with Coupled Decision-Dependent Distributions
+"https://neurips.cc/virtual/2024/poster/96954" 1 Mimicking To Dominate: Imitation Learning Strategies for Success in Multiagent Games
+"https://neurips.cc/virtual/2024/poster/94637" 1 Learning the Expected Core of Strictly Convex Stochastic Cooperative Games
+"https://neurips.cc/virtual/2024/poster/95556" 1 Paths to Equilibrium in Games
+"https://neurips.cc/virtual/2024/poster/96527" 1 On the Optimality of Dilated Entropy and Lower Bounds for Online Learning in Extensive-Form Games
+"https://neurips.cc/virtual/2024/poster/96521" 1 Team-Fictitious Play for Reaching Team-Nash Equilibrium in Multi-team Games
+"https://neurips.cc/virtual/2024/poster/96365" 1 Extensive-Form Game Solving via Blackwell Approachability on Treeplexes
+"https://neurips.cc/virtual/2024/poster/92988" 1 GTBench: Uncovering the Strategic Reasoning Capabilities of LLMs via Game-Theoretic Evaluations
+"https://neurips.cc/virtual/2024/poster/93639" 1 GAVEL: Generating Games via Evolution and Language Models
+"https://neurips.cc/virtual/2024/poster/95830" 1 Local and Adaptive Mirror Descents in Extensive-Form Games
+"https://neurips.cc/virtual/2024/poster/96764" 1 On Tractable Φ-Equilibria in Non-Concave Games
+"https://neurips.cc/virtual/2024/poster/95121" 1 Measuring Progress in Dictionary Learning for Language Model Interpretability with Board Game Models
+"https://neurips.cc/virtual/2024/poster/93748" 1 Polynomial-Time Computation of Exact Φ-Equilibria in Polyhedral Games
+"https://neurips.cc/virtual/2024/poster/93552" 1 Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models
+"https://neurips.cc/virtual/2024/poster/96173" 1 Learning Equilibria in Adversarial Team Markov Games: A Nonconvex-Hidden-Concave Min-Max Optimization Problem
+"https://neurips.cc/virtual/2024/poster/96462" 1 Error Analysis of Spherically Constrained Least Squares Reformulation in Solving the Stackelberg Prediction Game
+"https://neurips.cc/virtual/2024/poster/94945" 1 AGILE: A Novel Reinforcement Learning Framework of LLM Agents
+"https://neurips.cc/virtual/2024/poster/96895" 1 Cooperate or Collapse:  Emergence of Sustainable Cooperation in a Society of LLM Agents
+"https://neurips.cc/virtual/2024/poster/96078" 1 Aligning LLM Agents by Learning Latent Preference from User Edits
+"https://neurips.cc/virtual/2024/poster/95795" 1 Reinforcing LLM Agents via Policy Optimization with Action Decomposition
+"https://neurips.cc/virtual/2024/poster/95273" 1 AutoManual: Constructing Instruction Manuals by LLM Agents via Interactive Environmental Learning
+"https://neurips.cc/virtual/2024/poster/97853" 1 AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents
+"https://neurips.cc/virtual/2024/poster/96855" 1 Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation
+"https://neurips.cc/virtual/2024/poster/94715" 1 AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases
+"https://neurips.cc/virtual/2024/poster/95246" 1 WorldCoder, a Model-Based LLM Agent: Building World Models by Writing Code and Interacting with the Environment
+"https://neurips.cc/virtual/2024/poster/95465" 1 AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning
+"https://neurips.cc/virtual/2024/poster/97522" 1 AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents
+"https://neurips.cc/virtual/2024/poster/93952" 1 Star-Agents: Automatic Data Optimization with LLM Agents for Instruction Tuning
+"https://neurips.cc/virtual/2024/poster/95304" 1 Hierarchical Visual Feature Aggregation for OCR-Free Document Understanding
+"https://neurips.cc/virtual/2024/poster/97524" 1 MMLONGBENCH-DOC: Benchmarking Long-context Document Understanding with Visualizations
+"https://neurips.cc/virtual/2024/poster/97735" 1 UDA: A Benchmark Suite for Retrieval Augmented Generation in Real-World Document Analysis
+"https://neurips.cc/virtual/2024/poster/97620" 1 GTA: A Benchmark for General Tool Agents
+"https://neurips.cc/virtual/2024/poster/97749" 1 TACT: Advancing Complex Aggregative Reasoning with Information Extraction Tools
+"https://neurips.cc/virtual/2024/poster/92930" 1 OxonFair: A Flexible Toolkit for Algorithmic Fairness
+"https://neurips.cc/virtual/2024/poster/95465" 1 AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning
+"https://neurips.cc/virtual/2024/poster/94647" 1 Advancing Tool-Augmented Large Language Models: Integrating Insights from Errors in Inference Trees
+"https://neurips.cc/virtual/2024/poster/97503" 1 Towards Heterogeneous Long-tailed Learning: Benchmarking, Metrics, and Toolbox
+"https://neurips.cc/virtual/2024/poster/94539" 1 SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection
+"https://neurips.cc/virtual/2024/poster/97764" 1 WildGuard: Open One-stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs
+"https://neurips.cc/virtual/2024/poster/97484" 1 FlexMol: A Flexible Toolkit for Benchmarking Molecular Relational Learning
+"https://neurips.cc/virtual/2024/poster/97826" 1 ZSC-Eval: An Evaluation Toolkit and Benchmark for Multi-agent Zero-shot Coordination
+"https://neurips.cc/virtual/2024/poster/97638" 1 4DBInfer:  A 4D Benchmarking Toolbox for Graph-Centric Predictive Modeling on RDBs
+"https://neurips.cc/virtual/2024/poster/97720" 1 BIGOS V2 Benchmark for Polish ASR: Curated Datasets and Tools for Reproducible Evaluation
+"https://neurips.cc/virtual/2024/poster/93356" 1 SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data
+"https://neurips.cc/virtual/2024/poster/94738" 1 MoME: Mixture of Multimodal Experts for Generalist Multimodal Large Language Models
+"https://neurips.cc/virtual/2024/poster/93039" 1 MomentumSMoE: Integrating Momentum into Sparse Mixture of Experts
+"https://neurips.cc/virtual/2024/poster/93189" 1 Remix-DiT: Mixing Diffusion Transformers for Multi-Expert Denoising
+"https://neurips.cc/virtual/2024/poster/93279" 1 MoVA: Adapting Mixture of Vision Experts to Multimodal Context
+"https://neurips.cc/virtual/2024/poster/93148" 1 Neural Experts: Mixture of Experts for Implicit Neural Representations
+"https://neurips.cc/virtual/2024/poster/95095" 1 LFME: A Simple Framework for Learning from Multiple Experts in Domain Generalization
+"https://neurips.cc/virtual/2024/poster/95197" 1 Parameter Efficient Adaptation for Image Restoration with Heterogeneous Mixture-of-Experts
+"https://neurips.cc/virtual/2024/poster/96571" 1 Text2CAD: Generating Sequential CAD Designs from Beginner-to-Expert Level Text Prompts
+"https://neurips.cc/virtual/2024/poster/93992" 1 Variational Distillation of Diffusion Policies into Mixture of Experts
+"https://neurips.cc/virtual/2024/poster/93120" 1 Human Expertise in Algorithmic Prediction
+"https://neurips.cc/virtual/2024/poster/96232" 1 On the Minimax Regret for Contextual Linear Bandits and Multi-Armed Bandits with Expert Advice
+"https://neurips.cc/virtual/2024/poster/95158" 1 Mixture of In-Context Experts Enhance LLMs' Long Context Awareness
+"https://neurips.cc/virtual/2024/poster/95985" 1 ProxyFusion: Face Feature Aggregation Through Sparse Experts
+"https://neurips.cc/virtual/2024/poster/96169" 1 Unchosen Experts Can Contribute Too: Unleashing MoE Models’ Power by Self-Contrast
+"https://neurips.cc/virtual/2024/poster/94811" 1 Breaking Long-Tailed Learning Bottlenecks: A Controllable Paradigm with Hypernetwork-Generated Diverse Experts
+"https://neurips.cc/virtual/2024/poster/93747" 1 Once Read is Enough: Domain-specific Pretraining-free Language Models with Cluster-guided Sparse Experts for Long-tail Domain Knowledge
+"https://neurips.cc/virtual/2024/poster/94037" 1 CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts
+"https://neurips.cc/virtual/2024/poster/96404" 1 SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention
+"https://neurips.cc/virtual/2024/poster/96429" 1 Retrieval-Retro: Retrieval-based Inorganic Retrosynthesis with Expert Knowledge
+"https://neurips.cc/virtual/2024/poster/95822" 1 Mixture of Nested Experts: Adaptive Processing of Visual Tokens
+"https://neurips.cc/virtual/2024/poster/96402" 1 Twin-Merging: Dynamic Integration of Modular Expertise in Model Merging
+"https://neurips.cc/virtual/2024/poster/94496" 1 Multilinear Mixture of Experts: Scalable Expert Specialization through Factorization
+"https://neurips.cc/virtual/2024/poster/94763" 1 MoLE: Enhancing Human-centric Text-to-image Diffusion via Mixture of  Low-rank Experts
+"https://neurips.cc/virtual/2024/poster/93942" 1 FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion
+"https://neurips.cc/virtual/2024/poster/94442" 1 Sequential Decision Making with Expert Demonstrations under Unobserved Heterogeneity
+"https://neurips.cc/virtual/2024/poster/93491" 1 Expert-level protocol translation for self-driving labs
+"https://neurips.cc/virtual/2024/poster/95054" 1 Federated Online Prediction from Experts with Differential Privacy: Separations and Regret Speed-ups
+"https://neurips.cc/virtual/2024/poster/96405" 1 Sub-optimal Experts mitigate Ambiguity in Inverse Reinforcement Learning
+"https://neurips.cc/virtual/2024/poster/95262" 1 MoE Jetpack: From Dense Checkpoints to Adaptive Mixture of Experts for Vision Tasks
+"https://neurips.cc/virtual/2024/poster/94304" 1 Multi-Head Mixture-of-Experts
+"https://neurips.cc/virtual/2024/poster/95780" 1 Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts
+"https://neurips.cc/virtual/2024/poster/94243" 1 Mixture of Experts Meets Prompt-Based Continual Learning
+"https://neurips.cc/virtual/2024/poster/93993" 1 Flex-MoE: Modeling Arbitrary Modality Combination via the Flexible Mixture-of-Experts
+"https://neurips.cc/virtual/2024/poster/95782" 1 Principled Bayesian Optimization in Collaboration with Human Experts
+"https://neurips.cc/virtual/2024/poster/94027" 1 Read-ME: Refactorizing LLMs as Router-Decoupled Mixture of Experts with System Co-Design
+"https://neurips.cc/virtual/2024/poster/94038" 1 Unlocking the Potential of Global Human Expertise
+"https://neurips.cc/virtual/2024/poster/94601" 1 MoEUT: Mixture-of-Experts Universal Transformers
+"https://neurips.cc/virtual/2024/poster/96510" 1 CogVLM: Visual Expert for Pretrained Language Models
+"https://neurips.cc/virtual/2024/poster/97600" 1 CableInspect-AD: An Expert-Annotated Anomaly Detection Dataset
+"https://neurips.cc/virtual/2024/poster/95106" 1 Mixtures of Experts for Audio-Visual Learning
+"https://neurips.cc/virtual/2024/poster/97439" 1 Large Language Models' Expert-level Global History Knowledge Benchmark (HiST-LLM)
+"https://neurips.cc/virtual/2024/poster/95211" 1 GraphMETRO: Mitigating Complex Graph Distribution Shifts via Mixture of Aligned Experts
+"https://neurips.cc/virtual/2024/poster/95796" 1 Communication Bounds for the Distributed Experts Problem
+"https://neurips.cc/virtual/2024/poster/94824" 1 Spiking Transformer with Experts Mixture
+"https://neurips.cc/virtual/2024/poster/93858" 1 Bandits with Abstention under Expert Advice
+"https://neurips.cc/virtual/2024/poster/97564" 1 DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal Perception
+"https://neurips.cc/virtual/2024/poster/96769" 1 Exploiting Activation Sparsity with Dense to Dynamic-k Mixture-of-Experts Conversion
+"https://neurips.cc/virtual/2024/poster/93368" 1 Toward Efficient Inference for Mixture of Experts
+"https://neurips.cc/virtual/2024/poster/94284" 1 Transcendence: Generative Models Can Outperform The Experts That Train Them
+"https://neurips.cc/virtual/2024/poster/96205" 1 BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts
+"https://neurips.cc/virtual/2024/poster/93242" 1 BendVLM: Test-Time Debiasing of Vision-Language Embeddings
+"https://neurips.cc/virtual/2024/poster/97480" 1 MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs
+"https://neurips.cc/virtual/2024/poster/97716" 1 ConMe: Rethinking Evaluation of Compositional Reasoning for Modern VLMs
+"https://neurips.cc/virtual/2024/poster/96477" 1 Right this way: Can VLMs Guide Us to See More to Answer Questions?
+"https://neurips.cc/virtual/2024/poster/94107" 1 Q-VLM: Post-training Quantization for Large Vision-Language Models
+"https://neurips.cc/virtual/2024/poster/96165" 1 VLMimic: Vision Language Models are Visual Imitation Learner for Fine-grained Actions
+"https://neurips.cc/virtual/2024/poster/95203" 1 EZ-HOI: VLM Adaptation via Guided Prompt Learning for Zero-Shot HOI Detection
+"https://neurips.cc/virtual/2024/poster/96600" 1 VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought
+"https://neurips.cc/virtual/2024/poster/96510" 1 CogVLM: Visual Expert for Pretrained Language Models
+"https://neurips.cc/virtual/2024/poster/93501" 1 Prism: A Framework for Decoupling and Assessing the Capabilities of VLMs
+"https://neurips.cc/virtual/2024/poster/93813" 1 SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge
+"https://neurips.cc/virtual/2024/poster/96465" 1 Slot-VLM: Object-Event Slots for Video-Language Modeling
+"https://neurips.cc/virtual/2024/poster/97668" 1 VLM4Bio: A Benchmark Dataset to Evaluate Pretrained Vision-Language Models for Trait Discovery from Biological Images
+"https://neurips.cc/virtual/2024/poster/97879" 1 T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition
+"https://neurips.cc/virtual/2024/poster/97495" 1 MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing  Dataset and Benchmark for Text-to-Image Generation
+"https://neurips.cc/virtual/2024/poster/95173" 1 VideoTetris: Towards Compositional Text-to-Video Generation
+"https://neurips.cc/virtual/2024/poster/95184" 1 YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals
+"https://neurips.cc/virtual/2024/poster/95132" 1 Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2)
+"https://neurips.cc/virtual/2024/poster/95547" 1 Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials
+"https://neurips.cc/virtual/2024/poster/94956" 1 Direct Unlearning Optimization for Robust and Safe Text-to-Image Models
+"https://neurips.cc/virtual/2024/poster/95513" 1 ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization
+"https://neurips.cc/virtual/2024/poster/93334" 1 Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis
+"https://neurips.cc/virtual/2024/poster/94763" 1 MoLE: Enhancing Human-centric Text-to-image Diffusion via Mixture of  Low-rank Experts
+"https://neurips.cc/virtual/2024/poster/95982" 1 GuardT2I: Defending Text-to-Image Models from Adversarial Prompts
+"https://neurips.cc/virtual/2024/poster/93313" 1 Evaluation of Text-to-Video Generation Models: A Dynamics Perspective
+"https://neurips.cc/virtual/2024/poster/96652" 1 AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation
+"https://neurips.cc/virtual/2024/poster/97855" 1 Beyond Aesthetics: Cultural Competence in Text-to-Image Models
+"https://neurips.cc/virtual/2024/poster/94701" 1 Synergistic Dual Spatial-aware Generation of Image-to-text and Text-to-image
+"https://neurips.cc/virtual/2024/poster/95031" 1 Subject-driven Text-to-Image Generation via Preference-based Reinforcement Learning
+"https://neurips.cc/virtual/2024/poster/97657" 1 BiVLC: Extending Vision-Language Compositionality Evaluation with Text-to-Image Retrieval
+"https://neurips.cc/virtual/2024/poster/97543" 1 INQUIRE: A Natural World Text-to-Image Retrieval Benchmark
+"https://neurips.cc/virtual/2024/poster/96330" 1 Boosting Alignment for Post-Unlearning Text-to-Image Generative Models
+"https://neurips.cc/virtual/2024/poster/97783" 1 Stylebreeder: Exploring and Democratizing Artistic Styles through Text-to-Image Models
+"https://neurips.cc/virtual/2024/poster/96064" 1 Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy
+"https://neurips.cc/virtual/2024/poster/95859" 1 ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users
+"https://neurips.cc/virtual/2024/poster/96752" 1 FairQueue: Rethinking Prompt Learning for Fair Text-to-Image Generation
+"https://neurips.cc/virtual/2024/poster/96637" 1 Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function
+"https://neurips.cc/virtual/2024/poster/97505" 1 VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models
+"https://neurips.cc/virtual/2024/poster/99338" 1 Reproducibility Study of "ITI-GEN: Inclusive Text-to-Image Generation"
+"https://neurips.cc/virtual/2024/poster/96696" 1 AP-Adapter: Improving Generalization of Automatic Prompts on Unseen Text-to-Image Diffusion Models
+"https://neurips.cc/virtual/2024/poster/94287" 1 ColJailBreak: Collaborative Generation and Editing for Jailbreaking Text-to-Image Deep Generation
+"https://neurips.cc/virtual/2024/poster/94883" 1 Direct Consistency Optimization for Robust Customization of Text-to-Image Diffusion models
+"https://neurips.cc/virtual/2024/poster/96606" 1 Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation
+"https://neurips.cc/virtual/2024/poster/93517" 1 Self-Play Fine-tuning of Diffusion Models for Text-to-image Generation
+"https://neurips.cc/virtual/2024/poster/95195" 1 RealCompo: Balancing Realism and Compositionality Improves Text-to-Image Diffusion Models
+"https://neurips.cc/virtual/2024/poster/92954" 1 Towards Understanding the Working Mechanism of Text-to-Image Diffusion Model
+"https://neurips.cc/virtual/2024/poster/96946" 1 Rethinking Human Evaluation Protocol for Text-to-Video Models: Enhancing Reliability, Reproducibility, and Practicality
+"https://neurips.cc/virtual/2024/poster/97732" 1 T2VSafetyBench: Evaluating the Safety of Text-to-Video Generative Models
+"https://neurips.cc/virtual/2024/poster/95768" 1 Multimodal Large Language Models Make Text-to-Image Generative Models Align Better
+"https://neurips.cc/virtual/2024/poster/95393" 1 How to Continually Adapt Text-to-Image Diffusion Models for Flexible Customization?
+"https://neurips.cc/virtual/2024/poster/95481" 1 Generating compositional scenes via Text-to-image RGBA Instance Generation
+"https://neurips.cc/virtual/2024/poster/95365" 1 CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching
+"https://neurips.cc/virtual/2024/poster/93667" 1 Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning
+"https://neurips.cc/virtual/2024/poster/96830" 1 EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models
+"https://neurips.cc/virtual/2024/poster/93893" 1 Synthetic Programming Elicitation for Text-to-Code in Very Low-Resource Programming and Formal Languages
+"https://neurips.cc/virtual/2024/poster/97648" 1 ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation
+"https://neurips.cc/virtual/2024/poster/94705" 1 A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization
+"https://neurips.cc/virtual/2024/poster/95300" 1 Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models
+"https://neurips.cc/virtual/2024/poster/95427" 1 AID: Attention Interpolation of Text-to-Image Diffusion
+"https://neurips.cc/virtual/2024/poster/95747" 1 Stable-Pose: Leveraging Transformers for Pose-Guided Text-to-Image Generation
+"https://neurips.cc/virtual/2024/poster/96841" 1 MotionBooth: Motion-Aware Customized Text-to-Video Generation
+"https://neurips.cc/virtual/2024/poster/97663" 1 FiVA: Fine-grained Visual Attribute Dataset for Text-to-Image Diffusion Models
+"https://neurips.cc/virtual/2024/poster/93886" 1 Data Attribution for Text-to-Image Models by Unlearning Synthesized Images
+"https://neurips.cc/virtual/2024/poster/96624" 1 LCGen: Mining in Low-Certainty Generation for View-consistent Text-to-3D
+"https://neurips.cc/virtual/2024/poster/95668" 1 KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis
+"https://neurips.cc/virtual/2024/poster/97661" 1 Evaluating Numerical Reasoning in Text-to-Image Models
+"https://neurips.cc/virtual/2024/poster/94606" 1 Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance
+"https://neurips.cc/virtual/2024/poster/93349" 1 Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models
+"https://neurips.cc/virtual/2024/poster/97708" 1 SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark
+"https://neurips.cc/virtual/2024/poster/96557" 1 Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication
+"https://neurips.cc/virtual/2024/poster/93356" 1 SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data
+"https://neurips.cc/virtual/2024/poster/95658" 1 Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control
+"https://neurips.cc/virtual/2024/poster/96863" 1 FineStyle: Fine-grained Controllable Style Personalization for Text-to-image Models
+"https://neurips.cc/virtual/2024/poster/96722" 1 Boosting Text-to-Video Generative Model with MLLMs Feedback
+"https://neurips.cc/virtual/2024/poster/93379" 1 Association of Objects May Engender Stereotypes: Mitigating Association-Engendered Stereotypes in Text-to-Image Generation
+"https://neurips.cc/virtual/2024/poster/95109" 1 Provably Robust Score-Based Diffusion Posterior Sampling for Plug-and-Play Image Reconstruction
+"https://neurips.cc/virtual/2024/poster/95788" 1 Rethinking Score Distillation as a Bridge Between Image Distributions
+"https://neurips.cc/virtual/2024/poster/93317" 1 EigenVI: score-based variational inference with orthogonal function expansions
+"https://neurips.cc/virtual/2024/poster/95108" 1 ID-to-3D: Expressive ID-guided 3D Heads via Score Distillation Sampling
+"https://neurips.cc/virtual/2024/poster/96901" 1 Score-Optimal Diffusion Schedules
+"https://neurips.cc/virtual/2024/poster/95722" 1 Hamiltonian Score Matching and Generative Flows
+"https://neurips.cc/virtual/2024/poster/93024" 1 Local Curvature Smoothing with Stein's Identity for Efficient Score Matching
+"https://neurips.cc/virtual/2024/poster/93608" 1 One-Step Diffusion Distillation through Score Implicit Matching
+"https://neurips.cc/virtual/2024/poster/95079" 1 Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models
+"https://neurips.cc/virtual/2024/poster/97428" 1 GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks
+"https://neurips.cc/virtual/2024/poster/96842" 1 Sketched Lanczos uncertainty score: a low-memory summary of the Fisher information
+"https://neurips.cc/virtual/2024/poster/96296" 1 Score-based 3D molecule generation with neural fields
+"https://neurips.cc/virtual/2024/poster/97629" 1 APDDv2:  Aesthetics of Paintings and Drawings Dataset with Artist Labeled Scores and Comments
+"https://neurips.cc/virtual/2024/poster/94969" 1 Cryptographic Hardness of Score Estimation
+"https://neurips.cc/virtual/2024/poster/95673" 1 Score-based generative models are provably robust: an uncertainty quantification perspective
+"https://neurips.cc/virtual/2024/poster/94067" 1 Propensity Score Alignment of Unpaired Multimodal Data
+"https://neurips.cc/virtual/2024/poster/95838" 1 Is Score Matching Suitable for Estimating Point Processes?
+"https://neurips.cc/virtual/2024/poster/93184" 1 GREAT Score: Global Robustness Evaluation of Adversarial Perturbation using Generative Models
+"https://neurips.cc/virtual/2024/poster/96682" 1 Score Distillation via Reparametrized DDIM
+"https://neurips.cc/virtual/2024/poster/94095" 1 DiffusionBlend: Learning 3D Image Prior through Position-aware Diffusion Score Blending for 3D Computed Tomography Reconstruction
+"https://neurips.cc/virtual/2024/poster/95132" 1 Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2)
+"https://neurips.cc/virtual/2024/poster/95846" 1 SCOREQ: Speech Quality Assessment with Contrastive Regression
+"https://neurips.cc/virtual/2024/poster/94191" 1 Efficient Leverage Score Sampling for Tensor Train Decomposition
+"https://neurips.cc/virtual/2024/poster/97490" 1 Evaluating language models as risk scores
+"https://neurips.cc/virtual/2024/poster/94444" 1 Exploring Structured Semantic Priors Underlying Diffusion Score for Test-time Adaptation
+"https://neurips.cc/virtual/2024/poster/93946" 1 Revisiting Score Propagation in Graph Out-of-Distribution Detection
+"https://neurips.cc/virtual/2024/poster/96666" 1 AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis
+"https://neurips.cc/virtual/2024/poster/97571" 1 HARMONIC: Harnessing LLMs for Tabular Data Synthesis and Privacy Protection
+"https://neurips.cc/virtual/2024/poster/94127" 1 Conditional Synthesis of 3D Molecules with Time Correction Sampler
+"https://neurips.cc/virtual/2024/poster/95071" 1 Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections
+"https://neurips.cc/virtual/2024/poster/93197" 1 Template-free Articulated Gaussian Splatting for Real-time Reposable Dynamic View Synthesis
+"https://neurips.cc/virtual/2024/poster/93374" 1 Adapting Diffusion Models for Improved Prompt Compliance and Controllable Image Synthesis
+"https://neurips.cc/virtual/2024/poster/96429" 1 Retrieval-Retro: Retrieval-based Inorganic Retrosynthesis with Expert Knowledge
+"https://neurips.cc/virtual/2024/poster/94627" 1 ClavaDDPM: Multi-relational Data Synthesis with Cluster-guided Diffusion Models
+"https://neurips.cc/virtual/2024/poster/95942" 1 Constrained Synthesis with Projected Diffusion Models
+"https://neurips.cc/virtual/2024/poster/94290" 1 Neural Assets: 3D-Aware Multi-Object Scene Synthesis with Image Diffusion Models
+"https://neurips.cc/virtual/2024/poster/93044" 1 NeuroBOLT: Resting-state EEG-to-fMRI Synthesis with Multi-dimensional Feature Mapping
+"https://neurips.cc/virtual/2024/poster/93239" 1 Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment
+"https://neurips.cc/virtual/2024/poster/96707" 1 Zero-to-Hero: Enhancing Zero-Shot Novel View Synthesis via Attention Map Filtering
+"https://neurips.cc/virtual/2024/poster/96036" 1 Novel Object Synthesis via Adaptive Text-Image Harmony
+"https://neurips.cc/virtual/2024/poster/96058" 1 SemFlow: Binding Semantic Segmentation and Image Synthesis via Rectified Flow
+"https://neurips.cc/virtual/2024/poster/94364" 1 EPIC: Effective Prompting for Imbalanced-Class Data Synthesis in Tabular Data Classification via Large Language Models
+"https://neurips.cc/virtual/2024/poster/96572" 1 HYSYNTH: Context-Free LLM Approximation for Guiding Program Synthesis
+"https://neurips.cc/virtual/2024/poster/94008" 1 Epipolar-Free 3D Gaussian Splatting for Generalizable Novel View Synthesis
+"https://neurips.cc/virtual/2024/poster/96321" 1 Articulate your NeRF: Unsupervised articulated object modeling via conditional view synthesis
+"https://neurips.cc/virtual/2024/poster/93188" 1 UltraPixel: Advancing Ultra High-Resolution Image Synthesis to New Peaks
+"https://neurips.cc/virtual/2024/poster/94282" 1 Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis
+"https://neurips.cc/virtual/2024/poster/93625" 1 Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis
+"https://neurips.cc/virtual/2024/poster/94184" 1 Differentiable Modal Synthesis for Physical Modeling of Planar String Sound and Motion Simulation
+"https://neurips.cc/virtual/2024/poster/95604" 1 Double-Ended Synthesis Planning with Goal-Constrained Bidirectional Search
+"https://neurips.cc/virtual/2024/poster/95392" 1 Hyper-SD: Trajectory Segmented Consistency Model for Efficient Image Synthesis
+"https://neurips.cc/virtual/2024/poster/93688" 1 SEEV: Synthesis with Efficient Exact Verification for ReLU Neural Barrier Functions
+"https://neurips.cc/virtual/2024/poster/94631" 1 Towards Next-Generation Logic Synthesis: A Scalable Neural Circuit Generation Framework
+"https://neurips.cc/virtual/2024/poster/94098" 1 Action Imitation in Common Action Space for Customized Action Image Synthesis
+"https://neurips.cc/virtual/2024/poster/96852" 1 Unlocking the Capabilities of Masked Generative Models for Image Synthesis via Self-Guidance
+"https://neurips.cc/virtual/2024/poster/93334" 1 Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis
+"https://neurips.cc/virtual/2024/poster/95805" 1 HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting
+"https://neurips.cc/virtual/2024/poster/93252" 1 JiuZhang3.0: Efficiently Improving Mathematical Reasoning by Training Small Data Synthesis Models
+"https://neurips.cc/virtual/2024/poster/96223" 1 MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views
+"https://neurips.cc/virtual/2024/poster/95668" 1 KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis
+"https://neurips.cc/virtual/2024/poster/93734" 1 FreeSplat: Generalizable 3D Gaussian Splatting Towards Free View Synthesis of Indoor Scenes
+"https://neurips.cc/virtual/2024/poster/96559" 1 MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models
+"https://neurips.cc/virtual/2024/poster/95289" 1 ENAT: Rethinking Spatial-temporal Interactions in Token-based Image Synthesis
+"https://neurips.cc/virtual/2024/poster/93335" 1 Improved Distribution Matching Distillation for Fast Image Synthesis
+"https://neurips.cc/virtual/2024/poster/93134" 1 Sparse-view Pose Estimation and Reconstruction via Analysis by Generative Synthesis
+"https://neurips.cc/virtual/2024/poster/96520" 1 Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis
+"https://neurips.cc/virtual/2024/poster/94516" 1 Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps
+"https://neurips.cc/virtual/2024/poster/93468" 1 Towards Editing Time Series
+"https://neurips.cc/virtual/2024/poster/94912" 1 WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models
+"https://neurips.cc/virtual/2024/poster/94022" 1 ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing
+"https://neurips.cc/virtual/2024/poster/94507" 1 NaRCan: Natural Refined Canonical Image with Integration of Diffusion Prior for Video Editing
+"https://neurips.cc/virtual/2024/poster/96714" 1 D-MiSo: Editing Dynamic 3D Scenes using Multi-Gaussians Soup
+"https://neurips.cc/virtual/2024/poster/93896" 1 Vitron: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing
+"https://neurips.cc/virtual/2024/poster/94123" 1 CigTime: Corrective Instruction Generation Through Inverse Motion Editing
+"https://neurips.cc/virtual/2024/poster/97827" 1 UltraEdit: Instruction-based Fine-Grained Image Editing at Scale
+"https://neurips.cc/virtual/2024/poster/94287" 1 ColJailBreak: Collaborative Generation and Editing for Jailbreaking Text-to-Image Deep Generation
+"https://neurips.cc/virtual/2024/poster/96694" 1 COVE: Unleashing the Diffusion Feature Correspondence for Consistent Video Editing
+"https://neurips.cc/virtual/2024/poster/94779" 1 MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing
+"https://neurips.cc/virtual/2024/poster/94340" 1 Adversarial Representation Engineering: A General Model Editing Framework for Large Language Models
+"https://neurips.cc/virtual/2024/poster/97473" 1 Learning Action and Reasoning-Centric Image Editing from Videos and Simulation
+"https://neurips.cc/virtual/2024/poster/94171" 1 GFlowNet Assisted Biological Sequence Editing
+"https://neurips.cc/virtual/2024/poster/94668" 1 Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing
+"https://neurips.cc/virtual/2024/poster/96858" 1 I2EBench: A Comprehensive Benchmark for Instruction-based Image Editing
+"https://neurips.cc/virtual/2024/poster/97679" 1 VLKEB: A Large Vision-Language Model Knowledge Editing Benchmark
+"https://neurips.cc/virtual/2024/poster/94435" 1 ParallelEdits: Efficient Multi-Aspect Text-Driven Image Editing with Attention Grouping
+"https://neurips.cc/virtual/2024/poster/95472" 1 OptEx: Expediting First-Order Optimization with Approximately Parallelized Iterations
+"https://neurips.cc/virtual/2024/poster/93529" 1 Spectral Editing of Activations for Large Language Model Alignment
+"https://neurips.cc/virtual/2024/poster/95777" 1 Provable Editing of Deep Neural Networks using Parametric Linear Relaxation
+"https://neurips.cc/virtual/2024/poster/93018" 1 Aligning Large Language Models with Representation Editing: A Control Perspective
+"https://neurips.cc/virtual/2024/poster/93488" 1 Towards Safe Concept Transfer of Multi-Modal Diffusion via Causal Representation Editing
+"https://neurips.cc/virtual/2024/poster/93066" 1 Reasons and Solutions for the Decline in Model Performance after Editing
+"https://neurips.cc/virtual/2024/poster/95102" 1 TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control
+"https://neurips.cc/virtual/2024/poster/93306" 1 DisCEdit: Model Editing by Identifying Discriminative Components
+"https://neurips.cc/virtual/2024/poster/93873" 1 Towards Unified Multimodal Editing with Enhanced Knowledge Collaboration
+"https://neurips.cc/virtual/2024/poster/95583" 1 Zero-shot Image Editing with Reference Imitation
+"https://neurips.cc/virtual/2024/poster/96785" 1 Exploring Fixed Point in Image Editing: Theoretical Support and Convergence Optimization
+"https://neurips.cc/virtual/2024/poster/94941" 1 GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing
+"https://neurips.cc/virtual/2024/poster/94970" 1 HairDiffusion: Vivid Multi-Colored Hair Editing via Latent Diffusion
+"https://neurips.cc/virtual/2024/poster/93460" 1 How Control Information Influences Multilingual Text Image Generation and Editing?
+"https://neurips.cc/virtual/2024/poster/96621" 1 Exploring Low-Dimensional Subspace in Diffusion Models for Controllable Image Editing
+"https://neurips.cc/virtual/2024/poster/93552" 1 Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models
+"https://neurips.cc/virtual/2024/poster/96375" 1 Saliency-driven Experience Replay for Continual Learning
+"https://neurips.cc/virtual/2024/poster/93609" 1 RAW: A Robust and Agile Plug-and-Play Watermark Framework for AI-Generated Images with Provable Guarantees
+"https://neurips.cc/virtual/2024/poster/93813" 1 SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge
+"https://neurips.cc/virtual/2024/poster/93796" 1 Exploiting the Replay Memory Before Exploring the Environment: Enhancing Reinforcement Learning Through Empirical MDP Iteration
+"https://neurips.cc/virtual/2024/poster/95226" 1 Safe Exploitative Play with Untrusted Type Beliefs
+"https://neurips.cc/virtual/2024/poster/93469" 1 PeRFlow: Piecewise Rectified Flow as Universal Plug-and-Play Accelerator
+"https://neurips.cc/virtual/2024/poster/96084" 1 Deep Policy Gradient Methods Without Batch Updates, Target Networks, or Replay Buffers
+"https://neurips.cc/virtual/2024/poster/94289" 1 Accelerating Nash Equilibrium Convergence in Monte Carlo Settings Through Counterfactual Value Based Fictitious Play
+"https://neurips.cc/virtual/2024/poster/93517" 1 Self-Play Fine-tuning of Diffusion Models for Text-to-image Generation
+"https://neurips.cc/virtual/2024/poster/96155" 1 Convergence of No-Swap-Regret Dynamics in Self-Play
+"https://neurips.cc/virtual/2024/poster/94451" 1 Quantifying and Optimizing Global Faithfulness in Persona-driven Role-playing
+"https://neurips.cc/virtual/2024/poster/93060" 1 Scene Graph Generation with Role-Playing Large Language Models
+"https://neurips.cc/virtual/2024/poster/95064" 1 Differentially Private Reinforcement Learning with Self-Play
+"https://neurips.cc/virtual/2024/poster/93638" 1 Self-playing Adversarial Language Game Enhances LLM Reasoning
+"https://neurips.cc/virtual/2024/poster/93911" 1 Large Language Models Play StarCraft II:Benchmarks and A Chain of Summarization Approach
+"https://neurips.cc/virtual/2024/poster/94741" 1 Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors
+"https://neurips.cc/virtual/2024/poster/94207" 1 Found in the Middle: How Language Models Use Long Contexts Better via Plug-and-Play Positional Encoding
+"https://neurips.cc/virtual/2024/poster/96772" 1 BetterDepth: Plug-and-Play Diffusion Refiner for Zero-Shot Monocular Depth Estimation
+"https://neurips.cc/virtual/2024/poster/93164" 1 Algorithmic Collective Action in Recommender Systems: Promoting Songs by Reordering Playlists
+"https://neurips.cc/virtual/2024/poster/96521" 1 Team-Fictitious Play for Reaching Team-Nash Equilibrium in Multi-team Games
+"https://neurips.cc/virtual/2024/poster/94932" 1 Dissecting the Interplay of Attention Paths in a Statistical Mechanics Theory of Transformers
+"https://neurips.cc/virtual/2024/poster/95109" 1 Provably Robust Score-Based Diffusion Posterior Sampling for Plug-and-Play Image Reconstruction
+"https://neurips.cc/virtual/2024/poster/95801" 1 Beyond Single Stationary Policies: Meta-Task Players as Naturally Superior Collaborators
+"https://neurips.cc/virtual/2024/poster/94947" 1 ProTransformer: Robustify Transformers via Plug-and-Play Paradigm
+"https://neurips.cc/virtual/2024/poster/97569" 1 RoleAgent: Building, Interacting, and Benchmarking High-quality Role-Playing Agents from Scripts
+"https://neurips.cc/virtual/2024/poster/96336" 1 Evidence of Learned Look-Ahead in a Chess-Playing Neural Network
+"https://neurips.cc/virtual/2024/poster/95967" 1 Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach

@@ -1,0 +1,471 @@
+food thecocktaildb.com g_000 drink_name
+469 469 469
+"https://www.thecocktaildb.com/drink/11001-old-fashioned" 1 Old Fashioned
+"https://www.thecocktaildb.com/drink/11002-long-island-tea" 1 Long Island Tea
+"https://www.thecocktaildb.com/drink/11003-negroni" 1 Negroni
+"https://www.thecocktaildb.com/drink/11004-whiskey-sour" 1 Whiskey Sour
+"https://www.thecocktaildb.com/drink/11005-dry-martini" 1 Dry Martini
+"https://www.thecocktaildb.com/drink/11007-margarita" 1 Margarita
+"https://www.thecocktaildb.com/drink/11008-manhattan" 1 Manhattan
+"https://www.thecocktaildb.com/drink/11009-moscow-mule" 1 Moscow Mule
+"https://www.thecocktaildb.com/drink/11010-after-dinner-cocktail" 1 After Dinner Cocktail
+"https://www.thecocktaildb.com/drink/11011-after-supper-cocktail" 1 After Supper Cocktail
+"https://www.thecocktaildb.com/drink/11012-alabama-slammer" 1 Alabama Slammer
+"https://www.thecocktaildb.com/drink/11013-alaska-cocktail" 1 Alaska Cocktail
+"https://www.thecocktaildb.com/drink/11014-alexander" 1 Alexander
+"https://www.thecocktaildb.com/drink/11016-brandy-alexander" 1 Brandy Alexander
+"https://www.thecocktaildb.com/drink/11020-algonquin" 1 Algonquin
+"https://www.thecocktaildb.com/drink/11021-allegheny" 1 Allegheny
+"https://www.thecocktaildb.com/drink/11022-allies-cocktail" 1 Allies Cocktail
+"https://www.thecocktaildb.com/drink/11024-almond-joy" 1 Almond Joy
+"https://www.thecocktaildb.com/drink/11025-amaretto-and-cream" 1 Amaretto And Cream
+"https://www.thecocktaildb.com/drink/11026-amaretto-mist" 1 Amaretto Mist
+"https://www.thecocktaildb.com/drink/11027-amaretto-rose" 1 Amaretto Rose
+"https://www.thecocktaildb.com/drink/11028-amaretto-stinger" 1 Amaretto Stinger
+"https://www.thecocktaildb.com/drink/11029-amaretto-tea" 1 Amaretto Tea
+"https://www.thecocktaildb.com/drink/11034-angel-face" 1 Angel Face
+"https://www.thecocktaildb.com/drink/11046-applecar" 1 Applecar
+"https://www.thecocktaildb.com/drink/11050-apricot-lady" 1 Apricot Lady
+"https://www.thecocktaildb.com/drink/11052-archbishop" 1 Archbishop
+"https://www.thecocktaildb.com/drink/11053-arise-my-love" 1 Arise My Love
+"https://www.thecocktaildb.com/drink/11054-arthur-tompkins" 1 Arthur Tompkins
+"https://www.thecocktaildb.com/drink/11055-artillery" 1 Artillery
+"https://www.thecocktaildb.com/drink/11060-balmoral" 1 Balmoral
+"https://www.thecocktaildb.com/drink/11064-banana-daiquiri" 1 Banana Daiquiri
+"https://www.thecocktaildb.com/drink/11084-bermuda-highball" 1 Bermuda Highball
+"https://www.thecocktaildb.com/drink/11102-black-russian" 1 Black Russian
+"https://www.thecocktaildb.com/drink/11112-bloody-maria" 1 Bloody Maria
+"https://www.thecocktaildb.com/drink/11113-bloody-mary" 1 Bloody Mary
+"https://www.thecocktaildb.com/drink/11117-blue-lagoon" 1 Blue Lagoon
+"https://www.thecocktaildb.com/drink/11118-blue-margarita" 1 Blue Margarita
+"https://www.thecocktaildb.com/drink/11119-blue-mountain" 1 Blue Mountain
+"https://www.thecocktaildb.com/drink/11120-bluebird" 1 Bluebird
+"https://www.thecocktaildb.com/drink/11121-bobby-burns-cocktail" 1 Bobby Burns Cocktail
+"https://www.thecocktaildb.com/drink/11124-boomerang" 1 Boomerang
+"https://www.thecocktaildb.com/drink/11128-boston-sidecar" 1 Boston Sidecar
+"https://www.thecocktaildb.com/drink/11129-boston-sour" 1 Boston Sour
+"https://www.thecocktaildb.com/drink/11145-classic-old-fashioned" 1 Classic Old-Fashioned
+"https://www.thecocktaildb.com/drink/11146-bourbon-sling" 1 Bourbon Sling
+"https://www.thecocktaildb.com/drink/11147-bourbon-sour" 1 Bourbon Sour
+"https://www.thecocktaildb.com/drink/11149-boxcar" 1 Boxcar
+"https://www.thecocktaildb.com/drink/11157-brandy-cobbler" 1 Brandy Cobbler
+"https://www.thecocktaildb.com/drink/11164-brandy-flip" 1 Brandy Flip
+"https://www.thecocktaildb.com/drink/11170-brandy-sour" 1 Brandy Sour
+"https://www.thecocktaildb.com/drink/11202-caipirinha" 1 Caipirinha
+"https://www.thecocktaildb.com/drink/11205-california-lemonade" 1 California Lemonade
+"https://www.thecocktaildb.com/drink/11224-casino-royale" 1 Casino Royale
+"https://www.thecocktaildb.com/drink/11227-champagne-cocktail" 1 Champagne Cocktail
+"https://www.thecocktaildb.com/drink/11239-cherry-rum" 1 Cherry Rum
+"https://www.thecocktaildb.com/drink/11242-chicago-fizz" 1 Chicago Fizz
+"https://www.thecocktaildb.com/drink/11243-chocolate-black-russian" 1 Chocolate Black Russian
+"https://www.thecocktaildb.com/drink/11251-city-slicker" 1 City Slicker
+"https://www.thecocktaildb.com/drink/11320-dragonfly" 1 Dragonfly
+"https://www.thecocktaildb.com/drink/11324-dry-rob-roy" 1 Dry Rob Roy
+"https://www.thecocktaildb.com/drink/11326-dubonnet-cocktail" 1 Dubonnet Cocktail
+"https://www.thecocktaildb.com/drink/11338-english-highball" 1 English Highball
+"https://www.thecocktaildb.com/drink/11339-english-rose-cocktail" 1 English Rose Cocktail
+"https://www.thecocktaildb.com/drink/11368-flying-dutchman" 1 Flying Dutchman
+"https://www.thecocktaildb.com/drink/11369-flying-scotchman" 1 Flying Scotchman
+"https://www.thecocktaildb.com/drink/11375-foxy-lady" 1 Foxy Lady
+"https://www.thecocktaildb.com/drink/11382-frisco-sour" 1 Frisco Sour
+"https://www.thecocktaildb.com/drink/11396-gentlemans-club" 1 Gentleman's Club
+"https://www.thecocktaildb.com/drink/11403-gin-and-tonic" 1 Gin And Tonic
+"https://www.thecocktaildb.com/drink/11407-gin-cooler" 1 Gin Cooler
+"https://www.thecocktaildb.com/drink/11408-gin-daisy" 1 Gin Daisy
+"https://www.thecocktaildb.com/drink/11410-gin-fizz" 1 Gin Fizz
+"https://www.thecocktaildb.com/drink/11415-gin-sling" 1 Gin Sling
+"https://www.thecocktaildb.com/drink/11416-gin-smash" 1 Gin Smash
+"https://www.thecocktaildb.com/drink/11417-gin-sour" 1 Gin Sour
+"https://www.thecocktaildb.com/drink/11418-gin-squirt" 1 Gin Squirt
+"https://www.thecocktaildb.com/drink/11419-gin-swizzle" 1 Gin Swizzle
+"https://www.thecocktaildb.com/drink/11420-gin-toddy" 1 Gin Toddy
+"https://www.thecocktaildb.com/drink/11422-godchild" 1 Godchild
+"https://www.thecocktaildb.com/drink/11423-godfather" 1 Godfather
+"https://www.thecocktaildb.com/drink/11424-godmother" 1 Godmother
+"https://www.thecocktaildb.com/drink/11433-grass-skirt" 1 Grass Skirt
+"https://www.thecocktaildb.com/drink/11462-harvey-wallbanger" 1 Harvey Wallbanger
+"https://www.thecocktaildb.com/drink/11472-hawaiian-cocktail" 1 Hawaiian Cocktail
+"https://www.thecocktaildb.com/drink/11476-highland-fling-cocktail" 1 Highland Fling Cocktail
+"https://www.thecocktaildb.com/drink/11524-imperial-fizz" 1 Imperial Fizz
+"https://www.thecocktaildb.com/drink/11542-jack-rose-cocktail" 1 Jack Rose Cocktail
+"https://www.thecocktaildb.com/drink/11558-japanese-fizz" 1 Japanese Fizz
+"https://www.thecocktaildb.com/drink/11566-jewel-of-the-nile" 1 Jewel Of The Nile
+"https://www.thecocktaildb.com/drink/11580-john-collins" 1 John Collins
+"https://www.thecocktaildb.com/drink/11600-kamikaze" 1 Kamikaze
+"https://www.thecocktaildb.com/drink/11602-kentucky-b-and-b" 1 Kentucky B And B
+"https://www.thecocktaildb.com/drink/11604-kentucky-colonel" 1 Kentucky Colonel
+"https://www.thecocktaildb.com/drink/11634-lady-love-fizz" 1 Lady Love Fizz
+"https://www.thecocktaildb.com/drink/11658-loch-lomond" 1 Loch Lomond
+"https://www.thecocktaildb.com/drink/11662-london-town" 1 London Town
+"https://www.thecocktaildb.com/drink/11664-lone-tree-cocktail" 1 Lone Tree Cocktail
+"https://www.thecocktaildb.com/drink/11666-lone-tree-cooler" 1 Lone Tree Cooler
+"https://www.thecocktaildb.com/drink/11720-martinez-cocktail" 1 Martinez Cocktail
+"https://www.thecocktaildb.com/drink/11728-martini" 1 Martini
+"https://www.thecocktaildb.com/drink/11766-midnight-cowboy" 1 Midnight Cowboy
+"https://www.thecocktaildb.com/drink/11786-mississippi-planters-punch" 1 Mississippi Planters Punch
+"https://www.thecocktaildb.com/drink/11798-monkey-wrench" 1 Monkey Wrench
+"https://www.thecocktaildb.com/drink/11844-new-york-sour" 1 New York Sour
+"https://www.thecocktaildb.com/drink/11870-orange-oasis" 1 Orange Oasis
+"https://www.thecocktaildb.com/drink/11872-orgasm" 1 Orgasm
+"https://www.thecocktaildb.com/drink/11936-pink-gin" 1 Pink Gin
+"https://www.thecocktaildb.com/drink/11938-pink-lady" 1 Pink Lady
+"https://www.thecocktaildb.com/drink/11959-poppy-cocktail" 1 Poppy Cocktail
+"https://www.thecocktaildb.com/drink/11963-port-wine-cocktail" 1 Port Wine Cocktail
+"https://www.thecocktaildb.com/drink/11983-quakers-cocktail" 1 Quaker's Cocktail
+"https://www.thecocktaildb.com/drink/11991-queen-elizabeth" 1 Queen Elizabeth
+"https://www.thecocktaildb.com/drink/12055-royal-fizz" 1 Royal Fizz
+"https://www.thecocktaildb.com/drink/12057-royal-gin-fizz" 1 Royal Gin Fizz
+"https://www.thecocktaildb.com/drink/12071-rum-cooler" 1 Rum Cooler
+"https://www.thecocktaildb.com/drink/12089-rum-old-fashioned" 1 Rum Old-fashioned
+"https://www.thecocktaildb.com/drink/12097-rum-toddy" 1 Rum Toddy
+"https://www.thecocktaildb.com/drink/12101-rusty-nail" 1 Rusty Nail
+"https://www.thecocktaildb.com/drink/12107-salty-dog" 1 Salty Dog
+"https://www.thecocktaildb.com/drink/12127-sazerac" 1 Sazerac
+"https://www.thecocktaildb.com/drink/12130-scooter" 1 Scooter
+"https://www.thecocktaildb.com/drink/12138-scotch-cobbler" 1 Scotch Cobbler
+"https://www.thecocktaildb.com/drink/12158-scotch-sour" 1 Scotch Sour
+"https://www.thecocktaildb.com/drink/12162-screwdriver" 1 Screwdriver
+"https://www.thecocktaildb.com/drink/12186-shanghai-cocktail" 1 Shanghai Cocktail
+"https://www.thecocktaildb.com/drink/12198-sidecar-cocktail" 1 Sidecar Cocktail
+"https://www.thecocktaildb.com/drink/12214-singapore-sling" 1 Singapore Sling
+"https://www.thecocktaildb.com/drink/12256-sol-y-sombra" 1 Sol Y Sombra
+"https://www.thecocktaildb.com/drink/12308-stone-sour" 1 Stone Sour
+"https://www.thecocktaildb.com/drink/12322-strawberry-margarita" 1 Strawberry Margarita
+"https://www.thecocktaildb.com/drink/12362-tequila-fizz" 1 Tequila Fizz
+"https://www.thecocktaildb.com/drink/12370-tequila-sour" 1 Tequila Sour
+"https://www.thecocktaildb.com/drink/12388-thriller" 1 Thriller
+"https://www.thecocktaildb.com/drink/12402-tom-collins" 1 Tom Collins
+"https://www.thecocktaildb.com/drink/12418-turf-cocktail" 1 Turf Cocktail
+"https://www.thecocktaildb.com/drink/12420-tuxedo-cocktail" 1 Tuxedo Cocktail
+"https://www.thecocktaildb.com/drink/12434-valencia-cocktail" 1 Valencia Cocktail
+"https://www.thecocktaildb.com/drink/12442-vermouth-cassis" 1 Vermouth Cassis
+"https://www.thecocktaildb.com/drink/12446-veteran" 1 Veteran
+"https://www.thecocktaildb.com/drink/12450-victor" 1 Victor
+"https://www.thecocktaildb.com/drink/12452-victory-collins" 1 Victory Collins
+"https://www.thecocktaildb.com/drink/12460-vodka-and-tonic" 1 Vodka And Tonic
+"https://www.thecocktaildb.com/drink/12474-waikiki-beachcomber" 1 Waikiki Beachcomber
+"https://www.thecocktaildb.com/drink/12518-whisky-mac" 1 Whisky Mac
+"https://www.thecocktaildb.com/drink/12528-white-russian" 1 White Russian
+"https://www.thecocktaildb.com/drink/12564-apple-karate" 1 Apple Karate
+"https://www.thecocktaildb.com/drink/12654-banana-milk-shake" 1 Banana Milk Shake
+"https://www.thecocktaildb.com/drink/12656-banana-strawberry-shake" 1 Banana Strawberry Shake
+"https://www.thecocktaildb.com/drink/12658-banana-strawberry-shake-daiquiri" 1 Banana Strawberry Shake Daiquiri
+"https://www.thecocktaildb.com/drink/12670-fruit-cooler" 1 Fruit Cooler
+"https://www.thecocktaildb.com/drink/12674-fruit-shake" 1 Fruit Shake
+"https://www.thecocktaildb.com/drink/12692-lassi-khara" 1 Lassi Khara
+"https://www.thecocktaildb.com/drink/12702-lemouroudji" 1 Lemouroudji
+"https://www.thecocktaildb.com/drink/12706-imperial-cocktail" 1 Imperial Cocktail
+"https://www.thecocktaildb.com/drink/12708-banana-cantaloupe-smoothie" 1 Banana Cantaloupe Smoothie
+"https://www.thecocktaildb.com/drink/12710-apple-berry-smoothie" 1 Apple Berry Smoothie
+"https://www.thecocktaildb.com/drink/12724-sweet-bananas" 1 Sweet Bananas
+"https://www.thecocktaildb.com/drink/12726-tomato-tang" 1 Tomato Tang
+"https://www.thecocktaildb.com/drink/12738-hot-chocolate-to-die-for" 1 Hot Chocolate to Die for
+"https://www.thecocktaildb.com/drink/12754-sex-on-the-beach" 1 Sex on the Beach
+"https://www.thecocktaildb.com/drink/12756-autodaf�" 1 Autodafé
+"https://www.thecocktaildb.com/drink/12760-surf-city-lifesaver" 1 Surf City Lifesaver
+"https://www.thecocktaildb.com/drink/12762-grizzly-bear" 1 Grizzly Bear
+"https://www.thecocktaildb.com/drink/12774-masala-chai" 1 Masala Chai
+"https://www.thecocktaildb.com/drink/12782-thai-coffee" 1 Thai Coffee
+"https://www.thecocktaildb.com/drink/12784-thai-iced-coffee" 1 Thai Iced Coffee
+"https://www.thecocktaildb.com/drink/12790-absinthe-" 1 Absinthe #2
+"https://www.thecocktaildb.com/drink/12792-amaretto-liqueur" 1 Amaretto Liqueur
+"https://www.thecocktaildb.com/drink/12794-angelica-liqueur" 1 Angelica Liqueur
+"https://www.thecocktaildb.com/drink/12796-caribbean-orange-liqueur" 1 Caribbean Orange Liqueur
+"https://www.thecocktaildb.com/drink/12798-coffee-liqueur" 1 Coffee Liqueur
+"https://www.thecocktaildb.com/drink/12800-coffee-vodka" 1 Coffee-Vodka
+"https://www.thecocktaildb.com/drink/12820-irish-cream" 1 Irish Cream
+"https://www.thecocktaildb.com/drink/12854-scottish-highland-liqueur" 1 Scottish Highland Liqueur
+"https://www.thecocktaildb.com/drink/12856-tia-maria" 1 Tia-Maria
+"https://www.thecocktaildb.com/drink/12864-apple-cider-punch" 1 Apple Cider Punch
+"https://www.thecocktaildb.com/drink/12870-artillery-punch" 1 Artillery Punch
+"https://www.thecocktaildb.com/drink/12890-cranberry-punch" 1 Cranberry Punch
+"https://www.thecocktaildb.com/drink/12910-egg-nog-" 1 Egg Nog #4
+"https://www.thecocktaildb.com/drink/12916-egg-nog---healthy" 1 Egg Nog - Healthy
+"https://www.thecocktaildb.com/drink/12954-holloween-punch" 1 Holloween Punch
+"https://www.thecocktaildb.com/drink/12988-mulled-wine" 1 Mulled Wine
+"https://www.thecocktaildb.com/drink/13024-sweet-sangria" 1 Sweet Sangria
+"https://www.thecocktaildb.com/drink/13026-sangria-the--best" 1 Sangria The  Best
+"https://www.thecocktaildb.com/drink/13032-spiced-peach-punch" 1 Spiced Peach Punch
+"https://www.thecocktaildb.com/drink/13042-sunny-holiday-punch" 1 Sunny Holiday Punch
+"https://www.thecocktaildb.com/drink/13066-bruces-puce" 1 Bruce's Puce
+"https://www.thecocktaildb.com/drink/13068-brave-bull-shooter" 1 Brave Bull Shooter
+"https://www.thecocktaildb.com/drink/13070-fahrenheit-5000" 1 Fahrenheit 5000
+"https://www.thecocktaildb.com/drink/13072-popped-cherry" 1 Popped cherry
+"https://www.thecocktaildb.com/drink/13086-atomic-lokade" 1 Atomic Lokade
+"https://www.thecocktaildb.com/drink/13128-diesel" 1 Diesel
+"https://www.thecocktaildb.com/drink/13162-afternoon" 1 Afternoon
+"https://www.thecocktaildb.com/drink/13190-kool-aid-shot" 1 Kool-Aid Shot
+"https://www.thecocktaildb.com/drink/13192-national-aquarium" 1 National Aquarium
+"https://www.thecocktaildb.com/drink/13196-long-vodka" 1 Long vodka
+"https://www.thecocktaildb.com/drink/13198-quick-f**k" 1 Quick F**K
+"https://www.thecocktaildb.com/drink/13200-owens-grandmothers-revenge" 1 Owen's Grandmother's Revenge
+"https://www.thecocktaildb.com/drink/13202-flaming-dr.-pepper" 1 Flaming Dr. Pepper
+"https://www.thecocktaildb.com/drink/13282-black-&-tan" 1 Black & Tan
+"https://www.thecocktaildb.com/drink/13328-chocolate-milk" 1 Chocolate Milk
+"https://www.thecocktaildb.com/drink/13377-sea-breeze" 1 Sea breeze
+"https://www.thecocktaildb.com/drink/13405-brainteaser" 1 Brainteaser
+"https://www.thecocktaildb.com/drink/13423-atlantic-sun" 1 Atlantic Sun
+"https://www.thecocktaildb.com/drink/13497-green-goblin" 1 Green Goblin
+"https://www.thecocktaildb.com/drink/13499-oreo-mudslide" 1 Oreo Mudslide
+"https://www.thecocktaildb.com/drink/13501-abc" 1 ABC
+"https://www.thecocktaildb.com/drink/13535-pink-panty-pulldowns" 1 Pink Panty Pulldowns
+"https://www.thecocktaildb.com/drink/13539-ice-pick" 1 Ice Pick
+"https://www.thecocktaildb.com/drink/13621-tequila-sunrise" 1 Tequila Sunrise
+"https://www.thecocktaildb.com/drink/13625-screaming-orgasm" 1 Screaming Orgasm
+"https://www.thecocktaildb.com/drink/13683-apple-slammer" 1 Apple Slammer
+"https://www.thecocktaildb.com/drink/13731-amaretto-sour" 1 Amaretto Sour
+"https://www.thecocktaildb.com/drink/13775-jelly-bean" 1 Jelly Bean
+"https://www.thecocktaildb.com/drink/13807-after-five" 1 After Five
+"https://www.thecocktaildb.com/drink/13825-midnight-manx" 1 Midnight Manx
+"https://www.thecocktaildb.com/drink/13837-kir-royale" 1 Kir Royale
+"https://www.thecocktaildb.com/drink/13847-jackhammer" 1 Jackhammer
+"https://www.thecocktaildb.com/drink/13861-nutty-irishman" 1 Nutty Irishman
+"https://www.thecocktaildb.com/drink/13938-at&t" 1 AT&T
+"https://www.thecocktaildb.com/drink/13940-69-special" 1 69 Special
+"https://www.thecocktaildb.com/drink/14029-57-chevy-with-a-white-license-plate" 1 57 Chevy with a White License Plate
+"https://www.thecocktaildb.com/drink/14053-mothers-milk" 1 Mother's Milk
+"https://www.thecocktaildb.com/drink/14065-zippys-revenge" 1 Zippy's Revenge
+"https://www.thecocktaildb.com/drink/14071-belgian-blue" 1 Belgian Blue
+"https://www.thecocktaildb.com/drink/14087-red-snapper" 1 Red Snapper
+"https://www.thecocktaildb.com/drink/14133-cosmopolitan-martini" 1 Cosmopolitan Martini
+"https://www.thecocktaildb.com/drink/14157-ziemes-martini-apfelsaft" 1 Ziemes Martini Apfelsaft
+"https://www.thecocktaildb.com/drink/14167-vodka-martini" 1 Vodka Martini
+"https://www.thecocktaildb.com/drink/14181-cafe-savoy" 1 Cafe Savoy
+"https://www.thecocktaildb.com/drink/14195-snowball" 1 Snowball
+"https://www.thecocktaildb.com/drink/14209-mocha-berry" 1 Mocha-Berry
+"https://www.thecocktaildb.com/drink/14229-747" 1 747
+"https://www.thecocktaildb.com/drink/14272-addison-special" 1 Addison Special
+"https://www.thecocktaildb.com/drink/14306-amaretto-stone-sour" 1 Amaretto Stone Sour
+"https://www.thecocktaildb.com/drink/14356-blind-russian" 1 Blind Russian
+"https://www.thecocktaildb.com/drink/14360-absolut-sex" 1 Absolut Sex
+"https://www.thecocktaildb.com/drink/14364-aztec-punch" 1 Aztec Punch
+"https://www.thecocktaildb.com/drink/14366-lemon-drop" 1 Lemon Drop
+"https://www.thecocktaildb.com/drink/14374-absolut-evergreen" 1 Absolut Evergreen
+"https://www.thecocktaildb.com/drink/14378-lunch-box" 1 Lunch Box
+"https://www.thecocktaildb.com/drink/14446-kool-aid-slammer" 1 Kool-Aid Slammer
+"https://www.thecocktaildb.com/drink/14456-kurant-tea" 1 Kurant Tea
+"https://www.thecocktaildb.com/drink/14466-dirty-nipple" 1 Dirty Nipple
+"https://www.thecocktaildb.com/drink/14510-baileys-dream-shake" 1 Bailey's Dream Shake
+"https://www.thecocktaildb.com/drink/14538-bumble-bee" 1 Bumble Bee
+"https://www.thecocktaildb.com/drink/14560-a.d.m.-(after-dinner-mint)" 1 A.D.M. (After Dinner Mint)
+"https://www.thecocktaildb.com/drink/14578-amaretto-sunrise" 1 Amaretto Sunrise
+"https://www.thecocktaildb.com/drink/14584-arizona-stingers" 1 Arizona Stingers
+"https://www.thecocktaildb.com/drink/14602-tequila-surprise" 1 Tequila Surprise
+"https://www.thecocktaildb.com/drink/14622-arctic-fish" 1 Arctic Fish
+"https://www.thecocktaildb.com/drink/14688-freddy-kruger" 1 Freddy Kruger
+"https://www.thecocktaildb.com/drink/14730-bubble-gum" 1 Bubble Gum
+"https://www.thecocktaildb.com/drink/14752-kiwi-lemon" 1 Kiwi Lemon
+"https://www.thecocktaildb.com/drink/14782-hot-creamy-bush" 1 Hot Creamy Bush
+"https://www.thecocktaildb.com/drink/14842-midnight-mint" 1 Midnight Mint
+"https://www.thecocktaildb.com/drink/14956-jello-shots" 1 Jello shots
+"https://www.thecocktaildb.com/drink/14978-rum-punch" 1 Rum Punch
+"https://www.thecocktaildb.com/drink/15006-turkeyball" 1 Turkeyball
+"https://www.thecocktaildb.com/drink/15024-absolutely-cranberry-smash" 1 Absolutely Cranberry Smash
+"https://www.thecocktaildb.com/drink/15026-kiss-me-quick" 1 Kiss me Quick
+"https://www.thecocktaildb.com/drink/15082-royal-flush" 1 Royal Flush
+"https://www.thecocktaildb.com/drink/15086-limona-corona" 1 Limona Corona
+"https://www.thecocktaildb.com/drink/15092-pysch-vitamin-light" 1 Pysch Vitamin Light
+"https://www.thecocktaildb.com/drink/15106-apello" 1 Apello
+"https://www.thecocktaildb.com/drink/15178-texas-rattlesnake" 1 Texas Rattlesnake
+"https://www.thecocktaildb.com/drink/15182-after-sex" 1 After sex
+"https://www.thecocktaildb.com/drink/15184-san-francisco" 1 San Francisco
+"https://www.thecocktaildb.com/drink/15194-amaretto-shake" 1 Amaretto Shake
+"https://www.thecocktaildb.com/drink/15200-a-day-at-the-beach" 1 A Day at the Beach
+"https://www.thecocktaildb.com/drink/15226-space-odyssey" 1 Space Odyssey
+"https://www.thecocktaildb.com/drink/15266-avalon" 1 Avalon
+"https://www.thecocktaildb.com/drink/15300-3-mile-long-island-iced-tea" 1 3-Mile Long Island Iced Tea
+"https://www.thecocktaildb.com/drink/15328-zorro" 1 Zorro
+"https://www.thecocktaildb.com/drink/15330-orange-crush" 1 Orange Crush
+"https://www.thecocktaildb.com/drink/15346-155-belmont" 1 155 Belmont
+"https://www.thecocktaildb.com/drink/15403-vodka-russian" 1 Vodka Russian
+"https://www.thecocktaildb.com/drink/15423-110-in-the-shade" 1 110 in the shade
+"https://www.thecocktaildb.com/drink/15427-grand-blue" 1 Grand Blue
+"https://www.thecocktaildb.com/drink/15515-tennesee-mud" 1 Tennesee Mud
+"https://www.thecocktaildb.com/drink/15521-swedish-coffee" 1 Swedish Coffee
+"https://www.thecocktaildb.com/drink/15567-adam-sunrise" 1 Adam Sunrise
+"https://www.thecocktaildb.com/drink/15597-absolut-stress-" 1 Absolut Stress #2
+"https://www.thecocktaildb.com/drink/15615-chocolate-monkey" 1 Chocolate Monkey
+"https://www.thecocktaildb.com/drink/15639-texas-sling" 1 Texas Sling
+"https://www.thecocktaildb.com/drink/15675-a-midsummernight-dream" 1 A midsummernight dream
+"https://www.thecocktaildb.com/drink/15691-zoksel" 1 Zoksel
+"https://www.thecocktaildb.com/drink/15761-quick-sand" 1 Quick-sand
+"https://www.thecocktaildb.com/drink/15789-snakebite-and-black" 1 Snakebite and Black
+"https://www.thecocktaildb.com/drink/15825-jamaican-coffee" 1 Jamaican Coffee
+"https://www.thecocktaildb.com/drink/15841-mojito-extra" 1 Mojito Extra
+"https://www.thecocktaildb.com/drink/15849-apricot-punch" 1 Apricot punch
+"https://www.thecocktaildb.com/drink/15853-b-52" 1 B-52
+"https://www.thecocktaildb.com/drink/15941-americano" 1 Americano
+"https://www.thecocktaildb.com/drink/15951-black-forest-shake" 1 Black Forest Shake
+"https://www.thecocktaildb.com/drink/16031-radler" 1 Radler
+"https://www.thecocktaildb.com/drink/16047-campari-beer" 1 Campari Beer
+"https://www.thecocktaildb.com/drink/16082-almond-chocolate-coffee" 1 Almond Chocolate Coffee
+"https://www.thecocktaildb.com/drink/16100-amaretto-stone-sour-alternative" 1 Amaretto Stone Sour Alternative
+"https://www.thecocktaildb.com/drink/16158-whitecap-margarita" 1 Whitecap Margarita
+"https://www.thecocktaildb.com/drink/16176-bellini-martini" 1 Bellini Martini
+"https://www.thecocktaildb.com/drink/16178-jitterbug" 1 Jitterbug
+"https://www.thecocktaildb.com/drink/16196-moranguito" 1 Moranguito
+"https://www.thecocktaildb.com/drink/16202-amaretto-sweet-&-sour" 1 Amaretto Sweet & Sour
+"https://www.thecocktaildb.com/drink/16250-rum-runner" 1 Rum Runner
+"https://www.thecocktaildb.com/drink/16262-h.d." 1 H.D.
+"https://www.thecocktaildb.com/drink/16271-the-evil-blue-thing" 1 The Evil Blue Thing
+"https://www.thecocktaildb.com/drink/16273-shark-attack" 1 Shark Attack
+"https://www.thecocktaildb.com/drink/16289-apple-grande" 1 Apple Grande
+"https://www.thecocktaildb.com/drink/16333-adam-bomb" 1 Adam Bomb
+"https://www.thecocktaildb.com/drink/16354-arizona-antifreeze" 1 Arizona Antifreeze
+"https://www.thecocktaildb.com/drink/16405-a-piece-of-ass" 1 A Piece of Ass
+"https://www.thecocktaildb.com/drink/16447-brandon-and-wills-coke-float" 1 Brandon and Will's Coke Float
+"https://www.thecocktaildb.com/drink/16485-flaming-lamborghini" 1 Flaming Lamborghini
+"https://www.thecocktaildb.com/drink/16942-zipperhead" 1 Zipperhead
+"https://www.thecocktaildb.com/drink/16943-a-gilligans-island" 1 A Gilligan's Island
+"https://www.thecocktaildb.com/drink/16951-kioki-coffee" 1 Kioki Coffee
+"https://www.thecocktaildb.com/drink/16958-apple-pie-with-a-crust" 1 Apple Pie with A Crust
+"https://www.thecocktaildb.com/drink/16963-zorbatini" 1 Zorbatini
+"https://www.thecocktaildb.com/drink/16967-vodka-fizz" 1 Vodka Fizz
+"https://www.thecocktaildb.com/drink/16984-radioactive-long-island-iced-tea" 1 Radioactive Long Island Iced Tea
+"https://www.thecocktaildb.com/drink/16987-irish-curdling-cow" 1 Irish Curdling Cow
+"https://www.thecocktaildb.com/drink/16991-downshift" 1 Downshift
+"https://www.thecocktaildb.com/drink/16992-pink-penocha" 1 Pink Penocha
+"https://www.thecocktaildb.com/drink/16995-orange-whip" 1 Orange Whip
+"https://www.thecocktaildb.com/drink/16998-bruised-heart" 1 Bruised Heart
+"https://www.thecocktaildb.com/drink/17002-gideons-green-dinosaur" 1 Gideon's Green Dinosaur
+"https://www.thecocktaildb.com/drink/17005-a-true-amaretto-sour" 1 A True Amaretto Sour
+"https://www.thecocktaildb.com/drink/17015-irish-russian" 1 Irish Russian
+"https://www.thecocktaildb.com/drink/17027-zima-blaster" 1 Zima Blaster
+"https://www.thecocktaildb.com/drink/17035-buccaneer" 1 Buccaneer
+"https://www.thecocktaildb.com/drink/17044-homemade-kahlua" 1 Homemade Kahlua
+"https://www.thecocktaildb.com/drink/17066-army-special" 1 Army special
+"https://www.thecocktaildb.com/drink/17074-arizona-twister" 1 Arizona Twister
+"https://www.thecocktaildb.com/drink/17079-baby-guinness" 1 Baby Guinness
+"https://www.thecocktaildb.com/drink/17094-alice-in-wonderland" 1 Alice in Wonderland
+"https://www.thecocktaildb.com/drink/17105-501-blue" 1 501 Blue
+"https://www.thecocktaildb.com/drink/17114-ruby-tuesday" 1 Ruby Tuesday
+"https://www.thecocktaildb.com/drink/17120-brain-fart" 1 Brain Fart
+"https://www.thecocktaildb.com/drink/17135-citrus-coke" 1 Citrus Coke
+"https://www.thecocktaildb.com/drink/17168-amaretto-sunset" 1 Amaretto Sunset
+"https://www.thecocktaildb.com/drink/17174-cherry-electric-lemonade" 1 Cherry Electric Lemonade
+"https://www.thecocktaildb.com/drink/17175-girl-from-ipanema" 1 Girl From Ipanema
+"https://www.thecocktaildb.com/drink/17176-ipamena" 1 Ipamena
+"https://www.thecocktaildb.com/drink/17177-dark-caipirinha" 1 Dark Caipirinha
+"https://www.thecocktaildb.com/drink/17178-jam-donut" 1 Jam Donut
+"https://www.thecocktaildb.com/drink/17180-aviation" 1 Aviation
+"https://www.thecocktaildb.com/drink/17181-dirty-martini" 1 Dirty Martini
+"https://www.thecocktaildb.com/drink/17182-duchamps-punch" 1 Duchamp's Punch
+"https://www.thecocktaildb.com/drink/17184-between-the-sheets" 1 Between The Sheets
+"https://www.thecocktaildb.com/drink/17185-casino" 1 Casino
+"https://www.thecocktaildb.com/drink/17186-clover-club" 1 Clover Club
+"https://www.thecocktaildb.com/drink/17187-derby" 1 Derby
+"https://www.thecocktaildb.com/drink/17189-monkey-gland" 1 Monkey Gland
+"https://www.thecocktaildb.com/drink/17190-paradise" 1 Paradise
+"https://www.thecocktaildb.com/drink/17192-porto-flip" 1 Porto flip
+"https://www.thecocktaildb.com/drink/17193-stinger" 1 Stinger
+"https://www.thecocktaildb.com/drink/17194-white-lady" 1 White Lady
+"https://www.thecocktaildb.com/drink/17195-bellini" 1 Bellini
+"https://www.thecocktaildb.com/drink/17196-cosmopolitan" 1 Cosmopolitan
+"https://www.thecocktaildb.com/drink/17197-french-75" 1 French 75
+"https://www.thecocktaildb.com/drink/17198-french-connection" 1 French Connection
+"https://www.thecocktaildb.com/drink/17201-hemingway-special" 1 Hemingway Special
+"https://www.thecocktaildb.com/drink/17202-horses-neck" 1 Horse's Neck
+"https://www.thecocktaildb.com/drink/17203-kir" 1 Kir
+"https://www.thecocktaildb.com/drink/17204-long-island-iced-tea" 1 Long Island Iced Tea
+"https://www.thecocktaildb.com/drink/17205-mimosa" 1 Mimosa
+"https://www.thecocktaildb.com/drink/17206-mint-julep" 1 Mint Julep
+"https://www.thecocktaildb.com/drink/17208-rose" 1 Rose
+"https://www.thecocktaildb.com/drink/17209-barracuda" 1 Barracuda
+"https://www.thecocktaildb.com/drink/17210-bramble" 1 Bramble
+"https://www.thecocktaildb.com/drink/17212-espresso-martini" 1 Espresso Martini
+"https://www.thecocktaildb.com/drink/17213-french-martini" 1 French Martini
+"https://www.thecocktaildb.com/drink/17214-russian-spring-punch" 1 Russian Spring Punch
+"https://www.thecocktaildb.com/drink/17215-spritz" 1 Spritz
+"https://www.thecocktaildb.com/drink/17216-tommys-margarita" 1 Tommy's Margarita
+"https://www.thecocktaildb.com/drink/17217-vampiro" 1 Vampiro
+"https://www.thecocktaildb.com/drink/17218-vesper" 1 Vesper
+"https://www.thecocktaildb.com/drink/17220-butter-baby" 1 Butter Baby
+"https://www.thecocktaildb.com/drink/17222-a1" 1 A1
+"https://www.thecocktaildb.com/drink/17223-abbey-martini" 1 Abbey Martini
+"https://www.thecocktaildb.com/drink/17224-absolutely-fabulous" 1 Absolutely Fabulous
+"https://www.thecocktaildb.com/drink/17225-ace" 1 Ace
+"https://www.thecocktaildb.com/drink/17226-adam-&-eve" 1 Adam & Eve
+"https://www.thecocktaildb.com/drink/17228-addison" 1 Addison
+"https://www.thecocktaildb.com/drink/17229-adios-amigos-cocktail" 1 Adios Amigos Cocktail
+"https://www.thecocktaildb.com/drink/17230-gin-rickey" 1 Gin Rickey
+"https://www.thecocktaildb.com/drink/17233-salted-toffee-martini" 1 Salted Toffee Martini
+"https://www.thecocktaildb.com/drink/17239-hunters-moon" 1 Hunter's Moon
+"https://www.thecocktaildb.com/drink/17241-zombie" 1 Zombie
+"https://www.thecocktaildb.com/drink/17242-bombay-cassis" 1 Bombay Cassis
+"https://www.thecocktaildb.com/drink/17245-rosemary-blue" 1 Rosemary Blue
+"https://www.thecocktaildb.com/drink/17247-the-last-word" 1 The Last Word
+"https://www.thecocktaildb.com/drink/17248-french-negroni" 1 French Negroni
+"https://www.thecocktaildb.com/drink/17249-pegu-club" 1 Pegu Club
+"https://www.thecocktaildb.com/drink/17250-corpse-reviver" 1 Corpse Reviver
+"https://www.thecocktaildb.com/drink/17251-boulevardier" 1 Boulevardier
+"https://www.thecocktaildb.com/drink/17252-greyhound" 1 Greyhound
+"https://www.thecocktaildb.com/drink/17253-paloma" 1 Paloma
+"https://www.thecocktaildb.com/drink/17254-bijou" 1 Bijou
+"https://www.thecocktaildb.com/drink/17255-gimlet" 1 Gimlet
+"https://www.thecocktaildb.com/drink/17256-martinez-2" 1 Martinez 2
+"https://www.thecocktaildb.com/drink/17266-oatmeal-cookie" 1 Oatmeal Cookie
+"https://www.thecocktaildb.com/drink/17267-bahama-mama" 1 Bahama Mama
+"https://www.thecocktaildb.com/drink/17268-blue-hurricane" 1 Blue Hurricane
+"https://www.thecocktaildb.com/drink/17824-the-laverstoke" 1 The Laverstoke
+"https://www.thecocktaildb.com/drink/17826-the-jimmy-conway" 1 The Jimmy Conway
+"https://www.thecocktaildb.com/drink/17827-old-pal" 1 Old Pal
+"https://www.thecocktaildb.com/drink/17830-corn-n-oil" 1 Corn n Oil
+"https://www.thecocktaildb.com/drink/178307-tequila-slammer" 1 Tequila Slammer
+"https://www.thecocktaildb.com/drink/178308-spritz-veneziano" 1 Spritz Veneziano
+"https://www.thecocktaildb.com/drink/178309-espresso-rumtini" 1 Espresso Rumtini
+"https://www.thecocktaildb.com/drink/178310-brooklyn" 1 Brooklyn
+"https://www.thecocktaildb.com/drink/178311-broadside" 1 Broadside
+"https://www.thecocktaildb.com/drink/178312-bloody-punch" 1 Bloody Punch
+"https://www.thecocktaildb.com/drink/178313-halloween-punch" 1 Halloween Punch
+"https://www.thecocktaildb.com/drink/178314-gin-basil-smash" 1 Gin Basil Smash
+"https://www.thecocktaildb.com/drink/178315-munich-mule" 1 Munich Mule
+"https://www.thecocktaildb.com/drink/178318-747-drink" 1 747 Drink
+"https://www.thecocktaildb.com/drink/178319-aquamarine" 1 Aquamarine
+"https://www.thecocktaildb.com/drink/17832-a-night-in-old-mandalay" 1 A Night In Old Mandalay
+"https://www.thecocktaildb.com/drink/178320-banana-cream-pi" 1 Banana Cream Pi
+"https://www.thecocktaildb.com/drink/178321-amaretto-fizz" 1 Amaretto fizz
+"https://www.thecocktaildb.com/drink/178322-spice-75" 1 Spice 75
+"https://www.thecocktaildb.com/drink/178323-passion-fruit-martini" 1 Passion Fruit Martini
+"https://www.thecocktaildb.com/drink/178325-aperol-spritz" 1 Aperol Spritz
+"https://www.thecocktaildb.com/drink/178326-white-wine-sangria" 1 White Wine Sangria
+"https://www.thecocktaildb.com/drink/178327-pineapple-paloma" 1 Pineapple Paloma
+"https://www.thecocktaildb.com/drink/178328-funk-and-soul" 1 Funk and Soul
+"https://www.thecocktaildb.com/drink/178329-captain-kidds-punch" 1 Captain Kidd's Punch
+"https://www.thecocktaildb.com/drink/17833-a.-j." 1 A. J.
+"https://www.thecocktaildb.com/drink/178330-the-philosopher" 1 The Philosopher
+"https://www.thecocktaildb.com/drink/178331-bounty-hunter" 1 Bounty Hunter
+"https://www.thecocktaildb.com/drink/178332-smashed-watermelon-margarita" 1 Smashed Watermelon Margarita
+"https://www.thecocktaildb.com/drink/178333-raspberry-julep" 1 Raspberry Julep
+"https://www.thecocktaildb.com/drink/178334-death-in-the-afternoon" 1 Death in the Afternoon
+"https://www.thecocktaildb.com/drink/178336-blueberry-mojito" 1 Blueberry Mojito
+"https://www.thecocktaildb.com/drink/178337-autumn-garibaldi" 1 Autumn Garibaldi
+"https://www.thecocktaildb.com/drink/178338-pure-passion" 1 Pure Passion
+"https://www.thecocktaildb.com/drink/178339-the-strange-weaver" 1 The Strange Weaver
+"https://www.thecocktaildb.com/drink/17834-abbey-cocktail" 1 Abbey Cocktail
+"https://www.thecocktaildb.com/drink/178340-garibaldi-negroni" 1 Garibaldi Negroni
+"https://www.thecocktaildb.com/drink/178341-orange-rosemary-collins" 1 Orange Rosemary Collins
+"https://www.thecocktaildb.com/drink/178342-gin-and-soda" 1 Gin and Soda
+"https://www.thecocktaildb.com/drink/178343-michelada" 1 Michelada
+"https://www.thecocktaildb.com/drink/178344-figgy-thyme" 1 Figgy Thyme
+"https://www.thecocktaildb.com/drink/178346-elderflower-caipirinha" 1 Elderflower Caipirinha
+"https://www.thecocktaildb.com/drink/178347-winter-rita" 1 Winter Rita
+"https://www.thecocktaildb.com/drink/178348-winter-paloma" 1 Winter Paloma
+"https://www.thecocktaildb.com/drink/178349-snowday" 1 Snowday
+"https://www.thecocktaildb.com/drink/178350-the-galah" 1 The Galah
+"https://www.thecocktaildb.com/drink/178353-apple-highball" 1 Apple Highball
+"https://www.thecocktaildb.com/drink/178354-pink-moon" 1 Pink Moon
+"https://www.thecocktaildb.com/drink/178355-mountain-bramble" 1 Mountain Bramble
+"https://www.thecocktaildb.com/drink/178356-butterfly-effect" 1 Butterfly Effect
+"https://www.thecocktaildb.com/drink/178357-pornstar-martini" 1 Pornstar Martini
+"https://www.thecocktaildb.com/drink/178359-kiwi-martini" 1 Kiwi Martini
+"https://www.thecocktaildb.com/drink/178360-lemon-elderflower-spritzer" 1 Lemon Elderflower Spritzer
+"https://www.thecocktaildb.com/drink/178362-vodka-slime" 1 Vodka Slime
+"https://www.thecocktaildb.com/drink/178363-vodka-lemon" 1 Vodka Lemon
+"https://www.thecocktaildb.com/drink/178364-vodka-tonic" 1 Vodka Tonic
+"https://www.thecocktaildb.com/drink/178365-gin-tonic" 1 Gin Tonic
+"https://www.thecocktaildb.com/drink/178366-gin-lemon" 1 Gin Lemon
+"https://www.thecocktaildb.com/drink/178367-ramos-gin-fizz" 1 Ramos Gin Fizz
+"https://www.thecocktaildb.com/drink/178368-planter’s-punch" 1 Planter’s Punch
+"https://www.thecocktaildb.com/drink/178369-cocktail-horse’s-neck" 1 Cocktail Horse’s Neck
+"https://www.thecocktaildb.com/drink/178371-old-cuban" 1 Old Cuban
+"https://www.thecocktaildb.com/drink/17840-affinity" 1 Affinity

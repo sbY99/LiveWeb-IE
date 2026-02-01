@@ -1,0 +1,40 @@
+auto fueleconomy.gov g_000 car_name
+38 38 38
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47292" 1 2024 Porsche 911 Carrera S
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47290" 1 2024 Porsche 911 Carrera
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47300" 1 2024 Porsche 911 Carrera 4
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47301" 1 2024 Porsche 911 Carrera 4 Cabriolet
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47291" 1 2024 Porsche 911 Carrera Cabriolet
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=46764" 1 2024 Porsche 911 Carrera T
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47305" 1 2024 Porsche 911 Targa 4
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47297" 1 2024 Porsche 911 Carrera 4S
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47299" 1 2024 Porsche 911 Carrera 4S Cabriolet
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47293" 1 2024 Porsche 911 Carrera S
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47295" 1 2024 Porsche 911 Carrera S Cabriolet
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47303" 1 2024 Porsche 911 Targa 4S
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47296" 1 2024 Porsche 911 Carrera 4S
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47294" 1 2024 Porsche 911 Carrera S Cabriolet
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=46763" 1 2024 Porsche 911 Carrera T
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47298" 1 2024 Porsche 911 Carrera 4S Cabriolet
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47307" 1 2024 Porsche 911 Carrera GTS
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47309" 1 2024 Porsche 911 Carrera GTS Cabriolet
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47304" 1 2024 Porsche 911 Targa 4S
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47310" 1 2024 Porsche 911 Carrera 4 GTS
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47311" 1 2024 Porsche 911 Carrera 4 GTS
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47306" 1 2024 Porsche 911 Carrera GTS
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47308" 1 2024 Porsche 911 Carrera GTS Cabriolet
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47312" 1 2024 Porsche 911 Carrera 4 GTS Cabriolet
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47314" 1 2024 Porsche 911 Targa 4 GTS
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47302" 1 2024 Porsche 911 Dakar
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47313" 1 2024 Porsche 911 Carrera 4 GTS Cabriolet
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47315" 1 2024 Porsche 911 Targa 4 GTS
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47032" 1 2024 Porsche 911 Turbo
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47033" 1 2024 Porsche 911 Turbo Cabriolet
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47034" 1 2024 Porsche 911 Turbo S
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47035" 1 2024 Porsche 911 Turbo S Cabriolet
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47014" 1 2024 Porsche 911 GT3
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47018" 1 2024 Porsche 911 GT3 RS
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47016" 1 2024 Porsche 911 GT3 Touring
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47015" 1 2024 Porsche 911 GT3
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47017" 1 2024 Porsche 911 GT3 Touring
+"https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47758" 1 2024 Porsche 911 S/T

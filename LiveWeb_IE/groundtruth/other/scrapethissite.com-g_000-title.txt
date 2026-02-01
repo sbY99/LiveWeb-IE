@@ -1,0 +1,8 @@
+other scrapethissite.com g_000 film_title
+6 87 87
+"https://www.scrapethissite.com/pages/ajax-javascript/#2010" 13 The King's Speech	Inception	The Social Network	The Fighter	Toy Story 3	Alice in Wonderland	Black Swan	In a Better World	The Lost Thing	God of Love	The Wolfman	Strangers No More	Inside Job
+"https://www.scrapethissite.com/pages/ajax-javascript/#2011" 15 The Artist	Hugo	The Iron Lady	The Descendants	The Girl with the Dragon Tattoo	Midnight in Paris	The Help	A Separation	The Fantastic Flying Books of Mr. Morris Lessmore	The Shore	Undefeated	The Muppets	Saving Face	Beginners	Rango
+"https://www.scrapethissite.com/pages/ajax-javascript/#2012" 15 Argo	Life of Pi	Les Misérables	Lincoln	Django Unchained	Skyfall	Silver Linings Playbook	Zero Dark Thirty	Amour	Anna Karenina	Paperman	Brave	Searching for Sugar Man	Inocente	Curfew
+"https://www.scrapethissite.com/pages/ajax-javascript/#2013" 12 12 Years a Slave	Gravity	Dallas Buyers Club	Frozen	The Great Gatsby	Her	Blue Jasmine	Mr Hublot	The Lady in Number 6: Music Saved My Life	Helium	The Great Beauty	20 Feet from Stardom
+"https://www.scrapethissite.com/pages/ajax-javascript/#2014" 16 Birdman	The Grand Budapest Hotel	Whiplash	The Imitation Game	American Sniper	Boyhood	Interstellar	The Theory of Everything	Ida	Selma	Citizenfour	Big Hero 6	Crisis Hotline: Veterans Press 1	The Phone Call	Still Alice	Feast
+"https://www.scrapethissite.com/pages/ajax-javascript/#2015" 16 Spotlight	Mad Max: Fury Road	The Revenant	Bridge of Spies	The Big Short	The Danish Girl	Room	Ex Machina	The Hateful Eight	Inside Out	Amy	Bear Story	A Girl in the River: The Price of Forgiveness	Son of Saul	Spectre	Stutterer

@@ -1,0 +1,10 @@
+library dp.la g_001 sub_topic_title
+8 53 53
+"https://dp.la/browse-by-topic/american-civil-war" 8 Politics of the Union	Creating the Confederacy	Enlisting Armies	Military Service	African American Lives	Battles	The War at Home	Remembering the Civil War
+"https://dp.la/browse-by-topic/aviation" 6 Early Aviation	Pioneering Pilots, 1900-1940	Sky-High Entertainment	Military Aviation	Traveling by Air	Aviation on the Ground
+"https://dp.la/browse-by-topic/baseball" 6 History of Baseball, 1860-1945	History of Baseball since 1945	African Americans in Baseball, Before and After Integration	Women's Impact on Baseball	Take Me Out to the Ballgame	America's Pastime
+"https://dp.la/browse-by-topic/civil-rights-movement" 6 Women's Leadership	Legal Battles	Organizations	Nonviolent Protest	Black Power	Resistance and Backlash
+"https://dp.la/browse-by-topic/food" 6 Farm and Factory	Cooking at Home	Markets	Dining out	Food in Wartime	Food and Social Justice
+"https://dp.la/browse-by-topic/immigration-since-1840" 8 Coming to America	From East and West, 1840-1870	Through Ellis Island and Angel Island, 1870-1920	Becoming an American	Discrimination and Reform	Immigration Quotas, 1920-1939	Laborers, Aliens, and Refugees, 1940-1965	Immigration since 1965
+"https://dp.la/browse-by-topic/photography" 7 The Development of Photography	Portraiture	Documentary Photography	Landscapes, Wildlife, and the Built Environment	Art Photography	Photography in Science and Technology	Personal Cameras, Citizen Photographers
+"https://dp.la/browse-by-topic/women-in-science" 6 Education	Botany	Medicine	Engineering	Space Exploration	Gender in Science

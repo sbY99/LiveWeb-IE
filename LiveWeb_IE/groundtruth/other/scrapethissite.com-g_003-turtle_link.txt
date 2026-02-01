@@ -1,0 +1,3 @@
+other scrapethissite.com g_003 turtle_link
+1 14 14
+"https://www.scrapethissite.com/pages/frames/" 14 /pages/frames/?frame=i&family=Carettochelyidae	/pages/frames/?frame=i&family=Cheloniidae	/pages/frames/?frame=i&family=Chelydridae	/pages/frames/?frame=i&family=Dermatemydidae	/pages/frames/?frame=i&family=Dermochelyidae	/pages/frames/?frame=i&family=Emydidae	/pages/frames/?frame=i&family=Geoemydidae	/pages/frames/?frame=i&family=Kinosternidae	/pages/frames/?frame=i&family=Platysternidae	/pages/frames/?frame=i&family=Testudinidae	/pages/frames/?frame=i&family=Trionychidae	/pages/frames/?frame=i&family=Chelidae	/pages/frames/?frame=i&family=Pelomedusidae	/pages/frames/?frame=i&family=Podocnemididae

@@ -1,0 +1,304 @@
+academic iclr.cc g_000 paper_title
+302 302 302
+"https://iclr.cc/virtual/2025/poster/30687" 1 The Complexity of Two-Team Polymatrix Games with Independent Adversaries
+"https://iclr.cc/virtual/2025/poster/27943" 1 Unbounded: A Generative Infinite Game of Character Life Simulation
+"https://iclr.cc/virtual/2025/poster/29351" 1 Decoding Game: On Minimax Optimality of Heuristic Text Generation Strategies
+"https://iclr.cc/virtual/2025/poster/28782" 1 BANGS: Game-theoretic Node Selection for Graph Self-Training
+"https://iclr.cc/virtual/2025/poster/29215" 1 A Policy-Gradient Approach to Solving Imperfect-Information Games with Best-Iterate Convergence
+"https://iclr.cc/virtual/2025/poster/27768" 1 Optimistic Games for Combinatorial Bayesian Optimization with Application to Protein Design
+"https://iclr.cc/virtual/2025/poster/29930" 1 Efficient Online Pruning and Abstraction for Imperfect Information Extensive-Form Games
+"https://iclr.cc/virtual/2025/poster/29588" 1 GameArena: Evaluating LLM Reasoning through Live Computer Games
+"https://iclr.cc/virtual/2025/poster/29127" 1 Rethinking Shapley Value for Negative Interactions in Non-convex Games
+"https://iclr.cc/virtual/2025/poster/31383" 1 Learning Regularized Graphon Mean-Field Games with Unknown Graphons
+"https://iclr.cc/virtual/2025/poster/31514" 1 Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models
+"https://iclr.cc/virtual/2025/poster/30815" 1 Can Reinforcement Learning Solve Asymmetric Combinatorial-Continuous Zero-Sum Games?
+"https://iclr.cc/virtual/2025/poster/30072" 1 Divergence-Regularized Discounted Aggregation: Equilibrium Finding in Multiplayer Partially Observable Stochastic Games
+"https://iclr.cc/virtual/2025/poster/28236" 1 Do LLM Agents  Have Regret? A Case Study in Online Learning and Games
+"https://iclr.cc/virtual/2025/poster/28880" 1 When LLMs Play the Telephone Game: Cultural Attractors as Conceptual Tools to Evaluate LLMs in Multi-turn Settings
+"https://iclr.cc/virtual/2025/poster/28641" 1 On the Convergence of No-Regret Dynamics in Information Retrieval Games with Proportional Ranking Functions
+"https://iclr.cc/virtual/2025/poster/28856" 1 BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games
+"https://iclr.cc/virtual/2025/poster/30088" 1 Boosting Perturbed Gradient Ascent for Last-Iterate Convergence in Games
+"https://iclr.cc/virtual/2025/poster/29074" 1 Are Large Vision Language Models Good Game Players?
+"https://iclr.cc/virtual/2025/poster/28224" 1 Monte Carlo Planning with Large Language Model for Text-Based Game Agents
+"https://iclr.cc/virtual/2025/poster/30488" 1 Strength Estimation and Human-Like Strength Adjustment in Games
+"https://iclr.cc/virtual/2025/poster/27874" 1 Field-DiT: Diffusion Transformer on Unified Video, 3D, and Game Field Generation
+"https://iclr.cc/virtual/2025/poster/29770" 1 Diffusion Models Are Real-Time Game Engines
+"https://iclr.cc/virtual/2025/poster/30764" 1 GameGen-X: Interactive Open-world Game Video Generation
+"https://iclr.cc/virtual/2025/poster/29992" 1 Last-Iterate Convergence Properties of Regret-Matching Algorithms in Games
+"https://iclr.cc/virtual/2025/poster/28035" 1 Stochastic Semi-Gradient Descent for Learning Mean Field Games with Population-Aware Function Approximation
+"https://iclr.cc/virtual/2025/poster/28077" 1 Classic but Everlasting: Traditional Gradient-Based Algorithms Converge Fast Even in Time-Varying Multi-Player Games
+"https://iclr.cc/virtual/2025/poster/32071" 1 BadRobot: Jailbreaking Embodied LLM Agents in the Physical World
+"https://iclr.cc/virtual/2025/poster/31086" 1 Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents
+"https://iclr.cc/virtual/2025/poster/28128" 1 Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance
+"https://iclr.cc/virtual/2025/poster/30375" 1 EMOS: Embodiment-aware Heterogeneous Multi-robot Operating System with LLM Agents
+"https://iclr.cc/virtual/2025/poster/32106" 1 AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents
+"https://iclr.cc/virtual/2025/poster/27998" 1 Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View
+"https://iclr.cc/virtual/2025/poster/28093" 1 Better than Your Teacher: LLM Agents that learn from Privileged AI Feedback
+"https://iclr.cc/virtual/2025/poster/29809" 1 Robotouille: An Asynchronous Planning Benchmark for LLM Agents
+"https://iclr.cc/virtual/2025/poster/29923" 1 Moral Alignment for LLM Agents
+"https://iclr.cc/virtual/2025/poster/32059" 1 AgentSquare: Automatic LLM Agent Search in Modular Design Space
+"https://iclr.cc/virtual/2025/poster/32096" 1 Empowering LLM Agents with Zero-Shot Optimal Decision-Making through Q-learning
+"https://iclr.cc/virtual/2025/poster/29523" 1 Discriminator-Guided Embodied Planning for LLM Agent
+"https://iclr.cc/virtual/2025/poster/28236" 1 Do LLM Agents  Have Regret? A Case Study in Online Learning and Games
+"https://iclr.cc/virtual/2025/poster/32100" 1 TeaserGen: Generating Teasers for Long Documentaries
+"https://iclr.cc/virtual/2025/poster/28336" 1 ColPali: Efficient Document Retrieval with Vision Language Models
+"https://iclr.cc/virtual/2025/poster/32102" 1 SV-RAG: LoRA-Contextualizing Adaptation of  MLLMs for Long Document Understanding
+"https://iclr.cc/virtual/2025/poster/27679" 1 VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents
+"https://iclr.cc/virtual/2025/poster/30318" 1 Graph-based Document Structure Analysis
+"https://iclr.cc/virtual/2025/poster/27983" 1 NovelQA: Benchmarking Question Answering on Documents Exceeding 200K Tokens
+"https://iclr.cc/virtual/2025/poster/29494" 1 Perplexity Trap: PLM-Based Retrievers Overrate Low Perplexity Documents
+"https://iclr.cc/virtual/2025/poster/29341" 1 Contextual Document Embeddings
+"https://iclr.cc/virtual/2025/poster/28823" 1 DocMIA: Document-Level Membership Inference Attacks against DocVQA Models
+"https://iclr.cc/virtual/2025/poster/30445" 1 Enhancing Document Understanding with Group Position Embedding: A Novel Approach to Incorporate Layout Information
+"https://iclr.cc/virtual/2025/poster/28742" 1 DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory
+"https://iclr.cc/virtual/2025/poster/29129" 1 BigDocs: An Open Dataset for Training Multimodal Models on Document and Code Tasks
+"https://iclr.cc/virtual/2025/poster/31379" 1 Euler Characteristic Tools for Topological Data Analysis
+"https://iclr.cc/virtual/2025/poster/28880" 1 When LLMs Play the Telephone Game: Cultural Attractors as Conceptual Tools to Evaluate LLMs in Multi-turn Settings
+"https://iclr.cc/virtual/2025/poster/30227" 1 BingoGuard: LLM Content Moderation Tools with Risk Levels
+"https://iclr.cc/virtual/2025/poster/27814" 1 Learning Evolving Tools for Large Language Models
+"https://iclr.cc/virtual/2025/poster/28985" 1 Tool-Planner: Task Planning with Clusters across Multiple Tools
+"https://iclr.cc/virtual/2025/poster/30871" 1 MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models
+"https://iclr.cc/virtual/2025/poster/30135" 1 ToolDial: Multi-turn Dialogue Generation Method for Tool-Augmented Language Models
+"https://iclr.cc/virtual/2025/poster/31249" 1 Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage
+"https://iclr.cc/virtual/2025/poster/29311" 1 ToolGen: Unified Tool Retrieval and Calling via Generation
+"https://iclr.cc/virtual/2025/poster/29133" 1 AgentStudio: A Toolkit for Building General Virtual Agents
+"https://iclr.cc/virtual/2025/poster/30779" 1 ToolACE: Winning the Points of LLM Function Calling
+"https://iclr.cc/virtual/2025/poster/29696" 1 From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions
+"https://iclr.cc/virtual/2025/poster/28544" 1 Ensembles of Low-Rank Expert Adapters
+"https://iclr.cc/virtual/2025/poster/28954" 1 Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts
+"https://iclr.cc/virtual/2025/poster/31204" 1 Monet: Mixture of Monosemantic Experts for Transformers
+"https://iclr.cc/virtual/2025/poster/28959" 1 TC-MoE: Augmenting Mixture of Experts with Ternary Expert Choice
+"https://iclr.cc/virtual/2025/poster/28518" 1 HMoRA: Making LLMs More Effective with Hierarchical Mixture of LoRA Experts
+"https://iclr.cc/virtual/2025/poster/28794" 1 Drop-Upcycling: Training Sparse Mixture of Experts with Partial Re-initialization
+"https://iclr.cc/virtual/2025/poster/31491" 1 Soft Merging of Experts with Adaptive Routing
+"https://iclr.cc/virtual/2025/poster/30631" 1 MatExpert: Decomposing Materials Discovery By Mimicking Human Experts
+"https://iclr.cc/virtual/2025/poster/29998" 1 CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer
+"https://iclr.cc/virtual/2025/poster/28417" 1 Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning
+"https://iclr.cc/virtual/2025/poster/29566" 1 Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models
+"https://iclr.cc/virtual/2025/poster/28871" 1 Statistical Advantages of Perturbing Cosine Router in Mixture of Experts
+"https://iclr.cc/virtual/2025/poster/30569" 1 Efficient Residual Learning with Mixture-of-Experts for Universal Dexterous Grasping
+"https://iclr.cc/virtual/2025/poster/28923" 1 Layerwise Recurrent Router for  Mixture-of-Experts
+"https://iclr.cc/virtual/2025/poster/29390" 1 Solving Token Gradient Conflict in Mixture-of-Experts for Large Vision-Language Model
+"https://iclr.cc/virtual/2025/poster/30410" 1 ToVE: Efficient Vision-Language Learning via Knowledge Transfer from Vision Experts
+"https://iclr.cc/virtual/2025/poster/28078" 1 MoE++: Accelerating Mixture-of-Experts Methods with Zero-Computation Experts
+"https://iclr.cc/virtual/2025/poster/28939" 1 Your Mixture-of-Experts LLM Is Secretly an Embedding Model for Free
+"https://iclr.cc/virtual/2025/poster/27771" 1 Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models
+"https://iclr.cc/virtual/2025/poster/30458" 1 DSBench: How Far Are Data Science Agents from Becoming Data Science Experts?
+"https://iclr.cc/virtual/2025/poster/27864" 1 Intrinsic User-Centric Interpretability through Global Mixture of Experts
+"https://iclr.cc/virtual/2025/poster/29900" 1 Fiddler: CPU-GPU Orchestration for Fast Inference of Mixture-of-Experts Models
+"https://iclr.cc/virtual/2025/poster/30684" 1 Mixture of Parrots: Experts improve memorization more than reasoning
+"https://iclr.cc/virtual/2025/poster/30111" 1 Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts
+"https://iclr.cc/virtual/2025/poster/30184" 1 Self-MoE: Towards Compositional Large Language Models with Self-Specialized Experts
+"https://iclr.cc/virtual/2025/poster/30671" 1 Causal Order: The Key to Leveraging Imperfect Experts in Causal Inference
+"https://iclr.cc/virtual/2025/poster/28112" 1 pMoE: Prompting Diverse Experts Together Wins More in Visual Adaptation
+"https://iclr.cc/virtual/2025/poster/30371" 1 BEEM: Boosting Performance of Early Exit DNNs using Multi-Exit Classifiers as Experts
+"https://iclr.cc/virtual/2025/poster/30816" 1 Theory on Mixture-of-Experts in Continual Learning
+"https://iclr.cc/virtual/2025/poster/30279" 1 MAPS: Advancing Multi-Modal Reasoning in Expert-Level Physical Science
+"https://iclr.cc/virtual/2025/poster/28408" 1 CAMEx: Curvature-aware Merging of Experts
+"https://iclr.cc/virtual/2025/poster/29725" 1 Tight Clusters Make Specialized Experts
+"https://iclr.cc/virtual/2025/poster/31028" 1 ReMoE: Fully Differentiable Mixture-of-Experts with ReLU Routing
+"https://iclr.cc/virtual/2025/poster/28378" 1 ChartMoE: Mixture of Diversely Aligned Expert Connector for Chart Understanding
+"https://iclr.cc/virtual/2025/poster/28749" 1 Mixture Compressor for Mixture-of-Experts LLMs Gains More
+"https://iclr.cc/virtual/2025/poster/31053" 1 Automatic Curriculum Expert Iteration for Reliable LLM Reasoning
+"https://iclr.cc/virtual/2025/poster/27966" 1 Multiple Heads are Better than One: Mixture of Modality Knowledge Experts for Entity Representation Learning
+"https://iclr.cc/virtual/2025/poster/31179" 1 More Experts Than Galaxies: Conditionally-Overlapping Experts with Biologically-Inspired Fixed Routing
+"https://iclr.cc/virtual/2025/poster/29884" 1 Dynamic Modeling of Patients, Modalities and Tasks via Multi-modal Multi-task Mixture of Experts
+"https://iclr.cc/virtual/2025/poster/28189" 1 MoLEx: Mixture of Layer Experts for Fine-tuning with Sparse Upcycling
+"https://iclr.cc/virtual/2025/poster/29247" 1 Conformalized Interactive Imitation Learning: Handling Expert Shift and Intermittent Feedback
+"https://iclr.cc/virtual/2025/poster/29057" 1 Diversity Empowers Intelligence: Integrating Expertise of Software Engineering Agents
+"https://iclr.cc/virtual/2025/poster/30314" 1 Beyond-Expert Performance with Limited Demonstrations: Efficient Imitation Learning with Double Exploration
+"https://iclr.cc/virtual/2025/poster/27777" 1 OLMoE: Open Mixture-of-Experts Language Models
+"https://iclr.cc/virtual/2025/poster/27652" 1 Probabilistic Learning to Defer: Handling Missing Expert Annotations and Controlling Workload Distribution
+"https://iclr.cc/virtual/2025/poster/27884" 1 Routing Experts: Learning to Route Dynamic Experts in Existing Multi-modal Large Language Models
+"https://iclr.cc/virtual/2025/poster/29721" 1 EC-DIT: Scaling Diffusion Transformers with Adaptive Expert-Choice Routing
+"https://iclr.cc/virtual/2025/poster/27856" 1 VLMaterial: Procedural Material Generation with Large Vision-Language Models
+"https://iclr.cc/virtual/2025/poster/32091" 1 IDA-VLM: Towards Movie Understanding via ID-Aware Large Vision-Language Model
+"https://iclr.cc/virtual/2025/poster/30477" 1 MMFakeBench: A Mixed-Source Multimodal Misinformation Detection Benchmark for LVLMs
+"https://iclr.cc/virtual/2025/poster/29555" 1 VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks
+"https://iclr.cc/virtual/2025/poster/31249" 1 Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage
+"https://iclr.cc/virtual/2025/poster/31078" 1 Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs
+"https://iclr.cc/virtual/2025/poster/29107" 1 Dysca: A Dynamic and Scalable Benchmark for Evaluating Perception Ability of LVLMs
+"https://iclr.cc/virtual/2025/poster/30880" 1 Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters
+"https://iclr.cc/virtual/2025/poster/28866" 1 Teaching Human Behavior Improves Content Understanding Abilities Of VLMs
+"https://iclr.cc/virtual/2025/poster/30502" 1 Digi-Q: Learning VLM Q-Value Functions for Training Device-Control Agents
+"https://iclr.cc/virtual/2025/poster/29734" 1 Should VLMs be Pre-trained with Image Data?
+"https://iclr.cc/virtual/2025/poster/28856" 1 BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games
+"https://iclr.cc/virtual/2025/poster/30427" 1 Have the VLMs Lost Confidence? A Study of Sycophancy in VLMs
+"https://iclr.cc/virtual/2025/poster/30028" 1 SoundCTM: Unifying Score-based and Consistency Models for Full-band Text-to-Sound Generation
+"https://iclr.cc/virtual/2025/poster/29151" 1 Denoising Autoregressive Transformers for Scalable Text-to-Image Generation
+"https://iclr.cc/virtual/2025/poster/31257" 1 Rethinking Artistic Copyright Infringements In the Era Of Text-to-Image Generative Models
+"https://iclr.cc/virtual/2025/poster/30748" 1 Automated Filtering of Human Feedback Data for Aligning Text-to-Image Diffusion Models
+"https://iclr.cc/virtual/2025/poster/27964" 1 ScImage: How good are multimodal large language models at scientific text-to-image generation?
+"https://iclr.cc/virtual/2025/poster/28444" 1 TIGeR: Unifying Text-to-Image Generation and Retrieval with Large Multimodal Models
+"https://iclr.cc/virtual/2025/poster/30650" 1 Consistent Flow Distillation for Text-to-3D Generation
+"https://iclr.cc/virtual/2025/poster/29063" 1 One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt
+"https://iclr.cc/virtual/2025/poster/28072" 1 Lightning-Fast Image Inversion and Editing for Text-to-Image Diffusion Models
+"https://iclr.cc/virtual/2025/poster/30587" 1 ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL
+"https://iclr.cc/virtual/2025/poster/29988" 1 Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding
+"https://iclr.cc/virtual/2025/poster/29871" 1 Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective
+"https://iclr.cc/virtual/2025/poster/30962" 1 Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds
+"https://iclr.cc/virtual/2025/poster/29192" 1 DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models
+"https://iclr.cc/virtual/2025/poster/30376" 1 MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer
+"https://iclr.cc/virtual/2025/poster/29561" 1 You Only Sample Once: Taming One-Step Text-to-Image Synthesis by Self-Cooperative Diffusion GANs
+"https://iclr.cc/virtual/2025/poster/30232" 1 Guided Score identity Distillation for Data-Free One-Step Text-to-Image Generation
+"https://iclr.cc/virtual/2025/poster/32067" 1 DiTTo-TTS: Diffusion Transformers for Scalable Text-to-Speech without Domain-Specific Factors
+"https://iclr.cc/virtual/2025/poster/30259" 1 Geometry Image Diffusion: Fast and Data-Efficient Text-to-3D with Image-Based Surface Representation
+"https://iclr.cc/virtual/2025/poster/29568" 1 Text-to-Image Rectified Flow as Plug-and-Play Priors
+"https://iclr.cc/virtual/2025/poster/29139" 1 RecDreamer: Consistent Text-to-3D Generation via Uniform Score Distillation
+"https://iclr.cc/virtual/2025/poster/29897" 1 SANA: Efficient High-Resolution Text-to-Image Synthesis with Linear Diffusion Transformers
+"https://iclr.cc/virtual/2025/poster/30047" 1 PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction
+"https://iclr.cc/virtual/2025/poster/30983" 1 IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation
+"https://iclr.cc/virtual/2025/poster/28653" 1 OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation
+"https://iclr.cc/virtual/2025/poster/29221" 1 Concept Pinpoint Eraser for Text-to-image Diffusion Models via Residual Attention Gate
+"https://iclr.cc/virtual/2025/poster/31459" 1 Improving Text-to-Image Consistency via Automatic Prompt Optimization
+"https://iclr.cc/virtual/2025/poster/28517" 1 PT-T2I/V: An Efficient Proxy-Tokenized Diffusion Transformer for Text-to-Image/Video-Task
+"https://iclr.cc/virtual/2025/poster/29462" 1 Information Theoretic Text-to-Image Alignment
+"https://iclr.cc/virtual/2025/poster/31519" 1 Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens
+"https://iclr.cc/virtual/2025/poster/30489" 1 CHASE-SQL: Multi-Path Reasoning and Preference Optimized Candidate Selection in Text-to-SQL
+"https://iclr.cc/virtual/2025/poster/28180" 1 High-quality Text-to-3D Character Generation with SparseCubes and Sparse Transformers.
+"https://iclr.cc/virtual/2025/poster/29294" 1 Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows
+"https://iclr.cc/virtual/2025/poster/28758" 1 Mining your own secrets: Diffusion Classifier Scores for Continual Personalization of Text-to-Image Diffusion Models
+"https://iclr.cc/virtual/2025/poster/30784" 1 HALL-E: Hierarchical Neural Codec Language Model for Minute-Long Zero-Shot Text-to-Speech Synthesis
+"https://iclr.cc/virtual/2025/poster/29626" 1 Progressive Compositionality in Text-to-Image Generative Models
+"https://iclr.cc/virtual/2025/poster/28752" 1 SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation
+"https://iclr.cc/virtual/2025/poster/31132" 1 Improving Long-Text Alignment for Text-to-Image Diffusion Models
+"https://iclr.cc/virtual/2025/poster/31175" 1 Cross-Attention Head Position Patterns Can Align with Human Visual Concepts in Text-to-Image Generative Models
+"https://iclr.cc/virtual/2025/poster/29839" 1 Erasing Concept Combination from Text-to-Image Diffusion Model
+"https://iclr.cc/virtual/2025/poster/32082" 1 Measuring And Improving Engagement of Text-to-Image Generation Models
+"https://iclr.cc/virtual/2025/poster/30151" 1 Revisiting text-to-image evaluation with Gecko: on metrics, prompts, and human rating
+"https://iclr.cc/virtual/2025/poster/31091" 1 Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models
+"https://iclr.cc/virtual/2025/poster/29998" 1 CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer
+"https://iclr.cc/virtual/2025/poster/30289" 1 Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis
+"https://iclr.cc/virtual/2025/poster/30206" 1 Unified Convergence Analysis for Score-Based Diffusion Models with Deterministic Samplers
+"https://iclr.cc/virtual/2025/poster/32046" 1 DSPO: Direct Score Preference Optimization for Diffusion Model Alignment
+"https://iclr.cc/virtual/2025/poster/28811" 1 ImpScore: A Learnable Metric For Quantifying The Implicitness Level of Sentences
+"https://iclr.cc/virtual/2025/poster/27982" 1 Score-based Self-supervised MRI Denoising
+"https://iclr.cc/virtual/2025/poster/28221" 1 Global Well-posedness and Convergence Analysis of Score-based Generative Models via Sharp Lipschitz Estimates
+"https://iclr.cc/virtual/2025/poster/32077" 1 SigDiffusions: Score-Based Diffusion Models for Time Series via Log-Signature Embeddings
+"https://iclr.cc/virtual/2025/poster/31366" 1 A Curious Case of the Missing Measure: Better Scores and Worse Generation
+"https://iclr.cc/virtual/2025/poster/30310" 1 InstaRevive: One-Step Image Enhancement via Dynamic Score Matching
+"https://iclr.cc/virtual/2025/poster/30657" 1 Boltzmann Semantic Score: A Semantic Metric for Evaluating Large Vision Models Using Large Language Models
+"https://iclr.cc/virtual/2025/poster/28261" 1 SFESS: Score Function Estimators for k-Subset Sampling
+"https://iclr.cc/virtual/2025/poster/27905" 1 Differentiable Optimization of Similarity Scores Between Models and Brains
+"https://iclr.cc/virtual/2025/poster/28556" 1 Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Models
+"https://iclr.cc/virtual/2025/poster/30928" 1 Score-based free-form architectures for high-dimensional Fokker-Planck equations
+"https://iclr.cc/virtual/2025/poster/30028" 1 SoundCTM: Unifying Score-based and Consistency Models for Full-band Text-to-Sound Generation
+"https://iclr.cc/virtual/2025/poster/27956" 1 EG4D: Explicit Generation of 4D Object without Score Distillation
+"https://iclr.cc/virtual/2025/poster/28519" 1 Adversarial Score identity Distillation: Rapidly Surpassing the Teacher in One Step
+"https://iclr.cc/virtual/2025/poster/28804" 1 Score Forgetting Distillation: A Swift, Data-Free Method for Machine Unlearning in Diffusion Models
+"https://iclr.cc/virtual/2025/poster/28407" 1 Theory on Score-Mismatched Diffusion Models and Zero-Shot Conditional Samplers
+"https://iclr.cc/virtual/2025/poster/28735" 1 GSBAK: top-K Geometric Score-based Black-box Attack
+"https://iclr.cc/virtual/2025/poster/29081" 1 Repulsive Latent Score Distillation for Solving Inverse Problems
+"https://iclr.cc/virtual/2025/poster/28867" 1 Diffusion2: Dynamic 3D Content Generation via Score Composition of Video and Multi-view Diffusion Models
+"https://iclr.cc/virtual/2025/poster/30272" 1 Rethinking Diffusion Posterior Sampling: From Conditional Score Estimator to Maximizing a Posterior
+"https://iclr.cc/virtual/2025/poster/30693" 1 Infilling Score: A Pretraining Data Detection Algorithm for Large Language Models
+"https://iclr.cc/virtual/2025/poster/28575" 1 Diffusing States and Matching Scores: A New Framework for Imitation Learning
+"https://iclr.cc/virtual/2025/poster/30480" 1 QA-Calibration of Language Model Confidence Scores
+"https://iclr.cc/virtual/2025/poster/28280" 1 Convergence of Score-Based Discrete Diffusion Models: A Discrete-Time Analysis
+"https://iclr.cc/virtual/2025/poster/30232" 1 Guided Score identity Distillation for Data-Free One-Step Text-to-Image Generation
+"https://iclr.cc/virtual/2025/poster/27831" 1 Provably Accurate Shapley Value Estimation via Leverage Score Sampling
+"https://iclr.cc/virtual/2025/poster/28758" 1 Mining your own secrets: Diffusion Classifier Scores for Continual Personalization of Text-to-Image Diffusion Models
+"https://iclr.cc/virtual/2025/poster/27953" 1 Latent-EnSF: A Latent Ensemble Score Filter for High-Dimensional Data Assimilation with Sparse Observation Data
+"https://iclr.cc/virtual/2025/poster/27815" 1 Feature Responsiveness Scores: Model-Agnostic Explanations for Recourse
+"https://iclr.cc/virtual/2025/poster/27822" 1 PFDiff: Training-Free Acceleration of Diffusion Models Combining Past and Future Scores
+"https://iclr.cc/virtual/2025/poster/29139" 1 RecDreamer: Consistent Text-to-3D Generation via Uniform Score Distillation
+"https://iclr.cc/virtual/2025/poster/30611" 1 Training Language Models on Synthetic Edit Sequences Improves Code Synthesis
+"https://iclr.cc/virtual/2025/poster/29926" 1 3DIS: Depth-Driven Decoupled Image Synthesis for Universal Multi-Instance Generation
+"https://iclr.cc/virtual/2025/poster/27787" 1 Learning General-purpose Biomedical Volume Representations using Randomized Synthesis
+"https://iclr.cc/virtual/2025/poster/28891" 1 Controllable Satellite-to-Street-View Synthesis with Precise Pose Alignment and Zero-Shot Environmental Control
+"https://iclr.cc/virtual/2025/poster/28983" 1 FreeVS: Generative View Synthesis on Free Driving Trajectory
+"https://iclr.cc/virtual/2025/poster/29023" 1 Continuous Autoregressive Modeling with Stochastic Monotonic Alignment for Speech Synthesis
+"https://iclr.cc/virtual/2025/poster/28879" 1 Looking Backward: Retrospective Backward Synthesis for Goal-Conditioned GFlowNets
+"https://iclr.cc/virtual/2025/poster/29506" 1 T2V2: A Unified Non-Autoregressive Model for Speech Recognition and Synthesis via Multitask Learning
+"https://iclr.cc/virtual/2025/poster/30205" 1 STAR: Synthesis of Tailored Architectures
+"https://iclr.cc/virtual/2025/poster/31264" 1 RTDiff: Reverse Trajectory Synthesis via Diffusion for Offline Reinforcement Learning
+"https://iclr.cc/virtual/2025/poster/30252" 1 Advancing Mathematical Reasoning in Language Models: The Impact of Problem-Solving Data, Data Synthesis Methods, and Training Stages
+"https://iclr.cc/virtual/2025/poster/31109" 1 SynQ: Accurate Zero-shot Quantization by Synthesis-aware Fine-tuning
+"https://iclr.cc/virtual/2025/poster/29015" 1 MotionDreamer: One-to-Many Motion Synthesis with Localized Generative Masked Transformer
+"https://iclr.cc/virtual/2025/poster/27946" 1 SynFlowNet: Design of Diverse and Novel Molecules with Synthesis Constraints
+"https://iclr.cc/virtual/2025/poster/28141" 1 Quest: Query-centric Data Synthesis Approach for Long-context Scaling of Large Language Model
+"https://iclr.cc/virtual/2025/poster/29342" 1 Anyprefer: An Agentic Framework for Preference Data Synthesis
+"https://iclr.cc/virtual/2025/poster/29561" 1 You Only Sample Once: Taming One-Step Text-to-Image Synthesis by Self-Cooperative Diffusion GANs
+"https://iclr.cc/virtual/2025/poster/29899" 1 Outlier Synthesis via Hamiltonian Monte Carlo for Out-of-Distribution Detection
+"https://iclr.cc/virtual/2025/poster/30150" 1 IV-mixed Sampler: Leveraging Image Diffusion Models for Enhanced Video Synthesis
+"https://iclr.cc/virtual/2025/poster/30182" 1 X-Drive: Cross-modality Consistent Multi-Sensor Data Synthesis for Driving Scenarios
+"https://iclr.cc/virtual/2025/poster/29897" 1 SANA: Efficient High-Resolution Text-to-Image Synthesis with Linear Diffusion Transformers
+"https://iclr.cc/virtual/2025/poster/29912" 1 MetaDesigner: Advancing Artistic Typography through AI-Driven, User-Centric, and Multilingual WordArt Synthesis
+"https://iclr.cc/virtual/2025/poster/27850" 1 Diffusion On Syntax Trees For Program Synthesis
+"https://iclr.cc/virtual/2025/poster/31069" 1 LeFusion: Controllable Pathology Synthesis via Lesion-Focused Diffusion Models
+"https://iclr.cc/virtual/2025/poster/27706" 1 Forewarned is Forearmed:  Harnessing LLMs for Data Synthesis via Failure-induced Exploration
+"https://iclr.cc/virtual/2025/poster/29689" 1 LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias
+"https://iclr.cc/virtual/2025/poster/31164" 1 HQGS: High-Quality Novel View Synthesis with Gaussian Splatting in Degraded Scenes
+"https://iclr.cc/virtual/2025/poster/30416" 1 AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials
+"https://iclr.cc/virtual/2025/poster/30784" 1 HALL-E: Hierarchical Neural Codec Language Model for Minute-Long Zero-Shot Text-to-Speech Synthesis
+"https://iclr.cc/virtual/2025/poster/30044" 1 VSTAR: Generative Temporal Nursing for Longer Dynamic Video Synthesis
+"https://iclr.cc/virtual/2025/poster/27663" 1 h4rm3l: A Language for Composable Jailbreak Attack Synthesis
+"https://iclr.cc/virtual/2025/poster/29833" 1 Procedural Synthesis of Synthesizable Molecules
+"https://iclr.cc/virtual/2025/poster/29730" 1 Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing
+"https://iclr.cc/virtual/2025/poster/29871" 1 Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective
+"https://iclr.cc/virtual/2025/poster/30289" 1 Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis
+"https://iclr.cc/virtual/2025/poster/28551" 1 INS: Interaction-aware Synthesis to Enhance Offline Multi-agent Reinforcement Learning
+"https://iclr.cc/virtual/2025/poster/28125" 1 Data-adaptive Differentially Private Prompt Synthesis for In-Context Learning
+"https://iclr.cc/virtual/2025/poster/30192" 1 Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models
+"https://iclr.cc/virtual/2025/poster/29762" 1 Unlocking Efficient, Scalable, and Continual Knowledge Editing with Basis-Level Representation Fine-Tuning
+"https://iclr.cc/virtual/2025/poster/29283" 1 MP-Mat: A 3D-and-Instance-Aware Human Matting and Editing Framework with Multiplane Representation
+"https://iclr.cc/virtual/2025/poster/29200" 1 InstantPortrait: One-Step Portrait Editing via Diffusion Multi-Objective Distillation
+"https://iclr.cc/virtual/2025/poster/28521" 1 Model Editing as a Robust and Denoised variant of DPO: A Case Study on Toxicity
+"https://iclr.cc/virtual/2025/poster/30724" 1 Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations
+"https://iclr.cc/virtual/2025/poster/28469" 1 DRESSing Up LLM: Efficient Stylized Question-Answering via Style Subspace Editing
+"https://iclr.cc/virtual/2025/poster/29603" 1 VideoGrain: Modulating Space-Time Attention for Multi-Grained Video Editing
+"https://iclr.cc/virtual/2025/poster/28072" 1 Lightning-Fast Image Inversion and Editing for Text-to-Image Diffusion Models
+"https://iclr.cc/virtual/2025/poster/30213" 1 OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision
+"https://iclr.cc/virtual/2025/poster/28002" 1 Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport
+"https://iclr.cc/virtual/2025/poster/28581" 1 ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning
+"https://iclr.cc/virtual/2025/poster/27911" 1 When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers
+"https://iclr.cc/virtual/2025/poster/31325" 1 Does Editing Provide Evidence for Localization?
+"https://iclr.cc/virtual/2025/poster/30776" 1 GDrag:Towards General-Purpose Interactive Editing with Anti-ambiguity Point Diffusion
+"https://iclr.cc/virtual/2025/poster/37631" 1 SPD Attack - Prevention of AI Powered Image Editing by Image Immunization
+"https://iclr.cc/virtual/2025/poster/30830" 1 3DGS-Drag: Dragging Gaussians for Intuitive Point-Based 3D Editing
+"https://iclr.cc/virtual/2025/poster/27872" 1 In-Context Editing: Learning Knowledge from Self-Induced Distributions
+"https://iclr.cc/virtual/2025/poster/31223" 1 Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances
+"https://iclr.cc/virtual/2025/poster/30362" 1 DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation
+"https://iclr.cc/virtual/2025/poster/29556" 1 Efficient Model Editing with Task-Localized Sparse Fine-tuning
+"https://iclr.cc/virtual/2025/poster/30694" 1 DiffusionGuard: A Robust Defense Against Malicious Diffusion-based Image Editing
+"https://iclr.cc/virtual/2025/poster/30712" 1 An Efficient Framework for Crediting Data Contributors of Diffusion Models
+"https://iclr.cc/virtual/2025/poster/30691" 1 Multi-Reward as Condition for Instruction-based Image Editing
+"https://iclr.cc/virtual/2025/poster/29325" 1 Everything is Editable: Extend Knowledge Editing to Unstructured Data in Large Language Models
+"https://iclr.cc/virtual/2025/poster/30995" 1 Revealing and Mitigating Over-Attention in Knowledge Editing
+"https://iclr.cc/virtual/2025/poster/29277" 1 EditRoom: LLM-parameterized Graph Diffusion for Composable 3D Room Layout Editing
+"https://iclr.cc/virtual/2025/poster/31140" 1 CollabEdit: Towards Non-destructive Collaborative Knowledge Editing
+"https://iclr.cc/virtual/2025/poster/29395" 1 GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models
+"https://iclr.cc/virtual/2025/poster/28744" 1 Can Knowledge Editing Really Correct Hallucinations?
+"https://iclr.cc/virtual/2025/poster/28478" 1 MQuAKE-Remastered: Multi-Hop Knowledge Editing Can Only Be Advanced with Reliable Evaluations
+"https://iclr.cc/virtual/2025/poster/27931" 1 MMKE-Bench: A Multimodal Editing Benchmark for Diverse Visual Knowledge
+"https://iclr.cc/virtual/2025/poster/28074" 1 Uncovering Overfitting in Large Language Model Editing
+"https://iclr.cc/virtual/2025/poster/30203" 1 Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations
+"https://iclr.cc/virtual/2025/poster/29099" 1 Perturbation-Restrained Sequential Model Editing
+"https://iclr.cc/virtual/2025/poster/30202" 1 AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models
+"https://iclr.cc/virtual/2025/poster/29632" 1 Concept-ROT: Poisoning Concepts in Large Language Models with Model Editing
+"https://iclr.cc/virtual/2025/poster/32058" 1 HQ-Edit: A High-Quality Dataset for Instruction-based Image Editing
+"https://iclr.cc/virtual/2025/poster/31150" 1 CLIPDrag: Combining Text-based and Drag-based Instructions for Image Editing
+"https://iclr.cc/virtual/2025/poster/30923" 1 Precise Localization of Memories: A Fine-grained Neuron-level Knowledge Editing Technique for LLMs
+"https://iclr.cc/virtual/2025/poster/30127" 1 PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing
+"https://iclr.cc/virtual/2025/poster/28702" 1 3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting
+"https://iclr.cc/virtual/2025/poster/29829" 1 SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration
+"https://iclr.cc/virtual/2025/poster/30675" 1 SPaR: Self-Play with Tree-Search Refinement to Improve Instruction-Following in Large Language Models
+"https://iclr.cc/virtual/2025/poster/29049" 1 Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models
+"https://iclr.cc/virtual/2025/poster/27855" 1 Effective Interplay between Sparsity and Quantization: From Theory to Practice
+"https://iclr.cc/virtual/2025/poster/28067" 1 Studying the Interplay Between the Actor and Critic Representations in Reinforcement Learning
+"https://iclr.cc/virtual/2025/poster/31462" 1 Plug, Play, and Generalize: Length Extrapolation with Pointer-Augmented Neural Memory
+"https://iclr.cc/virtual/2025/poster/29568" 1 Text-to-Image Rectified Flow as Plug-and-Play Priors
+"https://iclr.cc/virtual/2025/poster/28880" 1 When LLMs Play the Telephone Game: Cultural Attractors as Conceptual Tools to Evaluate LLMs in Multi-turn Settings
+"https://iclr.cc/virtual/2025/poster/29430" 1 Advancing Prompt-Based Methods for Replay-Independent General Continual Learning
+"https://iclr.cc/virtual/2025/poster/29074" 1 Are Large Vision Language Models Good Game Players?
+"https://iclr.cc/virtual/2025/poster/29024" 1 X-ALMA: Plug & Play Modules and Adaptive Rejection for Quality Translation at Scale
+"https://iclr.cc/virtual/2025/poster/30350" 1 MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents
+"https://iclr.cc/virtual/2025/poster/29189" 1 Self-Play Preference Optimization for Language Model Alignment
+"https://iclr.cc/virtual/2025/poster/30955" 1 Prioritized Generative Replay
+"https://iclr.cc/virtual/2025/poster/28655" 1 Merging LoRAs like Playing LEGO: Pushing the Modularity of LoRA to Extremes Through Rank-Wise Clustering
+"https://iclr.cc/virtual/2025/poster/29493" 1 InverseBench: Benchmarking Plug-and-Play Diffusion Priors for Inverse Problems in Physical Sciences
+"https://iclr.cc/virtual/2025/poster/30965" 1 PnP-Flow: Plug-and-Play Image Restoration with Flow Matching
+"https://iclr.cc/virtual/2025/poster/30416" 1 AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials
+"https://iclr.cc/virtual/2025/poster/28838" 1 Black Sheep in the Herd: Playing with Spuriously Correlated Attributes for Vision-Language Recognition
+"https://iclr.cc/virtual/2025/poster/28077" 1 Classic but Everlasting: Traditional Gradient-Based Algorithms Converge Fast Even in Time-Varying Multi-Player Games
+"https://iclr.cc/virtual/2025/poster/30072" 1 Divergence-Regularized Discounted Aggregation: Equilibrium Finding in Multiplayer Partially Observable Stochastic Games

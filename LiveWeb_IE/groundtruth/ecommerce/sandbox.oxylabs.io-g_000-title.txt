@@ -1,0 +1,1026 @@
+ecommerce sandbox.oxylabs.io g_000 game_title
+1024 1024 1024
+"https://sandbox.oxylabs.io/products/1" 1 The Legend of Zelda: Ocarina of Time
+"https://sandbox.oxylabs.io/products/10" 1 Tekken 3
+"https://sandbox.oxylabs.io/products/100" 1 Mario Kart 8 Deluxe
+"https://sandbox.oxylabs.io/products/1000" 1 MLB 15: The Show
+"https://sandbox.oxylabs.io/products/1001" 1 Monster Hunter Generations Ultimate
+"https://sandbox.oxylabs.io/products/1002" 1 Dishonored: The Knife of Dunwall
+"https://sandbox.oxylabs.io/products/1003" 1 Company of Heroes 2
+"https://sandbox.oxylabs.io/products/1004" 1 RiME
+"https://sandbox.oxylabs.io/products/1005" 1 Natural Selection 2
+"https://sandbox.oxylabs.io/products/1006" 1 Red Steel 2
+"https://sandbox.oxylabs.io/products/1007" 1 Ninjatown
+"https://sandbox.oxylabs.io/products/1008" 1 MotoGP '06
+"https://sandbox.oxylabs.io/products/1009" 1 Dandy Ace
+"https://sandbox.oxylabs.io/products/101" 1 The ICO & Shadow of the Colossus Collection
+"https://sandbox.oxylabs.io/products/1010" 1 Mr. Driller: Drill Land
+"https://sandbox.oxylabs.io/products/1011" 1 Wintermoor Tactics Club
+"https://sandbox.oxylabs.io/products/1012" 1 A Short Hike
+"https://sandbox.oxylabs.io/products/1013" 1 Blazing Beaks
+"https://sandbox.oxylabs.io/products/1014" 1 Octahedron
+"https://sandbox.oxylabs.io/products/1015" 1 Style Savvy: Styling Star
+"https://sandbox.oxylabs.io/products/1016" 1 Samorost 3
+"https://sandbox.oxylabs.io/products/1017" 1 The Sims 3: Into the Future
+"https://sandbox.oxylabs.io/products/1018" 1 Wii Fit Plus
+"https://sandbox.oxylabs.io/products/1019" 1 FATE
+"https://sandbox.oxylabs.io/products/102" 1 Metroid Prime 2: Echoes
+"https://sandbox.oxylabs.io/products/1020" 1 Ultimate Brain Games
+"https://sandbox.oxylabs.io/products/1021" 1 Disney's Lilo & Stitch
+"https://sandbox.oxylabs.io/products/1022" 1 Asheron's Call Dark Majesty
+"https://sandbox.oxylabs.io/products/1023" 1 Gran Turismo 5 Prologue
+"https://sandbox.oxylabs.io/products/1024" 1 Valorant
+"https://sandbox.oxylabs.io/products/103" 1 Out of the Park Baseball 17
+"https://sandbox.oxylabs.io/products/104" 1 Metroid Fusion
+"https://sandbox.oxylabs.io/products/105" 1 Final Fantasy VI Advance
+"https://sandbox.oxylabs.io/products/106" 1 Dishonored
+"https://sandbox.oxylabs.io/products/107" 1 Medal of Honor: Allied Assault
+"https://sandbox.oxylabs.io/products/108" 1 Myth: The Fallen Lords
+"https://sandbox.oxylabs.io/products/109" 1 LittleBigPlanet 2
+"https://sandbox.oxylabs.io/products/11" 1 The Legend of Zelda: The Wind Waker
+"https://sandbox.oxylabs.io/products/110" 1 Psychonauts 2
+"https://sandbox.oxylabs.io/products/111" 1 Guitar Hero
+"https://sandbox.oxylabs.io/products/112" 1 World of Warcraft: Wrath of the Lich King
+"https://sandbox.oxylabs.io/products/113" 1 Metroid Prime Trilogy
+"https://sandbox.oxylabs.io/products/114" 1 F1 Challenge '99-'02
+"https://sandbox.oxylabs.io/products/115" 1 Baldur's Gate
+"https://sandbox.oxylabs.io/products/116" 1 Klonoa 2: Lunatea's Veil
+"https://sandbox.oxylabs.io/products/117" 1 IL-2 Sturmovik
+"https://sandbox.oxylabs.io/products/118" 1 Mario Tennis
+"https://sandbox.oxylabs.io/products/119" 1 FreeSpace 2
+"https://sandbox.oxylabs.io/products/12" 1 Gran Turismo
+"https://sandbox.oxylabs.io/products/120" 1 Colony Wars
+"https://sandbox.oxylabs.io/products/121" 1 Ratchet & Clank: Up Your Arsenal
+"https://sandbox.oxylabs.io/products/122" 1 Resident Evil (2002)
+"https://sandbox.oxylabs.io/products/123" 1 Metal Gear Solid 3: Snake Eater
+"https://sandbox.oxylabs.io/products/124" 1 Twisted Metal: Black
+"https://sandbox.oxylabs.io/products/125" 1 Spyro: Year of the Dragon
+"https://sandbox.oxylabs.io/products/126" 1 Tomb Raider
+"https://sandbox.oxylabs.io/products/127" 1 Factorio
+"https://sandbox.oxylabs.io/products/128" 1 Resident Evil 4: Wii Edition
+"https://sandbox.oxylabs.io/products/129" 1 Peggle
+"https://sandbox.oxylabs.io/products/13" 1 Metal Gear Solid 2: Sons of Liberty
+"https://sandbox.oxylabs.io/products/130" 1 The Legend of Zelda: Ocarina of Time / Master Quest
+"https://sandbox.oxylabs.io/products/131" 1 Sonic Mania Plus
+"https://sandbox.oxylabs.io/products/132" 1 Kentucky Route Zero - Act III
+"https://sandbox.oxylabs.io/products/133" 1 Crysis
+"https://sandbox.oxylabs.io/products/134" 1 Ninja Gaiden
+"https://sandbox.oxylabs.io/products/135" 1 God of War: Chains of Olympus
+"https://sandbox.oxylabs.io/products/136" 1 DOA2: Hardcore
+"https://sandbox.oxylabs.io/products/137" 1 World of Warcraft: The Burning Crusade
+"https://sandbox.oxylabs.io/products/138" 1 Yoshi's Island: Super Mario Advance 3
+"https://sandbox.oxylabs.io/products/139" 1 The Longest Journey
+"https://sandbox.oxylabs.io/products/14" 1 Grand Theft Auto Double Pack
+"https://sandbox.oxylabs.io/products/140" 1 Star Wars Jedi Knight: Dark Forces II
+"https://sandbox.oxylabs.io/products/141" 1 Halo: Reach
+"https://sandbox.oxylabs.io/products/142" 1 Galactic Civilizations II: Dark Avatar
+"https://sandbox.oxylabs.io/products/143" 1 Mass Effect
+"https://sandbox.oxylabs.io/products/144" 1 Crusader Kings III
+"https://sandbox.oxylabs.io/products/145" 1 Forza Motorsport 4
+"https://sandbox.oxylabs.io/products/146" 1 Battlefield 2
+"https://sandbox.oxylabs.io/products/147" 1 Planescape: Torment
+"https://sandbox.oxylabs.io/products/148" 1 Gears of War 3
+"https://sandbox.oxylabs.io/products/149" 1 Killzone 2
+"https://sandbox.oxylabs.io/products/15" 1 Baldur's Gate II: Shadows of Amn
+"https://sandbox.oxylabs.io/products/150" 1 Neverwinter Nights
+"https://sandbox.oxylabs.io/products/151" 1 Castlevania: Aria of Sorrow
+"https://sandbox.oxylabs.io/products/152" 1 No One Lives Forever 2: A Spy in H.A.R.M.'s Way
+"https://sandbox.oxylabs.io/products/153" 1 Legacy of Kain: Soul Reaver
+"https://sandbox.oxylabs.io/products/154" 1 Dragon Age: Origins
+"https://sandbox.oxylabs.io/products/155" 1 Golden Sun
+"https://sandbox.oxylabs.io/products/156" 1 Disco Elysium
+"https://sandbox.oxylabs.io/products/157" 1 SteamWorld Heist: Ultimate Edition
+"https://sandbox.oxylabs.io/products/158" 1 The Legend of Zelda: A Link Between Worlds
+"https://sandbox.oxylabs.io/products/159" 1 NieR: Automata - Game of the YoRHa Edition
+"https://sandbox.oxylabs.io/products/16" 1 Tetris Effect: Connected
+"https://sandbox.oxylabs.io/products/160" 1 Castlevania: Circle of the Moon
+"https://sandbox.oxylabs.io/products/161" 1 Shovel Knight: Treasure Trove
+"https://sandbox.oxylabs.io/products/162" 1 flower
+"https://sandbox.oxylabs.io/products/163" 1 Mario Kart DS
+"https://sandbox.oxylabs.io/products/164" 1 Call of Duty
+"https://sandbox.oxylabs.io/products/165" 1 Mario Golf
+"https://sandbox.oxylabs.io/products/166" 1 Crash Bandicoot 3: Warped
+"https://sandbox.oxylabs.io/products/167" 1 Project Gotham Racing 2
+"https://sandbox.oxylabs.io/products/168" 1 Animal Crossing: New Horizons
+"https://sandbox.oxylabs.io/products/169" 1 World of Warcraft: Cataclysm
+"https://sandbox.oxylabs.io/products/17" 1 The Legend of Zelda Collector's Edition
+"https://sandbox.oxylabs.io/products/170" 1 Rayman 2: The Great Escape
+"https://sandbox.oxylabs.io/products/171" 1 Diablo III: Ultimate Evil Edition
+"https://sandbox.oxylabs.io/products/172" 1 ICO
+"https://sandbox.oxylabs.io/products/173" 1 Mario & Luigi: Superstar Saga
+"https://sandbox.oxylabs.io/products/174" 1 Ape Escape
+"https://sandbox.oxylabs.io/products/175" 1 Syphon Filter
+"https://sandbox.oxylabs.io/products/176" 1 Mario & Luigi: Bowser's Inside Story
+"https://sandbox.oxylabs.io/products/177" 1 Trials Evolution
+"https://sandbox.oxylabs.io/products/178" 1 Grand Theft Auto IV: The Lost and Damned
+"https://sandbox.oxylabs.io/products/179" 1 Ratchet & Clank: Going Commando
+"https://sandbox.oxylabs.io/products/18" 1 Gran Turismo 3: A-Spec
+"https://sandbox.oxylabs.io/products/180" 1 NBA Street Vol. 2
+"https://sandbox.oxylabs.io/products/181" 1 Tennis 2K2
+"https://sandbox.oxylabs.io/products/182" 1 Black & White
+"https://sandbox.oxylabs.io/products/183" 1 The Legend of Zelda: The Wind Waker HD
+"https://sandbox.oxylabs.io/products/184" 1 Portal
+"https://sandbox.oxylabs.io/products/185" 1 Tetris Effect
+"https://sandbox.oxylabs.io/products/186" 1 The Legend of Zelda: Phantom Hourglass
+"https://sandbox.oxylabs.io/products/187" 1 Dance Dance Revolution
+"https://sandbox.oxylabs.io/products/188" 1 Advance Wars: Dual Strike
+"https://sandbox.oxylabs.io/products/189" 1 NieR: Automata - Become as Gods Edition
+"https://sandbox.oxylabs.io/products/19" 1 The Legend of Zelda: A Link to the Past
+"https://sandbox.oxylabs.io/products/190" 1 Jak and Daxter: The Precursor Legacy
+"https://sandbox.oxylabs.io/products/191" 1 Star Wars Rogue Leader: Rogue Squadron II
+"https://sandbox.oxylabs.io/products/192" 1 Stephen's Sausage Roll
+"https://sandbox.oxylabs.io/products/193" 1 NCAA Football 2002
+"https://sandbox.oxylabs.io/products/194" 1 Deus Ex
+"https://sandbox.oxylabs.io/products/195" 1 Donkey Kong 64
+"https://sandbox.oxylabs.io/products/196" 1 Panzer Dragoon Orta
+"https://sandbox.oxylabs.io/products/197" 1 Portal: Still Alive
+"https://sandbox.oxylabs.io/products/198" 1 Half-Life 2: Episode Two
+"https://sandbox.oxylabs.io/products/199" 1 The Chronicles of Riddick: Escape From Butcher Bay - Developer's Cut
+"https://sandbox.oxylabs.io/products/2" 1 Super Mario Galaxy
+"https://sandbox.oxylabs.io/products/20" 1 The Legend of Zelda: Majora's Mask
+"https://sandbox.oxylabs.io/products/200" 1 Shin Megami Tensei: Persona 4
+"https://sandbox.oxylabs.io/products/201" 1 Hollow Knight
+"https://sandbox.oxylabs.io/products/202" 1 Blast Corps
+"https://sandbox.oxylabs.io/products/203" 1 Sid Meier's Civilization III
+"https://sandbox.oxylabs.io/products/204" 1 NFL 2K2
+"https://sandbox.oxylabs.io/products/205" 1 WWF SmackDown! 2: Know Your Role
+"https://sandbox.oxylabs.io/products/206" 1 Silent Hunter III
+"https://sandbox.oxylabs.io/products/207" 1 Dead Space 2
+"https://sandbox.oxylabs.io/products/208" 1 Pikmin 2
+"https://sandbox.oxylabs.io/products/209" 1 Geometry Wars: Retro Evolved 2
+"https://sandbox.oxylabs.io/products/21" 1 The Last of Us
+"https://sandbox.oxylabs.io/products/210" 1 Sid Meier's Civilization V
+"https://sandbox.oxylabs.io/products/211" 1 Super Mario 3D Land
+"https://sandbox.oxylabs.io/products/212" 1 Mario Kart 8 DLC Pack 2
+"https://sandbox.oxylabs.io/products/213" 1 Falcon 4.0: Allied Force
+"https://sandbox.oxylabs.io/products/214" 1 Deus Ex: Human Revolution
+"https://sandbox.oxylabs.io/products/215" 1 Metroid Prime 3: Corruption
+"https://sandbox.oxylabs.io/products/216" 1 Flight Simulator 2002
+"https://sandbox.oxylabs.io/products/217" 1 Banjo-Tooie
+"https://sandbox.oxylabs.io/products/218" 1 Uncharted: Drake's Fortune
+"https://sandbox.oxylabs.io/products/219" 1 Warcraft III: The Frozen Throne
+"https://sandbox.oxylabs.io/products/22" 1 Persona 5 Royal
+"https://sandbox.oxylabs.io/products/220" 1 Tactics Ogre: The Knight of Lodis
+"https://sandbox.oxylabs.io/products/221" 1 Starcraft
+"https://sandbox.oxylabs.io/products/222" 1 The Last of Us: Left Behind
+"https://sandbox.oxylabs.io/products/223" 1 Star Wars Pinball: Balance of the Force
+"https://sandbox.oxylabs.io/products/224" 1 The Secret of Monkey Island: Special Edition
+"https://sandbox.oxylabs.io/products/225" 1 Project Gotham Racing 3
+"https://sandbox.oxylabs.io/products/226" 1 The World Ends with You
+"https://sandbox.oxylabs.io/products/227" 1 Dishonored 2
+"https://sandbox.oxylabs.io/products/228" 1 Injustice 2: Legendary Edition
+"https://sandbox.oxylabs.io/products/229" 1 Divinity: Original Sin Enhanced Edition
+"https://sandbox.oxylabs.io/products/23" 1 The Last of Us Remastered
+"https://sandbox.oxylabs.io/products/230" 1 Minecraft: Xbox One Edition
+"https://sandbox.oxylabs.io/products/231" 1 JSRF: Jet Set Radio Future
+"https://sandbox.oxylabs.io/products/232" 1 Red Faction
+"https://sandbox.oxylabs.io/products/233" 1 Myth II: Soulblighter
+"https://sandbox.oxylabs.io/products/234" 1 Ninja Gaiden Sigma
+"https://sandbox.oxylabs.io/products/235" 1 Fire Emblem Fates: Special Edition
+"https://sandbox.oxylabs.io/products/236" 1 Pinball FX 2
+"https://sandbox.oxylabs.io/products/237" 1 Final Fantasy Tactics: The War of the Lions
+"https://sandbox.oxylabs.io/products/238" 1 NHL 11
+"https://sandbox.oxylabs.io/products/239" 1 Wario Land 4
+"https://sandbox.oxylabs.io/products/24" 1 The Legend of Zelda: Ocarina of Time 3D
+"https://sandbox.oxylabs.io/products/240" 1 Metroid Dread
+"https://sandbox.oxylabs.io/products/241" 1 The Elder Scrolls III: Morrowind Game of the Year Edition
+"https://sandbox.oxylabs.io/products/242" 1 WarioWare: Twisted!
+"https://sandbox.oxylabs.io/products/243" 1 Halo: The Master Chief Collection - Halo 3
+"https://sandbox.oxylabs.io/products/244" 1 Pokemon Y
+"https://sandbox.oxylabs.io/products/245" 1 Return to Castle Wolfenstein
+"https://sandbox.oxylabs.io/products/246" 1 Ratchet & Clank: Rift Apart
+"https://sandbox.oxylabs.io/products/247" 1 NBA Street
+"https://sandbox.oxylabs.io/products/248" 1 Shogo: Mobile Armor Division
+"https://sandbox.oxylabs.io/products/249" 1 Thirty Flights of Loving
+"https://sandbox.oxylabs.io/products/25" 1 Chrono Cross
+"https://sandbox.oxylabs.io/products/250" 1 Hearthstone: Heroes of Warcraft
+"https://sandbox.oxylabs.io/products/251" 1 Unity of Command II
+"https://sandbox.oxylabs.io/products/252" 1 Ghost of Tsushima: Director's Cut
+"https://sandbox.oxylabs.io/products/253" 1 Grand Theft Auto: Liberty City Stories
+"https://sandbox.oxylabs.io/products/254" 1 Medieval II: Total War
+"https://sandbox.oxylabs.io/products/255" 1 Super Mario Maker 2
+"https://sandbox.oxylabs.io/products/256" 1 Sly 2: Band of Thieves
+"https://sandbox.oxylabs.io/products/257" 1 Doom 3
+"https://sandbox.oxylabs.io/products/258" 1 Tekken: Dark Resurrection
+"https://sandbox.oxylabs.io/products/259" 1 The Stanley Parable
+"https://sandbox.oxylabs.io/products/26" 1 Gears of War
+"https://sandbox.oxylabs.io/products/260" 1 Slay the Spire
+"https://sandbox.oxylabs.io/products/261" 1 Guacamelee! Gold Edition
+"https://sandbox.oxylabs.io/products/262" 1 Counter-Strike: Source
+"https://sandbox.oxylabs.io/products/263" 1 Fire Emblem
+"https://sandbox.oxylabs.io/products/264" 1 Fire Emblem Fates: Revelation
+"https://sandbox.oxylabs.io/products/265" 1 Need for Speed: High Stakes
+"https://sandbox.oxylabs.io/products/266" 1 Street Fighter III: Third Strike Online Edition
+"https://sandbox.oxylabs.io/products/267" 1 Professor Layton and the Unwound Future
+"https://sandbox.oxylabs.io/products/268" 1 We Love Katamari
+"https://sandbox.oxylabs.io/products/269" 1 Worldwide Soccer Manager 2008
+"https://sandbox.oxylabs.io/products/27" 1 Sid Meier's Civilization II
+"https://sandbox.oxylabs.io/products/270" 1 Dance Central 2
+"https://sandbox.oxylabs.io/products/271" 1 Sly Cooper and the Thievius Raccoonus
+"https://sandbox.oxylabs.io/products/272" 1 IL-2 Sturmovik: Forgotten Battles
+"https://sandbox.oxylabs.io/products/273" 1 DiRT 3
+"https://sandbox.oxylabs.io/products/274" 1 Minecraft: PlayStation 3 Edition
+"https://sandbox.oxylabs.io/products/275" 1 Devotion
+"https://sandbox.oxylabs.io/products/276" 1 The Legend of Zelda: Four Swords Adventures
+"https://sandbox.oxylabs.io/products/277" 1 Joe Danger
+"https://sandbox.oxylabs.io/products/278" 1 Tales of Symphonia
+"https://sandbox.oxylabs.io/products/279" 1 Unreal Tournament 2003
+"https://sandbox.oxylabs.io/products/28" 1 Halo 3
+"https://sandbox.oxylabs.io/products/280" 1 Age of Wonders II: The Wizard's Throne
+"https://sandbox.oxylabs.io/products/281" 1 Daytona USA
+"https://sandbox.oxylabs.io/products/282" 1 Links 2001
+"https://sandbox.oxylabs.io/products/283" 1 EverQuest: The Ruins of Kunark
+"https://sandbox.oxylabs.io/products/284" 1 Full Throttle
+"https://sandbox.oxylabs.io/products/285" 1 Katamari Damacy
+"https://sandbox.oxylabs.io/products/286" 1 The Lord of the Rings Online: Shadows of Angmar
+"https://sandbox.oxylabs.io/products/287" 1 Grand Theft Auto: Vice City Stories
+"https://sandbox.oxylabs.io/products/288" 1 Pony Island
+"https://sandbox.oxylabs.io/products/289" 1 Warhammer 40,000: Dawn of War
+"https://sandbox.oxylabs.io/products/29" 1 Ninja Gaiden Black
+"https://sandbox.oxylabs.io/products/290" 1 MLB The Show 19
+"https://sandbox.oxylabs.io/products/291" 1 Tales From Space: Mutant Blobs Attack
+"https://sandbox.oxylabs.io/products/292" 1 Max Payne 3
+"https://sandbox.oxylabs.io/products/293" 1 Skate
+"https://sandbox.oxylabs.io/products/294" 1 Warhammer Online: Age of Reckoning
+"https://sandbox.oxylabs.io/products/295" 1 NHL 12
+"https://sandbox.oxylabs.io/products/296" 1 Dead Space (2008)
+"https://sandbox.oxylabs.io/products/297" 1 Advance Wars: Days of Ruin
+"https://sandbox.oxylabs.io/products/298" 1 The Elder Scrolls IV - Knights of the Nine
+"https://sandbox.oxylabs.io/products/299" 1 Final Fantasy IV Pixel Remaster
+"https://sandbox.oxylabs.io/products/3" 1 Super Mario Galaxy 2
+"https://sandbox.oxylabs.io/products/30" 1 Super Mario Advance 4: Super Mario Bros. 3
+"https://sandbox.oxylabs.io/products/300" 1 Forza Horizon 2
+"https://sandbox.oxylabs.io/products/301" 1 Monster Train
+"https://sandbox.oxylabs.io/products/302" 1 Crypt of the NecroDancer: Nintendo Switch Edition
+"https://sandbox.oxylabs.io/products/303" 1 Moto Racer Advance
+"https://sandbox.oxylabs.io/products/304" 1 Command & Conquer: Red Alert 2 - Yuri's Revenge
+"https://sandbox.oxylabs.io/products/305" 1 Europa Universalis
+"https://sandbox.oxylabs.io/products/306" 1 IL-2 Sturmovik: 1946
+"https://sandbox.oxylabs.io/products/307" 1 Luigi's Mansion 3
+"https://sandbox.oxylabs.io/products/308" 1 Dance Central 3
+"https://sandbox.oxylabs.io/products/309" 1 Shatter
+"https://sandbox.oxylabs.io/products/31" 1 Jet Grind Radio
+"https://sandbox.oxylabs.io/products/310" 1 Luigi's Mansion: Dark Moon
+"https://sandbox.oxylabs.io/products/311" 1 Psychonauts
+"https://sandbox.oxylabs.io/products/312" 1 Dragon Quest XI: Echoes of an Elusive Age
+"https://sandbox.oxylabs.io/products/313" 1 F-Zero: Maximum Velocity
+"https://sandbox.oxylabs.io/products/314" 1 Destiny: The Taken King
+"https://sandbox.oxylabs.io/products/315" 1 Heroes of the Storm
+"https://sandbox.oxylabs.io/products/316" 1 The Binding of Isaac: Afterbirth +
+"https://sandbox.oxylabs.io/products/317" 1 Super Smash Bros. for Nintendo 3DS
+"https://sandbox.oxylabs.io/products/318" 1 Medieval II: Total War Kingdoms
+"https://sandbox.oxylabs.io/products/319" 1 DJMax Respect
+"https://sandbox.oxylabs.io/products/32" 1 Grim Fandango
+"https://sandbox.oxylabs.io/products/320" 1 Resogun: Defenders
+"https://sandbox.oxylabs.io/products/321" 1 The Legend of Zelda: Four Swords Anniversary Edition
+"https://sandbox.oxylabs.io/products/322" 1 Maboshi's Arcade
+"https://sandbox.oxylabs.io/products/323" 1 Peggle Deluxe
+"https://sandbox.oxylabs.io/products/324" 1 WWE SmackDown! Here Comes the Pain
+"https://sandbox.oxylabs.io/products/325" 1 Hot Shots Golf 3
+"https://sandbox.oxylabs.io/products/326" 1 Monopoly Tycoon
+"https://sandbox.oxylabs.io/products/327" 1 Sam & Max Episode 204: Chariots of the Dogs
+"https://sandbox.oxylabs.io/products/328" 1 Machinarium
+"https://sandbox.oxylabs.io/products/329" 1 Nioh 2
+"https://sandbox.oxylabs.io/products/33" 1 Resident Evil Code: Veronica
+"https://sandbox.oxylabs.io/products/330" 1 Frozen Synapse
+"https://sandbox.oxylabs.io/products/331" 1 Champions of Norrath
+"https://sandbox.oxylabs.io/products/332" 1 The Witcher 3: Wild Hunt - Complete Edition
+"https://sandbox.oxylabs.io/products/333" 1 Freelancer
+"https://sandbox.oxylabs.io/products/334" 1 Bayonetta & Vanquish
+"https://sandbox.oxylabs.io/products/335" 1 Zenzizenzic
+"https://sandbox.oxylabs.io/products/336" 1 NBA Jam: On Fire Edition
+"https://sandbox.oxylabs.io/products/337" 1 Galactic Civilizations III: Crusade
+"https://sandbox.oxylabs.io/products/338" 1 Final Fantasy IV Advance
+"https://sandbox.oxylabs.io/products/339" 1 Robo Recall
+"https://sandbox.oxylabs.io/products/34" 1 Diablo
+"https://sandbox.oxylabs.io/products/340" 1 Super Stardust HD
+"https://sandbox.oxylabs.io/products/341" 1 Super Paper Mario
+"https://sandbox.oxylabs.io/products/342" 1 Star Wars: Rogue Squadron
+"https://sandbox.oxylabs.io/products/343" 1 Professor Layton and the Curious Village
+"https://sandbox.oxylabs.io/products/344" 1 AudioSurf
+"https://sandbox.oxylabs.io/products/345" 1 Super Mario 64 DS
+"https://sandbox.oxylabs.io/products/346" 1 Dead Rising
+"https://sandbox.oxylabs.io/products/347" 1 MLB The Show 17
+"https://sandbox.oxylabs.io/products/348" 1 AMID EVIL
+"https://sandbox.oxylabs.io/products/349" 1 Mario Kart 7
+"https://sandbox.oxylabs.io/products/35" 1 Metal Gear Solid 3: Subsistence
+"https://sandbox.oxylabs.io/products/350" 1 Halo: The Master Chief Collection
+"https://sandbox.oxylabs.io/products/351" 1 Batman: The Enemy Within - Episode 5: Same Stitch
+"https://sandbox.oxylabs.io/products/352" 1 NCAA Football 11
+"https://sandbox.oxylabs.io/products/353" 1 Phantasy Star Online Episode I & II
+"https://sandbox.oxylabs.io/products/354" 1 Persona 4 Arena Ultimax
+"https://sandbox.oxylabs.io/products/355" 1 Pikmin 3 Deluxe
+"https://sandbox.oxylabs.io/products/356" 1 Fire Emblem: Path of Radiance
+"https://sandbox.oxylabs.io/products/357" 1 Super Mega Baseball
+"https://sandbox.oxylabs.io/products/358" 1 DDRMAX: Dance Dance Revolution
+"https://sandbox.oxylabs.io/products/359" 1 F355 Challenge
+"https://sandbox.oxylabs.io/products/36" 1 Metal Gear Solid 4: Guns of the Patriots
+"https://sandbox.oxylabs.io/products/360" 1 The Elder Scrolls III: Bloodmoon
+"https://sandbox.oxylabs.io/products/361" 1 Boom Blox
+"https://sandbox.oxylabs.io/products/362" 1 Maximo: Ghosts to Glory
+"https://sandbox.oxylabs.io/products/363" 1 BlazBlue: Central Fiction
+"https://sandbox.oxylabs.io/products/364" 1 80 DAYS
+"https://sandbox.oxylabs.io/products/365" 1 Hearthstone: Heroes of Warcraft - Goblins Vs. Gnomes
+"https://sandbox.oxylabs.io/products/366" 1 MotorStorm
+"https://sandbox.oxylabs.io/products/367" 1 WHAT THE GOLF?
+"https://sandbox.oxylabs.io/products/368" 1 God of War: Origins Collection
+"https://sandbox.oxylabs.io/products/369" 1 Xenogears
+"https://sandbox.oxylabs.io/products/37" 1 Sid Meier's Civilization IV
+"https://sandbox.oxylabs.io/products/370" 1 Space Rangers 2: Rise of the Dominators
+"https://sandbox.oxylabs.io/products/371" 1 Tetris DS
+"https://sandbox.oxylabs.io/products/372" 1 Shin Megami Tensei: Devil Survivor
+"https://sandbox.oxylabs.io/products/373" 1 Battlefield 3
+"https://sandbox.oxylabs.io/products/374" 1 Monster Hunter Tri
+"https://sandbox.oxylabs.io/products/375" 1 Return to Castle Wolfenstein: Tides of War
+"https://sandbox.oxylabs.io/products/376" 1 Heroes of Might and Magic IV
+"https://sandbox.oxylabs.io/products/377" 1 Command & Conquer: Red Alert 2
+"https://sandbox.oxylabs.io/products/378" 1 Shogun: Total War
+"https://sandbox.oxylabs.io/products/379" 1 Mega Man X Legacy Collection
+"https://sandbox.oxylabs.io/products/38" 1 Virtua Fighter 4
+"https://sandbox.oxylabs.io/products/380" 1 Rayman Legends: Definitive Edition
+"https://sandbox.oxylabs.io/products/381" 1 Shin Megami Tensei: Devil Survivor 2 Record Breaker
+"https://sandbox.oxylabs.io/products/382" 1 Gears of War 4
+"https://sandbox.oxylabs.io/products/383" 1 Halo 5: Guardians
+"https://sandbox.oxylabs.io/products/384" 1 Football Manager 2012
+"https://sandbox.oxylabs.io/products/385" 1 Inscryption
+"https://sandbox.oxylabs.io/products/386" 1 ZEN Pinball 2: South Park: Super-Sweet Pinball
+"https://sandbox.oxylabs.io/products/387" 1 Trine 2: Director's Cut
+"https://sandbox.oxylabs.io/products/388" 1 Guild Wars Factions
+"https://sandbox.oxylabs.io/products/389" 1 Guacamelee!
+"https://sandbox.oxylabs.io/products/39" 1 Super Mario 64
+"https://sandbox.oxylabs.io/products/390" 1 No More Heroes 2: Desperate Struggle
+"https://sandbox.oxylabs.io/products/391" 1 LEGO Star Wars II: The Original Trilogy
+"https://sandbox.oxylabs.io/products/392" 1 80 Days (2015)
+"https://sandbox.oxylabs.io/products/393" 1 Spore
+"https://sandbox.oxylabs.io/products/394" 1 Unity of Command
+"https://sandbox.oxylabs.io/products/395" 1 Colin McRae Rally 04
+"https://sandbox.oxylabs.io/products/396" 1 Skies of Arcadia Legends
+"https://sandbox.oxylabs.io/products/397" 1 Fear Effect 2: Retro Helix
+"https://sandbox.oxylabs.io/products/398" 1 Sega GT
+"https://sandbox.oxylabs.io/products/399" 1 Kingdom: Two Crowns
+"https://sandbox.oxylabs.io/products/4" 1 Metroid Prime
+"https://sandbox.oxylabs.io/products/40" 1 Super Smash Bros. Brawl
+"https://sandbox.oxylabs.io/products/400" 1 Hearthstone: Heroes of Warcraft - The Grand Tournament
+"https://sandbox.oxylabs.io/products/401" 1 Eliza
+"https://sandbox.oxylabs.io/products/402" 1 Time Gentlemen, Please!
+"https://sandbox.oxylabs.io/products/403" 1 Horizon Zero Dawn: Complete Edition
+"https://sandbox.oxylabs.io/products/404" 1 Mushihimesama
+"https://sandbox.oxylabs.io/products/405" 1 Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey
+"https://sandbox.oxylabs.io/products/406" 1 Total War: WARHAMMER II - Rise of the Tomb Kings
+"https://sandbox.oxylabs.io/products/407" 1 Guilty Gear -Strive-
+"https://sandbox.oxylabs.io/products/408" 1 Frozen Synapse Prime
+"https://sandbox.oxylabs.io/products/409" 1 Killzone 3
+"https://sandbox.oxylabs.io/products/41" 1 Company of Heroes
+"https://sandbox.oxylabs.io/products/410" 1 Devil May Cry 3: Dante's Awakening
+"https://sandbox.oxylabs.io/products/411" 1 Professor Layton and the Diabolical Box
+"https://sandbox.oxylabs.io/products/412" 1 Europa Universalis IV: Wealth of Nations
+"https://sandbox.oxylabs.io/products/413" 1 Disciples II: Dark Prophecy
+"https://sandbox.oxylabs.io/products/414" 1 Silent Hill 2: Restless Dreams
+"https://sandbox.oxylabs.io/products/415" 1 Frostpunk
+"https://sandbox.oxylabs.io/products/416" 1 Football Manager 2020
+"https://sandbox.oxylabs.io/products/417" 1 Polybius
+"https://sandbox.oxylabs.io/products/418" 1 Crysis Warhead
+"https://sandbox.oxylabs.io/products/419" 1 Uncharted: The Lost Legacy
+"https://sandbox.oxylabs.io/products/42" 1 Gran Turismo 2
+"https://sandbox.oxylabs.io/products/420" 1 Tom Clancy's Rainbow Six 3: Black Arrow
+"https://sandbox.oxylabs.io/products/421" 1 Griftlands
+"https://sandbox.oxylabs.io/products/422" 1 ZEN Pinball 2: Aliens Vs. Pinball
+"https://sandbox.oxylabs.io/products/423" 1 Bit.Trip Complete
+"https://sandbox.oxylabs.io/products/424" 1 Classic NES Series: Super Mario Bros.
+"https://sandbox.oxylabs.io/products/425" 1 Age of Mythology: The Titans
+"https://sandbox.oxylabs.io/products/426" 1 SimCity 4
+"https://sandbox.oxylabs.io/products/427" 1 Sega Soccer Slam
+"https://sandbox.oxylabs.io/products/428" 1 Spider-Man: Mysterio's Menace
+"https://sandbox.oxylabs.io/products/429" 1 Super Mario Advance
+"https://sandbox.oxylabs.io/products/43" 1 The Last of Us Part II
+"https://sandbox.oxylabs.io/products/430" 1 Microsoft Train Simulator
+"https://sandbox.oxylabs.io/products/431" 1 San Francisco Rush 2049
+"https://sandbox.oxylabs.io/products/432" 1 WipeOut 64
+"https://sandbox.oxylabs.io/products/433" 1 Dead or Alive
+"https://sandbox.oxylabs.io/products/434" 1 Magic: The Gathering Arena
+"https://sandbox.oxylabs.io/products/435" 1 Lair of the Clockwork God
+"https://sandbox.oxylabs.io/products/436" 1 Snipperclips Plus: Cut It Out, Together!
+"https://sandbox.oxylabs.io/products/437" 1 Tails Of Iron
+"https://sandbox.oxylabs.io/products/438" 1 Hatsune Miku: Project Diva Future Tone - Colorful Tone
+"https://sandbox.oxylabs.io/products/439" 1 Hatsune Miku: Project Diva Future Tone - Future Sound
+"https://sandbox.oxylabs.io/products/44" 1 Half-Life: Alyx
+"https://sandbox.oxylabs.io/products/440" 1 Dark Void Zero
+"https://sandbox.oxylabs.io/products/441" 1 Etrian Odyssey IV: Legends of the Titan
+"https://sandbox.oxylabs.io/products/442" 1 Black Mesa
+"https://sandbox.oxylabs.io/products/443" 1 Rise of Nations: Rise of Legends
+"https://sandbox.oxylabs.io/products/444" 1 FRU
+"https://sandbox.oxylabs.io/products/445" 1 FTL: Faster Than Light
+"https://sandbox.oxylabs.io/products/446" 1 Dragon Quest V: Hand of the Heavenly Bride
+"https://sandbox.oxylabs.io/products/447" 1 Xenoblade Chronicles X
+"https://sandbox.oxylabs.io/products/448" 1 Ace Combat 5: The Unsung War
+"https://sandbox.oxylabs.io/products/449" 1 Guacamelee! 2
+"https://sandbox.oxylabs.io/products/45" 1 Divinity: Original Sin II
+"https://sandbox.oxylabs.io/products/450" 1 Resogun
+"https://sandbox.oxylabs.io/products/451" 1 DEFCON: Everybody Dies
+"https://sandbox.oxylabs.io/products/452" 1 Tom Clancy's The Division 2
+"https://sandbox.oxylabs.io/products/453" 1 Pinball FX 2: Marvel Pinball - Vengeance and Virtue
+"https://sandbox.oxylabs.io/products/454" 1 NASCAR: Dirt to Daytona
+"https://sandbox.oxylabs.io/products/455" 1 Puyo Pop
+"https://sandbox.oxylabs.io/products/456" 1 Rayman Advance
+"https://sandbox.oxylabs.io/products/457" 1 Saints Row: The Third
+"https://sandbox.oxylabs.io/products/458" 1 Gran Turismo 5
+"https://sandbox.oxylabs.io/products/459" 1 Tron 2.0
+"https://sandbox.oxylabs.io/products/46" 1 Unreal Tournament 2004
+"https://sandbox.oxylabs.io/products/460" 1 NieR: Automata
+"https://sandbox.oxylabs.io/products/461" 1 Marvel's Spider-Man: Miles Morales
+"https://sandbox.oxylabs.io/products/462" 1 Pokemon Ultra Moon
+"https://sandbox.oxylabs.io/products/463" 1 The Darkside Detective: A Fumble in the Dark
+"https://sandbox.oxylabs.io/products/464" 1 Danmaku Unlimited 3
+"https://sandbox.oxylabs.io/products/465" 1 Nioh: Complete Edition
+"https://sandbox.oxylabs.io/products/466" 1 Half-Minute Hero
+"https://sandbox.oxylabs.io/products/467" 1 Madden NFL 11
+"https://sandbox.oxylabs.io/products/468" 1 Age of Empires II: Definitive Edition
+"https://sandbox.oxylabs.io/products/469" 1 Sega Ages: Fantasy Zone
+"https://sandbox.oxylabs.io/products/47" 1 God of War II
+"https://sandbox.oxylabs.io/products/470" 1 Mutant Mudds Deluxe
+"https://sandbox.oxylabs.io/products/471" 1 The Lord of the Rings: The Battle for Middle-Earth II
+"https://sandbox.oxylabs.io/products/472" 1 Classic NES Series: The Legend of Zelda
+"https://sandbox.oxylabs.io/products/473" 1 Battlefield Vietnam
+"https://sandbox.oxylabs.io/products/474" 1 Medieval: Total War - Viking Invasion
+"https://sandbox.oxylabs.io/products/475" 1 NBA 2K3
+"https://sandbox.oxylabs.io/products/476" 1 Dance Dance Revolution Konamix
+"https://sandbox.oxylabs.io/products/477" 1 Street Fighter III: 3rd Strike
+"https://sandbox.oxylabs.io/products/478" 1 Tom Clancy's Ghost Recon 2 Summit Strike
+"https://sandbox.oxylabs.io/products/479" 1 Baba Is You
+"https://sandbox.oxylabs.io/products/48" 1 Super Mario 3D World
+"https://sandbox.oxylabs.io/products/480" 1 Guild Wars Nightfall
+"https://sandbox.oxylabs.io/products/481" 1 Lara Croft GO
+"https://sandbox.oxylabs.io/products/482" 1 Disgaea 2: Cursed Memories
+"https://sandbox.oxylabs.io/products/483" 1 Minecraft: PlayStation Vita Edition
+"https://sandbox.oxylabs.io/products/484" 1 Bit.Trip Presents...Runner2: Future Legend of Rhythm Alien
+"https://sandbox.oxylabs.io/products/485" 1 The Binding of Isaac
+"https://sandbox.oxylabs.io/products/486" 1 Warhawk
+"https://sandbox.oxylabs.io/products/487" 1 Valkyrie Profile 2: Silmeria
+"https://sandbox.oxylabs.io/products/488" 1 New Super Mario Bros. U
+"https://sandbox.oxylabs.io/products/489" 1 PixelJunk Monsters: Ultimate HD
+"https://sandbox.oxylabs.io/products/49" 1 Starcraft II: Wings of Liberty
+"https://sandbox.oxylabs.io/products/490" 1 Rift
+"https://sandbox.oxylabs.io/products/491" 1 Zero Escape: Virtue's Last Reward
+"https://sandbox.oxylabs.io/products/492" 1 Project CARS 2
+"https://sandbox.oxylabs.io/products/493" 1 Child of Eden
+"https://sandbox.oxylabs.io/products/494" 1 Shift 2: Unleashed
+"https://sandbox.oxylabs.io/products/495" 1 Sid Meier's Civilization IV: Warlords
+"https://sandbox.oxylabs.io/products/496" 1 The Blackwell Epiphany
+"https://sandbox.oxylabs.io/products/497" 1 The Lord of the Rings Online: Siege of Mirkwood
+"https://sandbox.oxylabs.io/products/498" 1 One Finger Death Punch 2
+"https://sandbox.oxylabs.io/products/499" 1 Retro City Rampage DX
+"https://sandbox.oxylabs.io/products/5" 1 Super Mario Odyssey
+"https://sandbox.oxylabs.io/products/50" 1 Minecraft
+"https://sandbox.oxylabs.io/products/500" 1 Out of the Park Baseball 10
+"https://sandbox.oxylabs.io/products/501" 1 Bangai-O Spirits
+"https://sandbox.oxylabs.io/products/502" 1 The Forest
+"https://sandbox.oxylabs.io/products/503" 1 Tekken Tag Tournament 2: Wii U Edition
+"https://sandbox.oxylabs.io/products/504" 1 Call of Duty: Modern Warfare Remastered
+"https://sandbox.oxylabs.io/products/505" 1 MLB The Show 20
+"https://sandbox.oxylabs.io/products/506" 1 Hearts of Iron II
+"https://sandbox.oxylabs.io/products/507" 1 Ring Fit Adventure
+"https://sandbox.oxylabs.io/products/508" 1 Sackboy: A Big Adventure
+"https://sandbox.oxylabs.io/products/509" 1 ZEN Pinball 2: Portal Pinball
+"https://sandbox.oxylabs.io/products/51" 1 Persona 4 Golden
+"https://sandbox.oxylabs.io/products/510" 1 Star Wars Pinball
+"https://sandbox.oxylabs.io/products/511" 1 Crush
+"https://sandbox.oxylabs.io/products/512" 1 Total War: WARHAMMER II - Curse of the Vampire Coast
+"https://sandbox.oxylabs.io/products/513" 1 Riven: The Sequel to Myst
+"https://sandbox.oxylabs.io/products/514" 1 Guardian Heroes
+"https://sandbox.oxylabs.io/products/515" 1 Outer Wilds: Echoes of the Eye
+"https://sandbox.oxylabs.io/products/516" 1 Duck Game
+"https://sandbox.oxylabs.io/products/517" 1 Icewind Dale II
+"https://sandbox.oxylabs.io/products/518" 1 Age of Empires
+"https://sandbox.oxylabs.io/products/519" 1 EverQuest II: Echoes of Faydwer
+"https://sandbox.oxylabs.io/products/52" 1 Persona 5
+"https://sandbox.oxylabs.io/products/520" 1 Pocket Card Jockey
+"https://sandbox.oxylabs.io/products/521" 1 Bleach: The Blade of Fate
+"https://sandbox.oxylabs.io/products/522" 1 Lumines: Electronic Symphony
+"https://sandbox.oxylabs.io/products/523" 1 Splatoon 2
+"https://sandbox.oxylabs.io/products/524" 1 Crackdown
+"https://sandbox.oxylabs.io/products/525" 1 Observer: System Redux
+"https://sandbox.oxylabs.io/products/526" 1 EverQuest II
+"https://sandbox.oxylabs.io/products/527" 1 Yakuza 6: The Song of Life
+"https://sandbox.oxylabs.io/products/528" 1 Fable: The Lost Chapters
+"https://sandbox.oxylabs.io/products/529" 1 MLB 06: The Show
+"https://sandbox.oxylabs.io/products/53" 1 Quake III Arena
+"https://sandbox.oxylabs.io/products/530" 1 Card Hunter (2013)
+"https://sandbox.oxylabs.io/products/531" 1 Madden NFL 17
+"https://sandbox.oxylabs.io/products/532" 1 Picross DS
+"https://sandbox.oxylabs.io/products/533" 1 Knights and Bikes
+"https://sandbox.oxylabs.io/products/534" 1 Steins;Gate
+"https://sandbox.oxylabs.io/products/535" 1 Clubhouse Games
+"https://sandbox.oxylabs.io/products/536" 1 Super Puzzle Fighter II
+"https://sandbox.oxylabs.io/products/537" 1 Tom Clancy's Rainbow Six 3: Raven Shield
+"https://sandbox.oxylabs.io/products/538" 1 Xenosaga Episode I: Der Wille zur Macht
+"https://sandbox.oxylabs.io/products/539" 1 World of Outlaws: Sprint Cars
+"https://sandbox.oxylabs.io/products/54" 1 Homeworld
+"https://sandbox.oxylabs.io/products/540" 1 Combat Flight Simulator 2: WWII Pacific Theater
+"https://sandbox.oxylabs.io/products/541" 1 Resistance 3
+"https://sandbox.oxylabs.io/products/542" 1 Orcs Must Die! 2
+"https://sandbox.oxylabs.io/products/543" 1 BYE-BYE BOXBOY!
+"https://sandbox.oxylabs.io/products/544" 1 Picross 3D
+"https://sandbox.oxylabs.io/products/545" 1 Gunstar Super Heroes
+"https://sandbox.oxylabs.io/products/546" 1 Stretchmo
+"https://sandbox.oxylabs.io/products/547" 1 Trials of Fire
+"https://sandbox.oxylabs.io/products/548" 1 The Swapper
+"https://sandbox.oxylabs.io/products/549" 1 Mighty Flip Champs!
+"https://sandbox.oxylabs.io/products/55" 1 Gears of War 2
+"https://sandbox.oxylabs.io/products/550" 1 Persona 2: Eternal Punishment
+"https://sandbox.oxylabs.io/products/551" 1 Prey (2006)
+"https://sandbox.oxylabs.io/products/552" 1 Tales of Monkey Island Chapter 5: Rise of the Pirate God
+"https://sandbox.oxylabs.io/products/553" 1 Crisis Core: Final Fantasy VII
+"https://sandbox.oxylabs.io/products/554" 1 Starseed Pilgrim
+"https://sandbox.oxylabs.io/products/555" 1 Age of Conan: Rise of the Godslayer
+"https://sandbox.oxylabs.io/products/556" 1 OlliOlli: Switch Stance
+"https://sandbox.oxylabs.io/products/557" 1 Titanfall
+"https://sandbox.oxylabs.io/products/558" 1 Monaco: What's Yours Is Mine
+"https://sandbox.oxylabs.io/products/559" 1 Castle Crashers Remastered
+"https://sandbox.oxylabs.io/products/56" 1 World Soccer Winning Eleven 6 International
+"https://sandbox.oxylabs.io/products/560" 1 Pac-Man Championship Edition
+"https://sandbox.oxylabs.io/products/561" 1 Mutant Mudds: Super Challenge
+"https://sandbox.oxylabs.io/products/562" 1 Rogue Galaxy
+"https://sandbox.oxylabs.io/products/563" 1 inFamous 2
+"https://sandbox.oxylabs.io/products/564" 1 Nintendogs: Chihuahua & Friends
+"https://sandbox.oxylabs.io/products/565" 1 No Man's Sky Beyond
+"https://sandbox.oxylabs.io/products/566" 1 Yakuza 5
+"https://sandbox.oxylabs.io/products/567" 1 Sunlight
+"https://sandbox.oxylabs.io/products/568" 1 UnderMine
+"https://sandbox.oxylabs.io/products/569" 1 WarioWare: Smooth Moves
+"https://sandbox.oxylabs.io/products/57" 1 Skies of Arcadia
+"https://sandbox.oxylabs.io/products/570" 1 Helldivers
+"https://sandbox.oxylabs.io/products/571" 1 Worldwide Soccer Manager 2009
+"https://sandbox.oxylabs.io/products/572" 1 Valdis Story: Abyssal City
+"https://sandbox.oxylabs.io/products/573" 1 Art Style: PiCTOBiTS
+"https://sandbox.oxylabs.io/products/574" 1 Sonic Advance 2
+"https://sandbox.oxylabs.io/products/575" 1 Rayman 3
+"https://sandbox.oxylabs.io/products/576" 1 Steel Battalion
+"https://sandbox.oxylabs.io/products/577" 1 XGIII: Extreme G Racing
+"https://sandbox.oxylabs.io/products/578" 1 FIFA 2001
+"https://sandbox.oxylabs.io/products/579" 1 Crimson Skies
+"https://sandbox.oxylabs.io/products/58" 1 The Legend of Zelda: Skyward Sword
+"https://sandbox.oxylabs.io/products/580" 1 Professor Layton and the Last Specter
+"https://sandbox.oxylabs.io/products/581" 1 Danganronpa 1-2 Reload
+"https://sandbox.oxylabs.io/products/582" 1 Nintendogs: Lab & Friends
+"https://sandbox.oxylabs.io/products/583" 1 Xenoblade Chronicles 2
+"https://sandbox.oxylabs.io/products/584" 1 World of Warcraft: Shadowlands
+"https://sandbox.oxylabs.io/products/585" 1 RACE 07: Official WTCC Game
+"https://sandbox.oxylabs.io/products/586" 1 2010 FIFA World Cup South Africa
+"https://sandbox.oxylabs.io/products/587" 1 Gravity Rush
+"https://sandbox.oxylabs.io/products/588" 1 Pokemon Omega Ruby
+"https://sandbox.oxylabs.io/products/589" 1 Horizon Zero Dawn: The Frozen Wilds
+"https://sandbox.oxylabs.io/products/59" 1 Mario Kart Super Circuit
+"https://sandbox.oxylabs.io/products/590" 1 Ninja Gaiden: Dragon Sword
+"https://sandbox.oxylabs.io/products/591" 1 Rhythm Heaven Fever
+"https://sandbox.oxylabs.io/products/592" 1 Ms. 'Splosion Man
+"https://sandbox.oxylabs.io/products/593" 1 EverQuest II: Rise of Kunark
+"https://sandbox.oxylabs.io/products/594" 1 Ninja Gaiden Sigma 2
+"https://sandbox.oxylabs.io/products/595" 1 Dragon Quest Heroes: Rocket Slime
+"https://sandbox.oxylabs.io/products/596" 1 Contra 4
+"https://sandbox.oxylabs.io/products/597" 1 Rhythm Heaven
+"https://sandbox.oxylabs.io/products/598" 1 Collection of Mana
+"https://sandbox.oxylabs.io/products/599" 1 Path of Exile: The Fall of Oriath
+"https://sandbox.oxylabs.io/products/6" 1 Halo: Combat Evolved
+"https://sandbox.oxylabs.io/products/60" 1 Test Drive Le Mans
+"https://sandbox.oxylabs.io/products/600" 1 The Legend of Heroes: Trails in the Sky the 3rd
+"https://sandbox.oxylabs.io/products/601" 1 Dark Age of Camelot: Catacombs
+"https://sandbox.oxylabs.io/products/602" 1 Nintendogs: Dalmatian & Friends
+"https://sandbox.oxylabs.io/products/603" 1 Hypnospace Outlaw
+"https://sandbox.oxylabs.io/products/604" 1 Little Nightmares
+"https://sandbox.oxylabs.io/products/605" 1 Overcooked! 2: Surf 'n' Turf
+"https://sandbox.oxylabs.io/products/606" 1 Spore Creature Creator
+"https://sandbox.oxylabs.io/products/607" 1 Final Fantasy V Advance
+"https://sandbox.oxylabs.io/products/608" 1 All-Star Baseball 2003
+"https://sandbox.oxylabs.io/products/609" 1 And Yet It Moves
+"https://sandbox.oxylabs.io/products/61" 1 NBA 2K1
+"https://sandbox.oxylabs.io/products/610" 1 Tribes: Vengeance
+"https://sandbox.oxylabs.io/products/611" 1 Hitman: Absolution
+"https://sandbox.oxylabs.io/products/612" 1 Kirby Mass Attack
+"https://sandbox.oxylabs.io/products/613" 1 Sega Ages: Sonic the Hedgehog 2
+"https://sandbox.oxylabs.io/products/614" 1 Tales From The Borderlands: Episode 3 - Catch A Ride
+"https://sandbox.oxylabs.io/products/615" 1 L.A. Noire: The Complete Edition
+"https://sandbox.oxylabs.io/products/616" 1 Dragon Quest Wars
+"https://sandbox.oxylabs.io/products/617" 1 GTR Evolution
+"https://sandbox.oxylabs.io/products/618" 1 Killer Queen Black
+"https://sandbox.oxylabs.io/products/619" 1 Demeo
+"https://sandbox.oxylabs.io/products/62" 1 Virtua Fighter 4: Evolution
+"https://sandbox.oxylabs.io/products/620" 1 Disgaea 2: Dark Hero Days
+"https://sandbox.oxylabs.io/products/621" 1 Dust: An Elysian Tail
+"https://sandbox.oxylabs.io/products/622" 1 Battlefield: Bad Company
+"https://sandbox.oxylabs.io/products/623" 1 Wipeout Fusion
+"https://sandbox.oxylabs.io/products/624" 1 Independence War 2: Edge of Chaos
+"https://sandbox.oxylabs.io/products/625" 1 Final Fantasy Tactics
+"https://sandbox.oxylabs.io/products/626" 1 Ace Combat 2
+"https://sandbox.oxylabs.io/products/627" 1 Superbrothers: Sword & Sworcery EP
+"https://sandbox.oxylabs.io/products/628" 1 Sid Meier's Civilization IV: Colonization
+"https://sandbox.oxylabs.io/products/629" 1 Steel Division: Normandy 44
+"https://sandbox.oxylabs.io/products/63" 1 Uncharted 4: A Thief's End
+"https://sandbox.oxylabs.io/products/630" 1 Hearts of Iron IV
+"https://sandbox.oxylabs.io/products/631" 1 Nintendogs: Dachshund & Friends
+"https://sandbox.oxylabs.io/products/632" 1 Tales From Off-Peak City Vol. 1
+"https://sandbox.oxylabs.io/products/633" 1 Dynasty Warriors 8: Xtreme Legends - Definitive Edition
+"https://sandbox.oxylabs.io/products/634" 1 Europa Universalis III
+"https://sandbox.oxylabs.io/products/635" 1 Sonic CD
+"https://sandbox.oxylabs.io/products/636" 1 Dyad
+"https://sandbox.oxylabs.io/products/637" 1 Antichamber
+"https://sandbox.oxylabs.io/products/638" 1 Neverwinter Nights 2
+"https://sandbox.oxylabs.io/products/639" 1 Mega Man Powered Up
+"https://sandbox.oxylabs.io/products/64" 1 Super Smash Bros. Ultimate
+"https://sandbox.oxylabs.io/products/640" 1 Age of Empires IV
+"https://sandbox.oxylabs.io/products/641" 1 Shadowverse: Champion's Battle
+"https://sandbox.oxylabs.io/products/642" 1 Hearthstone: Heroes of Warcraft - Blackrock Mountain
+"https://sandbox.oxylabs.io/products/643" 1 Rome: Total War Barbarian Invasion
+"https://sandbox.oxylabs.io/products/644" 1 The Pinball Arcade
+"https://sandbox.oxylabs.io/products/645" 1 Gradius V
+"https://sandbox.oxylabs.io/products/646" 1 Sega Ages: Virtua Racing
+"https://sandbox.oxylabs.io/products/647" 1 I Expect You To Die
+"https://sandbox.oxylabs.io/products/648" 1 Etrian Odyssey 2 Untold: The Fafnir Knight
+"https://sandbox.oxylabs.io/products/649" 1 Disgaea DS
+"https://sandbox.oxylabs.io/products/65" 1 Paper Mario
+"https://sandbox.oxylabs.io/products/650" 1 Lunar Knights
+"https://sandbox.oxylabs.io/products/651" 1 Hacknet
+"https://sandbox.oxylabs.io/products/652" 1 Tales of Monkey Island Chapter 3: Lair of the Leviathan
+"https://sandbox.oxylabs.io/products/653" 1 The Walking Dead: A Telltale Games Series - The Complete First Season
+"https://sandbox.oxylabs.io/products/654" 1 Neverwinter Nights 2: Mask of The Betrayer
+"https://sandbox.oxylabs.io/products/655" 1 Lost Judgment
+"https://sandbox.oxylabs.io/products/656" 1 Sins of a Solar Empire: Rebellion
+"https://sandbox.oxylabs.io/products/657" 1 Age of Wonders: Shadow Magic
+"https://sandbox.oxylabs.io/products/658" 1 ATV Offroad Fury 2
+"https://sandbox.oxylabs.io/products/659" 1 Mega Man Zero
+"https://sandbox.oxylabs.io/products/66" 1 Wipeout XL
+"https://sandbox.oxylabs.io/products/660" 1 SOCOM: U.S. Navy SEALs
+"https://sandbox.oxylabs.io/products/661" 1 Tom Clancy's Ghost Recon: Desert Siege
+"https://sandbox.oxylabs.io/products/662" 1 Warlords Battlecry II
+"https://sandbox.oxylabs.io/products/663" 1 Ring of Red
+"https://sandbox.oxylabs.io/products/664" 1 Football Manager Live
+"https://sandbox.oxylabs.io/products/665" 1 No More Heroes
+"https://sandbox.oxylabs.io/products/666" 1 The Talos Principle: Road To Gehenna
+"https://sandbox.oxylabs.io/products/667" 1 Stellaris: Utopia
+"https://sandbox.oxylabs.io/products/668" 1 Aquaria
+"https://sandbox.oxylabs.io/products/669" 1 Need for Speed: Underground
+"https://sandbox.oxylabs.io/products/67" 1 World of Warcraft
+"https://sandbox.oxylabs.io/products/670" 1 TrackMania Sunrise
+"https://sandbox.oxylabs.io/products/671" 1 Ape Escape 2
+"https://sandbox.oxylabs.io/products/672" 1 Viva Pinata: Pocket Paradise
+"https://sandbox.oxylabs.io/products/673" 1 PixelJunk Shooter 2
+"https://sandbox.oxylabs.io/products/674" 1 Super Mario 3D All-Stars
+"https://sandbox.oxylabs.io/products/675" 1 The Elder Scrolls V: Skyrim - Dragonborn
+"https://sandbox.oxylabs.io/products/676" 1 Galak-Z: The Dimensional
+"https://sandbox.oxylabs.io/products/677" 1 Sportsfriends
+"https://sandbox.oxylabs.io/products/678" 1 The Ramp
+"https://sandbox.oxylabs.io/products/679" 1 Sky: Children of the Light
+"https://sandbox.oxylabs.io/products/68" 1 Flipnote Studio
+"https://sandbox.oxylabs.io/products/680" 1 Gears 5: Hivebusters
+"https://sandbox.oxylabs.io/products/681" 1 Batbarian: Testament of the Primordials
+"https://sandbox.oxylabs.io/products/682" 1 Swords & Soldiers II: Shawarmageddon
+"https://sandbox.oxylabs.io/products/683" 1 Endless Legend
+"https://sandbox.oxylabs.io/products/684" 1 Virtua Fighter 5 Final Showdown
+"https://sandbox.oxylabs.io/products/685" 1 Trauma Team
+"https://sandbox.oxylabs.io/products/686" 1 Henry Hatsworth in the Puzzling Adventure
+"https://sandbox.oxylabs.io/products/687" 1 SOCOM 3: U.S. Navy SEALs
+"https://sandbox.oxylabs.io/products/688" 1 Dance Dance Revolution Ultramix
+"https://sandbox.oxylabs.io/products/689" 1 Extreme-G
+"https://sandbox.oxylabs.io/products/69" 1 God of War III
+"https://sandbox.oxylabs.io/products/690" 1 Death Stranding
+"https://sandbox.oxylabs.io/products/691" 1 S.T.A.L.K.E.R.: Shadow of Chernobyl
+"https://sandbox.oxylabs.io/products/692" 1 Far Cry 5
+"https://sandbox.oxylabs.io/products/693" 1 Okamiden
+"https://sandbox.oxylabs.io/products/694" 1 Space Invaders Extreme 2
+"https://sandbox.oxylabs.io/products/695" 1 Kero Blaster
+"https://sandbox.oxylabs.io/products/696" 1 Invisible, Inc. Console Edition
+"https://sandbox.oxylabs.io/products/697" 1 Castle Crashers
+"https://sandbox.oxylabs.io/products/698" 1 VIDEOBALL
+"https://sandbox.oxylabs.io/products/699" 1 Gunman Clive
+"https://sandbox.oxylabs.io/products/7" 1 The House in Fata Morgana - Dreams of the Revenants Edition -
+"https://sandbox.oxylabs.io/products/70" 1 NHL 2002
+"https://sandbox.oxylabs.io/products/700" 1 Vectronom
+"https://sandbox.oxylabs.io/products/701" 1 Slime-san
+"https://sandbox.oxylabs.io/products/702" 1 The Sims 4: Eco Lifestyle
+"https://sandbox.oxylabs.io/products/703" 1 SOLAS 128
+"https://sandbox.oxylabs.io/products/704" 1 XCOM: Enemy Unknown Plus
+"https://sandbox.oxylabs.io/products/705" 1 Sega GT 2002
+"https://sandbox.oxylabs.io/products/706" 1 Airborne Assault: Red Devils Over Arnhem
+"https://sandbox.oxylabs.io/products/707" 1 Tekken Advance
+"https://sandbox.oxylabs.io/products/708" 1 Crazy Taxi 2
+"https://sandbox.oxylabs.io/products/709" 1 Fallout Tactics: Brotherhood of Steel
+"https://sandbox.oxylabs.io/products/71" 1 Uncharted 3: Drake's Deception
+"https://sandbox.oxylabs.io/products/710" 1 Ogre Battle 64
+"https://sandbox.oxylabs.io/products/711" 1 Sonic Rush
+"https://sandbox.oxylabs.io/products/712" 1 Need for Speed: Underground 2
+"https://sandbox.oxylabs.io/products/713" 1 Art of Balance Touch!
+"https://sandbox.oxylabs.io/products/714" 1 NHL Eastside Hockey Manager 2005
+"https://sandbox.oxylabs.io/products/715" 1 Legend of Grimrock
+"https://sandbox.oxylabs.io/products/716" 1 Borderlands Legendary Collection
+"https://sandbox.oxylabs.io/products/717" 1 Dominions 3: The Awakening
+"https://sandbox.oxylabs.io/products/718" 1 NyxQuest: Kindred Spirits
+"https://sandbox.oxylabs.io/products/719" 1 Prince of Persia Classic
+"https://sandbox.oxylabs.io/products/72" 1 Bloodborne
+"https://sandbox.oxylabs.io/products/720" 1 Star Fox Adventures
+"https://sandbox.oxylabs.io/products/721" 1 Strong Bad's Cool Game for Attractive People Episode 2: Strong Badia the Free
+"https://sandbox.oxylabs.io/products/722" 1 Mario Kart Wii
+"https://sandbox.oxylabs.io/products/723" 1 College Hoops 2K8
+"https://sandbox.oxylabs.io/products/724" 1 EA SPORTS UFC 4
+"https://sandbox.oxylabs.io/products/725" 1 Desktop Dungeons
+"https://sandbox.oxylabs.io/products/726" 1 Crusader Kings II
+"https://sandbox.oxylabs.io/products/727" 1 Olympia Soiree
+"https://sandbox.oxylabs.io/products/728" 1 Tainted Grail: Conquest
+"https://sandbox.oxylabs.io/products/729" 1 Art Academy: Home Studio
+"https://sandbox.oxylabs.io/products/73" 1 Eternal Darkness: Sanity's Requiem
+"https://sandbox.oxylabs.io/products/730" 1 Europa 1400: The Guild
+"https://sandbox.oxylabs.io/products/731" 1 Battle Realms
+"https://sandbox.oxylabs.io/products/732" 1 Warlords Battlecry
+"https://sandbox.oxylabs.io/products/733" 1 Shin Megami Tensei: Digital Devil Saga 2
+"https://sandbox.oxylabs.io/products/734" 1 Paradise Killer
+"https://sandbox.oxylabs.io/products/735" 1 Sam & Max Episode 201: Ice Station Santa
+"https://sandbox.oxylabs.io/products/736" 1 Halo: Combat Evolved Anniversary
+"https://sandbox.oxylabs.io/products/737" 1 N+
+"https://sandbox.oxylabs.io/products/738" 1 Major League Baseball 2K5
+"https://sandbox.oxylabs.io/products/739" 1 Brothers in Arms: Road to Hill 30
+"https://sandbox.oxylabs.io/products/74" 1 Warcraft III: Reign of Chaos
+"https://sandbox.oxylabs.io/products/740" 1 SOCOM: U.S. Navy SEALs Fireteam Bravo
+"https://sandbox.oxylabs.io/products/741" 1 Art Style: ORBIENT
+"https://sandbox.oxylabs.io/products/742" 1 Kingdom Hearts: Birth by Sleep
+"https://sandbox.oxylabs.io/products/743" 1 The Last Guardian
+"https://sandbox.oxylabs.io/products/744" 1 Technobabylon
+"https://sandbox.oxylabs.io/products/745" 1 Madden NFL 09 All-Play
+"https://sandbox.oxylabs.io/products/746" 1 Shin Megami Tensei: Nocturne
+"https://sandbox.oxylabs.io/products/747" 1 World of Warcraft: Mists of Pandaria
+"https://sandbox.oxylabs.io/products/748" 1 Splatoon 2: Octo Expansion
+"https://sandbox.oxylabs.io/products/749" 1 Filament
+"https://sandbox.oxylabs.io/products/75" 1 Sid Meier's Gettysburg!
+"https://sandbox.oxylabs.io/products/750" 1 MotoGP 20
+"https://sandbox.oxylabs.io/products/751" 1 Recettear: An Item Shop's Tale
+"https://sandbox.oxylabs.io/products/752" 1 Command & Conquer 3: Tiberium Wars
+"https://sandbox.oxylabs.io/products/753" 1 Harvest Moon: More Friends of Mineral Town
+"https://sandbox.oxylabs.io/products/754" 1 BlazBlue: Calamity Trigger Portable
+"https://sandbox.oxylabs.io/products/755" 1 Midnight Club: Los Angeles
+"https://sandbox.oxylabs.io/products/756" 1 Flight Simulator X: Acceleration
+"https://sandbox.oxylabs.io/products/757" 1 Etrian Odyssey II: Heroes of Lagaard
+"https://sandbox.oxylabs.io/products/758" 1 Blood
+"https://sandbox.oxylabs.io/products/759" 1 Duelyst
+"https://sandbox.oxylabs.io/products/76" 1 Forza Motorsport
+"https://sandbox.oxylabs.io/products/760" 1 Links 2003
+"https://sandbox.oxylabs.io/products/761" 1 Earth & Beyond
+"https://sandbox.oxylabs.io/products/762" 1 Virtual Pool 3
+"https://sandbox.oxylabs.io/products/763" 1 The Sims: Livin' Large
+"https://sandbox.oxylabs.io/products/764" 1 Sonic the Hedgehog 2
+"https://sandbox.oxylabs.io/products/765" 1 MLB The Show 18
+"https://sandbox.oxylabs.io/products/766" 1 DCS: Black Shark
+"https://sandbox.oxylabs.io/products/767" 1 ModNation Racers
+"https://sandbox.oxylabs.io/products/768" 1 Soul Sacrifice Delta
+"https://sandbox.oxylabs.io/products/769" 1 King's Bounty: Armored Princess
+"https://sandbox.oxylabs.io/products/77" 1 Advance Wars
+"https://sandbox.oxylabs.io/products/770" 1 Monster Hunter Stories 2: Wings of Ruin
+"https://sandbox.oxylabs.io/products/771" 1 Rock Band Rivals
+"https://sandbox.oxylabs.io/products/772" 1 Age of Wonders III - Golden Realms
+"https://sandbox.oxylabs.io/products/773" 1 Clubhouse Games: 51 Worldwide Classics
+"https://sandbox.oxylabs.io/products/774" 1 Halo Wars
+"https://sandbox.oxylabs.io/products/775" 1 PixelJunk Monsters Encore
+"https://sandbox.oxylabs.io/products/776" 1 Joint Operations: Typhoon Rising
+"https://sandbox.oxylabs.io/products/777" 1 Astalon: Tears of the Earth
+"https://sandbox.oxylabs.io/products/778" 1 MotorStorm: Pacific Rift
+"https://sandbox.oxylabs.io/products/779" 1 Xpand Rally
+"https://sandbox.oxylabs.io/products/78" 1 Vagrant Story
+"https://sandbox.oxylabs.io/products/780" 1 Disgaea 4: A Promise Revisited
+"https://sandbox.oxylabs.io/products/781" 1 Year Walk
+"https://sandbox.oxylabs.io/products/782" 1 You Don't Know Jack
+"https://sandbox.oxylabs.io/products/783" 1 Celtic Kings: Rage of War
+"https://sandbox.oxylabs.io/products/784" 1 ATV Offroad Fury
+"https://sandbox.oxylabs.io/products/785" 1 B-17 Flying Fortress: The Mighty 8th
+"https://sandbox.oxylabs.io/products/786" 1 EverQuest: The Scars of Velious
+"https://sandbox.oxylabs.io/products/787" 1 Suikoden II
+"https://sandbox.oxylabs.io/products/788" 1 Final Fight One
+"https://sandbox.oxylabs.io/products/789" 1 Rising Storm
+"https://sandbox.oxylabs.io/products/79" 1 Team Fortress 2
+"https://sandbox.oxylabs.io/products/790" 1 Lethal League
+"https://sandbox.oxylabs.io/products/791" 1 Ninja Five-O
+"https://sandbox.oxylabs.io/products/792" 1 Captain Toad: Treasure Tracker
+"https://sandbox.oxylabs.io/products/793" 1 Loop Hero
+"https://sandbox.oxylabs.io/products/794" 1 Madden NFL 18
+"https://sandbox.oxylabs.io/products/795" 1 Botanicula
+"https://sandbox.oxylabs.io/products/796" 1 Nine Hours, Nine Persons, Nine Doors
+"https://sandbox.oxylabs.io/products/797" 1 Darkest Dungeon: The Crimson Court
+"https://sandbox.oxylabs.io/products/798" 1 Gnosia
+"https://sandbox.oxylabs.io/products/799" 1 Life is Strange 2: Episode 5 - Wolves
+"https://sandbox.oxylabs.io/products/8" 1 NFL 2K1
+"https://sandbox.oxylabs.io/products/80" 1 System Shock 2
+"https://sandbox.oxylabs.io/products/800" 1 College Hoops 2K7
+"https://sandbox.oxylabs.io/products/801" 1 Catherine
+"https://sandbox.oxylabs.io/products/802" 1 PixelJunk Shooter Ultimate
+"https://sandbox.oxylabs.io/products/803" 1 Bookworm Adventures Deluxe
+"https://sandbox.oxylabs.io/products/804" 1 The Lord of the Rings: The Battle for Middle-Earth
+"https://sandbox.oxylabs.io/products/805" 1 Bleach: Dark Souls
+"https://sandbox.oxylabs.io/products/806" 1 RIVE: Ultimate Edition
+"https://sandbox.oxylabs.io/products/807" 1 Old World
+"https://sandbox.oxylabs.io/products/808" 1 Pixel Ripped 1995
+"https://sandbox.oxylabs.io/products/809" 1 Azure Striker Gunvolt: Striker Pack
+"https://sandbox.oxylabs.io/products/81" 1 Final Fantasy XII
+"https://sandbox.oxylabs.io/products/810" 1 WildStar
+"https://sandbox.oxylabs.io/products/811" 1 Broken Age: Act 1
+"https://sandbox.oxylabs.io/products/812" 1 Cities: Skylines - Xbox One Edition
+"https://sandbox.oxylabs.io/products/813" 1 Mortal Kombat Komplete Edition
+"https://sandbox.oxylabs.io/products/814" 1 Deus Ex: The Conspiracy
+"https://sandbox.oxylabs.io/products/815" 1 Ninja Gaiden II
+"https://sandbox.oxylabs.io/products/816" 1 Valkyrie Profile
+"https://sandbox.oxylabs.io/products/817" 1 Winds of Change
+"https://sandbox.oxylabs.io/products/818" 1 PHOGS!
+"https://sandbox.oxylabs.io/products/819" 1 Get Packed
+"https://sandbox.oxylabs.io/products/82" 1 Super Mario World: Super Mario Advance 2
+"https://sandbox.oxylabs.io/products/820" 1 Baldur's Gate and Baldur's Gate II: Enhanced Editions
+"https://sandbox.oxylabs.io/products/821" 1 Shadowrun: Dragonfall
+"https://sandbox.oxylabs.io/products/822" 1 MechAssault 2: Lone Wolf
+"https://sandbox.oxylabs.io/products/823" 1 Eets
+"https://sandbox.oxylabs.io/products/824" 1 Pokemon LeafGreen Version
+"https://sandbox.oxylabs.io/products/825" 1 World of Warships
+"https://sandbox.oxylabs.io/products/826" 1 TOCA Race Driver 2: The Ultimate Racing Simulator
+"https://sandbox.oxylabs.io/products/827" 1 Harvest Moon: Friends of Mineral Town
+"https://sandbox.oxylabs.io/products/828" 1 Wargame: European Escalation
+"https://sandbox.oxylabs.io/products/829" 1 Rage of the Gladiator
+"https://sandbox.oxylabs.io/products/83" 1 Super Smash Bros. Melee
+"https://sandbox.oxylabs.io/products/830" 1 SteamWorld Quest: Hand of Gilgamech
+"https://sandbox.oxylabs.io/products/831" 1 Kinect Party
+"https://sandbox.oxylabs.io/products/832" 1 Call of Duty: Black Ops III
+"https://sandbox.oxylabs.io/products/833" 1 Maldita Castilla EX: Cursed Castilla
+"https://sandbox.oxylabs.io/products/834" 1 Katamari Damacy REROLL
+"https://sandbox.oxylabs.io/products/835" 1 Atlas Reactor
+"https://sandbox.oxylabs.io/products/836" 1 Etrian Odyssey Nexus
+"https://sandbox.oxylabs.io/products/837" 1 L.A. Noire: The VR Case Files
+"https://sandbox.oxylabs.io/products/838" 1 Songbird Symphony
+"https://sandbox.oxylabs.io/products/839" 1 Antihero
+"https://sandbox.oxylabs.io/products/84" 1 Rome: Total War
+"https://sandbox.oxylabs.io/products/840" 1 Halo Wars: Definitive Edition
+"https://sandbox.oxylabs.io/products/841" 1 The Legend of Zelda: Breath of the Wild - The Champions' Ballad
+"https://sandbox.oxylabs.io/products/842" 1 A Space Shooter for 2 Bucks
+"https://sandbox.oxylabs.io/products/843" 1 Void Bastards
+"https://sandbox.oxylabs.io/products/844" 1 Redout (2016)
+"https://sandbox.oxylabs.io/products/845" 1 God of War III Remastered
+"https://sandbox.oxylabs.io/products/846" 1 The 2D Adventures of Rotating Octopus Character
+"https://sandbox.oxylabs.io/products/847" 1 Sam & Max: The Devil's Playhouse - Episode 5: The City That Dares Not Sleep
+"https://sandbox.oxylabs.io/products/848" 1 Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone
+"https://sandbox.oxylabs.io/products/849" 1 Age of Empires III: The Asian Dynasties
+"https://sandbox.oxylabs.io/products/85" 1 Forza Motorsport 3
+"https://sandbox.oxylabs.io/products/850" 1 BoxBoy! + BoxGirl!
+"https://sandbox.oxylabs.io/products/851" 1 MLB 2006
+"https://sandbox.oxylabs.io/products/852" 1 Codename: Panzers, Phase One
+"https://sandbox.oxylabs.io/products/853" 1 Affordable Space Adventures
+"https://sandbox.oxylabs.io/products/854" 1 Dragon Quest VII: Fragments of the Forgotten Past
+"https://sandbox.oxylabs.io/products/855" 1 AVICII Invector Encore Edition
+"https://sandbox.oxylabs.io/products/856" 1 3D After Burner II
+"https://sandbox.oxylabs.io/products/857" 1 Europa Universalis IV: Conquest of Paradise
+"https://sandbox.oxylabs.io/products/858" 1 Ghost Master
+"https://sandbox.oxylabs.io/products/859" 1 Divine Divinity
+"https://sandbox.oxylabs.io/products/86" 1 Super Mario Sunshine
+"https://sandbox.oxylabs.io/products/860" 1 Mega Man Battle Network 2
+"https://sandbox.oxylabs.io/products/861" 1 Breath of Fire II
+"https://sandbox.oxylabs.io/products/862" 1 Donkey Kong Jungle Beat
+"https://sandbox.oxylabs.io/products/863" 1 Mario Power Tennis
+"https://sandbox.oxylabs.io/products/864" 1 Gears Tactics
+"https://sandbox.oxylabs.io/products/865" 1 The Legend of Heroes: Trails of Cold Steel II
+"https://sandbox.oxylabs.io/products/866" 1 Dark Deity
+"https://sandbox.oxylabs.io/products/867" 1 Disgaea 5: Alliance of Vengeance
+"https://sandbox.oxylabs.io/products/868" 1 Age of Conan: Hyborian Adventures
+"https://sandbox.oxylabs.io/products/869" 1 Company of Heroes 2: The Western Front Armies
+"https://sandbox.oxylabs.io/products/87" 1 Tony Hawk's Pro Skater
+"https://sandbox.oxylabs.io/products/870" 1 Sid Meier's Civilization V: Gods & Kings
+"https://sandbox.oxylabs.io/products/871" 1 Dragon Quest IV: Chapters of the Chosen
+"https://sandbox.oxylabs.io/products/872" 1 The Elder Scrolls: Legends
+"https://sandbox.oxylabs.io/products/873" 1 Age of Empires III: The WarChiefs
+"https://sandbox.oxylabs.io/products/874" 1 Ace Combat 6: Fires of Liberation
+"https://sandbox.oxylabs.io/products/875" 1 Crash Team Racing: Nitro-Fueled
+"https://sandbox.oxylabs.io/products/876" 1 Youropa
+"https://sandbox.oxylabs.io/products/877" 1 Endless Space 2
+"https://sandbox.oxylabs.io/products/878" 1 Pokemon Black Version 2
+"https://sandbox.oxylabs.io/products/879" 1 Soul Reaver 2
+"https://sandbox.oxylabs.io/products/88" 1 Thief: The Dark Project
+"https://sandbox.oxylabs.io/products/880" 1 Rocket Riot
+"https://sandbox.oxylabs.io/products/881" 1 Detroit: Become Human
+"https://sandbox.oxylabs.io/products/882" 1 Leap of Fate
+"https://sandbox.oxylabs.io/products/883" 1 Syberia II
+"https://sandbox.oxylabs.io/products/884" 1 Shenmue II
+"https://sandbox.oxylabs.io/products/885" 1 Ecks vs. Sever
+"https://sandbox.oxylabs.io/products/886" 1 Conquest: Frontier Wars
+"https://sandbox.oxylabs.io/products/887" 1 Gabriel Knight 3: Blood of the Sacred, Blood of the Damned
+"https://sandbox.oxylabs.io/products/888" 1 Jet Force Gemini
+"https://sandbox.oxylabs.io/products/889" 1 Star Ocean: The Second Story
+"https://sandbox.oxylabs.io/products/89" 1 Fire Emblem: Awakening
+"https://sandbox.oxylabs.io/products/890" 1 Tyranny
+"https://sandbox.oxylabs.io/products/891" 1 Gitaroo Man Lives!
+"https://sandbox.oxylabs.io/products/892" 1 Skul: The Hero Slayer
+"https://sandbox.oxylabs.io/products/893" 1 Football Manager 2017
+"https://sandbox.oxylabs.io/products/894" 1 Super Time Force
+"https://sandbox.oxylabs.io/products/895" 1 SpellForce 3: Soul Harvest
+"https://sandbox.oxylabs.io/products/896" 1 Westerado: Double Barreled
+"https://sandbox.oxylabs.io/products/897" 1 Age of Empires: The Age of Kings
+"https://sandbox.oxylabs.io/products/898" 1 Vitamin Connection
+"https://sandbox.oxylabs.io/products/899" 1 Five Nights at Freddy's VR: Help Wanted
+"https://sandbox.oxylabs.io/products/9" 1 Uncharted 2: Among Thieves
+"https://sandbox.oxylabs.io/products/90" 1 Age of Empires II: The Age of Kings
+"https://sandbox.oxylabs.io/products/900" 1 Volume
+"https://sandbox.oxylabs.io/products/901" 1 Mighty Switch Force! Hyper Drive Edition
+"https://sandbox.oxylabs.io/products/902" 1 Snipperclips - Cut it out, together!
+"https://sandbox.oxylabs.io/products/903" 1 WWE SmackDown vs. Raw 2010
+"https://sandbox.oxylabs.io/products/904" 1 Sam & Max Episode 202: Moai Better Blues
+"https://sandbox.oxylabs.io/products/905" 1 Final Fantasy Tactics A2: Grimoire of the Rift
+"https://sandbox.oxylabs.io/products/906" 1 Pinball FX3: Bethesda Pinball
+"https://sandbox.oxylabs.io/products/907" 1 Age of Wonders III - Eternal Lords
+"https://sandbox.oxylabs.io/products/908" 1 Game of Thrones: Episode Three - The Sword in the Darkness
+"https://sandbox.oxylabs.io/products/909" 1 Hot Shots Golf Fore!
+"https://sandbox.oxylabs.io/products/91" 1 Final Fantasy X
+"https://sandbox.oxylabs.io/products/910" 1 Osmos
+"https://sandbox.oxylabs.io/products/911" 1 Assassin's Creed: The Rebel Collection
+"https://sandbox.oxylabs.io/products/912" 1 Disney Infinity 3.0 Edition
+"https://sandbox.oxylabs.io/products/913" 1 Dungeon Siege II
+"https://sandbox.oxylabs.io/products/914" 1 Street Fighter Alpha 3 MAX
+"https://sandbox.oxylabs.io/products/915" 1 Sam & Max Episode 104: Abe Lincoln Must Die!
+"https://sandbox.oxylabs.io/products/916" 1 Transpose
+"https://sandbox.oxylabs.io/products/917" 1 BlazBlue: Chrono Phantasma Extend
+"https://sandbox.oxylabs.io/products/918" 1 EyeToy: Play
+"https://sandbox.oxylabs.io/products/919" 1 The Sims: Makin' Magic
+"https://sandbox.oxylabs.io/products/92" 1 Unreal Tournament (1999)
+"https://sandbox.oxylabs.io/products/920" 1 The Mark of Kri
+"https://sandbox.oxylabs.io/products/921" 1 Broken Sword: The Shadow of the Templars
+"https://sandbox.oxylabs.io/products/922" 1 Bomberman Online
+"https://sandbox.oxylabs.io/products/923" 1 Project Justice
+"https://sandbox.oxylabs.io/products/924" 1 Uncharted: Golden Abyss
+"https://sandbox.oxylabs.io/products/925" 1 Shin Megami Tensei: Strange Journey Redux
+"https://sandbox.oxylabs.io/products/926" 1 Monster Prom 2: Monster Camp
+"https://sandbox.oxylabs.io/products/927" 1 Tom Clancy's Splinter Cell: Double Agent
+"https://sandbox.oxylabs.io/products/928" 1 Blood & Truth
+"https://sandbox.oxylabs.io/products/929" 1 Medal of Honor: Pacific Assault
+"https://sandbox.oxylabs.io/products/93" 1 Sid Meier's Alpha Centauri
+"https://sandbox.oxylabs.io/products/930" 1 N++
+"https://sandbox.oxylabs.io/products/931" 1 Guns, Gore & Cannoli 2
+"https://sandbox.oxylabs.io/products/932" 1 BoxBoxBoy!
+"https://sandbox.oxylabs.io/products/933" 1 LEGO The Lord of the Rings
+"https://sandbox.oxylabs.io/products/934" 1 Etrian Odyssey Untold: The Millennium Girl
+"https://sandbox.oxylabs.io/products/935" 1 Wii Sports Resort
+"https://sandbox.oxylabs.io/products/936" 1 Grandia II Anniversary Edition
+"https://sandbox.oxylabs.io/products/937" 1 Outlast
+"https://sandbox.oxylabs.io/products/938" 1 Hearts of Iron II: Doomsday
+"https://sandbox.oxylabs.io/products/939" 1 Dishonored: The Brigmore Witches
+"https://sandbox.oxylabs.io/products/94" 1 Wave Race 64
+"https://sandbox.oxylabs.io/products/940" 1 Disgaea 4: A Promise Unforgotten
+"https://sandbox.oxylabs.io/products/941" 1 Injustice: Gods Among Us - Ultimate Edition
+"https://sandbox.oxylabs.io/products/942" 1 Mutant Mudds
+"https://sandbox.oxylabs.io/products/943" 1 Codename: Panzers, Phase Two
+"https://sandbox.oxylabs.io/products/944" 1 Tokyo Mirage Sessions #FE
+"https://sandbox.oxylabs.io/products/945" 1 Duke Nukem 3D
+"https://sandbox.oxylabs.io/products/946" 1 Mega Man Anniversary Collection
+"https://sandbox.oxylabs.io/products/947" 1 Baten Kaitos: Eternal Wings and the Lost Ocean
+"https://sandbox.oxylabs.io/products/948" 1 The Banner Saga 1
+"https://sandbox.oxylabs.io/products/949" 1 Gunman Clive 2
+"https://sandbox.oxylabs.io/products/95" 1 Galactic Civilizations II: Twilight of the Arnor
+"https://sandbox.oxylabs.io/products/950" 1 Darwinia+
+"https://sandbox.oxylabs.io/products/951" 1 Neon Abyss
+"https://sandbox.oxylabs.io/products/952" 1 AI War: Fleet Command
+"https://sandbox.oxylabs.io/products/953" 1 Final Fantasy Crystal Chronicles
+"https://sandbox.oxylabs.io/products/954" 1 The King of Fighters EX2: Howling Blood
+"https://sandbox.oxylabs.io/products/955" 1 Capcom vs. SNK
+"https://sandbox.oxylabs.io/products/956" 1 Starcraft 64
+"https://sandbox.oxylabs.io/products/957" 1 Final Fantasy Anthology
+"https://sandbox.oxylabs.io/products/958" 1 Pokemon Sword / Shield Dual Pack
+"https://sandbox.oxylabs.io/products/959" 1 New Super Mario Bros. U Deluxe
+"https://sandbox.oxylabs.io/products/96" 1 Super Smash Bros. for Wii U
+"https://sandbox.oxylabs.io/products/960" 1 The Elder Scrolls III: Tribunal
+"https://sandbox.oxylabs.io/products/961" 1 Xenoblade Chronicles 2: Torna ~ The Golden Country
+"https://sandbox.oxylabs.io/products/962" 1 Ghost Giant
+"https://sandbox.oxylabs.io/products/963" 1 Pure
+"https://sandbox.oxylabs.io/products/964" 1 God of War: Ascension
+"https://sandbox.oxylabs.io/products/965" 1 Life is Strange: Before the Storm - Farewell
+"https://sandbox.oxylabs.io/products/966" 1 Boomerang X
+"https://sandbox.oxylabs.io/products/967" 1 Buzz! Quiz TV
+"https://sandbox.oxylabs.io/products/968" 1 OkunoKA
+"https://sandbox.oxylabs.io/products/969" 1 Goodbye Deponia
+"https://sandbox.oxylabs.io/products/97" 1 Chrono Trigger
+"https://sandbox.oxylabs.io/products/970" 1 Borderlands: The Handsome Collection
+"https://sandbox.oxylabs.io/products/971" 1 Sid Meier's Civilization VI: Gathering Storm
+"https://sandbox.oxylabs.io/products/972" 1 PixelJunk Eden
+"https://sandbox.oxylabs.io/products/973" 1 Sly Cooper Collection
+"https://sandbox.oxylabs.io/products/974" 1 SWAT 4: The Stetchkov Syndicate
+"https://sandbox.oxylabs.io/products/975" 1 Dropsy
+"https://sandbox.oxylabs.io/products/976" 1 Company of Heroes 2: The British Forces
+"https://sandbox.oxylabs.io/products/977" 1 WWE SmackDown! vs. Raw
+"https://sandbox.oxylabs.io/products/978" 1 Ground Control II: Operation Exodus
+"https://sandbox.oxylabs.io/products/979" 1 Pokemon White Version 2
+"https://sandbox.oxylabs.io/products/98" 1 Xenoblade Chronicles
+"https://sandbox.oxylabs.io/products/980" 1 Pokemon Shield
+"https://sandbox.oxylabs.io/products/981" 1 Shin Megami Tensei: Strange Journey
+"https://sandbox.oxylabs.io/products/982" 1 MDK 2: Armageddon
+"https://sandbox.oxylabs.io/products/983" 1 Jarrett & Labonte Stock Car Racing
+"https://sandbox.oxylabs.io/products/984" 1 Fur Fighters
+"https://sandbox.oxylabs.io/products/985" 1 Puppeteer
+"https://sandbox.oxylabs.io/products/986" 1 Under Night In-Birth Exe:Late
+"https://sandbox.oxylabs.io/products/987" 1 Sega Ages: Thunder Force AC
+"https://sandbox.oxylabs.io/products/988" 1 Titan Quest: Immortal Throne
+"https://sandbox.oxylabs.io/products/989" 1 Prison Architect
+"https://sandbox.oxylabs.io/products/99" 1 Conker's Bad Fur Day
+"https://sandbox.oxylabs.io/products/990" 1 La-Mulana (Remake)
+"https://sandbox.oxylabs.io/products/991" 1 Saviors of Sapphire Wings & Stranger of Sword City Revisited
+"https://sandbox.oxylabs.io/products/992" 1 Ironcast
+"https://sandbox.oxylabs.io/products/993" 1 Wonder Boy: The Dragon's Trap
+"https://sandbox.oxylabs.io/products/994" 1 SpellForce 2: Shadow Wars
+"https://sandbox.oxylabs.io/products/995" 1 Fritz 8 Deluxe
+"https://sandbox.oxylabs.io/products/996" 1 Dishonored: Definitive Edition
+"https://sandbox.oxylabs.io/products/997" 1 Etrian Odyssey V: Beyond the Myth
+"https://sandbox.oxylabs.io/products/998" 1 Lumines Supernova
+"https://sandbox.oxylabs.io/products/999" 1 Hoyle Majestic Chess

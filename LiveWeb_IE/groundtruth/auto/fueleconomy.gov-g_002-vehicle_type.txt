@@ -1,0 +1,3 @@
+auto fueleconomy.gov g_002 car_type
+1 15 15
+"https://www.fueleconomy.gov/feg/findacar.shtml" 15 Small Cars	Sedans	Hatchbacks	Coupes	Sporty Cars	Luxury Cars	Wagons	SUVs	Pickups	Hybrid	Plug-in Hybrid	All-Electric	Diesel	Flex-Fuel	Fuel Cell

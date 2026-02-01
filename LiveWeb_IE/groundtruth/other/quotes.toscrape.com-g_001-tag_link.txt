@@ -1,0 +1,12 @@
+other quotes.toscrape.com g_001 quote_tag_link
+10 10 10
+"http://quotes.toscrape.com/tag/books/" 1 /tag/books/page/1/
+"http://quotes.toscrape.com/tag/friends/" 1 /tag/friends/page/1/
+"http://quotes.toscrape.com/tag/friendship/" 1 /tag/friendship/page/1/
+"http://quotes.toscrape.com/tag/humor/" 1 /tag/humor/page/1/
+"http://quotes.toscrape.com/tag/inspirational/" 1 /tag/inspirational/page/1/
+"http://quotes.toscrape.com/tag/life/" 1 /tag/life/page/1/
+"http://quotes.toscrape.com/tag/love/" 1 /tag/love/page/1/
+"http://quotes.toscrape.com/tag/reading/" 1 /tag/reading/page/1/
+"http://quotes.toscrape.com/tag/simile/" 1 /tag/simile/page/1/
+"http://quotes.toscrape.com/tag/truth/" 1 /tag/truth/page/1/

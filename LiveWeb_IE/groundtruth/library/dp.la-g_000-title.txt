@@ -1,0 +1,34 @@
+library dp.la g_000 article_title
+32 32 32
+"https://dp.la/exhibitions/erie-canal" 1 Two Hundred Years on the Erie Canal
+"https://dp.la/exhibitions/american-empire" 1 American Empire
+"https://dp.la/exhibitions/outsiders-president-elections" 1 Battle on the Ballot: Political Outsiders in US Presidential Elections
+"https://dp.la/exhibitions/leo-frank" 1 Tragedy in the New South: The Murder of Mary Phagan and the Lynching of Leo Frank
+"https://dp.la/exhibitions/race-to-the-moon" 1 Race to the Moon
+"https://dp.la/exhibitions/patent-medicine" 1 Quack Cures and Self-Remedies: Patent Medicine
+"https://dp.la/exhibitions/urban-parks" 1 Urban Parks in the United States
+"https://dp.la/exhibitions/history-us-public-libraries" 1 A History of US Public Libraries
+"https://dp.la/exhibitions/industries-settled-montana" 1 Boom and Bust: The Industries That Settled Montana
+"https://dp.la/exhibitions/children-progressive-era" 1 Children in Progressive-Era America
+"https://dp.la/exhibitions/home-front-world-war-ii" 1 Georgia's Home Front: World War II
+"https://dp.la/exhibitions/civilian-conservation-corps" 1 Roosevelt's Tree Army: The Civilian Conservation Corps
+"https://dp.la/exhibitions/tourism-mountain-west" 1 Recreational Tourism in the Mountain West
+"https://dp.la/exhibitions/shoe-industry-massachusetts" 1 Best Foot Forward: The Shoe Industry in Massachusetts
+"https://dp.la/exhibitions/america-world-war-i" 1 Patriotic Labor: America during World War I
+"https://dp.la/exhibitions/evolution-personal-camera" 1 In Focus: The Evolution of the Personal Camera
+"https://dp.la/exhibitions/japanese-internment" 1 Prisoners at Home: Everyday Life in Japanese Internment Camps
+"https://dp.la/exhibitions/transcontinental-railroad" 1 Building the First Transcontinental Railroad
+"https://dp.la/exhibitions/1918-influenza" 1 America during the 1918 Influenza Pandemic
+"https://dp.la/exhibitions/american-aviatrixes" 1 American Aviatrixes: Women with Wings
+"https://dp.la/exhibitions/maps-in-american-culture" 1 From Colonialism to Tourism: Maps in American Culture
+"https://dp.la/exhibitions/mapping-american-civil-war" 1 Torn in Two: Mapping the American Civil War
+"https://dp.la/exhibitions/radio-golden-age" 1 Golden Age of Radio in the US
+"https://dp.la/exhibitions/gold-rush" 1 Staking Claims: The Gold Rush in Nineteenth-Century America
+"https://dp.la/exhibitions/the-show" 1 The Show Must Go On! American Theater in the Great Depression
+"https://dp.la/exhibitions/boston-sports-temples" 1 Boston Sports Temples
+"https://dp.la/exhibitions/history-of-survivance" 1 History of Survivance: Upper Midwest 19th-Century Native American Narratives
+"https://dp.la/exhibitions/new-deal" 1 America's Great Depression and Roosevelt's New Deal
+"https://dp.la/exhibitions/spirits" 1 Indomitable Spirits: Prohibition in the United States
+"https://dp.la/exhibitions/activism" 1 Activism in the US
+"https://dp.la/exhibitions/this-land" 1 This Land Is Your Land: Parks and Public Spaces
+"https://dp.la/exhibitions/breadandroses" 1 Bread and Roses Strike of 1912: Two Months in Lawrence, Massachusetts, that Changed Labor History
