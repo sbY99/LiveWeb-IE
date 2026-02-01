@@ -96,9 +96,9 @@ If you use this dataset in your research, please cite our paper:
 
 ```bibtex
 @inproceedings{yang2026livewebie,
-  title        = {LiveWeb-IE: A Benchmark For Online Web Information Extraction},
+  title={LiveWeb-IE: A Benchmark For Online Web Information Extraction},
   author={Yang, Seungbin and Kim, Jihwan and Choi, Jaemin and Kim Dongjin and Yang, Soyoung and Park, ChaeHun and Choo, Jaegul},
   booktitle={The Fourteenth International Conference on Learning Representations},
-  year         = {2026},
+  year={2026},
   url={https://openreview.net/forum?id=bIODmQ1TNd}
 }
