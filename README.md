@@ -96,8 +96,16 @@ If you use this dataset in your research, please cite our paper:
 
 ```bibtex
 @inproceedings{yang2026livewebie,
-  title={LiveWeb-IE: A Benchmark For Online Web Information Extraction},
-  author={Yang, Seungbin and Kim, Jihwan and Choi, Jaemin and Kim, Dongjin and Yang, Soyoung and Park, ChaeHun and Choo, Jaegul},
-  booktitle={International Conference on Learning Representations},
-  year={2026}
+  author       = {Seungbin Yang and
+                  Jihwan Kim and
+                  Jaemin Choi and
+                  Dongjin Kim and
+                  Soyoung Yang and
+                  ChaeHun Park and
+                  Jaegul Choo},
+  title        = {LiveWeb-IE: A Benchmark For Online Web Information Extraction},
+  booktitle    = {The Fourteenth International Conference on Learning Representations,
+                  {ICLR} 2026},
+  publisher    = {OpenReview.net},
+  year         = {2026}
 }
